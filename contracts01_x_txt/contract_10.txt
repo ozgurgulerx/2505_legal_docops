@@ -1,0 +1,133 @@
+**Customer-Paper Master Services Agreement**
+
+**Between:**
+
+**Customer:** [Insert Customer Name], a corporation organized under the laws of the State of [Insert State], with principal offices at [Insert Address].
+
+**Provider:** [Insert Provider Name], a corporation organized under the laws of the State of [Insert State], with principal offices at [Insert Address].
+
+**Effective Date:** __________
+
+[PAGE BREAK]
+
+Confidential – Page 1 of 25
+
+**1. Definitions and Interpretation** notwithstanding any contradictions herein, the following terms shall apply throughout this Agreement unless otherwise explicitly defined within specific clauses or exhibits herein which may or may not be applicable depending upon context and the nature of the transaction contemplated. "Agreement" means this Master Services Agreement including all exhibits, schedules, and amendments hereto; "Services" shall refer to those specific services provided by Provider as detailed in Exhibit A subject to the terms and conditions herein; "Customer Data" refers to all proprietary or confidential data, including but not limited to PII¹, that is provided by Customer to Provider in connection with the Services; "Effective Date" is the date set forth above upon which this Agreement becomes binding on the parties; "Term" shall refer to the period during which this Agreement remains in effect unless terminated earlier as provided herein; the "Provider's Systems" include any software, hardware, or other technological infrastructure utilized by Provider in the performance of the Services; "CPNI" refers to Customer Proprietary Network Information as defined under applicable U.S. telecommunications laws; the terms "including" and "such as" shall be construed to mean "including, without limitation" unless explicitly stated otherwise; "Force Majeure" means any cause beyond the reasonable control of a party, including acts of God, war, terrorism, natural disasters, governmental regulations, or any other events that could not have been reasonably anticipated; provided however that any delay or failure in performance caused by such events shall not constitute a breach of this Agreement provided that the impacted party notifies the other party in writing within [Insert Number] days of the occurrence of such event; "Affiliate" means any entity that controls, is controlled by, or is under common control with a party; control shall mean the direct or indirect ownership of more than fifty percent (50%) of the voting interests of such entity; "Intellectual Property Rights" refer to all patents, trademarks, copyrights, trade secrets, and other proprietary rights; "Confidential Information" shall include all non-public information provided by one party to the other that is designated as confidential or that should reasonably be understood to be confidential given the nature of the information and the circumstances surrounding its disclosure.
+
+Confidential – Page 2 of 25
+
+**2. Scope of Services** the Provider shall, subject to the provisions of this Agreement and any applicable exhibits or amendments hereto, furnish those Services described in Exhibit A attached hereto and incorporated herein by reference. The Services shall be performed in compliance with all applicable laws, regulations, and industry standards, including but not limited to those related to telecommunications, data protection, and privacy. Provider shall ensure, at its sole cost and expense, that the Services are performed by personnel who are qualified, experienced, and competent in the provision of such services and shall further ensure that its personnel adhere to all applicable policies, procedures, and guidelines as set forth by Customer from time to time. Notwithstanding the foregoing, Customer reserves the right to modify the scope of Services upon written notice to Provider; provided, however, that any such modification shall be subject to mutual agreement between the parties as to any adjustments in fees or schedules necessitated thereby. The parties acknowledge and agree that Provider shall, upon execution of this Agreement, commence performance of the Services in accordance with the timelines set forth in Exhibit B; however, neither party shall be liable for delays caused by acts of Force Majeure, provided that Provider promptly notifies Customer of any such delay and takes all reasonable steps to mitigate the impact thereof as further provided in Section 12.2 below. Provider shall adhere to Customer's security protocols and procedures, which may be modified by Customer from time to time at its sole discretion, and shall cooperate fully with any audits conducted by Customer or its designated representatives pursuant to Section 7.3 herein.
+
+**3. Fees and Payment Terms** notwithstanding anything to the contrary herein, Customer shall pay Provider the fees set forth in Exhibit C, which shall be calculated based on the actual usage of the Services and invoiced monthly in arrears. Provider shall submit invoices to Customer within [Insert Number] days following the end of each calendar month, and Customer shall remit payment within [Insert Number] days of receipt of a valid invoice, provided that Customer may dispute any invoiced amounts by providing written notice to Provider within [Insert Number] days of receipt of such invoice, specifying in reasonable detail the nature of the dispute; such disputed amounts shall be held in abeyance pending resolution of the dispute, but all undisputed amounts shall be paid when due. Provider shall not be entitled to suspend or terminate the Services due to any payment dispute, provided that Customer remits payment of all undisputed amounts in accordance with this Section 3. Customer shall, upon reasonable notice to Provider, have the right to audit Provider's records to verify the accuracy of any invoices submitted pursuant to this Agreement; provided, however, that such audits shall not unreasonably interfere with Provider's business operations and shall be conducted during Provider's normal business hours. Provider shall maintain complete and accurate records of all transactions and activities related to the Services for a period of [Insert Number] years following the expiration or termination of this Agreement, and shall make such records available to Customer upon request. Any late payments shall accrue interest at the lesser of [Insert Percentage]% per month or the maximum rate permitted by applicable law.
+
+Confidential – Page 3 of 25
+
+**4. Intellectual Property Rights** notwithstanding any provision to the contrary herein, all Intellectual Property Rights in the Services and any deliverables provided by Provider pursuant to this Agreement shall remain the sole and exclusive property of Provider; provided, however, that Provider hereby grants Customer a non-exclusive, worldwide, royalty-free license to use, execute, display, and perform the Services and any deliverables solely for Customer's internal business purposes during the Term of this Agreement. Customer shall not, without Provider's prior written consent, modify, reverse engineer, decompile, or disassemble any software or other deliverables provided by Provider under this Agreement, nor shall Customer permit any third party to do so. Provider shall defend, indemnify, and hold harmless Customer and its Affiliates from and against any and all claims, damages, liabilities, costs, and expenses arising out of or in connection with any claim that the Services or any deliverables infringe upon any third party's Intellectual Property Rights, provided that Customer promptly notifies Provider of any such claim and provides Provider with reasonable cooperation and assistance in the defense thereof. In the event any portion of the Services or deliverables is held to infringe upon any third party's Intellectual Property Rights, Provider shall, at its sole option and expense, either (i) procure for Customer the right to continue using the infringing portions, (ii) modify the infringing portions to eliminate the infringement, or (iii) replace the infringing portions with non-infringing alternatives.
+
+**5. Confidentiality Obligations** notwithstanding the provisions of Section 6 below, each party agrees to maintain the confidentiality of all Confidential Information disclosed by the other party pursuant to this Agreement, and shall use such Confidential Information solely for the purposes of performing its obligations under this Agreement. Neither party shall disclose any Confidential Information to any third party without the prior written consent of the disclosing party, except as required by law, regulation, or court order, provided that the receiving party shall provide the disclosing party with prompt notice of such requirement and shall cooperate in seeking any protective measures that may be available. The obligations set forth in this Section 5 shall survive the expiration or termination of this Agreement for a period of [Insert Number] years. Notwithstanding the foregoing, nothing herein shall restrict either party from disclosing Confidential Information to its Affiliates or to its or its Affiliates' officers, directors, employees, agents, or subcontractors who have a need to know such information for the purposes of performing obligations under this Agreement, provided that such individuals are bound by confidentiality obligations no less restrictive than those set forth herein. The parties acknowledge and agree that any breach of the confidentiality obligations set forth in this Section 5 may cause irreparable harm for which monetary damages would be inadequate, and accordingly, either party may seek injunctive relief to enforce such obligations without posting bond or other security.
+
+Confidential – Page 4 of 25
+
+**6. Data Privacy and Security** notwithstanding anything to the contrary herein, Provider shall comply with all applicable data protection and privacy laws, regulations, and standards, including but not limited to the U.S. Customer Proprietary Network Information (CPNI) requirements, and shall implement reasonable security measures to protect Customer Data from unauthorized access, use, or disclosure. Provider shall notify Customer immediately in the event of any actual or suspected breach of security involving Customer Data, and shall cooperate with Customer in investigating and responding to any such breach. Provider shall, upon Customer's request, provide Customer with a copy of its data privacy policy and any amendments thereto, and shall further provide Customer with reasonable assurances of its compliance with such policy. Provider shall not transfer any Customer Data outside the United States without Customer's prior written consent, and shall ensure that any such transfers comply with all applicable data protection and privacy laws. Provider shall, upon termination of this Agreement, return to Customer or, at Customer's option, destroy all Customer Data in its possession or control, provided that Provider may retain copies of such data solely for archival purposes in accordance with its document retention policies, subject to the confidentiality obligations set forth in Section 5 above. Provider shall defend, indemnify, and hold harmless Customer from and against any and all claims, damages, liabilities, costs, and expenses arising out of or in connection with any breach of Provider's obligations under this Section 6.
+
+**7. Service Level Agreements (SLAs)** notwithstanding the provisions of Section 2 above, Provider shall ensure that the Services meet or exceed the service level targets set forth in Exhibit D, which are incorporated herein by reference, and shall provide Customer with periodic reports detailing its performance against such targets. Provider shall promptly notify Customer of any actual or anticipated failure to meet the service level targets, and shall take all reasonable steps to remedy such failure in accordance with the procedures set forth in Exhibit D. In the event Provider fails to meet the service level targets for [Insert Number] consecutive months, Customer shall have the right to terminate this Agreement for cause, without liability to Provider, upon [Insert Number] days' written notice to Provider, provided that such termination shall not affect Customer's rights with respect to any accrued but unpaid fees or any damages arising out of Provider's failure to meet the service level targets. Provider shall defend, indemnify, and hold harmless Customer from and against any and all claims, damages, liabilities, costs, and expenses arising out of or in connection with any failure to meet the service level targets, provided that Customer promptly notifies Provider of any such claim and provides Provider with reasonable cooperation and assistance in the defense thereof.
+
+Confidential – Page 5 of 25
+
+**8. Indemnification** notwithstanding the provisions of Sections 4 and 6 above, Provider shall defend, indemnify, and hold harmless Customer, its Affiliates, and their respective officers, directors, employees, agents, and subcontractors from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with (i) any breach of Provider's representations, warranties, or covenants under this Agreement, (ii) any claim that the Services or any deliverables infringe upon any third party's Intellectual Property Rights, (iii) any breach of Provider's data privacy or security obligations under this Agreement, (iv) any negligence or willful misconduct by Provider or its employees, agents, or subcontractors in the performance of the Services, and (v) any violation of applicable laws or regulations by Provider or its employees, agents, or subcontractors. Customer shall promptly notify Provider of any claim for which indemnification is sought under this Section 8, and shall provide Provider with reasonable cooperation and assistance in the defense thereof, provided that Customer shall have the right to participate in the defense of any such claim at its own expense. Provider shall not settle any claim for which indemnification is sought under this Section 8 without Customer's prior written consent, which shall not be unreasonably withheld, conditioned, or delayed.
+
+Confidential – Page 6 of 25
+
+**9. Limitations of Liability** notwithstanding anything to the contrary herein, neither party shall be liable to the other for any indirect, incidental, consequential, or punitive damages arising out of or in connection with this Agreement, including but not limited to lost profits, loss of business, loss of data, or loss of goodwill, whether based on contract, tort, or any other legal theory, and regardless of whether such party has been advised of the possibility of such damages; provided, however, that the foregoing limitations shall not apply to any damages arising out of or in connection with (i) a party's breach of its confidentiality obligations under Section 5, (ii) Provider's indemnification obligations under Section 8, (iii) Provider's failure to meet the service level targets under Section 7, or (iv) a party's willful misconduct or gross negligence. The aggregate liability of each party for any and all claims arising out of or in connection with this Agreement shall not exceed the total fees paid or payable by Customer to Provider under this Agreement during the [Insert Number] months preceding the date on which the claim first arose, provided that the foregoing limitations shall not apply to any damages arising out of or in connection with a party's willful misconduct or gross negligence. Each party acknowledges and agrees that the limitations of liability set forth in this Section 9 are a fundamental part of the consideration exchanged under this Agreement and that, in the absence of such limitations, the terms and conditions of this Agreement would be substantially different.
+
+Confidential – Page 7 of 25
+
+**10. Termination Rights** notwithstanding the provisions of Section 7 above, either party may terminate this Agreement for cause upon [Insert Number] days' written notice to the other party in the event of a material breach of this Agreement by the other party that is not cured within [Insert Number] days following receipt of written notice of such breach. In addition, Customer may terminate this Agreement for convenience upon [Insert Number] days' written notice to Provider, provided that Customer shall pay Provider for all Services rendered up to the effective date of termination. Upon termination of this Agreement for any reason, Provider shall immediately cease performance of the Services, and shall return to Customer or, at Customer's option, destroy all Customer Data in its possession or control, provided that Provider may retain copies of such data solely for archival purposes in accordance with its document retention policies, subject to the confidentiality obligations set forth in Section 5 above. The expiration or termination of this Agreement shall not affect any rights or obligations that have accrued prior to the effective date of termination, including Customer's rights with respect to any accrued but unpaid fees or any damages arising out of Provider's breach of this Agreement. Provider shall cooperate with Customer to ensure an orderly transition of the Services to Customer or to another service provider designated by Customer, and shall provide Customer with reasonable assistance, as requested by Customer, in connection with such transition.
+
+Confidential – Page 8 of 25
+
+**11. Dispute Resolution** notwithstanding the provisions of Sections 3 and 9 above, any dispute arising out of or in connection with this Agreement shall be resolved through good faith negotiations between the parties, provided that if the parties are unable to resolve the dispute within [Insert Number] days following the commencement of negotiations, either party may refer the dispute to binding arbitration in accordance with the rules of the American Arbitration Association, provided that the arbitration shall be conducted in [Insert City], [Insert State], and the arbitrator's decision shall be final and binding on the parties. Each party shall bear its own costs and expenses incurred in connection with the arbitration, provided that the prevailing party shall be entitled to recover its reasonable attorneys' fees and costs from the non-prevailing party. Notwithstanding the foregoing, either party may seek injunctive relief in any court of competent jurisdiction to enforce its rights under this Agreement, provided that such party shall promptly notify the other party of any such action and shall use reasonable efforts to minimize any disruption to the other party's business operations. The parties acknowledge and agree that the dispute resolution procedures set forth in this Section 11 are a fundamental part of the consideration exchanged under this Agreement and that, in the absence of such procedures, the terms and conditions of this Agreement would be substantially different.
+
+Confidential – Page 9 of 25
+
+**Signature Block**
+
+Customer: __________________________
+
+Provider: __________________________
+
+[PAGE BREAK]
+
+Confidential – Page 10 of 25
+
+**12. Compliance with Laws** notwithstanding the provisions of Section 6 above, Provider shall comply with all applicable laws, regulations, and industry standards in connection with the performance of the Services, including but not limited to those related to telecommunications, data protection, privacy, and export controls. Provider shall obtain and maintain all necessary licenses, permits, and approvals required for the performance of the Services, and shall provide Customer with reasonable assurances of its compliance with such requirements upon request. Provider shall notify Customer immediately in the event of any actual or suspected violation of applicable laws or regulations involving the Services, and shall cooperate with Customer in investigating and responding to any such violation. Provider shall defend, indemnify, and hold harmless Customer from and against any and all claims, damages, liabilities, costs, and expenses arising out of or in connection with any violation of applicable laws or regulations by Provider or its employees, agents, or subcontractors, provided that Customer promptly notifies Provider of any such claim and provides Provider with reasonable cooperation and assistance in the defense thereof. Notwithstanding the foregoing, the parties acknowledge and agree that Provider's compliance with applicable laws and regulations is a fundamental part of the consideration exchanged under this Agreement and that, in the absence of such compliance, the terms and conditions of this Agreement would be substantially different.
+
+Confidential – Page 11 of 25
+
+**13. Force Majeure** notwithstanding anything to the contrary herein, neither party shall be liable for any delay or failure in performance caused by acts of Force Majeure, provided that the impacted party notifies the other party in writing within [Insert Number] days of the occurrence of such event and takes all reasonable steps to mitigate the impact thereof. The obligations of the impacted party shall be suspended during the period of Force Majeure, and the impacted party shall resume performance of its obligations as soon as reasonably practicable following the cessation of the Force Majeure event. The parties acknowledge and agree that any delay or failure in performance caused by Force Majeure shall not constitute a breach of this Agreement, provided that the impacted party complies with the notification and mitigation requirements set forth in this Section 13. Notwithstanding the foregoing, the parties acknowledge and agree that the provisions of this Section 13 are a fundamental part of the consideration exchanged under this Agreement and that, in the absence of such provisions, the terms and conditions of this Agreement would be substantially different.
+
+Confidential – Page 12 of 25
+
+**Signature Block**
+
+Customer: __________________________
+
+Provider: __________________________
+
+Confidential – Page 13 of 25
+
+**14. Notices** notwithstanding the provisions of Section 11 above, all notices required or permitted under this Agreement shall be in writing and shall be deemed duly given (i) upon receipt if delivered by hand, (ii) upon confirmation of receipt if sent by facsimile, (iii) upon confirmation of receipt if sent by electronic mail, or (iv) three (3) business days after being sent by registered or certified mail, postage prepaid, return receipt requested, to the addresses set forth below or to such other addresses as either party may designate by notice to the other party in accordance with this Section 14. Notices to Customer shall be sent to [Insert Customer Address], Attn: [Insert Contact Name], and notices to Provider shall be sent to [Insert Provider Address], Attn: [Insert Contact Name]. The parties acknowledge and agree that the notice provisions set forth in this Section 14 are a fundamental part of the consideration exchanged under this Agreement and that, in the absence of such provisions, the terms and conditions of this Agreement would be substantially different.
+
+Confidential – Page 14 of 25
+
+**15. General Provisions** notwithstanding the provisions of Sections 2 and 10 above, this Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements, understandings, negotiations, and discussions, whether oral or written, between the parties regarding such subject matter. No amendment or modification of this Agreement shall be binding unless it is in writing and signed by both parties. Neither party may assign or transfer its rights or obligations under this Agreement without the prior written consent of the other party, except that either party may assign or transfer this Agreement to an Affiliate or to a successor in interest in connection with a merger, acquisition, or sale of all or substantially all of its assets, provided that the assigning party remains liable for all of its obligations under this Agreement. The parties acknowledge and agree that the general provisions set forth in this Section 15 are a fundamental part of the consideration exchanged under this Agreement and that, in the absence of such provisions, the terms and conditions of this Agreement would be substantially different.
+
+Confidential – Page 15 of 25
+
+**Signature Block**
+
+Customer: __________________________
+
+Provider: __________________________
+
+Confidential – Page 16 of 25
+
+**Exhibit A: Description of Services**
+
+Confidential – Page 17 of 25
+
+The Services to be provided by Provider under this Agreement shall include, but are not limited to, the following: [Insert detailed description of services].
+
+Confidential – Page 18 of 25
+
+**Exhibit B: Service Timeline**
+
+Confidential – Page 19 of 25
+
+Provider shall commence performance of the Services on the Effective Date and shall complete the Services in accordance with the following timeline: [Insert detailed timeline].
+
+Confidential – Page 20 of 25
+
+**Exhibit C: Fee Schedule**
+
+Confidential – Page 21 of 25
+
+The fees to be paid by Customer for the Services shall be calculated based on the following schedule: [Insert detailed fee schedule].
+
+Confidential – Page 22 of 25
+
+**Exhibit D: Service Level Targets**
+
+Confidential – Page 23 of 25
+
+Provider shall ensure that the Services meet or exceed the following service level targets: [Insert detailed service level targets].
+
+Confidential – Page 24 of 25
+
+**Signature Block**
+
+Customer: __________________________
+
+Provider: __________________________
+
+Confidential – Page 25 of 25

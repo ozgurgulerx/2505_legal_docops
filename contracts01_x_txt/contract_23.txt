@@ -1,0 +1,135 @@
+## Master Services Agreement
+
+### Customer: [Large U.S. Enterprise]  
+### Provider: [Fictitious Technology Provider]  
+### Effective Date: [Insert Date]  
+
+[PAGE BREAK]
+
+### Definitions, Scope, and Fees  
+Confidential – Page 1 of Y
+
+1. Definitions. In this Agreement (which term includes all exhibits, schedules, amendments, and other attachments hereto), unless the context otherwise requires, the following words and expressions shall have the meanings set forth below: "Customer" shall mean the entity identified in the preamble to this Agreement; "Provider" shall mean the entity identified in the preamble to this Agreement; "Services" shall mean the CPaaS and IT-related services described in Exhibit A, which are to be provided by Provider to Customer pursuant to the terms hereof; "Agreement" shall mean this Master Services Agreement. Provided however that notwithstanding the foregoing but subject to any additional definitions that may be set forth in Exhibit B, which are incorporated by reference herein. The term "Confidential Information" shall mean any information disclosed by either Party to the other Party during the term of this Agreement that is either identified as confidential or should reasonably be understood to be confidential given the nature of the information and the circumstances of disclosure, including but not limited to any technical specifications, business strategies, financial data, customer lists, intellectual property, and other proprietary information. As Customer's complete and exclusive remedy under the circumstances described in the preceding three sentences but subject to the limitations set forth in Section 9.5, Provider agrees to indemnify Customer against any unauthorized disclosure of Confidential Information in violation of this Agreement.¹Subject to residency requirements set forth herein which shall include compliance with all applicable U.S. federal and state laws governing the protection of personally identifiable information ("PII") and other data privacy regulations.
+
+2. Scope. The scope of this Agreement includes but is not limited to the following: the provision of Services as defined above, including all necessary ancillary services required to achieve the objectives outlined in Exhibit C, which include but are not limited to: (a) software development, (b) system integration, (c) data migration and management, (d) technical support, and (e) training services. The Provider shall (i) log access to all systems containing Customer Data that (A) involve PII, which for purposes hereof means (1) any data that could reasonably be used to identify a natural person, (2) financial account information, or (3) health information, or (B) are subject to (ii) notify changes within thirty (30) days of implementation, and (iii) provide regular audit reports to Customer at intervals specified in Exhibit D. The scope of Services shall be subject to modification as may be mutually agreed upon by the Parties in writing from time to time during the Term of this Agreement.
+
+3. Fees. The fees for the Services provided by Provider to Customer shall be set forth in Exhibit E, which shall be incorporated herein by reference. Customer shall pay Provider the fees specified in Exhibit E in accordance with the payment terms described therein, which include: (i) monthly invoices, (ii) net thirty (30) day payment terms, and (iii) any applicable late payment penalties as described. Notwithstanding any other provision herein, Provider shall have the right to adjust the fees annually based on the Consumer Price Index ("CPI") as published by the U.S. Bureau of Labor Statistics, provided that any such adjustment shall not exceed five percent (5%) per annum, and Provider shall give Customer at least sixty (60) days' prior written notice of any such adjustment. The fees shall be exclusive of any applicable taxes, duties, or other governmental charges which shall be the responsibility of Customer, provided that Provider shall be responsible for any taxes imposed on Provider's income.
+
+[PAGE BREAK]
+
+### Indemnities, SLAs, and Data Privacy  
+Confidential – Page 2 of Y
+
+4. Indemnities. Provider agrees to indemnify, defend, and hold harmless Customer, its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, losses, damages, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (i) any breach of this Agreement by Provider, (ii) Provider's negligence or willful misconduct in the performance of the Services, (iii) any infringement or misappropriation of any intellectual property rights by Provider in connection with the Services, and (iv) any violation by Provider of any applicable laws, rules, or regulations. Customer's indemnity rights include but are not limited to recovery of any damages awarded against Customer, settlement amounts agreed to by Customer, and any costs incurred by Customer in connection with any such claims, provided that Customer shall give Provider prompt written notice of any indemnifiable claim and shall cooperate with Provider in the defense or settlement thereof. Provider's indemnity obligations shall not apply to the extent any claims arise from Customer's negligence or willful misconduct or from any modifications to the Services made by Customer without Provider's prior written consent.
+
+5. SLAs. Provider shall ensure that the Services meet or exceed the service level agreements ("SLAs") set forth in Exhibit F, which shall include: (i) uptime targets, (ii) response times for support requests, (iii) resolution times for incidents, and (iv) performance metrics for system availability and reliability. Provider shall provide Customer with regular reports demonstrating compliance with the SLAs and shall promptly notify Customer of any SLA breaches, provided that Provider shall have thirty (30) days to cure any such breaches. In the event Provider fails to meet the SLAs, Customer shall be entitled to receive service credits as specified in Exhibit F, which shall be Customer's sole and exclusive remedy for any SLA breaches, subject to any additional remedies set forth in Section 9.3.
+
+6. Data Privacy. Provider shall comply with all applicable data privacy laws and regulations in connection with the performance of the Services, including but not limited to the U.S. federal and state laws governing the protection of PII and other data privacy regulations. Provider shall implement and maintain appropriate technical and organizational measures to protect Customer Data against unauthorized access, use, or disclosure, and shall promptly notify Customer of any data breaches affecting Customer Data. Provider shall ensure that any subprocessors engaged in the performance of the Services are subject to data protection obligations equivalent to those set forth herein, provided that Provider shall be liable for any breaches of such obligations by its subprocessors. Customer shall have the right to audit Provider's data privacy practices and procedures upon reasonable notice, and Provider shall cooperate with Customer in any such audits. Provider's data privacy obligations shall survive the termination or expiration of this Agreement.
+
+[PAGE BREAK]
+
+### Intellectual Property, Liability, and Termination  
+Confidential – Page 3 of Y
+
+7. Intellectual Property. All intellectual property rights in and to the Services, including any software, documentation, and other materials provided by Provider to Customer in connection with the Services, shall remain the sole and exclusive property of Provider, except as otherwise expressly set forth in Exhibit G. Customer shall have a limited, non-exclusive, non-transferable license to use the Services in accordance with the terms of this Agreement, provided that Customer shall not: (i) reverse engineer, decompile, or otherwise attempt to derive the source code of the Services, (ii) modify, adapt, or create derivative works of the Services, or (iii) sublicense, lease, rent, or otherwise distribute the Services to any third party. Provider shall indemnify Customer against any claims of infringement or misappropriation of intellectual property rights arising out of Customer's use of the Services in accordance with the terms of this Agreement. Provider's indemnity obligations under this Section shall be subject to the limitations set forth in Section 9.5.
+
+8. Liability. Provider's liability to Customer for any claims arising out of or relating to this Agreement, whether based in contract, tort, or otherwise, shall be limited to direct damages and shall not exceed the total fees paid by Customer to Provider under this Agreement during the twelve (12) months preceding the date of the claim, provided that this limitation shall not apply to: (i) Provider's indemnity obligations under Section 4, (ii) damages arising from Provider's gross negligence or willful misconduct, or (iii) any breach of Provider's data privacy obligations under Section 6. Provider shall not be liable to Customer for any indirect, incidental, consequential, punitive, or special damages, including but not limited to loss of profits, revenue, data, or use, even if Provider has been advised of the possibility of such damages. Customer acknowledges that the limitations of liability set forth herein are a fundamental part of the bargain between the Parties and that Provider would not have entered into this Agreement without such limitations.
+
+9. Termination. This Agreement may be terminated by either Party upon written notice to the other Party if: (i) the other Party materially breaches this Agreement and fails to cure such breach within thirty (30) days of receipt of written notice thereof, (ii) the other Party becomes insolvent or is subject to any bankruptcy or insolvency proceedings, or (iii) a force majeure event prevents the performance of the Services for a period of more than sixty (60) days. Notwithstanding the foregoing, Customer may terminate this Agreement for convenience upon sixty (60) days' prior written notice to Provider, provided that Customer shall pay Provider any fees accrued up to the effective date of termination. Upon termination or expiration of this Agreement, Provider shall cease all performance of the Services and shall return or destroy all Customer Data in its possession, except as otherwise required by applicable law.
+
+[PAGE BREAK]
+
+### Dispute Resolution, Compliance, and Miscellaneous  
+Confidential – Page 4 of Y
+
+10. Dispute Resolution. Any disputes arising out of or relating to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association ("AAA"), provided that either Party may seek injunctive relief in a court of competent jurisdiction to prevent any unauthorized use or disclosure of Confidential Information. The arbitration shall be conducted by a single arbitrator selected by mutual agreement of the Parties, or, if the Parties cannot agree, by the AAA. The arbitration shall take place in [City, State], and the arbitrator's decision shall be final and binding on the Parties. Each Party shall bear its own costs and expenses in connection with the arbitration, except that the arbitrator may award reasonable attorneys' fees to the prevailing Party. The Parties agree that any arbitration shall be conducted on an individual basis and not as a class action or other representative proceeding.
+
+11. Compliance. Provider shall comply with all applicable laws, rules, and regulations in connection with the performance of the Services, including but not limited to: (i) U.S. federal and state laws governing telecommunications, including the Communications Act of 1934, as amended, and the rules and regulations of the Federal Communications Commission ("FCC"), (ii) data privacy laws and regulations, including the General Data Protection Regulation ("GDPR") and the California Consumer Privacy Act ("CCPA"), and (iii) export control laws and regulations, including the Export Administration Regulations ("EAR") and the International Traffic in Arms Regulations ("ITAR"). Provider shall obtain all necessary licenses, permits, and approvals required to perform the Services and shall provide Customer with evidence of such compliance upon request. Customer shall have the right to audit Provider's compliance with its legal obligations upon reasonable notice.
+
+12. Miscellaneous. This Agreement, together with all exhibits, schedules, amendments, and other attachments hereto, constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements, negotiations, and communications, whether written or oral. This Agreement may not be amended or modified except by a written agreement signed by both Parties. The failure of either Party to enforce any provision of this Agreement shall not constitute a waiver of such provision or any other provision. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect. This Agreement shall be governed by the laws of the State of [State] without regard to its conflict of laws principles. Any notices required or permitted to be given under this Agreement shall be in writing and shall be delivered by hand, email, or certified mail, return receipt requested, to the addresses set forth in the preamble to this Agreement.
+
+[PAGE BREAK]
+
+### Exhibit A: Services Description  
+Confidential – Page 5 of Y
+
+I. CPaaS Services: The Provider shall deliver comprehensive Communication Platform as a Service ("CPaaS") solutions, including but not limited to: (i) voice and SMS messaging capabilities, (ii) video conferencing solutions, (iii) APIs for integration with Customer's existing systems, and (iv) analytics and reporting tools for monitoring communication usage and performance.
+
+II. IT Services: Provider shall furnish an array of Information Technology ("IT") services encompassing: (i) cloud computing solutions, (ii) cybersecurity measures, (iii) network infrastructure setup and maintenance, (iv) IT support and help desk services, and (v) IT consultancy to optimize Customer's technological operations.
+
+[PAGE BREAK]
+
+### Exhibit B: Additional Definitions  
+Confidential – Page 6 of Y
+
+1. "PII" means personally identifiable information which includes, but is not limited to, social security numbers, driver's license numbers, financial account numbers, medical information, and any other data that can be used to identify an individual.
+
+2. "CPaaS" refers to Communication Platform as a Service which provides cloud-based delivery of voice, messaging, and video communication services.
+
+[PAGE BREAK]
+
+### Exhibit C: Ancillary Services  
+Confidential – Page 7 of Y
+
+1. Software Development: Provider shall undertake custom software development projects to create tailored solutions for Customer's specific needs, including the design, coding, testing, and deployment of applications.
+
+2. System Integration: Provider shall integrate new software and hardware solutions into Customer's existing IT infrastructure, ensuring seamless interoperability and functionality.
+
+[PAGE BREAK]
+
+### Exhibit D: Audit Rights and Procedures  
+Confidential – Page 8 of Y
+
+1. Customer shall have the right to audit Provider's performance of the Services, including compliance with SLAs, data privacy, and security measures, upon reasonable notice and during normal business hours.
+
+2. Provider shall cooperate with Customer in any audits and shall provide access to all necessary records, systems, and personnel.
+
+[PAGE BREAK]
+
+### Exhibit E: Fee Schedule  
+Confidential – Page 9 of Y
+
+| Service Component | Monthly Fee | Payment Terms |
+|-------------------|-------------|---------------|
+| CPaaS Services    | $XXXX.XX    | Net 30 Days   |
+| IT Services       | $XXXX.XX    | Net 30 Days   |
+
+[PAGE BREAK]
+
+### Exhibit F: Service Level Agreements  
+Confidential – Page 10 of Y
+
+1. Uptime Targets: Provider shall ensure a minimum uptime of 99.9% for all CPaaS services.
+
+2. Response Times: Provider shall respond to support requests within 24 hours.
+
+[PAGE BREAK]
+
+### Exhibit G: Intellectual Property Rights  
+Confidential – Page 11 of Y
+
+1. Ownership: Provider retains all rights, title, and interest in and to the Services, including all related intellectual property.
+
+2. License: Customer is granted a limited license to use the Services for its internal business purposes.
+
+[PAGE BREAK]
+
+### Signature Blocks  
+Confidential – Page 12 of Y
+
+Customer: [Signature]  
+Date: __________  
+
+Provider: [Signature]  
+Date: __________  
+
+[PAGE BREAK]
+
+### Exhibit H: Compliance Certifications  
+Confidential – Page 13 of Y
+
+1. Provider shall provide Customer with certifications of compliance with applicable U.S. telecom laws upon request.
+
+2. Such certifications shall include evidence of adherence to FCC regulations.
+
+[END OF DOCUMENT]

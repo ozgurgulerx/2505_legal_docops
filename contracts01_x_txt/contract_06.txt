@@ -1,0 +1,129 @@
+# Master Services Agreement
+
+## Cover Page
+Master Services Agreement between [Customer Name] and [Provider Name] dated [Effective Date].  
+[PAGE BREAK]
+
+## Core Document
+
+### 1. Definitions
+For purposes of this Agreement, the following terms shall have the meanings set forth herein and throughout the provisions of this Agreement and any Exhibits attached hereto. "Customer Data" refers to all data provided by the Customer to the Provider in connection with the Services, including but not limited to personally identifiable information (PII), financial account information, health information, and other sensitive data. "Services" shall mean the cloud-based communication services, including but not limited to voice, messaging, and data transmission services, provided by the Provider to the Customer under the terms of this Agreement as further delineated in the attached Exhibits and Schedules. "Agreement" refers to this Master Services Agreement, including all Exhibits, Schedules, and Appendices attached hereto, as may be amended from time to time in accordance with Section 19.4(c)(viii). "CPNI" refers to Customer Proprietary Network Information as defined and regulated under U.S. telecommunications law, which governs the privacy and security of Customer Data in accordance with applicable statutes and regulatory frameworks. "Emergency Call" refers to any call made to emergency services, including but not limited to 911, which shall be subject to the technical specifications and disclaimers set forth in Section 9.5. The foregoing definitions are provided notwithstanding any other term defined herein which shall not limit the applicability of the definitions provided hereinabove.
+
+### 2. Scope of Services
+The Services shall encompass all functionalities necessary to support the telecommunications needs of the Customer, including but not limited to voice communication services, messaging services, data transmission services, and related technical support services. The Provider shall ensure that all Services are delivered in compliance with applicable laws, regulations, and industry standards, including U.S. telecommunications law, data privacy standards, and export control regulations. The Provider shall, at all times, maintain the requisite technical infrastructure and personnel to ensure uninterrupted delivery of the Services as specified herein and in related Exhibits. The Provider shall (i) deploy adequate security measures to protect Customer Data from unauthorized access, which shall include encryption protocols, access controls, and audit logging; (ii) ensure that all personnel engaged in the delivery of Services are sufficiently trained in data protection and compliance standards; and (iii) implement a disaster recovery plan to ensure continuity of Services in the event of unforeseen disruptions. The Customer shall have the right to conduct audits of the Provider's compliance with the terms hereof, provided however that such audits shall be subject to reasonable notice and shall not unreasonably interfere with the Provider's operations. The scope of Services may be amended from time to time upon mutual written agreement of the parties, subject to the terms and conditions set forth herein.
+
+### 3. Fees and Payment Terms
+The Customer shall pay to the Provider fees for the Services as set forth in the fee schedule attached hereto as Exhibit A, which fees shall be calculated based on the usage metrics and pricing models defined therein. Payment shall be due within thirty (30) days following the receipt of an invoice from the Provider, which invoice shall be issued monthly and shall detail the Services rendered, usage metrics, and applicable fees. Notwithstanding the foregoing, the Customer shall have the right to dispute any invoice within fifteen (15) days of receipt, provided that the Customer provides written notice of such dispute detailing the specific grounds for the dispute. In the event of a dispute, the parties shall engage in good faith negotiations to resolve the issue, and the Customer shall not be required to pay the disputed amount until resolution is achieved, provided however that undisputed amounts shall remain payable in accordance with the original invoice terms. The Provider reserves the right to adjust the fee schedule upon thirty (30) days written notice to the Customer, subject to the Customer's right to terminate this Agreement as set forth in Section 12.3(b). All fees shall be payable in U.S. dollars and shall be exclusive of any applicable taxes, which shall be the sole responsibility of the Customer unless otherwise specified herein.
+
+### 4. Indemnities and Liabilities
+Subject to the limitations set forth in Section 6.3, the Provider shall indemnify, defend, and hold harmless the Customer from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees and costs, arising out of or resulting from any breach of this Agreement by the Provider, including but not limited to any unauthorized access or disclosure of Customer Data. The Customer shall indemnify, defend, and hold harmless the Provider from and against any claims, liabilities, damages, losses, and expenses arising out of or resulting from the Customer's use of the Services in violation of applicable laws, regulations, or this Agreement, provided however that the Provider shall have the right to control the defense of any such claim, subject to the Customer's right to participate in the defense at its own expense. Notwithstanding the foregoing, neither party shall be liable for any indirect, incidental, special, or consequential damages, including but not limited to lost profits, loss of data, or interruption of business, arising out of or relating to this Agreement or the use or inability to use the Services, even if advised of the possibility of such damages. The limitations on liability set forth herein shall not apply to liability arising from gross negligence, willful misconduct, or breach of confidentiality obligations by either party.
+
+### 5. Service Level Agreements (SLAs)
+The Provider shall deliver the Services in accordance with the service level standards set forth in the attached Exhibit B, which shall include minimum uptime targets, response times for technical support, and performance metrics. Uptime shall be calculated on a monthly basis and shall exclude scheduled maintenance windows, which shall be communicated to the Customer in advance. In the event that the Provider fails to meet the uptime targets specified in Exhibit B, the Customer shall be entitled to service credits as a remedy, which credits shall be calculated based on the duration of the downtime and the impact on Customer operations, subject to the limitations set forth in Section 7.6. The Provider shall provide technical support to the Customer via phone, email, and online chat, with response times as specified in Exhibit B, which shall be subject to adjustment based on the severity of the issue and impact on Customer operations. The Provider shall ensure that all technical support personnel are adequately trained to address Customer inquiries and issues, and shall escalate unresolved issues to higher-level support teams as necessary. The Provider shall have the right to amend the SLAs upon thirty (30) days written notice to the Customer, subject to the Customer's right to terminate this Agreement as set forth in Section 12.3(b).
+
+### 6. Data Privacy and Security Obligations
+The Provider shall implement and maintain comprehensive data privacy and security measures to protect Customer Data from unauthorized access, use, disclosure, alteration, or destruction, in accordance with applicable laws, regulations, and industry standards. Such measures shall include, but not be limited to, encryption of data in transit and at rest, access controls, audit logging, and regular security assessments. The Provider shall notify the Customer promptly of any unauthorized access or breach of security affecting Customer Data, and shall cooperate with the Customer to investigate and remediate any such breach. The Customer shall have the right to conduct audits of the Provider's compliance with data privacy and security obligations, provided however that such audits shall be subject to reasonable notice and shall not unreasonably interfere with the Provider's operations. The Provider shall comply with all applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR) for European Union data subjects, and shall assist the Customer in complying with its own obligations under such laws. The Provider shall ensure that all personnel engaged in the delivery of Services are trained in data protection and compliance standards, and shall require all subcontractors and third-party service providers to adhere to equivalent data privacy and security obligations.
+
+### 7. Intellectual Property Rights
+The Provider hereby grants to the Customer a non-exclusive, non-transferable license to use the Services and any associated software, documentation, and materials provided by the Provider, solely for the Customer's internal business purposes and subject to the terms and conditions of this Agreement. The Customer shall not reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of any software provided by the Provider, except to the extent expressly permitted by applicable law. All intellectual property rights in and to the Services, including any enhancements, modifications, or derivative works, shall remain the sole property of the Provider, and the Customer shall have no rights therein except as expressly granted herein. The Provider shall indemnify, defend, and hold harmless the Customer from and against any claims, liabilities, damages, losses, and expenses arising out of or resulting from any infringement of third-party intellectual property rights by the Services, provided however that the Customer shall have the right to control the defense of any such claim, subject to the Provider's right to participate in the defense at its own expense. The Customer shall notify the Provider promptly of any claim of infringement affecting the Services, and shall cooperate with the Provider in the defense and resolution of such claim.
+
+### 8. Acceptable Use Policies (AUPs)
+The Customer shall comply with the Provider's Acceptable Use Policies (AUPs) as attached hereto as Exhibit C, which policies shall govern the Customer's use of the Services and shall include restrictions on illegal, abusive, or harmful activities. The Customer shall not use the Services in any manner that (i) violates applicable laws or regulations, (ii) infringes the intellectual property rights of any third party, (iii) interferes with the operation of the Services or the Provider's network, or (iv) constitutes spam or other unsolicited communications. The Provider reserves the right to suspend or terminate the Customer's access to the Services in the event of a violation of the AUPs, subject to the limitations set forth in Section 12.3(e), provided however that the Provider shall notify the Customer of any such suspension or termination and shall cooperate with the Customer to resolve the issue. The Provider shall have the right to amend the AUPs upon thirty (30) days written notice to the Customer, subject to the Customer's right to terminate this Agreement as set forth in Section 12.3(b).
+
+### 9. Limitation of Liability
+Except as expressly provided herein, the Provider's total liability to the Customer for any and all claims arising out of or relating to this Agreement or the Services shall not exceed the total amount of fees paid by the Customer to the Provider under this Agreement during the twelve (12) months preceding the date of the claim, provided however that such limitation shall not apply to liability arising from gross negligence, willful misconduct, or breach of confidentiality obligations by the Provider. In no event shall either party be liable for any indirect, incidental, special, or consequential damages, including but not limited to lost profits, loss of data, or interruption of business, arising out of or relating to this Agreement or the use or inability to use the Services, even if advised of the possibility of such damages. The limitations on liability set forth herein shall not apply to liability arising from personal injury or death caused by the negligence of either party, or to any indemnity obligations under Section 4.1 or Section 7.4. The parties acknowledge that the limitations on liability set forth herein are an essential part of this Agreement and reflect a fair allocation of risk between the parties.
+
+### 10. Term and Termination
+The term of this Agreement shall commence on the Effective Date and shall continue for an initial term of three (3) years, unless earlier terminated as provided herein. Following the initial term, this Agreement shall automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least ninety (90) days prior to the end of the then-current term. Either party may terminate this Agreement for convenience upon ninety (90) days written notice to the other party, provided however that the Customer shall remain liable for any fees accrued prior to the effective date of termination. Either party may terminate this Agreement for cause upon thirty (30) days written notice to the other party in the event of a material breach of this Agreement, provided that such breach is not cured within the notice period. The Provider may terminate this Agreement immediately upon written notice to the Customer in the event of a violation of the AUPs as set forth in Section 8.3, subject to the limitations set forth in Section 12.3(e). Upon termination of this Agreement, the Provider shall cease providing the Services and shall return or destroy all Customer Data in its possession, subject to the requirements set forth in Section 6.5. Termination of this Agreement shall not affect the rights or obligations of the parties accrued prior to the effective date of termination.
+
+### 11. Dispute Resolution
+Any dispute arising out of or relating to this Agreement shall be resolved through binding arbitration conducted by the American Arbitration Association (AAA) in accordance with its Commercial Arbitration Rules, except as otherwise provided herein. The arbitration shall be conducted in [City, State], and judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. The parties shall share equally the costs of the arbitration, except that each party shall be responsible for its own attorneys' fees and costs. Notwithstanding the foregoing, either party may seek injunctive or other equitable relief in any court of competent jurisdiction to protect its intellectual property rights or confidential information. The parties agree that any arbitration or litigation arising out of or relating to this Agreement shall be conducted on an individual basis and not as part of a class, collective, or representative action. The parties acknowledge that the dispute resolution provisions set forth herein are an essential part of this Agreement and reflect a fair allocation of risk between the parties.
+
+### 12. Miscellaneous Provisions
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements, representations, or understandings, whether written or oral. No amendment or modification of this Agreement shall be valid unless in writing and signed by both parties. The failure of either party to enforce any right or provision of this Agreement shall not be deemed a waiver of such right or provision. If any provision of this Agreement is determined to be invalid or unenforceable, the remaining provisions shall continue in full force and effect. The parties acknowledge that this Agreement has been negotiated at arm's length and that each party has had the opportunity to consult with legal counsel prior to entering into this Agreement. The parties agree that this Agreement shall be governed by and construed in accordance with the laws of the State of [State], without regard to its conflict of laws principles. This Agreement may be executed in counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument. The parties agree that any notices required or permitted under this Agreement shall be in writing and shall be delivered in person, by certified mail, return receipt requested, or by overnight courier, to the addresses specified on the cover page of this Agreement.
+
+[Signature Block]  
+Customer: ________________________  
+Provider: ________________________  
+
+[PAGE BREAK]
+
+Confidential – Page 1 of X  
+Definitions  
+
+Confidential – Page 2 of X  
+Scope of Services  
+
+Confidential – Page 3 of X  
+Fees and Payment Terms  
+
+Confidential – Page 4 of X  
+Indemnities and Liabilities  
+
+Confidential – Page 5 of X  
+Service Level Agreements  
+
+Confidential – Page 6 of X  
+Data Privacy and Security  
+
+Confidential – Page 7 of X  
+Intellectual Property Rights  
+
+Confidential – Page 8 of X  
+Acceptable Use Policies  
+
+Confidential – Page 9 of X  
+Limitation of Liability  
+
+Confidential – Page 10 of X  
+Term and Termination  
+
+Confidential – Page 11 of X  
+Dispute Resolution  
+
+Confidential – Page 12 of X  
+Miscellaneous Provisions  
+
+Confidential – Page 13 of X  
+Tables & Exhibits  
+
+### Exhibit A: Fee Schedule
+The fees for the Services provided under this Agreement shall be calculated based on the following metrics and pricing models, subject to adjustments as provided herein.  
+| Service Type       | Metric                   | Base Fee      | Additional Fees  |  
+|--------------------|--------------------------|---------------|------------------|  
+| Voice Services     | Per minute usage         | $0.05/minute  | $100/month base  |  
+| Messaging Services | Per message sent         | $0.01/message | $50/month base   |  
+| Data Transmission  | Per GB transferred       | $0.10/GB      | $200/month base  |  
+| Technical Support  | Per incident             | $100/incident | N/A              |  
+
+### Exhibit B: Service Level Standards
+The Provider shall deliver the Services with the following minimum uptime targets and performance metrics, subject to the terms of this Agreement.  
+| Metric              | Target                  |  
+|---------------------|-------------------------|  
+| Uptime              | 99.9% monthly           |  
+| Response Time       | Within 1 hour for high priority issues |  
+| Resolution Time     | Within 24 hours for high priority issues |  
+
+### Exhibit C: Acceptable Use Policies
+The Customer shall adhere to the following Acceptable Use Policies in its use of the Services, which shall be subject to amendments as provided herein.  
+| Policy              | Description             |  
+|---------------------|-------------------------|  
+| No Illegal Activity | The Customer shall not use the Services for any illegal activities, including but not limited to fraud, hacking, or distribution of illegal content. |  
+| No Abusive Activity | The Customer shall not use the Services to harass, threaten, or abuse any individual or entity. |  
+| No Harmful Activity | The Customer shall not use the Services to distribute viruses, malware, or other harmful software. |  
+
+[Signature Block]  
+Exhibit-Specific Customer Signature: ________________________  
+Exhibit-Specific Provider Signature: ________________________  
+
+Confidential – Page 14 of X  
+Exhibit A: Fee Schedule  
+
+Confidential – Page 15 of X  
+Exhibit B: Service Level Standards  
+
+Confidential – Page 16 of X  
+Exhibit C: Acceptable Use Policies  
+
+Confidential – Page 17 of X  
+End of Document  

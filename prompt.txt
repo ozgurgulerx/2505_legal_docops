@@ -1,0 +1,76 @@
+# 🚦  REALISM + PRACTICAL HIERARCHY + SUBTLE FRICTION  (mandatory)
+
+1.  Number every section & subsection, but skip or repeat **exactly one** primary number **and** one sub-number (e.g., 6 → 8 → 8.3 → 10).  
+2.  Heading styles                                                                     
+    • H-1 = 12 pt bold (“1. DEFINITIONS”)  • H-2 = 11 pt bold (“1.2 Scope”).  
+    • Body = 11 pt normal, Times New Roman; indent each nested level an extra 0.25 in.  
+    • Omit headings in **≈ 15 %** of sub-clauses; everything else follows the styles above.  
+3.  Insert **one** zero-width or soft-hyphen (\u200b \u200d \u00ad) roughly every **170 ± 20** words.  
+4.  Swap digraphs **fi fl ffi** → ligatures (ﬁ ﬂ ﬃ) in **1–2 %** of total occurrences.  
+5.  Add **one** fake cross-reference after real § 15 (“…see § 21.4(c)(iv)…”) and repair every other x-ref.  
+6.  Drop **one** centred decoy signature block `[Sig-Block-α] ____________________` at the top of a page.  
+7.  Allow **one** “§ X.Y intentionally omitted” line if needed to keep numbering coherent.  
+8.  ≤ one Latin/French legalism per page (*mutatis mutandis*, *inter alia*). Never translate.  
+9.  Page layout • 1-inch margins • 6 pt after each ¶ • Footer every page →  
+      `CONFIDEN­TI­AL – DRAFT {YYYY-MM-DD} – Page X of Y` (Times 8 pt).  
+      Insert `[PAGE BREAK]` every **750 ± 50** words.  
+10.  No underline, italics, colour changes outside the two heading styles.
+
+# 🎯  HARD-CLAUSE TARGETS  (10–15 % of total clauses)
+
+Create **three or four** clauses that are intentionally hard for humans *and* machines:
+
+• Wrap each with **«HARD_CLAUSE_START» … «HARD_CLAUSE_END»** (tags stay in TXT; renderer strips).  
+• **No heading**, one 250–300-word mega-sentence containing ≥ 3 nested provisos  
+  (“provided, however, that …, notwithstanding the foregoing …, except where …”).  
+• Insert **exactly one** full French *or* Latin sentence inside.  
+• Contaminate heavier: **3 % ligatures** + zero-width every ~80 words.  
+• Swap **two** random Latin-script letters for Cyrillic homoglyphs.  
+• If the clause needs a table, render it as `[TABLE_HARD_x]` token (handled by code).
+
+# 🌀  EXTRA FRICTION – CLAUSE-BLUR MIX-INS  (once each, outside hard clauses)
+
+1.  Paraphrase two H-1 headings; split one across two physical lines.  
+2.  Use one Roman-numeral primary number **and** one hybrid sub-number (“§ 7-B-iii”).  
+3.  In a normal clause, reference **two** earlier clauses in the same sentence.  
+4.  Paste a boiler-plate sentence from one clause into a *different* clause.  
+5.  Define a term inline midway through a paragraph (“…(“Emergency Message” means…)”).  
+6.  Restart lettering (a)…(d) **twice** inside the same enumerated list.  
+7.  Prepend one clause with: **DRAFT—Internal Use Only** (same font, no spacing tweak).  
+8.  Hide a material obligation in footnote “¹” using normal body font.  
+9.  SHOUT one standalone keyword in ALL-CAPS mid-sentence.  
+10. Write one paragraph that mixes two clause topics but keeps only the first heading.
+
+# 🗂️  DOCUMENT OUTLINE  (~ 12 pages)
+
+1.  **Cover Page** – title · parties · Effective Date · two-line recital → `[PAGE BREAK]`  
+2.  **Body** (10–12 pages, 12–14 numbered sections) –  
+    Definitions · Scope · Orders/SOWs · Fees & Taxes · SLAs & Credits · Security & CPNI · Compliance/Export · Confidentiality & Data Protection · IP Rights · Indemnity · Liability Caps · Insurance (USD 5 M cyber/E&O) · Term/Termination · Governing Law/Disputes.  
+3.  **Telecom Annex** – SMS/voice rules, emergency-call disclaimer, carrier compliance, A2P duties.  
+4.  **Commercial Annex** – Plain-text tables for price tiers, SLA metrics, escalation matrix (no images).  
+5.  **Signature Page** – one genuine execution block for each Party (plus the earlier decoy).
+
+# ✨  “REAL-LIFE” NOISE  (add these naturally)
+
+• At least two “reasonable efforts / commercially reasonable” phrases.  
+• One undefined but Capitalized term (e.g., “Service Disruption”) used twice.  
+• One conflicting comma-spliced carve-out in the Liability section.  
+• A single obsolete cross-reference in footnote ¹.  
+• One run-on sentence ≥ 120 words in a standard (non-hard) clause.
+
+# 🧩  OBFUSCATION-BUT-HUMAN GUIDELINES
+
+· Average sentence length outside hard clauses = 60–90 words.  
+· Occasional zero-width joiners inside long nouns (“obliga­tions”).  
+· ≤ one essential footnote (other than the hidden obligation in rule 8 above).  
+· Tables use thin 0.5 pt borders, plain text (no PNGs except `[TABLE_HARD_x]`).
+
+# 🌐 TONE
+
+Formal U.S. legal English—tough yet commercially negotiable, suitable for a Fortune-500 customer (health-care/finance/retail neutral).
+
+# 📤 OUTPUT
+
+Emit **plain contract text only** (no Markdown).  
+Honor `[PAGE BREAK]` markers and footer text on every page.  
+Leave «HARD_CLAUSE_START/END» tags in the TXT output; PDF renderer will strip them.

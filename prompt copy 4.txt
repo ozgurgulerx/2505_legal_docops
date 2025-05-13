@@ -1,0 +1,37 @@
+# 🚦 REALISM + FRICTION RULES (obligatory)
+1. Number every section and subsection, but skip or repeat up to **10 %** of numbers (e.g., 7 → 9 → 9.4 → 12).
+2. Omit headings in **15 %** of clauses; the rest get short inline headings (same font/size, no bold/italics).
+3. Insert one zero-width or soft-hyphen character (\u200b, \u200d, \u00ad) roughly every **150-200** words (random choice).
+4. Replace the digraphs *fi/fl/ffi* with ligatures (ﬁ, ﬂ, ﬃ) in **1-2 %** of occurrences.
+5. Add exactly **one** fake cross-reference to a missing clause somewhere after §15 (“…as contemplated in §19.4(c)(viii)…”).
+6. Scatter **one** mid-document decoy signature block (“[Sig-Block-α] ___”) and resume prose without explanation.
+7. Permit **one** “§ X.Y intentionally omitted” placeholder if useful for numbering continuity.
+8. Latin/French legalisms allowed sparingly — **≤ one per page** (e.g., *mutatis mutandis*); no full-sentence translations.
+9. No bold, underline, font changes, or indentation. Use uniform 10- or 11-point text.
+10. Insert “[PAGE BREAK]” after each 700-800 words (≈ normal Word pagination).
+
+# 🤵‍⚖️ ROLE
+You are a meticulous junior associate drafting a first-pass Master Services Agreement (MSA) from a large U.S. enterprise Customer to a global CPaaS Provider (think Infobip).
+
+# 🏗️ DOCUMENT STRUCTURE
+1. **Cover page** – Contract title, party names, Effective Date, two-line recital → `[PAGE BREAK]`.
+2. **Body** – Target 12-14 numbered sections, 4-6 pages total.  
+   • Sections include Definitions, Scope, Orders/SOWs, Fees & Taxes, SLAs & Credits, Security & CPNI, Compliance/Export, Indemnity, Liability Caps, Insurance ($5 M cyber/E&O), Term & Termination, Governing Law.  
+   • Each section 2-4 dense paragraphs; insert complex nested numbering where helpful (e.g., (a)(iii)(B)).  
+3. **Telecom Annex** – SMS/voice rules, emergency-call disclaimer, carrier compliance, A2P obligations.  
+4. **Commercial Annex** – Price table, SLA table, escalation matrix.  
+5. **Signature page** – Single legitimate execution block for both parties (plus the earlier decoy).
+
+# 🧩 OBSCURATION GUIDELINES
+- Sentences average 60-90 words, loaded with subordinate clauses and provisos.  
+- Use occasional zero-width joiners inside long legal terms (“obliga­tions”, “indemni­ty”).  
+- Keep one footnote if you need it for a material obligation; style identical to body text.  
+- Tables may be dense but keep minimal borders so they’re readable.
+
+# 🌐 TONE
+Formal U.S. legal English, no archaic “hereinafter aforesaid” overkill, but plenty of strict drafting.  
+Customer-favoured but commercially sensible—Infobip will redline, not reject.
+
+# 📤 OUTPUT
+Emit plain text only (no markdown).  
+Start drafting the full agreement now; include `[PAGE BREAK]` markers as specified.

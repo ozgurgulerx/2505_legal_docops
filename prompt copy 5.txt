@@ -1,0 +1,56 @@
+# 🚦 REALISM + HIERARCHY + TARGETED FRICTION  (mandatory rules)
+1. Number every section & subsection, but skip or repeat **exactly one** primary number **and** **one** sub-number in the document (e.g., 6 → 8 → 8.3 → 10).
+2. Heading hierarchy  
+   • H-1 = 12 pt bold, left-aligned (e.g., “1. DEFINITIONS”).  
+   • H-2 = 11 pt bold, left-aligned (e.g., “1.2 Scope”).  
+   • Body = 11 pt normal, Times New Roman (or equivalent).  
+   • Indent each nested level an extra 0.25 in.  
+   • Omit headings in **≈15 %** of sub-clauses; keep the rest styled above.
+3. Insert **one** zero-width or soft-hyphen char ( \u200b \u200d \u00ad ) roughly every **170 ± 20** words.
+4. Swap digraphs **fi fl ffi** for ligatures (ﬁ ﬂ ﬃ) in **1–2 %** of total occurrences.
+5. Add **one** fake cross-reference to a clause that does **not** exist (after real § 15: “see § 21.4(c)(iv) …”) and repair every other x-ref.
+6. Insert **one** decoy signature block — `[Sig-Block-α] ____________________` — on its own line, centred, at the top of a page, then resume prose.
+7. Allow **one** “§ X.Y intentionally omitted” placeholder if needed to preserve numbering.
+8. Use ≤ one Latin or French legalism per page (e.g., *mutatis mutandis*). Never include full-sentence translations.
+9. Page layout  
+   • 1-inch margins • 6 pt space after each body ¶ • Footer every page:  
+     `CONFIDEN­TI­AL – DRAFT {YYYY-MM-DD} – Page X of Y` (Times 8 pt).  
+   • Insert `[PAGE BREAK]` every **750 ± 50** words to mimic Word pagination.
+10. No underline, italics, or font-colour changes outside the heading styles.
+
+# 🎯 HARD-CLAUSE TARGETS  (10-15 % of clauses per document)
+Generate **three or four** “hard clauses” that are deliberately difficult for humans *and* machines to extract. For each hard clause:
+
+• Wrap the raw text with markers: **«HARD_CLAUSE_START»** … **«HARD_CLAUSE_END»**  
+  (markers stay in the TXT for span-logging but must be **removed** in the final PDF render).  
+• **Remove the heading entirely** (no H-1/H-2).  
+• Merge the clause into **one 250–300-word mega-sentence** containing ≥ 3 nested provisos  
+  (*“provided, however, that … notwithstanding the foregoing …”*).  
+• Inject exactly **one** French *or* Latin sentence mid-stream.  
+• Raise contamination inside the clause to **3 % ligatures** and **ZW every ~80 words**.  
+• Replace **two** random Latin lowercase letters with visually identical Cyrillic homoglyphs.  
+• If the clause contains a critical table, render that table as a 300 dpi PNG token  
+  (`[TABLE_HARD_x]`) instead of text.
+
+# 🗂️ DOCUMENT OUTLINE
+1. **Cover Page** – Title · Parties · Effective Date · two-line recital → `[PAGE BREAK]`.  
+2. **Table of Contents** – auto-list H-1 titles with dotted leaders; TOC **may list** the fake § 21.  → `[PAGE BREAK]`.  
+3. **Body** (10-12 pages, 12–14 sections)  
+   Definitions · Scope · Orders/SOWs · Fees & Taxes · SLAs & Credits · Security & CPNI · Compliance/Export · Indemnity · Liability Caps · Insurance (USD 5 M cyber/E&O) · Term/Termination · Governing Law.  
+4. **Telecom Annex** – SMS/voice rules, emergency-call disclaimer, carrier compliance, A2P duties.  
+5. **Commercial Annex** – Price table, SLA table, escalation matrix.  
+6. **Signature Page** – One genuine execution block for each Party (plus the earlier decoy).
+
+# 🧩 OBFUSCATION-BUT-HUMAN GUIDELINES
+• Sentences average 60–90 words (outside hard clauses) with layered provisos.  
+• Inject zero-width joiners inside long nouns sparingly (e.g., obliga­tions).  
+• ≤ one essential footnote (same 11 pt style).  
+• Tables may be dense but keep 0.5-pt borders.
+
+# 🌐 TONE
+Formal U.S. legal English — tough yet commercially negotiable, suitable for a Fortune-500 customer.
+
+# 📤 OUTPUT
+Return **plain contract text only** (no Markdown).  
+Use `[PAGE BREAK]` markers exactly as instructed and include the footer text at the bottom of each page.  
+Leave the «HARD_CLAUSE_START/END» tags **in the TXT output**; the PDF renderer will strip them.

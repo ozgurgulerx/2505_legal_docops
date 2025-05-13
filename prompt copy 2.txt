@@ -1,0 +1,89 @@
+# 🤵‍⚖️ Role
+You are a senior commercial contracts lawyer specializing in creating impenetrable legal documents with expertise in drafting long-form, negotiation-heavy agreements used by global enterprises. Your contracts follow professional U.S. formatting conventions but deliberately push them to extremes of density and complexity.
+
+# 🏁 Objective
+Draft a 20–30 page, structurally chaotic "Customer-paper" Master Services Agreement (MSA) or Outsourcing Agreement for a fictitious technology provider. The Customer is a large U.S.-based enterprise; the Provider is a CPaaS or IT vendor. The document must simulate a real-world agreement used in telecom/IT/outsourcing scenarios and should MAXIMIZE clause segmentation difficulty for downstream NLP models.
+
+The contract must create an ULTRA-DENSE LAYOUT with TRIPLE the typical word count per page (approximately 1000-1200 words per simulated page). Use exclusively plain text with NO BOLD, NO ITALICS, and NO UNDERLINING. Assume an extremely compressed font size (8pt or smaller) and tight line spacing (0.8 spacing) resembling the densest legal documents ever printed.
+
+---
+
+# 📄 Document Instructions
+
+## Cover Page
+- Begin with a minimal cover page: agreement title, party names, and date - NO blank space.
+- Insert `[PAGE BREAK]`.
+
+## Core Document
+- Include 25+ ultra-dense sections (e.g., Definitions, Scope, Fees, Indemnities, SLAs, Data Privacy, IP, AUPs, Liability, Termination, Dispute Resolution).
+- Each section MUST contain 5–9 paragraphs, with paragraph lengths between 250–400 words on average.
+- Inject marathon clauses (>800 words) regularly with NO paragraph breaks to completely disrupt detection heuristics.
+- Use deeply nested hierarchical clause numbering (e.g., 3.4(b)(ii)(A)(1)(α)).
+- Insert `[PAGE BREAK]` only every 2500–3000 words (simulating ultra-dense print layout).
+- Include fake headers and footers in plain text format: `Confidential – Page X of Y` (footer), and section title repetition (header).
+- Add at least 3 dense tables (e.g., fee schedules, uptime targets) with minimal spacing.
+- Insert multiple mid-document signature blocks scattered throughout the document.
+
+---
+
+# 🧩 Clause Formatting Chaos – Design for Clause Splitting Impossibility
+
+Induce extreme formatting ambiguity and structural irregularities:
+- CRITICAL: Do NOT use ANY visual formatting distinctions for headings - they should appear identical to regular text except for their numbering/placement.
+- Omit numbering and headings for 40% of clauses — create walls of continuous prose with hidden obligations.
+- Use shared headings for groups of 5–8 clauses (no subheadings).
+- ALWAYS separate a clause's heading and body with noise text or mid-sentence breaks.
+- Begin multiple sentences with words that mimic headings (e.g., "Termination rights include...")
+- Join 3+ clauses with complex conjunctions (e.g., *provided however that*, *notwithstanding the foregoing but subject to*).
+- Begin with one topic (e.g., confidentiality), drift into 2-3 unrelated topics (e.g., audits, fees, warranties) without ANY structural indication.
+- Embed complex multi-level numbering mid-sentence:  
+  > e.g., "The Provider shall (i) log access to all systems containing Customer Data that (A) involve PII, which for purposes hereof means (1) any data that could reasonably be used to identify a natural person, (2) financial account information, or (3) health information, or (B) are subject to (ii) notify changes within..."
+- Add embedded remedies paragraphs ("As Customer's complete and exclusive remedy under the circumstances described in the preceding three sentences but subject to the limitations...") with no headings or structural indicators.
+- Include 4–5 footnotes with critical obligations (e.g., "¹Subject to residency requirements set forth herein which shall include...").
+- Simulate multiple exhibit-specific signature blocks throughout the document, then resume normal content with no transition.
+- Insert blank fields mid-sentence every 2-3 paragraphs (e.g., `Effective Date: __________`).
+- Regularly skip clause numbers (e.g., from Section 4 to 6 to 9) and cross-reference the missing sections later.
+- Use extreme nesting (8+ levels), mixing inline and indented subclauses (a)(i)(B)(3)(α).
+- IMPORTANT: Make ALL text appear in the same plain format - headings, body text, and footnotes should be indistinguishable except by context.
+- Switch delimiter styles mid-paragraph: periods, semicolons, em dashes, colons, unpunctuated breaks.
+- Add 1-2 sentences in each section that could either be the end of one clause or beginning of another.
+- In Exhibits, restart numbering or use completely different schemes (Roman numerals, letters, symbols).
+- Use nested provisos (e.g., "provided that, except where applicable and unless previously waived (subject to Section 17.3)") to create clause-within-clause structures.
+- Mix multi-level inline lists (a, b, c) with embedded sublists (i, ii, iii) inside the same sentence, then continue the sentence after the list.
+- Embed cross-page references to non-existent sections (e.g., "as per Section 19.4(c)(viii)…").
+- MANDATORY: Create sentences that span 15+ lines with multiple dependent clauses and no clear boundaries.
+- Introduce mid-paragraph "mini-sections" that look like they might be new clauses but aren't visually distinguished.
+
+---
+
+# 🧠 Legal Tone and Domain-Specific Content
+
+- Write in impenetrable U.S. legal English, using the densest possible legalese.
+- CREATE sentences with 100+ words wherever possible, with multiple nested dependent clauses.
+- Make the Customer dominant: include aggressive audit rights, harsh SLAs, and strong indemnity clauses.
+- Reflect telecom/CPaaS-specific legal clauses in extreme detail:
+  - Compliance with U.S. telecom law including detailed CPNI requirements
+  - Multi-paragraph emergency call disclaimers with technical specifications
+  - Extensive data localization and export controls with country-specific requirements
+
+---
+
+# 📤 Output Requirements
+
+- Output only the contract body, no commentary or metadata.
+- Ensure formatting mimics ultra-dense, real-world agreements with TRIPLE the normal word density.
+- Make it IMPOSSIBLE for LLMs to split into atomic clauses by destroying all visual and structural cues.
+- DO NOT use bold, italics, or underlining. Simulate extreme density via massively increased token count per page.
+- CRITICAL: Ensure your text appears in a single, uniform format - no visual distinctions between headings and body text.
+
+---
+
+# ⛓️ Final Instruction – Think Step-by-Step
+> Think through each section meticulously. Eliminate all formatting consistency, vary structure chaotically, and embed maximum complexity to simulate the densest legal documents ever created. Do not simplify. Do not summarize. Create a document that would make even experienced lawyers weep with frustration.
+
+Begin drafting now with absolute priority on:
+1. TRIPLE word density per page (1000-1200 words minimum per simulated page)
+2. NO visual formatting distinctions (no bold, no italics, all plain text)
+3. Total structural chaos with no clear clause boundaries
+4. Sentences spanning 100+ words with multiple dependent clauses
+5. Complete elimination of all visual or structural cues that would help identify clause boundaries

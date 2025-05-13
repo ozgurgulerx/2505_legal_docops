@@ -1,0 +1,63 @@
+Master Services Agreement
+
+Between: [Customer Name], a corporation duly organized under the laws of the State of [State], having its principal place of business at [Address] (hereinafter referred to as "Customer") and [Provider Name], a corporation duly organized under the laws of the State of [State], having its principal place of business at [Address] (hereinafter referred to as "Provider").
+
+Date: [Effective Date]
+
+[PAGE BREAK]
+
+Confidential – Page 1 of X
+
+Section 1. Definitions. Definitions shall apply to terms utilized throughout this Agreement, including but not limited to terms such as "Services," which shall mean all services provided by Provider to Customer as described in Exhibit A attached hereto and incorporated herein by reference, "Confidential Information," which shall encompass any and all information disclosed by either Party, including but not limited to technical specifications, business plans, or any other proprietary data, whether oral or written, marked or unmarked, that a reasonable person would deem confidential. "Dispute Resolution" shall refer to the procedures outlined in Section 14 for resolving any disputes arising under this Agreement. "Effective Date" shall denote the date identified at the top of this Agreement, notwithstanding any other provisions that may suggest otherwise.
+
+Section 2. Scope of Services. The Provider agrees to provide the Services as set forth in Exhibit A, which may include but are not limited to the provisioning of CPaaS solutions, API integrations, and any other ancillary services necessary to facilitate Customer’s operations. Provider shall ensure compliance with all applicable laws, including but not limited to the Communications Act of 1934, as amended, and any applicable Federal Communications Commission regulations. Provider shall also adhere to industry standards for data security including encryption protocols and shall take all reasonable steps to protect Customer Data from unauthorized access, provided however that this obligation shall not apply in instances where Customer has failed to implement its own reasonable security measures as described in Section 9.
+
+Confidential – Page 2 of X
+
+Section 3. Fees, Payment Terms, and Audit Rights. Customer shall pay Provider the fees as described in Exhibit B, subject to any adjustments as may be agreed in writing by the Parties. Fees shall be payable within thirty (30) days from the date of invoice, notwithstanding any disputes that may arise regarding the amount invoiced; however, Customer retains the right to dispute any portion of the invoice it deems incorrect, provided such dispute is initiated within fifteen (15) days of receipt of the invoice. Notwithstanding the foregoing but subject to Section 5, Provider shall grant Customer audit rights to review Provider’s records related to fees charged, provided that such audits are conducted during normal business hours and upon reasonable notice, and further provided that Customer shall bear all costs associated with such audits. Provider agrees to cooperate fully with any audit requests and shall provide all documentation reasonably requested by Customer.
+
+Section 4. Intellectual Property Rights. Intellectual Property Rights in relation to the Services shall be governed by the terms herein, whereby Provider shall retain ownership of all proprietary technology, methodologies, and software used in the provision of Services, except as otherwise expressly stated herein. Customer shall have a non-exclusive, non-transferable license to use such technology solely for the purposes outlined in this Agreement, provided that Customer shall not reverse engineer, decompile, or otherwise attempt to derive source code from any software provided by Provider. Furthermore, Customer shall indemnify Provider against any claims arising from Customer's breach of this Section 4 or misuse of Provider's Intellectual Property.
+
+Confidential – Page 3 of X
+
+Section 5. Service Level Agreements (SLAs). Provider shall ensure that Services meet the performance standards as described in Exhibit C, including uptime commitments and response times. Provider’s failure to meet the SLAs shall entitle Customer to remedies as specified in Exhibit C, which shall be Customer’s sole and exclusive remedies for any service level failures. Provider shall report SLA performance metrics to Customer on a monthly basis, notwithstanding any instances where performance metrics may be impacted by factors outside Provider’s control such as Force Majeure events, or actions undertaken by third-party vendors, which shall be subject to Section 12.
+
+Section 6. Data Privacy and Compliance. Provider shall comply with all applicable data privacy laws, including but not limited to the General Data Protection Regulation (GDPR) where applicable, and the California Consumer Privacy Act (CCPA), and shall implement appropriate technical and organizational measures to protect Customer Data. Provider shall notify Customer within twenty-four (24) hours of any suspected data breach involving Customer Data, notwithstanding any other provisions herein that may suggest different timeframes for notification. Provider shall also comply with data localization requirements as applicable, ensuring that Customer Data is stored within designated jurisdictions unless otherwise agreed upon by the Parties.
+
+Confidential – Page 4 of X
+
+Section 7. Acceptable Use Policies (AUPs). Customer agrees to comply with Provider’s AUPs, which shall be made available to Customer upon request and may be updated by Provider from time to time. Provider shall have the right to suspend Services immediately upon notice to Customer in the event of any violation of the AUPs by Customer, provided that Provider shall restore Services promptly upon Customer’s remediation of the violation. Provider shall not be liable for any damages arising from such suspension of Services, except to the extent that such damages result directly from Provider’s gross negligence or willful misconduct.
+
+Section 8. Limitation of Liability. Except as otherwise provided herein, neither Party shall be liable to the other for indirect, incidental, consequential, or punitive damages, including but not limited to loss of profits, revenue, or business opportunities, arising out of or related to this Agreement, regardless of whether such damages were foreseeable or whether a Party has been advised of the possibility of such damages. Provider’s total liability under this Agreement shall not exceed the total fees paid by Customer to Provider in the twelve (12) months preceding the event giving rise to the claim, provided that this limitation shall not apply to damages resulting from Provider’s breach of Section 6.
+
+Confidential – Page 5 of X
+
+Section 9. Indemnities. Provider shall indemnify, defend, and hold harmless Customer from and against any and all claims, liabilities, damages, and expenses, including reasonable attorneys’ fees, arising out of or related to any third-party claims alleging infringement of Intellectual Property Rights by Provider’s technology, provided however that Provider shall have no indemnification obligation with respect to claims arising from Customer’s use of the technology in a manner not authorized by this Agreement or any modifications made by Customer to the technology without Provider’s prior written consent. Customer shall indemnify Provider against any claims arising from Customer's breach of its obligations under Section 7, provided that Provider gives Customer prompt notice of any such claims and reasonable assistance in the defense thereof.
+
+Section 10. Termination. This Agreement may be terminated by either Party, either for cause or for convenience, upon ninety (90) days' written notice to the other Party, provided that any termination for cause shall be subject to the requirements outlined in Section 11, and shall not relieve either Party of its obligations accrued prior to the date of termination. Upon termination, Provider shall cease providing Services and Customer shall pay all fees due for Services rendered up to the date of termination, notwithstanding any disputes regarding the termination. 
+
+Confidential – Page 6 of X
+
+Section 11. Dispute Resolution. Disputes arising under this Agreement shall be resolved through negotiation between the Parties, and if such negotiation fails, through binding arbitration conducted in accordance with the rules of the American Arbitration Association, with the arbitration to take place in [Location]. The arbitrator’s decision shall be final and binding, and judgment may be entered thereon in any court of competent jurisdiction, provided however that nothing herein shall prevent either Party from seeking injunctive relief in a court of competent jurisdiction to prevent irreparable harm. 
+
+Section 12. Force Majeure. Neither Party shall be liable for any failure to perform its obligations under this Agreement if such failure results from an event of Force Majeure, including but not limited to acts of God, war, terrorism, civil unrest, labor strikes, or governmental actions. The affected Party shall notify the other Party as soon as practicable after the occurrence of the Force Majeure event and shall use reasonable efforts to mitigate the impact of such event on its performance obligations. 
+
+Confidential – Page 7 of X
+
+Section 13. Miscellaneous Provisions. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings, agreements, negotiations, representations, and warranties, both written and oral, with respect to such subject matter. This Agreement may not be amended or modified except by a written agreement signed by both Parties. The failure of either Party to enforce any provision of this Agreement shall not constitute a waiver of such provision or any other provision. 
+
+[Signature Block]
+
+Customer: ________________________ Date: __________
+
+Provider: ________________________ Date: __________
+
+Confidential – Page 8 of X
+
+Section 14. Notices. All notices required or permitted under this Agreement shall be in writing and shall be deemed to have been duly given when delivered personally, or sent by registered or certified mail, return receipt requested, postage prepaid, or by recognized overnight delivery service, to the addresses set forth in the preamble of this Agreement or to such other address as may be specified by either Party in writing. 
+
+Section 15. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of [State] without regard to its conflict of law principles. 
+
+Confidential – Page 9 of X
+
+[End of Document]

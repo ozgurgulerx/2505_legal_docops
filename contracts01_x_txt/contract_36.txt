@@ -1,0 +1,215 @@
+**[COVER PAGE]**
+
+**Master Services Agreement**
+
+**Between:**
+
+**Customer: XYZ Corp, a Delaware Corporation**
+
+**Provider: AlphaTech Solutions LLC, a CPaaS Vendor**
+
+**Date: [Insert Date]**
+
+[PAGE BREAK]
+
+Confidential – Page 1 of 30
+
+**1. Definitions, Scope, and Interpretation**
+
+This Master Services Agreement ("Agreement") is entered into by and between XYZ Corp ("Customer") and AlphaTech Solutions LLC ("Provider"), collectively referred to herein as "Parties". The definitions contained herein are applicable throughout the Agreement notwithstanding the absence of explicit reference; terms such as "Services", "Deliverables", "Confidential Information", "Effective Date", and "Term" shall be defined within the context of their usage and the Parties agree that Services shall include any technology, support, or auxiliary functions provided by Provider to Customer under this Agreement; Deliverables shall mean any tangible or intangible product that is a result of Services provided; further, Confidential Information shall encompass all data, proprietary or otherwise, disclosed under this Agreement provided however that all definitions are subject to interpretation under relevant U.S. law including but not limited to federal telecom regulations, state-specific data privacy statutes, and international export control regimes. Notwithstanding the foregoing but subject to the provisos herein, the Agreement's scope shall extend to all ancillary services related to telecommunications, including software as a service (SaaS) deployment, infrastructure management, and compliance advisory functions; provided further that Provider shall adhere to all Customer specifications detailed in Exhibit A subject to any amendments that may arise during the Term as delineated in Section 9.2. The interpretation of this Agreement shall consider the context of the clauses notwithstanding their sequence, provided that no clause shall be considered independent of its heading despite the absence of numbering, hereby creating an integrated framework for service delivery and governance.
+
+**2. Fees, Payment Terms, and Taxes**
+
+Customer shall remunerate Provider for the Services in accordance with the fee structure outlined in Exhibit B, which shall be subject to adjustment based on service consumption volumes and any modifications agreed upon in writing by the Parties. Payment shall be due within thirty (30) days of invoicing provided that Customer reserves the right to audit Provider's invoicing practices as stated in Section 4.5(ii)(a)(2)(β) to ensure compliance with internal accounting standards and federal tax obligations. Provider shall bear the responsibility of all applicable taxes, levies, duties, or similar charges in connection with the provision of the Services, except where explicitly exempted under U.S. tax law; for avoidance of doubt, Customer shall not be liable for any withholding taxes or similar deductions imposed on Provider's income unless agreed otherwise in Exhibit C. The fee schedules are subject to review bi-annually and may be revised to reflect changes in market conditions or service enhancements; Customer shall provide notice of such revisions no less than sixty (60) days prior to implementation. Notwithstanding the foregoing, Provider shall ensure all fees are competitive within the industry benchmarks and any disputes as to the fee structures shall be resolved in accordance with the dispute resolution procedures outlined in Section 15. Customer shall maintain the right to withhold payment in instances of service deficiencies as described in Section 6.3, provided however that Provider's receipt of payment shall not constitute waiver of Customer's rights under this Agreement.
+
+Confidential – Page 2 of 30
+
+**3. Service Levels, Performance Obligations, and Remedies**
+
+Provider shall deliver the Services in alignment with the Service Level Agreements ("SLAs") specified in Exhibit D; these SLAs encompass uptime requirements, response times, and resolution metrics which shall be monitored on a continuous basis. Customer shall possess the right to impose penalties for non-compliance with said SLAs, including but not limited to fee reductions, service credits, or contract termination as per Section 12. Provider's performance shall be assessed monthly and any deviations from agreed standards shall be documented and reviewed in quarterly performance meetings; notwithstanding the foregoing, Provider shall implement corrective actions within ten (10) business days of notification by Customer. As Customer's complete and exclusive remedy under the circumstances described in the preceding three sentences but subject to the limitations of liability outlined in Section 14, Provider shall indemnify Customer against any losses or damages incurred as a direct result of Provider's failure to meet performance obligations. The Parties agree that the SLAs are subject to modification in response to technological advancements or regulatory changes, provided that any amendment shall require mutual consent and be documented in writing. Provider acknowledges that failure to adhere to SLAs may result in immediate termination of Services or transition to an alternative provider as determined by Customer.
+
+Confidential – Page 3 of 30
+
+**4. Data Privacy, Security, and Compliance**
+
+Provider shall implement robust data privacy and security measures in accordance with applicable U.S. laws, including but not limited to the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and the Communications Act of 1934, as amended. Provider shall (i) ensure encryption of all Customer Data in transit and at rest, (ii) log access to all systems containing Customer Data that (A) involve Personally Identifiable Information ("PII"), which for purposes hereof means (1) any data that could reasonably be used to identify a natural person, (2) financial account information, or (3) health information, or (B) are subject to stringent cybersecurity protocols as outlined in Exhibit E. Provider shall notify Customer within twenty-four (24) hours of any data breach or security incident, detailing the nature of the breach, affected systems, and proposed remediation steps. Furthermore, Provider shall comply with Customer's data residency requirements, which shall include but not be limited to the storage of data within specified geographic regions as documented in Exhibit F¹. Provider's compliance obligations extend to regular audits, vulnerability assessments, and penetration tests conducted by independent third-party evaluators as designated by Customer. The Parties shall collaborate to ensure alignment with evolving regulatory frameworks and industry best practices, thereby safeguarding Customer Data against unauthorized access, use, or disclosure.
+
+Confidential – Page 4 of 30
+
+**5. Intellectual Property Rights and Ownership**
+
+The Parties acknowledge that all intellectual property rights related to the Services and Deliverables shall remain the sole property of Customer unless explicitly transferred to Provider under this Agreement. Provider shall (i) grant Customer a non-exclusive, perpetual license to use, modify, and reproduce the Deliverables for any internal business purpose, (ii) refrain from using Customer's trademarks, logos, or other proprietary marks without prior written consent, (iii) indemnify Customer against any third-party claims arising from alleged infringement of intellectual property rights associated with the Services provided. Notwithstanding the foregoing, Provider shall retain rights to any pre-existing proprietary methodologies, algorithms, or frameworks utilized in the delivery of Services, provided that such retention shall not impede Customer's utilization of Deliverables. Any joint development initiatives shall be subject to separate agreements outlining shared ownership structures and royalty arrangements. Provider agrees to execute any necessary documentation to perfect Customer's rights in the intellectual property and shall ensure that all subcontractors or third-party agents adhere to similar obligations as stipulated herein. Disputes concerning intellectual property shall be resolved through binding arbitration as detailed in Section 15.3.
+
+Confidential – Page 5 of 30
+
+**6. Acceptable Use Policies, Restrictions, and Customer Obligations**
+
+Provider's Services shall be subject to Acceptable Use Policies ("AUPs") as detailed in Exhibit G, which shall govern the conduct and usage parameters of Customer and its end-users. Customer agrees to adhere to all restrictions imposed by Provider, including but not limited to prohibitions on illegal, harmful, or disruptive activities that may compromise the integrity or security of the Services. Provider reserves the right to suspend or terminate Services in instances of non-compliance with AUPs, subject to the procedure outlined in Section 12. Customer shall ensure its personnel and affiliates are adequately trained in the use of Services and shall implement necessary safeguards to prevent unauthorized access or misuse. Furthermore, Customer shall indemnify Provider against any liabilities arising from Customer's breach of AUPs or misuse of Services. The Parties agree that any amendments to AUPs shall require prior notification and be documented in writing; Provider shall consult with Customer to ensure alignment with internal policies and regulatory obligations. Provider's enforcement of AUPs shall be consistent with industry standards and shall not discriminate against any specific user or group.
+
+Confidential – Page 6 of 30
+
+**7. Liability, Indemnification, and Limitations**
+
+The Parties acknowledge that Provider's liability under this Agreement shall be limited to direct damages incurred by Customer as a result of Provider's breach of its obligations; indirect, consequential, or punitive damages shall be excluded unless arising from gross negligence or willful misconduct. Provider shall indemnify Customer against any third-party claims relating to (i) breach of data privacy, (ii) infringement of intellectual property rights, (iii) personal injury or property damage caused by Provider's personnel or subcontractors. Provider's total liability shall not exceed the aggregate fees paid by Customer under this Agreement during the twelve (12) months preceding the claim; notwithstanding the foregoing, exceptions shall apply in instances of fraud or criminal activity. Customer shall provide Provider with prompt notice of any claim and shall cooperate in the defense thereof, provided that Customer retains the right to select legal counsel as per Section 15.3(ii). Provider's indemnification obligations shall survive termination of this Agreement and shall extend to all subcontractors or agents engaged in the delivery of Services. The Parties agree that liability limitations are essential to the economic balance of this Agreement and any modifications shall require mutual consent.
+
+Confidential – Page 7 of 30
+
+**8. Termination, Transition, and Survival**
+
+Either Party may terminate this Agreement for cause upon thirty (30) days' written notice to the other Party, specifying the nature of the breach and affording an opportunity to cure within the notice period; for termination without cause, a ninety (90) days' notice shall be required. Provider agrees to cooperate with Customer in transitioning Services to an alternative provider upon termination, ensuring continuity and minimizing disruption to Customer's operations. The Parties acknowledge that certain obligations shall survive termination, including but not limited to confidentiality, indemnification, and intellectual property rights as outlined in Sections 4, 5, and 7. Provider shall provide all necessary documentation, access, and support to facilitate a smooth transition and shall refrain from any actions that may hinder or delay such process. Furthermore, Customer shall retain the right to terminate for convenience, subject to payment of any outstanding fees and charges accrued up to the termination date. The Parties agree that termination provisions are critical to maintaining service quality and shall be subject to periodic review to reflect evolving business needs. Provider's obligations under this section shall extend to all subcontractors and third-party agents engaged in the delivery of Services.
+
+Confidential – Page 8 of 30
+
+**9. Dispute Resolution, Governing Law, and Jurisdiction**
+
+The Parties agree to resolve any disputes arising under this Agreement through binding arbitration conducted in accordance with the rules of the American Arbitration Association ("AAA"); the arbitration shall take place in New York, New York, and the decision shall be final and enforceable in any court of competent jurisdiction. The Agreement shall be governed by the laws of the State of Delaware, without regard to its conflict of laws principles, provided that any issues concerning federal telecom regulations shall be subject to applicable federal law. The Parties shall engage in good faith negotiations to resolve disputes prior to initiating arbitration and shall consider mediation as a preliminary step, notwithstanding the Parties' rights to seek injunctive relief in instances of breach of confidentiality or intellectual property rights. Arbitration fees and costs shall be borne equally by the Parties unless otherwise awarded by the arbitrator. The Parties agree that the governing law and jurisdiction provisions are integral to the enforceability of this Agreement and shall be subject to amendment only upon mutual consent. Provider's obligations under this section shall survive termination and shall extend to all subcontractors or agents engaged in the delivery of Services.
+
+Confidential – Page 9 of 30
+
+**10. Emergency Call Disclaimers, Technical Specifications, and Compliance**
+
+Provider shall ensure compliance with all U.S. telecom regulations concerning emergency call services, including but not limited to the Federal Communications Commission ("FCC") rules governing Enhanced 911 ("E911") services. Provider shall implement technical specifications to ensure accurate location identification and call routing for emergency services, thereby minimizing risks associated with delay or misrouting. Customer acknowledges that Provider's compliance obligations extend to all subcontractors and third-party agents involved in the delivery of Services, and shall indemnify Provider against any liabilities arising from regulatory non-compliance. Provider shall provide Customer with regular updates on technical specifications and regulatory changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's compliance obligations shall include detailed documentation of call routing procedures, location tracking capabilities, and system redundancy measures as outlined in Exhibit H. The Parties agree that emergency call disclaimers are critical to the safe and effective delivery of Services and shall be subject to periodic review to reflect technological advancements and regulatory developments. Provider shall notify Customer of any changes to compliance obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 10 of 30
+
+[PAGE BREAK]
+
+Confidential – Page 11 of 30
+
+**11. Data Localization, Export Controls, and Country-Specific Requirements**
+
+Provider shall adhere to all data localization requirements as specified by Customer, including but not limited to the storage of Customer Data within designated geographic regions as outlined in Exhibit F¹. Provider shall comply with U.S. export control regulations governing the transfer of technology and data across international borders, ensuring that all necessary licenses and permits are obtained prior to any export activity. Customer acknowledges that Provider's compliance obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from non-compliance with export control laws. Provider shall provide Customer with regular updates on country-specific requirements and regulatory changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's compliance obligations shall include detailed documentation of data transfer procedures, encryption standards, and access controls as outlined in Exhibit E. The Parties agree that data localization and export control provisions are critical to the secure and compliant delivery of Services and shall be subject to periodic review to reflect changes in regulatory frameworks and business needs. Provider shall notify Customer of any changes to compliance obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 12 of 30
+
+**12. Confidentiality, Non-Disclosure, and Data Protection**
+
+Provider shall implement robust confidentiality measures to protect Customer's proprietary information disclosed under this Agreement, including but not limited to encryption, access controls, and secure data storage solutions. Provider shall refrain from disclosing any Confidential Information to third parties without Customer's prior written consent, except where required by law or regulatory authority. Customer acknowledges that Provider's confidentiality obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from unauthorized disclosure of Confidential Information. Provider shall provide Customer with regular updates on data protection measures and regulatory changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's confidentiality obligations shall include detailed documentation of information security protocols, breach notification procedures, and employee training programs as outlined in Exhibit E. The Parties agree that confidentiality provisions are critical to the secure and compliant delivery of Services and shall be subject to periodic review to reflect changes in regulatory frameworks and business needs. Provider shall notify Customer of any changes to confidentiality obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 13 of 30
+
+**13. Audits, Monitoring, and Reporting**
+
+Customer shall retain the right to conduct audits of Provider's compliance with this Agreement, including but not limited to financial, operational, and security audits conducted by independent third-party evaluators. Provider shall provide Customer with access to all relevant documentation, systems, and personnel to facilitate such audits, ensuring transparency and accountability in service delivery. Customer acknowledges that Provider's audit obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from audit findings. Provider shall provide Customer with regular updates on audit results and corrective actions to ensure alignment with internal policies and regulatory obligations; for avoidance of doubt, Provider's audit obligations shall include detailed documentation of compliance procedures, risk assessments, and remediation plans as outlined in Exhibit E. The Parties agree that audit provisions are critical to the secure and compliant delivery of Services and shall be subject to periodic review to reflect changes in regulatory frameworks and business needs. Provider shall notify Customer of any changes to audit obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 14 of 30
+
+**14. Remedies, Limitations, and Exclusivity**
+
+Provider's liability under this Agreement shall be limited to direct damages incurred by Customer as a result of Provider's breach of its obligations; indirect, consequential, or punitive damages shall be excluded unless arising from gross negligence or willful misconduct. Provider shall indemnify Customer against any third-party claims relating to (i) breach of data privacy, (ii) infringement of intellectual property rights, (iii) personal injury or property damage caused by Provider's personnel or subcontractors. Provider's total liability shall not exceed the aggregate fees paid by Customer under this Agreement during the twelve (12) months preceding the claim; notwithstanding the foregoing, exceptions shall apply in instances of fraud or criminal activity. Customer shall provide Provider with prompt notice of any claim and shall cooperate in the defense thereof, provided that Customer retains the right to select legal counsel as per Section 15.3(ii). Provider's indemnification obligations shall survive termination of this Agreement and shall extend to all subcontractors or agents engaged in the delivery of Services. The Parties agree that liability limitations are essential to the economic balance of this Agreement and any modifications shall require mutual consent.
+
+Confidential – Page 15 of 30
+
+**15. Miscellaneous, Notices, and Amendments**
+
+This Agreement constitutes the entire understanding between the Parties with respect to the subject matter hereof and supersedes all prior agreements, representations, or understandings, whether oral or written. Any amendments to this Agreement shall be made in writing and signed by both Parties; for avoidance of doubt, email or electronic communications shall not constitute valid amendments unless explicitly permitted by the Parties. Provider shall provide Customer with written notice of any changes to its business operations that may affect the delivery of Services, including but not limited to mergers, acquisitions, or changes in leadership. Customer acknowledges that Provider's obligations under this section extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from non-compliance with notice requirements. Provider shall provide Customer with regular updates on business developments and regulatory changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's obligations shall include detailed documentation of communication protocols, change management procedures, and stakeholder engagement plans as outlined in Exhibit E. The Parties agree that miscellaneous provisions are critical to the secure and compliant delivery of Services and shall be subject to periodic review to reflect changes in business needs. Provider shall notify Customer of any changes to miscellaneous obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 16 of 30
+
+[PAGE BREAK]
+
+Confidential – Page 17 of 30
+
+**Signature Block:**
+
+**Customer: XYZ Corp**
+
+**By: ___________________________**
+
+**Title: _________________________**
+
+**Date: __________________________**
+
+**Provider: AlphaTech Solutions LLC**
+
+**By: ___________________________**
+
+**Title: _________________________**
+
+**Date: __________________________**
+
+Confidential – Page 18 of 30
+
+**16. Exhibits, Schedules, and Appendices**
+
+The Exhibits, Schedules, and Appendices attached hereto are incorporated by reference and form an integral part of this Agreement. The Parties acknowledge that any discrepancies between the main body of the Agreement and the Exhibits shall be resolved in favor of the Exhibits, except where such resolution would result in a violation of applicable law or regulatory requirement. Provider shall ensure all Exhibits are maintained in a current and accurate state, reflecting any changes agreed upon during the Term of this Agreement. Customer shall retain the right to request modifications to Exhibits, provided that such modifications are documented in writing and signed by both Parties. The Parties agree that Exhibit numbering shall restart for each new section, utilizing Roman numerals, letters, or symbols as appropriate to enhance clarity and organization. Provider shall provide Customer with regular updates on Exhibit content and changes to ensure alignment with evolving business needs; for avoidance of doubt, Provider's obligations shall include detailed documentation of Exhibit management procedures, version control mechanisms, and stakeholder communication plans as outlined in Exhibit E. Provider shall notify Customer of any changes to Exhibit obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 19 of 30
+
+**17. Provisions, Interpretations, and Clauses**
+
+The provisions contained herein shall be interpreted in accordance with applicable law and industry standards, notwithstanding the absence of explicit headings or numbering for certain clauses. The Parties agree that clause interpretation shall consider the context of each provision, provided that no clause shall be deemed independent of its heading despite the absence thereof. Provider shall ensure all clauses are maintained in a current and accurate state, reflecting any changes agreed upon during the Term of this Agreement. Customer shall retain the right to request modifications to clauses, provided that such modifications are documented in writing and signed by both Parties. The Parties agree that clause numbering shall restart for each new section, utilizing Roman numerals, letters, or symbols as appropriate to enhance clarity and organization. Provider shall provide Customer with regular updates on clause content and changes to ensure alignment with evolving business needs; for avoidance of doubt, Provider's obligations shall include detailed documentation of clause management procedures, version control mechanisms, and stakeholder communication plans as outlined in Exhibit E. Provider shall notify Customer of any changes to clause obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 20 of 30
+
+**18. Tables, Charts, and Data**
+
+The tables, charts, and data contained herein are incorporated by reference and form an integral part of this Agreement. The Parties acknowledge that any discrepancies between the main body of the Agreement and the tables shall be resolved in favor of the tables, except where such resolution would result in a violation of applicable law or regulatory requirement. Provider shall ensure all tables are maintained in a current and accurate state, reflecting any changes agreed upon during the Term of this Agreement. Customer shall retain the right to request modifications to tables, provided that such modifications are documented in writing and signed by both Parties. The Parties agree that table numbering shall restart for each new section, utilizing Roman numerals, letters, or symbols as appropriate to enhance clarity and organization. Provider shall provide Customer with regular updates on table content and changes to ensure alignment with evolving business needs; for avoidance of doubt, Provider's obligations shall include detailed documentation of table management procedures, version control mechanisms, and stakeholder communication plans as outlined in Exhibit E. Provider shall notify Customer of any changes to table obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 21 of 30
+
+**19. Non-Solicitation, Non-Competition, and Employment**
+
+Provider agrees to refrain from soliciting or hiring Customer's employees, contractors, or agents during the Term of this Agreement and for a period of twelve (12) months following termination. Provider shall ensure compliance with non-competition obligations as outlined in Exhibit J, which shall govern the conduct and usage parameters of Provider and its personnel. Customer acknowledges that Provider's non-solicitation and non-competition obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from breach of such obligations. Provider shall provide Customer with regular updates on employment policies and changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's obligations shall include detailed documentation of employment practices, recruitment procedures, and compensation plans as outlined in Exhibit E. Provider shall notify Customer of any changes to employment obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 22 of 30
+
+**20. Insurance, Risk Management, and Liability**
+
+Provider shall maintain comprehensive insurance coverage in accordance with industry standards, including but not limited to general liability, professional liability, and cyber liability insurance policies. Provider shall provide Customer with certificates of insurance upon request and shall ensure coverage remains in effect throughout the Term of this Agreement. Customer acknowledges that Provider's insurance obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from failure to maintain adequate coverage. Provider shall provide Customer with regular updates on insurance policies and changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's obligations shall include detailed documentation of risk management procedures, claims handling processes, and coverage renewal plans as outlined in Exhibit E. Provider shall notify Customer of any changes to insurance obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 23 of 30
+
+[PAGE BREAK]
+
+Confidential – Page 24 of 30
+
+**Signature Block:**
+
+**Customer: XYZ Corp**
+
+**By: ___________________________**
+
+**Title: _________________________**
+
+**Date: __________________________**
+
+**Provider: AlphaTech Solutions LLC**
+
+**By: ___________________________**
+
+**Title: _________________________**
+
+**Date: __________________________**
+
+Confidential – Page 25 of 30
+
+**21. Compliance with Laws, Regulations, and Standards**
+
+Provider shall ensure compliance with all applicable laws, regulations, and industry standards governing the delivery of Services under this Agreement, including but not limited to federal telecom regulations, state-specific data privacy statutes, and international export control regimes. Provider shall provide Customer with regular updates on compliance measures and regulatory changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's compliance obligations shall include detailed documentation of legal requirements, compliance procedures, and audit findings as outlined in Exhibit E. Customer acknowledges that Provider's compliance obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from non-compliance with legal requirements. Provider shall notify Customer of any changes to compliance obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 26 of 30
+
+**22. Records, Documentation, and Retention**
+
+Provider shall maintain accurate and complete records of all activities conducted under this Agreement, including but not limited to service delivery, invoicing, and compliance activities. Provider shall provide Customer with access to such records upon request and shall retain all documentation for a period of five (5) years following termination of this Agreement. Customer acknowledges that Provider's recordkeeping obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from inadequate recordkeeping. Provider shall provide Customer with regular updates on recordkeeping practices and changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's obligations shall include detailed documentation of records management procedures, data retention policies, and audit trails as outlined in Exhibit E. Provider shall notify Customer of any changes to recordkeeping obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 27 of 30
+
+**23. Force Majeure, Excusable Delays, and Contingency Planning**
+
+Provider shall not be liable for any delays or failures in performance resulting from events beyond its reasonable control, including but not limited to acts of God, natural disasters, terrorism, labor disputes, or government actions. Provider shall notify Customer of any force majeure event within seventy-two (72) hours of occurrence and shall implement contingency plans to minimize disruption to Services. Customer acknowledges that Provider's force majeure obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from force majeure events. Provider shall provide Customer with regular updates on contingency planning and changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's obligations shall include detailed documentation of risk assessment procedures, business continuity plans, and emergency response protocols as outlined in Exhibit E. Provider shall notify Customer of any changes to force majeure obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 28 of 30
+
+**24. Severability, Waivers, and Amendments**
+
+The Parties agree that if any provision of this Agreement is found to be unenforceable or invalid under applicable law, such provision shall be severed and the remaining provisions shall continue in full force and effect. Provider shall not waive any rights under this Agreement unless such waiver is made in writing and signed by both Parties; for avoidance of doubt, email or electronic communications shall not constitute valid waivers unless explicitly permitted by the Parties. Customer acknowledges that Provider's severability and waiver obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from unenforceable provisions. Provider shall provide Customer with regular updates on severability practices and changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's obligations shall include detailed documentation of waiver procedures, amendment protocols, and stakeholder engagement plans as outlined in Exhibit E. Provider shall notify Customer of any changes to severability obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 29 of 30
+
+**25. Final Provisions, Entire Agreement, and Execution**
+
+This Agreement constitutes the final and entire understanding between the Parties with respect to the subject matter hereof and supersedes all prior agreements, representations, or understandings, whether oral or written. Provider shall ensure compliance with final provisions as outlined in Exhibit K, which shall govern the conduct and usage parameters of Provider and its personnel. Customer acknowledges that Provider's final provisions obligations extend to all subcontractors and third-party agents engaged in the delivery of Services, and shall indemnify Provider against any liabilities arising from non-compliance with final provisions. Provider shall provide Customer with regular updates on final provisions and changes to ensure alignment with evolving standards; for avoidance of doubt, Provider's obligations shall include detailed documentation of execution procedures, contract management practices, and stakeholder communication plans as outlined in Exhibit E. Provider shall notify Customer of any changes to final provisions obligations within thirty (30) days of implementation and shall cooperate with Customer to ensure continued compliance.
+
+Confidential – Page 30 of 30

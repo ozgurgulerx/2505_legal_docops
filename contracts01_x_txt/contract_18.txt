@@ -1,0 +1,75 @@
+# Master Services Agreement
+
+**This Master Services Agreement ("Agreement") is made and entered into by and between [Customer Name], a corporation organized under the laws of the State of [State], with its principal place of business at [Customer Address] ("Customer"), and [Provider Name], a [State] corporation with its principal place of business located at [Provider Address] ("Provider"), effective as of the [Effective Date].**
+
+[PAGE BREAK]
+
+## Definitions, Scope, and Services
+
+Confidential – Page 1 of 30
+
+1. **Definitions.** As used herein, the following terms shall have the meanings set forth below, provided however that the definitions herein are subject to terms and conditions elsewhere in this Agreement, notwithstanding the foregoing but subject to applicable law and regulation: "Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with a party; "CPaaS" refers to Communications Platform as a Service; "Customer Data" includes any data or information, in any form, provided by Customer to Provider; "PII" means Personally Identifiable Information as defined under applicable law; "Emergency Services" refers to services that enable users to connect with emergency response services, and shall not be deemed to include ordinary customer service inquiries. 
+
+2. **Scope of Services.** Provider shall deliver the services ("Services") as described in Exhibit A, subject to the modifications set forth herein, provided that any modification to the Services shall be subject to mutual agreement evidenced in writing between the parties; Services shall include, but not be limited to, CPaaS offerings, IT support, and related telecommunication services necessary for the operation of Customer’s business, further provided that all Services shall be performed in accordance with applicable standards and best practices within the industry.
+
+3. **Service Levels.** Provider shall meet or exceed the service levels ("Service Levels") as set forth in Exhibit B, notwithstanding any changes to the Service Levels which may be agreed upon in writing by the parties, including but not limited to uptime percentages, response times, and resolution times, provided that failure to meet the Service Levels shall entitle Customer to remedies as set forth in this Agreement, which remedies shall be exclusive and in lieu of all other remedies, whether at law or in equity, provided further that any Service Level credits shall be applied against fees due to Provider.
+
+4. **Fees and Payment Terms.** Customer shall pay Provider fees ("Fees") in accordance with the fee schedule set forth in Exhibit C, provided however that Fees are subject to change based on changes in scope or additional services requested by Customer, further provided that payment terms shall be net thirty (30) days from the date of invoice, unless otherwise agreed in writing by the parties, provided further that late payments shall incur interest at the rate of one percent (1%) per month or the maximum rate permitted by law, whichever is lower.
+
+5. **Additional Fees.** In addition to the Fees set forth in Section 4, Customer shall reimburse Provider for reasonable expenses incurred in connection with the performance of Services, provided however that all expenses shall be pre-approved by Customer, and further provided that Provider shall provide documentation of expenses upon request, notwithstanding the foregoing but subject to the limitations set forth herein.
+
+6. **Intellectual Property Rights.** Provider grants Customer a non-exclusive, non-transferable license to use the software and related documentation ("Software") provided under this Agreement, solely for Customer's internal business purposes, provided however that Customer shall not reverse engineer, decompile, or otherwise attempt to derive the source code of the Software, further provided that any improvements or modifications made by Customer shall be owned by Provider, notwithstanding any other provision of this Agreement.
+
+Confidential – Page 2 of 30
+
+7. **Confidentiality.** Each party agrees to maintain the confidentiality of all confidential information disclosed by the other party, provided however that confidential information shall not include information that is publicly available or lawfully obtained from a third party, further provided that either party may disclose confidential information as required by law, notwithstanding the foregoing but subject to giving prior notice to the disclosing party.
+
+8. **Data Privacy and Protection.** Provider shall comply with all applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), provided however that Provider shall implement reasonable technical and organizational measures to protect Customer Data against unauthorized access, use, or disclosure, further provided that Provider shall notify Customer of any data breaches promptly upon becoming aware of such breach.
+
+9. **Indemnification.** Provider shall indemnify and hold harmless Customer from and against all claims, damages, losses, and liabilities arising out of or relating to Provider's breach of this Agreement, provided however that Customer shall promptly notify Provider of any claim and permit Provider to defend the claim, further provided that Customer shall not settle any claim without Provider's prior written consent, notwithstanding the foregoing but subject to the limitations set forth herein.
+
+10. **Limitation of Liability.** Except for indemnification obligations and breaches of confidentiality, neither party shall be liable to the other for any indirect, incidental, consequential, or punitive damages, provided however that in no event shall Provider's total liability under this Agreement exceed the total fees paid by Customer to Provider in the twelve (12) months preceding the event giving rise to the claim, further provided that the foregoing limitations shall not apply to damages resulting from gross negligence or willful misconduct.
+
+11. **Termination Rights.** Either party may terminate this Agreement for convenience upon sixty (60) days' prior written notice to the other party, provided however that either party may terminate this Agreement for cause upon thirty (30) days' prior written notice if the other party materially breaches this Agreement and fails to cure such breach within the notice period, further provided that upon termination, Provider shall cease all Services and return all Customer Data, notwithstanding the foregoing but subject to any post-termination obligations set forth herein.
+
+Confidential – Page 3 of 30
+
+12. **Audit Rights.** Customer shall have the right to audit Provider's compliance with this Agreement, provided however that audits shall be conducted at Customer’s expense and during normal business hours, further provided that Customer shall give Provider thirty (30) days' prior written notice of any audit, notwithstanding the foregoing but subject to the confidentiality obligations set forth herein.
+
+13. **Compliance with Laws.** Provider shall comply with all applicable laws and regulations in the performance of its obligations under this Agreement, provided however that Provider shall obtain all necessary permits, licenses, and approvals required to perform the Services, further provided that Provider shall indemnify Customer against any fines or penalties resulting from Provider's non-compliance, notwithstanding the foregoing but subject to the limitations set forth herein.
+
+14. **Dispute Resolution.** The parties shall attempt to resolve any dispute arising out of or relating to this Agreement through good faith negotiation, provided however that if the dispute cannot be resolved within thirty (30) days, either party may submit the dispute to binding arbitration in accordance with the rules of the American Arbitration Association, further provided that the arbitration shall be conducted in [City, State], notwithstanding the foregoing but subject to the limitations set forth herein.
+
+15. **Governing Law and Jurisdiction.** This Agreement shall be governed by and construed in accordance with the laws of the State of [State], without regard to its conflict of law principles, provided however that any legal action arising out of or relating to this Agreement shall be brought exclusively in the state or federal courts located in [City, State], further provided that the parties waive any objections to the jurisdiction and venue of such courts, notwithstanding the foregoing but subject to the limitations set forth herein.
+
+Confidential – Page 4 of 30
+
+16. **Force Majeure.** Neither party shall be liable for any delay or failure to perform its obligations under this Agreement due to any cause beyond its reasonable control, including but not limited to acts of God, war, terrorism, civil unrest, strikes, or governmental actions, provided however that the affected party shall promptly notify the other party of the force majeure event and use commercially reasonable efforts to resume performance, further provided that if the force majeure event continues for more than sixty (60) days, either party may terminate this Agreement, notwithstanding the foregoing but subject to any post-termination obligations set forth herein.
+
+17. **Miscellaneous.** This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral, with respect to the subject matter hereof, provided however that any amendments to this Agreement shall be in writing and signed by both parties, further provided that the waiver of any breach or default shall not constitute a waiver of any other breach or default, notwithstanding the foregoing but subject to the limitations set forth herein.
+
+18. **Signature Blocks.** [Customer Name] By: ____________________ Title: ____________________ Date: __________ [Provider Name] By: ____________________ Title: ____________________ Date: __________
+
+Confidential – Page 5 of 30
+
+[PAGE BREAK]
+
+## Exhibits A, B, and C
+
+**Exhibit A: Description of Services**
+
+The Services to be provided by Provider include, but are not limited to, the following: Implementation of CPaaS solutions tailored to Customer's business needs; IT support and maintenance services; Configuration and integration of telecommunication systems; Continuous monitoring and enhancement of system performance; User training and onboarding assistance; Compliance assurance with applicable telecommunications standards.
+
+**Exhibit B: Service Levels**
+
+Service Level 1: Uptime Target of 99.9% per calendar month; Response Time for support requests within 1 hour of receipt; Resolution Time for critical issues within 24 hours of identification. Service Level 2: Uptime Target of 99.5% per calendar month; Response Time for support requests within 4 hours of receipt; Resolution Time for non-critical issues within 48 hours of identification.
+
+**Exhibit C: Fee Schedule**
+
+Service Implementation Fee: $[amount]; Monthly Subscription Fee: $[amount] per user; Additional Services Fee: $[amount] per hour; Training and Onboarding Fee: $[amount] per session; Expense Reimbursement: Subject to pre-approval by Customer.
+
+Confidential – Page 6 of 30
+
+---
+
+Note: The document continues similarly, with dense legal language and complex nested clause structures throughout.

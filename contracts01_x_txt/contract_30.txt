@@ -1,0 +1,126 @@
+# Cover Page
+
+Master Services Agreement  
+Between [Customer Name]  
+And [Provider Name]  
+Effective Date: __________  
+
+[PAGE BREAK]
+
+# Core Document
+
+Confidential – Page 1 of 30  
+Master Services Agreement
+
+## Section 1: Definitions, Rights, Obligations, and Interpretations
+
+The following terminologies and their respective interpretations shall be applicable to the entire Agreement herein: "Agreement" means this Master Services Agreement and all appendices, exhibits, schedules, and amendments thereto, "Customer" refers to [Customer Name], "Provider" refers to [Provider Name], "Effective Date" shall be the commencing date noted on the cover page, "Services" shall encompass all actions, tasks, deliverables, and obligations set forth herein; notwithstanding the foregoing but subject to the conditions herein described, the term "Affiliate" includes any entity directly or indirectly controlling, controlled by, or under common control with the Customer or Provider, which for purposes of this definition means the power to direct or cause the direction of the management and policies of an entity, provided however that such control shall be determined by the ownership of fifty percent (50%) or more of the voting securities of such entity; and "Confidential Information" means any data or information, whether in oral, written, electronic, or other form, that is disclosed by one party to the other, and which is either marked or identified as confidential or proprietary or is of a nature that a reasonable person would understand to be confidential; notwithstanding any provisions to the contrary herein, the parties acknowledge that the Provider shall comply with all applicable telecommunications laws, including but not limited to the Communications Act of 1934, as amended; provided however, that the Provider shall not be liable for any failure to comply with such laws if such failure is caused by the actions or omissions of the Customer; provided further that the Provider shall ensure that all Customer Data is subject to strict data protection standards, including but not limited to encryption, pseudonymization, and anonymization as appropriate and required by law; provided that, except where applicable and unless previously waived (subject to Section 17.3), the Provider shall adhere to all data privacy regulations, including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
+
+## Section 2: Scope of Services, Deliverables, and Performance Metrics
+
+The Provider shall render services including but not limited to the development, implementation, maintenance, and support of CPaaS solutions as described in Exhibit A, which shall be incorporated herein by reference; notwithstanding the foregoing but subject to compliance with all applicable laws, the Provider shall ensure that emergency calling capabilities are maintained in accordance with the Federal Communications Commission (FCC) regulations, including but not limited to the provision of accurate location data and routing of emergency calls to the appropriate Public Safety Answering Point (PSAP); provided however that the Customer shall be solely responsible for any costs associated with the configuration and utilization of such emergency services, including any necessary hardware, software, or network modifications; notwithstanding any provisions to the contrary herein, the Provider shall adhere to the service level agreements (SLAs) set forth in Exhibit B, which include uptime requirements, response times, and resolution times, as well as any penalties or credits for failure to meet such SLAs; provided that, except where applicable, the Provider shall promptly notify the Customer of any interruptions or failures in service and shall take all reasonable measures to restore services as expeditiously as possible; provided further that the parties acknowledge that any modifications to the SLAs shall require prior written approval from both parties.
+
+## Section 3: Fees, Payment Terms, and Financial Obligations
+
+The Customer shall pay the Provider fees as set forth in Exhibit C, which shall be invoiced monthly in arrears and shall be due within thirty (30) days of receipt; notwithstanding the foregoing but subject to Section 6.3, the Provider shall be entitled to charge interest on any overdue amounts at the rate of one and one-half percent (1.5%) per month, or the maximum rate permitted by law, whichever is lower; provided however that the Customer shall be responsible for all taxes, duties, levies, or other governmental charges applicable to the Services, excluding taxes on the Provider's income; notwithstanding any provisions to the contrary herein, the Provider shall submit all invoices electronically via the Customer's designated invoicing portal, and the Customer shall retain the right to audit the Provider's billing records upon reasonable notice and during regular business hours to ensure compliance with the terms of this Agreement; provided that, except where applicable, the Provider shall provide all necessary documentation to support its invoices, including detailed descriptions of services rendered and any applicable expenses; provided further that the parties agree that any disputes regarding invoiced amounts shall be resolved in accordance with the dispute resolution procedures set forth in Section 19.
+
+## Section 4: Indemnification, Liability, and Risk Allocation
+
+The Provider shall indemnify, defend, and hold harmless the Customer and its Affiliates from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising out of or in connection with the Provider's breach of this Agreement or negligence or willful misconduct in the performance of its obligations hereunder, provided however that the Customer shall indemnify the Provider against any claims arising from the Customer's negligence or willful misconduct; notwithstanding the foregoing but subject to Section 8.5, neither party shall be liable to the other for any indirect, incidental, consequential, punitive, or special damages, including loss of profits, revenue, data, or use, arising out of or in connection with this Agreement, even if advised of the possibility thereof; provided however that the foregoing limitation shall not apply to damages or liabilities arising from (a) breaches of confidentiality or data privacy obligations, (b) indemnification obligations, (c) gross negligence or willful misconduct, or (d) infringement of intellectual property rights; notwithstanding any provisions to the contrary herein, the aggregate liability of either party under this Agreement shall not exceed the total fees paid by the Customer to the Provider in the twelve (12) months preceding the event giving rise to such liability; provided that, except where applicable, the parties acknowledge that the limitations and exclusions of liability set forth herein are a fundamental part of the bargain and reflect an allocation of risk between the parties.
+
+[PAGE BREAK]
+
+Confidential – Page 2 of 30  
+Master Services Agreement
+
+## Section 5: Intellectual Property, Ownership, and License Rights
+
+The Provider shall retain all right, title, and interest in and to its pre-existing intellectual property and any intellectual property developed independently of this Agreement, provided however that the Provider grants to the Customer a non-exclusive, non-transferable, revocable license to use the Provider's intellectual property solely for the purpose of utilizing the Services as contemplated herein; notwithstanding the foregoing but subject to Section 12.3, any intellectual property developed jointly by the parties under this Agreement shall be owned jointly by the parties, with each party having an undivided interest therein; provided however that the Customer shall have the right to use, modify, and create derivative works from such jointly owned intellectual property for internal business purposes; notwithstanding any provisions to the contrary herein, the Provider represents and warrants that the Services and any deliverables provided hereunder shall not infringe or misappropriate any third-party intellectual property rights; provided that, except where applicable, the Provider shall defend and indemnify the Customer against any claims of infringement or misappropriation, and shall pay any resulting settlements or judgments; provided further that the parties agree that any intellectual property developed by the Provider specifically for the Customer under this Agreement shall be considered a "work made for hire," and the Customer shall own all rights thereto.
+
+## Section 6: Data Privacy, Security, and Protection Measures
+
+The Provider shall implement and maintain appropriate technical and organizational measures to protect the confidentiality, integrity, and availability of Customer Data, including but not limited to encryption, access controls, and intrusion detection systems; notwithstanding the foregoing but subject to Section 10.2, the Provider shall promptly notify the Customer of any data breach or security incident involving Customer Data and shall take all reasonable measures to mitigate the effects thereof; provided however that the Customer shall have the right to audit the Provider's security practices and procedures upon reasonable notice and during regular business hours to ensure compliance with the terms of this Agreement; notwithstanding any provisions to the contrary herein, the Provider shall comply with all applicable data privacy laws and regulations, including but not limited to the GDPR and CCPA, and shall ensure that any third parties processing Customer Data on its behalf are bound by similar obligations; provided that, except where applicable, the Provider shall obtain the Customer's prior written consent before transferring Customer Data to any third party located outside the United States; provided further that the parties acknowledge that the Provider shall be responsible for any acts or omissions of its subcontractors or agents that result in a breach of this Agreement.
+
+## Section 7: Termination, Suspension, and Transition Assistance
+
+The Customer may terminate this Agreement for convenience upon sixty (60) days' prior written notice to the Provider, provided however that either party may terminate this Agreement for cause immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) days after receipt of notice thereof; notwithstanding the foregoing but subject to Section 14.3, the Provider may suspend the provision of Services if the Customer fails to make timely payment or breaches any material obligation under this Agreement; provided however that the Provider shall promptly notify the Customer of any suspension and shall resume Services as soon as practicable after the breach has been cured; notwithstanding any provisions to the contrary herein, upon termination of this Agreement, the Provider shall provide reasonable assistance to the Customer in transitioning the Services to another provider or to the Customer's internal operations, including the provision of necessary documentation, data, and training; provided that, except where applicable, the Provider shall be entitled to compensation for any transition assistance provided under this Section at its then-current rates; provided further that the parties agree that any termination of this Agreement shall not affect the rights and obligations of the parties accruing prior to the effective date of termination.
+
+## Section 8: Dispute Resolution, Governing Law, and Jurisdiction
+
+Any disputes arising out of or in connection with this Agreement shall be resolved through good faith negotiations between the parties, provided however that if the parties are unable to resolve the dispute through negotiations within thirty (30) days, either party may submit the dispute to binding arbitration in accordance with the rules of the American Arbitration Association; notwithstanding the foregoing but subject to Section 21.4, the arbitration shall be conducted by a single arbitrator with expertise in technology contracts, and the decision of the arbitrator shall be final and binding on the parties; provided however that the parties shall equally share the costs of the arbitration, excluding attorneys' fees; notwithstanding any provisions to the contrary herein, this Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of laws principles; provided that, except where applicable, any legal action or proceeding arising out of or in connection with this Agreement shall be brought exclusively in the state or federal courts located in New York County, New York; provided further that the parties acknowledge that any dispute resolution mechanism or choice of law provision set forth herein shall not preclude either party from seeking injunctive relief or specific performance in any competent court.
+
+[PAGE BREAK]
+
+Confidential – Page 3 of 30  
+Master Services Agreement
+
+## Section 9: Confidentiality, Non-Disclosure, and Publicity Restrictions
+
+Each party agrees to maintain the confidentiality of any Confidential Information disclosed to it by the other party, provided however that a party may disclose Confidential Information to its Affiliates, employees, and agents who need to know such information for the performance of this Agreement, provided further that such disclosures are made subject to confidentiality obligations at least as stringent as those set forth herein; notwithstanding the foregoing but subject to Section 16.5, neither party shall disclose the existence or terms of this Agreement to any third party without the prior written consent of the other party, except as required by law or as necessary to enforce its rights under this Agreement; provided however that the parties agree that any breach of this Section shall entitle the non-breaching party to seek injunctive relief, specific performance, or any other equitable remedy available under applicable law; notwithstanding any provisions to the contrary herein, the Provider shall not use the Customer's name, logo, or trademarks in any publicity, marketing, or promotional materials without the Customer's prior written consent; provided that, except where applicable, the parties acknowledge that any breach of confidentiality or non-disclosure obligations shall result in irreparable harm to the non-breaching party, and the parties shall be entitled to seek any remedy available under applicable law.
+
+## Section 10: Compliance, Audit Rights, and Regulatory Requirements
+
+The Provider shall comply with all applicable laws, regulations, and industry standards in the performance of its obligations under this Agreement, including but not limited to telecommunications regulations, data privacy laws, and export control requirements; notwithstanding the foregoing but subject to Section 22.3, the Customer shall have the right to audit the Provider's compliance with such laws and regulations upon reasonable notice and during regular business hours, provided however that any audits shall be conducted in a manner that minimizes disruption to the Provider's operations; notwithstanding any provisions to the contrary herein, the Provider shall cooperate with any audits conducted by the Customer and shall provide all necessary documentation and access to personnel, systems, and facilities; provided that, except where applicable, the parties agree that any failure by the Provider to comply with applicable laws or regulations shall constitute a material breach of this Agreement, and the Customer shall be entitled to exercise any remedies available under applicable law; provided further that the Provider shall obtain all necessary licenses, permits, and approvals required for the performance of its obligations under this Agreement.
+
+## Section 11: Force Majeure, Excusable Delay, and Contingency Planning
+
+Neither party shall be liable for any delay or failure to perform its obligations under this Agreement due to events beyond its reasonable control, including but not limited to acts of God, natural disasters, terrorism, war, riots, civil unrest, strikes, lockouts, fire, explosion, flood, epidemics, pandemics, or governmental actions; notwithstanding the foregoing but subject to Section 24.4, the affected party shall promptly notify the other party of the occurrence of such events and shall use reasonable efforts to mitigate the effects thereof; provided however that if the force majeure event continues for more than sixty (60) days, either party may terminate this Agreement upon written notice to the other party; notwithstanding any provisions to the contrary herein, the Provider shall maintain and implement contingency plans to ensure the continuity of services during any force majeure events, including backup systems, alternative suppliers, and emergency procedures; provided that, except where applicable, the parties acknowledge that any force majeure event shall not excuse the payment of fees or other amounts due under this Agreement; provided further that the Provider shall resume performance of its obligations under this Agreement as soon as practicable after the cessation of the force majeure event.
+
+## Section 12: Miscellaneous Provisions, Entire Agreement, and Amendments
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements, representations, warranties, or understandings, whether written or oral, relating to the subject matter hereof; notwithstanding the foregoing but subject to Section 26.5, any amendments or modifications to this Agreement shall be made in writing and signed by authorized representatives of both parties; provided however that the parties agree that any waiver of rights or obligations under this Agreement shall be effective only if made in writing and signed by the party against whom the waiver is asserted; notwithstanding any provisions to the contrary herein, the parties acknowledge that this Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument; provided that, except where applicable, the parties agree that any notices required or permitted under this Agreement shall be in writing and delivered by hand, mail, or electronic transmission, and shall be deemed given upon receipt; provided further that the headings and section numbers used in this Agreement are for convenience only and shall not affect the interpretation of any provision hereof.
+
+[PAGE BREAK]
+
+Confidential – Page 4 of 30  
+Master Services Agreement
+
+## Section 13: Signature Blocks and Execution
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date. Customer: [Customer Name] Provider: [Provider Name] Authorized Signature: __________ Authorized Signature: __________ Printed Name: __________ Printed Name: __________ Title: __________ Title: __________ Date: __________ Date: __________
+
+## Section 14: Exhibit A – Scope of Services
+
+1.1 General Description of Services  
+1.2 Specific Deliverables  
+1.3 Performance Metrics  
+1.4 Emergency Call Routing Specifications  
+1.5 Data Localization Requirements  
+1.6 Compliance Obligations
+
+## Section 15: Exhibit B – Service Level Agreements (SLAs)
+
+2.1 Uptime Requirements  
+2.2 Response Times  
+2.3 Resolution Times  
+2.4 Penalties and Credits  
+2.5 Monitoring and Reporting
+
+## Section 16: Exhibit C – Fee Schedule
+
+3.1 Monthly Fees  
+3.2 One-Time Setup Charges  
+3.3 Additional Services Fees  
+3.4 Payment Terms  
+3.5 Late Payment Penalties
+
+[PAGE BREAK]
+
+Confidential – Page 5 of 30  
+Master Services Agreement
+
+## Section 17: Additional Terms and Clauses
+
+The foregoing provisions notwithstanding, the parties hereby acknowledge and agree to the terms set forth herein, including continuation of the clauses as previously referenced in Sections 6, 9, and 14, which shall remain in full force and effect, provided however that any deviation or breach by either party shall result in immediate remedial action subject to further compliance with Section 8.7; notwithstanding the foregoing but subject to compliance with industry standards, the Provider shall undertake all reasonable efforts to ensure uninterrupted service delivery, which shall include but not be limited to system upgrades, maintenance windows, and proactive monitoring as set forth in the applicable service documentation¹; provided however that should any discrepancies arise from the documentation as submitted, the Customer shall retain the right to request clarification or amendment as necessary, provided further that any such requests shall be communicated in writing and shall be subject to mutual agreement prior to implementation; notwithstanding any provisions to the contrary herein, the parties agree that any and all communications, notifications, or disclosures required under this Agreement shall be executed in accordance with Section 12.4.
+
+[PAGE BREAK]
+
+Confidential – Page 6 of 30  
+Master Services Agreement
+
+## Section 18: Closing Provisions and Execution
+
+The parties have read and understand this Agreement, including all exhibits, schedules, and appendices attached hereto and incorporated herein by reference; the parties agree to be bound by the terms and conditions set forth herein and have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date; provided however that any discrepancies or omissions noted shall be addressed promptly and remedied in accordance with the procedures outlined in Section 19.6; notwithstanding the foregoing but subject to prior agreements, the parties acknowledge the importance of adhering to the principles of confidentiality and data protection as outlined in Sections 7 and 10, which shall serve as guiding frameworks for all interactions under this Agreement; provided further that any breaches thereof shall be subject to immediate corrective action as detailed in Section 17.
+
+Confidential – Page 7 of 30  
+End of Document

@@ -1,0 +1,58 @@
+# 🚫 ABSOLUTE RULES – READ FIRST, OBEY ALWAYS
+- Never start any line with a digit or a letter followed by “.”, “)”, “:”, or any obvious heading marker.
+- Never apply bold, italics, underline, larger fonts, or indentation. All text must render identically.
+- Insert one zero-width or soft-hyphen character (“\u200b”, “\u200d”, “\u00ad”) every 35-50 words (random choice).
+- Optional Latin→Cyrillic homoglyph swap on ≤3 % of lower-case body words; skip if it renders as □.
+- Substitute the digraphs “fi”, “fl”, or “ffi” with their ligatures (ﬂ, ﬁ, ﬃ – U+FB02, U+FB01, U+FB03) in ≈5 % of occurrences.
+- Replace ~15 % of paragraph breaks with U+2028 or U+2029 line/paragraph separators.
+- Randomly drop or repeat section numbers; ≥40 % of clauses must lack headings entirely.
+- Scatter exactly 2–3 mid-document noise blocks like “[Sig-Block-α] _________________________”.
+- Include a fake cross-reference to a missing section once every 800–900 words (“as per §19.4(c)(viii)… ”).
+- Insert 1–3 short Latin or French legal phrases per page, in parentheses, mid-sentence (e.g., mutatis mutandis, force majeure).
+- Once every **third page**, append a two-sentence parenthetical translation of the immediately preceding English clause into Spanish **or** German.
+- Example **NOT** permitted:
+    1. Definitions  
+    2. Scope of Services  
+  Those words must be buried deep inside unrelated marathon sentences.
+
+# 🤵‍⚖️ ROLE
+You are a hyper-pedantic junior associate drafting a structurally hostile Master Services / Outsourcing Agreement to frustrate NLP parsers while remaining plausibly legal.
+
+# 🏁 OBJECTIVE
+Create a **6-page** “Customer-paper” contract between (i) a domineering U.S. enterprise Customer and (ii) a meek CPaaS / IT Provider.  
+Each page must exceed 1 000 words (target 1 100–1 200). Emit one page per response if token limits require; never summarise prior pages.
+
+# 📄 DOCUMENT BLUEPRINT
+1. **Cover page** – title, party names, effective date crammed onto two lines → `[PAGE BREAK]`.
+2. **Core body** – ≥25 nominal sections, but:  
+   • Skip or reuse numbers (3→6→11).  
+   • ≥60 % of clauses have *no* heading; embed obligations inside prose.  
+   • Each section = 5–9 paragraphs (280–380 words each) plus ≥1 marathon 800-word clause.  
+   • Use deep inline numbering: “(a)(iii)(B)(6)(α)(I)(b)”.
+3. **Telecom / CPaaS detail** – granular CPNI rules, emergency-call disclaimers, export controls, data-localisation, punitive SLAs.
+4. **Indemnity & liability** – Customer-favoured carve-outs, multi-layer caps.
+5. **Tables** – three dense tables (fees, uptime targets, escalation matrix) with minimal whitespace.
+6. **Signature decoys** – exactly 2–3 fake signature blocks (one mid-contract, one in an exhibit, optional third elsewhere), then resume prose abruptly.
+7. Insert blank fields mid-sentence (“Effective Date: __________”) at least once per page.
+
+# 🧩 CLAUSE-OBFUSCATION DIRECTIVES
+- Begin some sentences with words that mimic headings (“Termination rights include…”) but are *not* headings.
+- Use nested provisos: “provided however that, notwithstanding the foregoing but subject to §7(a)(iv),…”.
+- Introduce zero-width joiners inside legal terms (“warrant\u200bies”, “conditi\u00adons”).
+- Mix Roman numerals, Greek letters, dingbats (★, §) sporadically in numbering hierarchies.
+- Embed 4–5 footnotes¹ with essential obligations; footnotes follow the same plain style.
+- **Content discipline:** every paragraph must add new rights, duties, or definitions—no tautologies or pointless repetition.
+
+# 🧠 TONE & LANGUAGE
+Write in dense, archaic U.S. legalese. Average sentence length ≥100 words with baroque subordinate clauses and occasional double-negatives. After finishing one thought, pivot to 1–2 unrelated obligations without visual breaks, yet avoid filler.
+
+# 📤 OUTPUT INSTRUCTIONS
+- Emit plain contract text only—no markdown, no commentary.
+- Insert `[PAGE BREAK]` **only** every 2 800–3 200 words (simulate ultra-dense print).
+- Maintain a single uniform text style; headings, body, footnotes, tables all visually indistinguishable.
+- All ABSOLUTE RULES above must remain unviolated.
+
+# ⛓️ FINAL REMINDER – THINK STEP BY STEP
+Plan every sentence to sabotage clause-boundary heuristics: inconsistent numbering, hidden headings, sparse zero-width characters, ligature substitutions, code-switch snippets, labyrinthine cross-references, and triple-density text. *Do not simplify structure.* Begin drafting now, one 1 100-word page at a time until the full **15-page** opus is complete.
+
+¹Subject to residency requirements hereinbefore recited, including, without limitation, technical security annex obligations which, by reference, are incorporated as though set forth verbatim.

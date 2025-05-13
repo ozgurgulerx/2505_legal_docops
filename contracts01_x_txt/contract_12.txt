@@ -1,0 +1,174 @@
+**Master Services Agreement**
+
+**Between:**
+
+Customer: [Large U.S.-based enterprise]  
+Provider: [Fictitious CPaaS/IT Vendor]  
+Effective Date: __________  
+
+[PAGE BREAK]  
+
+**Core Document**
+
+**1. Definitions and Interpretations**  
+
+This Agreement along with all Exhibits, Appendices, and Attachments hereto (collectively, the "Agreement"), provides the terms and conditions under which the Provider shall deliver services to the Customer, including but not limited to CPaaS and IT solutions, and all related activities subject to the specific definitions and interpretations set forth herein, which shall include, without limitation, the following: "Services" shall mean all offerings provided by Provider as described in Schedule 1, "Customer Data" refers to all information, whether or not personally identifiable, processed by Provider on behalf of Customer and "Confidential Information" encompasses all proprietary data exchanged under the Agreement. Provided however that notwithstanding any contrary provisions, the term "Affiliate" shall mean any entity that directly or indirectly controls, is controlled by, or is under common control with a party and "Control" shall be construed as per applicable law; not limiting the generality of the foregoing but subject to section 2.3.1(a)(i) pertaining to jurisdictional compliance, the following shall apply: The terms "shall" and "will" are deemed synonymous and do not indicate any precedence. The interpretation of this Agreement is intended to reflect the mutual intentions of the parties, noting that section references herein may be cross-referenced in non-sequential order such as referencing section 4.5(b)(iii) while omitting intermediate sections. For the avoidance of doubt, the definitions herein are illustrative and not exhaustive, further elaborations on terms like "PII" which for purposes herein means (1) any data that could reasonably be used to identify a natural person, (2) financial account information, and (3) health information, are subject to section 3.6.4(b)(ii)(A)(1)(α), which may invoke cross-reference to section 19.4(c)(viii) as applicable unless otherwise explicitly waived.
+
+**2. Scope of Services**  
+
+The Provider shall supply Services to the Customer as specified in Exhibit A, including but not limited to the development, implementation, and maintenance of telecommunications and IT solutions tailored to Customer's specific needs. The scope encompasses various sub-services such as data hosting, network management, and emergency call routing systems. Provider hereby agrees the Services shall be delivered in accordance with the performance standards set forth in section 5.2.3(a)(i)(B)(3)(c)(v)(α) and subject to the Customer's audit rights as delineated herein; notwithstanding the foregoing but subject to section 6.4(b), Provider shall ensure compliance with all applicable regulatory requirements including but not limited to FCC regulations concerning CPNI, and any other statutory obligations imposed by state or federal law. Provider shall maintain the flexibility to incorporate technological advancements, provided such changes do not materially alter the agreed scope without prior written consent from the Customer, which consent shall not be unreasonably withheld, delayed, or conditioned. Notwithstanding the foregoing, the Provider shall (i) notify Customer of any intended changes to the scope of Services that may affect regulatory compliance or operational capacity, (ii) implement any changes subsequent to Customer's approval, and (iii) provide requisite training to Customer's personnel on any new systems deployed. The Parties acknowledge that the scope may be subject to periodic review and amendments mutually agreed upon, which shall be documented in supplementary agreements or amendments as specified in section 10.5.1. Provider's obligations to deliver Services as per the scope outlined are contingent upon Customer's timely provision of necessary resources, access, and information.
+
+**3. Fees and Payment Terms**  
+
+The Customer shall pay Provider the fees as detailed in Fee Schedule 1, which shall include a breakdown of costs associated with each service category, including but not limited to setup fees, recurring charges, and any applicable taxes or levies. Provider shall issue invoices to Customer monthly in arrears, and Customer shall remit payment within thirty (30) days from the date of invoice receipt. Failure to make timely payments shall constitute a breach and entitle Provider to suspend Services until such time as all overdue amounts are settled, provided however that any disputes regarding invoiced amounts shall not constitute grounds for suspension, but rather shall be resolved in accordance with the dispute resolution procedures in section 17.3(b)(ii). Payment terms are exclusive of any discounts unless explicitly stated in the Fee Schedule; notwithstanding the foregoing, Customer reserves the right to audit Provider's billing records to ensure compliance with the agreed-upon terms, and Provider shall cooperate fully with such audits. All fees are subject to annual review and adjustment based on market conditions, technological advancements, and inflation rates, provided that any such adjustments shall be communicated to Customer at least sixty (60) days prior to implementation, and shall not exceed the parameters outlined in section 11.4.3.¹ Customer's failure to object to fee adjustments within the specified notice period shall be deemed acceptance thereof. Provider shall ensure all billing is conducted in accordance with applicable accounting standards and regulatory requirements, including but not limited to GAAP, FASB, and any other relevant financial governance frameworks.
+
+**4. Performance Standards and SLAs**  
+
+Provider shall deliver the Services in accordance with the performance standards and SLAs detailed in Schedule 2, which shall include specific uptime guarantees, response times, and resolution protocols for service outages or performance failures. Provider's adherence to these standards is critical and shall be subject to Customer's audit rights as described herein. The SLAs are structured to maximize service reliability, and Provider shall implement all necessary measures, including but not limited to redundant systems, real-time monitoring, and proactive maintenance, to meet the established benchmarks. In the event of non-compliance with the SLAs, Provider shall provide Customer with a detailed incident report and corrective action plan within forty-eight (48) hours of occurrence, and Customer shall have the right to enforce remedies as stipulated in section 15.2.5(e)(ii)(C)(1)(α). Remedies may include service credits, penalties, or termination rights depending on the severity and frequency of SLA breaches, provided that any remedies exercised are subject to the limitations set forth in section 9.4.1. Provider's ongoing performance evaluation shall be conducted at quarterly intervals, with results documented in performance reports submitted to Customer for review. Provider acknowledges that consistent adherence to SLAs is essential to maintaining Customer's operations, and shall endeavor to continuously improve service delivery through innovation and efficiency enhancements.
+
+**5. Data Privacy and Security**  
+
+Provider shall implement robust data privacy and security measures to protect Customer Data in accordance with applicable laws and regulations, including but not limited to GDPR, CCPA, and any other relevant data protection statutes. Provider's obligations include, but are not limited to, encryption, access controls, and regular security audits to ensure the confidentiality, integrity, and availability of Customer Data. Provider shall notify Customer of any data breaches or security incidents within twenty-four (24) hours of detection and shall cooperate fully with Customer's investigation and remediation efforts, notwithstanding the foregoing but subject to section 8.3.6(b). Provider's data privacy policies shall be reviewed annually and updated as necessary to reflect changes in legal requirements or industry best practices. Provider shall provide Customer with access to all relevant privacy documentation, including data processing agreements, impact assessments, and compliance certifications. Customer reserves the right to conduct independent security audits to verify Provider's adherence to the agreed-upon standards, and Provider shall provide necessary access and cooperation. Provider's commitment to data privacy and security is paramount, and any failure to comply with these obligations may result in termination of the Agreement as specified in section 16.5.4. Provider acknowledges the importance of data privacy to Customer's operations and shall take all reasonable steps to minimize risks associated with data processing activities.
+
+**6. Intellectual Property Rights**  
+
+All intellectual property rights arising out of or in connection with the Services shall be governed by the terms of this Agreement, with ownership and licensing rights allocated as follows: Customer shall own all rights, title, and interest in any custom-developed solutions or enhancements provided by Provider, notwithstanding the foregoing but subject to section 7.4.1(c)(ii)(B). Provider retains ownership of any pre-existing intellectual property utilized in the delivery of Services, provided that Customer shall be granted a perpetual, irrevocable, non-exclusive, royalty-free license to use, modify, and distribute such intellectual property within its operations. Any infringement or misappropriation of intellectual property rights shall entitle the affected party to seek remedies as outlined in section 14.3.2(a)(i). Provider shall indemnify Customer against any third-party claims arising from alleged infringement of intellectual property rights related to the Services, and Customer shall have the right to participate in any defense thereof. Provider's intellectual property policies shall be reviewed annually and updated to reflect changes in technology and legal requirements, with Customer receiving copies of all relevant documentation upon request. Provider acknowledges the importance of intellectual property rights to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**7. Acceptable Use Policy**  
+
+Customer and Provider agree to adhere to the Acceptable Use Policy (AUP) outlined in Schedule 3, which stipulates the parameters for lawful and ethical use of the Services. The AUP includes, but is not limited to, prohibitions on illegal activities, spamming, and unauthorized access to systems. Provider shall ensure its personnel and subcontractors are fully trained on the AUP and shall monitor compliance through regular audits and reporting. Any violations of the AUP shall result in immediate corrective action, with repeat offenses potentially leading to termination of the Agreement as specified in section 18.2.1. Customer reserves the right to review and amend the AUP periodically to reflect changes in legal requirements or industry standards, provided that any amendments shall be communicated to Provider at least thirty (30) days prior to implementation. Provider acknowledges the importance of the AUP to maintaining system integrity and operational security and shall take all reasonable steps to enforce compliance.
+
+**8. Liability and Indemnification**  
+
+Provider shall indemnify and hold harmless Customer against any and all claims, damages, or losses arising out of or in connection with Provider's performance under this Agreement, including but not limited to breach of contract, negligence, and infringement of intellectual property rights. Provider's indemnification obligations are subject to the limitations set forth in section 9.4.1 and shall include the reimbursement of reasonable attorney's fees and costs incurred by Customer in defense of any claim. Provider shall maintain adequate insurance coverage to fulfill its indemnification obligations, and Customer shall have the right to review Provider's insurance policies upon request. The liability of Provider for any breach of this Agreement shall be limited to direct damages only, and shall not include any consequential, incidental, or punitive damages, except as otherwise provided in section 12.5.3. Provider acknowledges the importance of indemnification and liability limitations to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**9. Termination Rights**  
+
+Customer and Provider agree that termination of this Agreement may occur under the following circumstances: (i) mutual agreement of the parties, (ii) breach of contract by either party, (iii) insolvency or bankruptcy of Provider, and (iv) regulatory compliance failures. Termination procedures shall be conducted in accordance with section 20.3.2, and shall include the fulfillment of all outstanding obligations, including final payment and return of Customer Data. Provider shall cooperate fully with Customer during the termination process to ensure a smooth transition and minimal disruption to operations. Customer reserves the right to terminate the Agreement without cause upon sixty (60) days written notice to Provider, provided that such termination shall not relieve Provider of its indemnification obligations under section 8. Provider acknowledges the importance of termination rights to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**10. Dispute Resolution**  
+
+All disputes arising out of or in connection with this Agreement shall be resolved in accordance with the dispute resolution procedures outlined in section 17.3(b)(ii). The parties agree to first attempt to resolve disputes through negotiation and mediation, with arbitration as a final resort. Arbitration shall be conducted in accordance with the rules of the American Arbitration Association, and shall take place in [City, State]. The decision of the arbitrator shall be binding on both parties and enforceable in any court of competent jurisdiction. Provider acknowledges the importance of dispute resolution to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+[PAGE BREAK]  
+
+Confidential – Page 1 of 20  
+
+**11. Emergency Call Disclaimers**  
+
+Provider shall implement emergency call routing systems in accordance with applicable technical specifications and regulatory requirements, including but not limited to FCC regulations concerning 911 services. Provider's emergency call systems shall be subject to regular testing and maintenance to ensure reliability and compliance, and Customer shall have the right to review Provider's emergency call procedures upon request. Provider shall indemnify Customer against any claims arising from failures in emergency call systems, and shall ensure that all personnel are trained on emergency call protocols. Provider acknowledges the importance of emergency call systems to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**12. Audit Rights**  
+
+Customer shall have the right to conduct audits of Provider's operations, systems, and records to ensure compliance with the terms of this Agreement, including but not limited to financial audits, security audits, and performance audits. Provider shall cooperate fully with Customer during the audit process and shall provide access to all necessary documentation and personnel. Audit findings shall be documented in written reports submitted to Provider, and Provider shall take corrective action as necessary to address any deficiencies identified. Customer reserves the right to conduct audits at regular intervals, and Provider acknowledges the importance of audit rights to Customer's operations.
+
+**13. Data Localization and Export Controls**  
+
+Provider shall comply with all applicable data localization and export control requirements, including country-specific regulations concerning data transfer and storage. Provider's obligations include, but are not limited to, ensuring that Customer Data is stored within the designated jurisdictions and that all data transfers are conducted in accordance with applicable laws. Provider shall notify Customer of any changes in data localization and export control requirements, and shall cooperate fully with Customer's efforts to ensure compliance. Provider acknowledges the importance of data localization and export controls to Customer's operations and shall take all reasonable steps to ensure adherence to this section.
+
+**14. Insurance Requirements**  
+
+Provider shall maintain adequate insurance coverage to fulfill its obligations under this Agreement, including but not limited to general liability insurance, professional liability insurance, and cyber liability insurance. Provider shall provide Customer with certificates of insurance upon request, and Customer shall have the right to review Provider's insurance policies to ensure compliance with this section. Provider's insurance coverage shall be subject to annual review and adjustment as necessary to reflect changes in risk exposure and regulatory requirements. Provider acknowledges the importance of insurance coverage to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**15. Non-Disclosure Obligations**  
+
+Provider shall maintain the confidentiality of all Confidential Information exchanged under this Agreement, and shall not disclose such information to any third party without Customer's prior written consent. Provider's non-disclosure obligations shall survive the termination of this Agreement and shall include the implementation of appropriate measures to protect Confidential Information from unauthorized access, use, or disclosure. Provider shall notify Customer of any breaches of confidentiality within twenty-four (24) hours of detection and shall cooperate fully with Customer's investigation and remediation efforts. Provider acknowledges the importance of non-disclosure obligations to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**16. Force Majeure**  
+
+Neither party shall be liable for any failure or delay in the performance of its obligations under this Agreement due to events beyond its reasonable control, including but not limited to acts of God, war, terrorism, strikes, lockouts, or other labor disputes, and natural disasters. The affected party shall notify the other party of any force majeure event within forty-eight (48) hours of occurrence, and shall take all reasonable steps to mitigate the impact of such event on the performance of its obligations. The parties agree to cooperate in good faith to resolve any issues arising from force majeure events, and Provider acknowledges the importance of force majeure provisions to Customer's operations.
+
+**17. Governing Law**  
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of [State], without regard to its conflict of laws principles. The parties agree to submit to the exclusive jurisdiction of the courts located in [City, State] for the resolution of any disputes arising out of or in connection with this Agreement. Provider acknowledges the importance of governing law provisions to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**18. Miscellaneous Provisions**  
+
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements, representations, or understandings, whether oral or written. Any amendments to this Agreement shall be made in writing and signed by both parties. The headings used in this Agreement are for convenience only and shall not affect the interpretation of the terms herein. Provider acknowledges the importance of miscellaneous provisions to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+[PAGE BREAK]  
+
+Confidential – Page 2 of 20  
+
+**Exhibits**
+
+**Exhibit A: Scope of Services**  
+
+1. Development of telecommunications solutions tailored to Customer's specific needs, including system design, implementation, and integration with existing infrastructure.
+2. Provision of IT services, including data hosting, network management, and maintenance of emergency call routing systems.
+3. Implementation of security measures to protect Customer Data, including encryption, access controls, and regular security audits.
+4. Compliance with all applicable regulatory requirements, including FCC regulations concerning CPNI and other statutory obligations imposed by state or federal law.
+5. Training of Customer personnel on new systems deployed by Provider, including ongoing support and maintenance as necessary.
+
+**Exhibit B: Fee Schedule**  
+
+| Service Category          | Setup Fee | Recurring Charges | Taxes/Levies |
+|---------------------------|-----------|-------------------|--------------|
+| Telecommunications        | $ _______ | $ _______/month   | Applicable   |
+| IT Solutions              | $ _______ | $ _______/month   | Applicable   |
+| Security Services         | $ _______ | $ _______/month   | Applicable   |
+
+**Exhibit C: Performance Standards and SLAs**  
+
+1. Uptime Guarantee: Provider shall ensure 99.9% uptime for all services provided under this Agreement, subject to scheduled maintenance and unforeseen outages.
+2. Response Times: Provider shall respond to service requests within two (2) hours of receipt and shall resolve issues within twenty-four (24) hours.
+3. Resolution Protocols: Provider shall implement corrective action plans for any service outages or performance failures, with detailed incident reports provided to Customer within forty-eight (48) hours of occurrence.
+
+**Signature Blocks**  
+
+Customer: ___________________________  
+Provider: ___________________________  
+
+[PAGE BREAK]  
+
+Confidential – Page 3 of 20  
+
+**19. Compliance with U.S. Telecom Law**  
+
+Provider shall comply with all applicable U.S. telecom law requirements, including detailed CPNI regulations as specified by the FCC. Provider's obligations include, but are not limited to, the implementation of policies and procedures to protect CPNI from unauthorized access, use, or disclosure, and the training of personnel on CPNI compliance. Provider shall notify Customer of any changes in CPNI regulations and shall cooperate fully with Customer's efforts to ensure compliance. Provider acknowledges the importance of U.S. telecom law compliance to Customer's operations and shall take all reasonable steps to ensure adherence to this section.
+
+**20. Emergency Call Technical Specifications**  
+
+Provider shall implement emergency call routing systems in accordance with applicable technical specifications, including detailed requirements for system reliability, redundancy, and real-time monitoring. Provider's emergency call systems shall be subject to regular testing and maintenance to ensure compliance with FCC regulations, and Customer shall have the right to review Provider's emergency call procedures upon request. Provider acknowledges the importance of emergency call systems to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**21. Data Localization Requirements**  
+
+Provider shall comply with all applicable data localization requirements, including country-specific regulations concerning data transfer and storage. Provider's obligations include, but are not limited to, ensuring that Customer Data is stored within the designated jurisdictions and that all data transfers are conducted in accordance with applicable laws. Provider shall notify Customer of any changes in data localization requirements and shall cooperate fully with Customer's efforts to ensure compliance. Provider acknowledges the importance of data localization requirements to Customer's operations and shall take all reasonable steps to ensure adherence to this section.
+
+**Signature Blocks**  
+
+Customer: ___________________________  
+Provider: ___________________________  
+
+[PAGE BREAK]  
+
+Confidential – Page 4 of 20  
+
+**22. Export Control Compliance**  
+
+Provider shall comply with all applicable export control requirements, including detailed regulations concerning data transfer and storage. Provider's obligations include, but are not limited to, ensuring that Customer Data is stored within designated jurisdictions and that all data transfers are conducted in accordance with applicable laws. Provider shall notify Customer of any changes in export control requirements and shall cooperate fully with Customer's efforts to ensure compliance. Provider acknowledges the importance of export control compliance to Customer's operations and shall take all reasonable steps to ensure adherence to this section.
+
+**23. Insurance Coverage Requirements**  
+
+Provider shall maintain adequate insurance coverage to fulfill its obligations under this Agreement, including but not limited to general liability insurance, professional liability insurance, and cyber liability insurance. Provider shall provide Customer with certificates of insurance upon request, and Customer shall have the right to review Provider's insurance policies to ensure compliance with this section. Provider's insurance coverage shall be subject to annual review and adjustment as necessary to reflect changes in risk exposure and regulatory requirements. Provider acknowledges the importance of insurance coverage to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**24. Confidentiality Obligations**  
+
+Provider shall maintain the confidentiality of all Confidential Information exchanged under this Agreement, and shall not disclose such information to any third party without Customer's prior written consent. Provider's confidentiality obligations shall survive the termination of this Agreement and shall include the implementation of appropriate measures to protect Confidential Information from unauthorized access, use, or disclosure. Provider shall notify Customer of any breaches of confidentiality within twenty-four (24) hours of detection and shall cooperate fully with Customer's investigation and remediation efforts. Provider acknowledges the importance of confidentiality obligations to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+**Signature Blocks**  
+
+Customer: ___________________________  
+Provider: ___________________________  
+
+[PAGE BREAK]  
+
+Confidential – Page 5 of 20  
+
+**25. Governing Law and Jurisdiction**  
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of [State], without regard to its conflict of laws principles. The parties agree to submit to the exclusive jurisdiction of the courts located in [City, State] for the resolution of any disputes arising out of or in connection with this Agreement. Provider acknowledges the importance of governing law provisions to Customer's operations and shall take all reasonable steps to ensure compliance with this section.
+
+[PAGE BREAK]  
+
+Confidential – Page 6 of 20  

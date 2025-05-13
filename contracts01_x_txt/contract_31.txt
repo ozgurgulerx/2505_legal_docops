@@ -1,0 +1,63 @@
+Customer-paper Master Services Agreement
+
+This Master Services Agreement ("Agreement") is entered into as of [Effective Date: __________] by and between [Customer Name], a corporation organized under the laws of the State of [State], with offices located at [Customer Address] ("Customer"), and [Provider Name], a corporation organized under the laws of the State of [State], with offices located at [Provider Address] ("Provider"). [PAGE BREAK]
+
+Confidential – Page 1 of 30
+
+Definitions and Interpretations
+
+For purposes of this Agreement, unless the context otherwise requires, the following terms shall have the meanings set forth below: "Affiliate" shall mean any entity controlling, controlled by, or under common control with a party; "Services" shall mean all functions, responsibilities, and tasks to be performed by Provider; "CPNI" refers to Customer Proprietary Network Information as defined under applicable telecom laws. The term "Effective Date" shall refer to the date first written above, provided that, notwithstanding the foregoing, any obligations or conditions precedent set forth herein shall commence upon fulfillment of such conditions and not before. "Agreement" shall include any and all exhibits, schedules, and amendments appended hereto which, by reference, shall form an integral part hereof, subject to Section 19.4(c)(viii) which stipulates special conditions for appendices not herein explicitly detailed. 
+
+Scope and Provision of Services
+
+Provider agrees to provide the Services to Customer in accordance with the terms and conditions set forth herein, provided however that Customer retains the right to audit Provider’s compliance with any and all SLA commitments outlined in Schedule 1. The Services shall include, without limitation, all necessary support, maintenance, and enhancement activities to ensure seamless operation and integration with Customer's existing IT infrastructure. Provider shall comply with all applicable laws and regulations, including without limitation, those pertaining to telecommunications, data protection, and export controls, provided however therein lies the necessity for Provider to ensure all personnel are adequately trained to handle Customer Data, especially data involving personally identifiable information ("PII") in accordance with Section 3.4(b)(ii)(A)(1)(α). Provider shall use its best efforts to ensure uptime targets are met, as detailed in Table A, while maintaining stringent data security protocols as outlined in Section 5.6, notwithstanding any unforeseen circumstances which may necessitate deviations, subject to Customer's approval.
+
+Fees, Billing, and Payment Terms
+
+Customer shall pay Provider the fees for the Services as set forth in Exhibit B, subject to adjustments as specified in Section 4.3 which details the conditions under which fee modifications may be applied, including but not limited to changes in scope or volume of Services rendered. Payments shall be made within thirty (30) days of receipt of Provider's invoice, provided however that any disputes regarding invoiced amounts shall be communicated by Customer to Provider within fifteen (15) days from the date of invoice receipt, failing which the invoice shall be deemed accepted. Provider shall submit invoices monthly, detailing all Services performed, and shall maintain records sufficient to validate all charges, which records shall be subject to audit by Customer upon reasonable notice. Notwithstanding the foregoing but subject to the provisions of Section 7.2(a)(iii)(B)(2)(β), Customer may withhold payment of any disputed amounts pending resolution of said dispute.
+
+Service Level Agreements and Performance Standards
+
+Provider shall ensure that the Services meet or exceed the performance standards set forth in Exhibit C, including but not limited to uptime commitments, response and resolution times for service requests, and compliance with all technical specifications. Provider shall log access to all systems containing Customer Data that (A) involve PII, which for purposes hereof means (1) any data that could reasonably be used to identify a natural person, (2) financial account information, or (3) health information, or (B) are subject to (ii) notify changes within the system impacting service delivery. Any failure to meet the SLA targets shall entitle Customer to service credits as defined therein, which shall be applied to future invoices. As Customer's complete and exclusive remedy under the circumstances described in the preceding three sentences but subject to the limitations set forth in Section 9, Customer may also terminate this Agreement as per Section 12, if Provider fails to remedy such deficiencies within the cure period specified.
+
+Data Privacy and Security Obligations
+
+Provider acknowledges that it shall have access to sensitive Customer Data, including CPNI, and agrees to implement and maintain comprehensive data security measures to protect such data from unauthorized access or disclosure. Provider shall ensure compliance with all applicable data protection laws and regulations, including but not limited to the General Data Protection Regulation ("GDPR"), and any U.S. federal and state laws regulating the handling of PII. Provider shall promptly notify Customer of any data breach affecting Customer Data, detailing the nature of the breach, the data impacted, and the remedial actions taken, provided further that such notification shall be made no later than seventy-two (72) hours following discovery of the breach. Provider shall also ensure that any subcontractors or third parties involved in the provision of Services adhere to equivalent data protection standards, as mandated by Section 11.3(b)(iv).
+
+Intellectual Property Rights
+
+All intellectual property developed or delivered by Provider under this Agreement shall be owned by Customer, except where explicitly stated otherwise in Exhibit D. Provider hereby assigns, transfers, and conveys to Customer all rights, title, and interest in any and all inventions, discoveries, and improvements developed during the performance of Services, provided however that Provider shall retain ownership of any pre-existing proprietary methodologies or tools utilized in the delivery of Services, subject to the licensing terms set forth herein. Provider shall indemnify Customer against any claims of infringement or misappropriation of third-party intellectual property rights arising from the use of the Services, provided that Customer shall promptly notify Provider of any such claims and cooperate with Provider in the defense thereof. 
+
+Acceptable Use Policies and Compliance
+
+Provider shall adhere to Customer's Acceptable Use Policies ("AUP"), which are incorporated herein by reference, and shall ensure that all activities conducted in connection with the Services comply with said policies. Provider shall not use, nor permit the use of, the Services in any manner that violates applicable law or regulation, including but not limited to any laws governing telecommunications and data privacy. Provider shall promptly investigate any violation of the AUP and take appropriate corrective actions, including suspension or termination of access to the Services, as deemed necessary by Customer. Customer reserves the right to modify the AUP from time to time, provided that any changes shall be communicated to Provider in writing, and Provider shall ensure compliance with the updated policies within the timeframe specified by Customer.
+
+Liability and Indemnification
+
+Provider shall indemnify, defend, and hold harmless Customer and its Affiliates from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in connection with Provider's performance of the Services, provided however that Provider's indemnity obligations shall not extend to claims caused by Customer's own negligence or willful misconduct. The liability of Provider for damages under this Agreement shall be limited to the fees paid by Customer for the Services during the twelve (12) months preceding the event giving rise to such liability, excluding any liability for breach of confidentiality or infringement of intellectual property rights. Notwithstanding the foregoing, Provider shall not be liable for any indirect, special, or consequential damages, provided however that such limitation shall not apply to damages arising from Provider's gross negligence or intentional misconduct.
+
+Termination Rights and Procedures
+
+This Agreement may be terminated by either party upon written notice if the other party commits a material breach and fails to cure such breach within thirty (30) days following receipt of notice thereof. Customer may terminate this Agreement immediately upon notice if Provider fails to meet the SLA targets for three (3) consecutive months, notwithstanding any cure efforts made by Provider. Either party may terminate this Agreement without cause upon ninety (90) days prior written notice, provided however that any such termination shall not relieve Provider of its obligations with respect to the return or destruction of Customer Data, as detailed in Section 13.3. Upon termination, Provider shall cease all use of Customer's intellectual property and return all materials and documentation provided by Customer, subject to Customer's audit rights to verify compliance with post-termination obligations.
+
+Dispute Resolution and Governing Law
+
+Any disputes arising out of or in connection with this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association ("AAA"), provided however that either party may seek injunctive relief in a court of competent jurisdiction to prevent irreparable harm. The arbitration shall be conducted by a panel of three (3) arbitrators, with each party appointing one arbitrator, and the third arbitrator appointed by the AAA. The arbitration shall take place in [City, State], and the arbitrators shall apply the laws of the State of [State], without regard to its conflict of laws principles. Notwithstanding the foregoing, Customer may seek recovery of any unpaid fees in a court of competent jurisdiction, provided that Provider consents to the jurisdiction and venue of such court.
+
+Confidential – Page 2 of 30
+
+[Signature Block]  
+[Customer Signature]  
+[Date]  
+[Provider Signature]  
+[Date]  
+
+[Resuming Document Content]
+
+Additional Provisions and Miscellaneous
+
+The parties acknowledge that the terms of this Agreement are intended to be exhaustive and complete, provided however that any amendments or modifications shall be in writing and signed by both parties. Provider shall ensure compliance with all export control laws applicable to the Services, including obtaining any necessary licenses or approvals, and shall indemnify Customer against any claims arising from Provider's failure to comply with such laws. The parties agree that the headings used in this Agreement are for convenience only and shall not affect the interpretation of the terms herein. Customer shall have the right to assign this Agreement or any of its rights or obligations hereunder to an Affiliate, provided that Provider shall be notified of any such assignment in writing. Provider shall not assign this Agreement without Customer's prior written consent, which consent shall not be unreasonably withheld.
+
+Confidential – Page 3 of 30
+
+[PAGE BREAK]

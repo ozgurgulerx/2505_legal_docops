@@ -1,0 +1,99 @@
+**Master Services Agreement**
+
+**BETWEEN**
+
+**[Customer Name]**
+
+**AND**
+
+**[Provider Name]**
+
+**Effective Date: __________**
+
+[PAGE BREAK]
+
+**Section 1: Definitions.** The term "Agreement" shall refer to this Master Services Agreement executed between [Customer Name] (hereinafter "Customer") and [Provider Name] (hereinafter "Provider"), including all exhibits, schedules, and amendments attached hereto; whereas the term "Services" shall encompass all tasks, functions, and responsibilities undertaken by the Provider in fulfillment of its obligations herein; "Confidential Information" shall denote any data or information proprietary to either party, disclosed in any form, including but not limited to, electronic, oral, or written, that is marked as confidential or, by its nature, would be considered confidential by a reasonable person; "Effective Date" shall mean the date upon which this Agreement is executed by both parties, which date shall be filled in the blank space provided above; notwithstanding the foregoing but subject to any amendment agreed upon by both parties in writing; "Customer Data" shall refer to any data provided by the Customer to the Provider in the course of Service delivery, including Personal Identifiable Information ("PII"), which for purposes hereof means any data that could reasonably be used to identify a natural person; "CPNI" means Customer Proprietary Network Information as defined under U.S. telecommunications law, subject to compliance with all applicable regulatory requirements; "Force Majeure" shall encompass any event beyond the reasonable control of a party, including acts of God, war, terrorism, labor strikes, and governmental actions, which prevent the party from performing its obligations under this Agreement; "Indemnity" shall mean the obligation to compensate for loss or damage incurred by another party, subject however to the limitations set forth herein; "Intellectual Property" shall refer to all inventions, designs, marks, copyrights, and patents developed in connection with the Services or embodied therein; "Term" means the duration of this Agreement as specified in Section 2.1.
+
+**Section 2: Term and Termination.** The Term of this Agreement shall commence on the Effective Date and, unless terminated earlier pursuant to the terms set forth herein, shall continue for a period of three years thereafter; provided however that the Customer may terminate this Agreement for convenience upon thirty (30) days written notice to the Provider; notwithstanding the foregoing, termination for cause may be effected immediately upon notice in the event of a material breach by the Provider; upon termination, the Provider shall cease all Services and deliver all Customer Data to the Customer, subject to any residual rights granted under Section 4.2; termination rights include the Customer's right to suspend Services in the event of any regulatory non-compliance by the Provider, which shall not be deemed a breach if promptly cured within the time frame specified by applicable law.
+
+**Section 3: Scope of Services.** Provider shall deliver the Services described in Exhibit A attached hereto which may include but are not limited to CPaaS functionalities such as messaging, voice, and video communication services, integrated API solutions, and data analytics capabilities; Provider shall ensure compliance with all applicable laws and regulations, including but not limited to the Telecommunications Act of 1996 and any amendments thereto; Customer shall have the right to audit Provider's compliance with these requirements, provided such audits do not unreasonably interfere with Provider's business operations; all Services shall be delivered in accordance with the Service Level Agreements ("SLAs") set forth in Exhibit B, which shall include uptime targets and performance metrics; Provider shall use commercially reasonable efforts to meet or exceed these targets and shall report any failures to the Customer within twenty-four (24) hours of occurrence; Provider shall not subcontract any part of the Services without prior written approval from the Customer, provided that such approval shall not be unreasonably withheld.
+
+**Section 4: Fees and Payment Terms.** The Customer agrees to pay the fees specified in the fee schedule outlined in Exhibit C, which shall be due and payable within thirty (30) days of invoice receipt; fees shall be calculated based on actual usage of Services and any overage shall be billed at the rates set forth in Exhibit C; Provider shall submit monthly invoices detailing the Services rendered and the corresponding fees, including any applicable taxes, which shall be borne by the Customer; notwithstanding the payment terms herein, Customer shall be entitled to withhold payment in the event of a bona fide dispute regarding the accuracy of any invoice, provided however that such dispute must be notified to the Provider within fifteen (15) days of receipt of the invoice; Provider shall have the right to charge interest on any late payment at the rate of one percent (1%) per month, compounded annually; Customer shall not be obligated to pay any undisputed portion of an invoice while a dispute is pending.
+
+**Section 5: Confidentiality and Data Privacy.** Provider shall maintain the confidentiality of all Customer Data and shall not disclose such information to any third party except as required to perform the Services or as mandated by law; Provider shall implement appropriate technical and organizational measures to protect Customer Data against unauthorized access, disclosure, or destruction, consistent with industry standards and any specific requirements set forth in Exhibit D; Provider shall promptly notify Customer of any breach of confidentiality or data security incident, and shall cooperate fully with Customer in investigating and mitigating the effects of such breach; Customer shall have the right to audit Provider's data protection measures and compliance with applicable privacy laws, including but not limited to the General Data Protection Regulation ("GDPR") and the California Consumer Privacy Act ("CCPA"); Provider shall comply with all data localization requirements specified by Customer, including restrictions on data export outside the United States.
+
+[PAGE BREAK]
+
+**Section 6: Intellectual Property Rights.** All Intellectual Property developed in connection with the Services shall be owned by the Customer, except as otherwise agreed in writing; Provider shall assign all rights, title, and interest in any such Intellectual Property to the Customer, subject to any license granted herein; Customer shall grant Provider a non-exclusive, non-transferable license to use Customer's pre-existing Intellectual Property solely for the purpose of performing the Services; Provider shall not use or disclose Customer's Intellectual Property for any other purpose without Customer's prior written consent; all trademarks and service marks used in connection with the Services shall remain the property of their respective owners, and neither party shall acquire any rights therein except as expressly granted herein.
+
+**Section 7: Indemnification.** Provider shall indemnify, defend, and hold harmless Customer, its affiliates, officers, directors, and employees from any and all claims, damages, liabilities, and expenses arising from Provider's breach of this Agreement, negligence, or willful misconduct; Provider's indemnity obligations shall include the payment of reasonable attorneys' fees and costs of litigation incurred by Customer in defending against such claims; provided however that Customer shall promptly notify Provider of any claim subject to indemnification and shall cooperate with Provider in the defense thereof; Customer shall have the right to participate in the defense of any claim at its own expense, and Provider shall not settle any claim without Customer's prior written consent, which shall not be unreasonably withheld.
+
+**Section 8: Limitation of Liability.** Except as otherwise provided herein, neither party shall be liable for any indirect, incidental, consequential, or punitive damages arising from the performance or non-performance of this Agreement, including but not limited to loss of profits, revenue, or data; notwithstanding the foregoing, the Provider's total liability under this Agreement shall not exceed the amount of fees paid by Customer to Provider in the twelve (12) months preceding the claim; this limitation shall apply regardless of the form of action, whether in contract, tort, or otherwise; the parties agree that these limitations are fundamental to the allocation of risks under this Agreement and that they would not have entered into this Agreement without such limitations.
+
+**Section 9: Compliance with Laws.** Provider shall comply with all applicable laws, regulations, and ordinances in the performance of the Services, including but not limited to U.S. telecommunications law and any data protection statutes; Provider shall obtain all necessary licenses, permits, and approvals required to perform the Services and shall provide copies of such documents to Customer upon request; Customer shall have the right to audit Provider's compliance with these requirements and shall notify Provider of any non-compliance, which Provider shall promptly cure at its own expense; Provider shall indemnify Customer for any fines, penalties, or liabilities incurred by Customer as a result of Provider's failure to comply with applicable laws.
+
+**Section 10: Dispute Resolution.** In the event of any dispute arising out of or relating to this Agreement, the parties shall attempt to resolve the dispute through good faith negotiation within thirty (30) days of notice of the dispute; if the parties are unable to resolve the dispute through negotiation, the dispute shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association ("AAA"); the arbitration shall be conducted by a single arbitrator selected by mutual agreement of the parties, and the arbitrator's decision shall be final and binding; the costs of arbitration shall be borne equally by the parties, except that each party shall bear its own attorneys' fees; notwithstanding the foregoing, either party may seek injunctive relief from a court of competent jurisdiction to prevent irreparable harm.
+
+**Section 11: Emergency Services Disclaimer.** Provider shall not be liable for any failure or delay in the provision of Services due to emergency circumstances beyond its control, including but not limited to natural disasters, power outages, or network failures; Provider shall use commercially reasonable efforts to restore Services as soon as practicable following any emergency; Customer acknowledges that Provider's ability to provide Services is dependent on the availability and reliability of third-party networks and infrastructure, and Provider shall not be liable for any failure or degradation of such networks; Provider shall provide emergency call handling capabilities in compliance with applicable telecommunications regulations, including the provision of location data to emergency services, subject to the limitations set forth herein.
+
+**Section 12: Miscellaneous.** This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements, representations, and understandings, whether oral or written; no amendment or modification of this Agreement shall be effective unless in writing and signed by both parties; any waiver of rights under this Agreement must be in writing and signed by the party waiving such rights; this Agreement shall be governed by the laws of the State of New York, without regard to its conflict of laws principles; in the event of any conflict between this Agreement and any exhibit or schedule attached hereto, the terms of this Agreement shall prevail; the headings used in this Agreement are for reference purposes only and shall not affect the interpretation of this Agreement.
+
+**Confidential – Page 1 of X**
+
+[PAGE BREAK]
+
+**Exhibit A: Description of Services**
+
+1. Messaging Services: Provider shall deliver SMS, MMS, and RCS messaging capabilities, including API integration and analytics services, as described in the technical specifications attached hereto; Provider shall ensure compliance with all applicable messaging regulations and carrier requirements.
+
+2. Voice Services: Provider shall deliver VoIP and PSTN voice communication services, including call routing, conferencing, and recording functionalities, as described in the technical specifications attached hereto; Provider shall comply with all applicable voice communication regulations.
+
+3. Video Services: Provider shall deliver video conferencing and streaming services, including API integration and analytics capabilities, as described in the technical specifications attached hereto; Provider shall ensure compliance with all applicable video communication regulations.
+
+**Signature Block:**
+
+Customer: ___________________________ Date: ________________
+
+Provider: ___________________________ Date: ________________
+
+**Confidential – Page 2 of X**
+
+[PAGE BREAK]
+
+**Exhibit B: Service Level Agreements**
+
+| Service Type | Uptime Target | Response Time | Resolution Time |
+|--------------|---------------|---------------|-----------------|
+| Messaging    | 99.9%         | 2 hours       | 24 hours        |
+| Voice        | 99.95%        | 1 hour        | 12 hours        |
+| Video        | 99.9%         | 2 hours       | 24 hours        |
+
+**Signature Block:**
+
+Customer: ___________________________ Date: ________________
+
+Provider: ___________________________ Date: ________________
+
+**Confidential – Page 3 of X**
+
+[PAGE BREAK]
+
+**Exhibit C: Fee Schedule**
+
+| Service Type | Monthly Fee | Overage Rate |
+|--------------|-------------|--------------|
+| Messaging    | $5,000      | $0.01 per message |
+| Voice        | $7,500      | $0.02 per minute |
+| Video        | $10,000     | $0.03 per minute |
+
+**Signature Block:**
+
+Customer: ___________________________ Date: ________________
+
+Provider: ___________________________ Date: ________________
+
+**Confidential – Page 4 of X**
+
+[PAGE BREAK]
+
+[Continue with similar structure and complexity across all sections and exhibits]

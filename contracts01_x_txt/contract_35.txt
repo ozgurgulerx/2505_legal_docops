@@ -1,0 +1,173 @@
+# Master Services Agreement
+
+**Effective Date: __________**
+
+**Between:**
+
+**Customer: [Large U.S.-Based Enterprise]**
+
+**Provider: [Fictitious Technology Provider]**
+
+**Date: __________**
+
+[PAGE BREAK]
+
+## Section 1: Definitions, Scope, and Background
+
+Confidential – Page 1 of Y
+
+The purpose of this Master Services Agreement (hereinafter referred to as “Agreement”) effective as of the Effective Date above, between the Customer, a large U.S.-based enterprise, and the Provider, a fictitious technology provider specializing in Communication Platform as a Service (CPaaS) solutions, is to set forth the terms under which Provider shall supply certain services and solutions to Customer, subject to the terms and conditions herein, notwithstanding the foregoing but subject to further stipulations detailed in subsequent sections of this Agreement. Definitions contained herein shall apply throughout this Agreement and any Exhibits attached hereto, unless otherwise specified, with the parties agreeing to the following specific definitions: “Customer Data” refers to any data provided by Customer to Provider for processing, “Services” shall mean the CPaaS solutions and associated support offered by Provider, “Agreement” encompasses this document including all attachments, addenda, and amendments thereto, and “Effective Date” signifies the date when the Agreement becomes operational, provided that all conditions precedent have been satisfied, including but not limited to compliance with any applicable regulatory requirements which may be imposed under U.S. telecom law. The scope of Services includes but is not limited to voice and messaging services, API access, and technical support, and is further delineated in the attached Schedule A, provided however that the scope may be adjusted as per the change control procedures set forth herein. Provider shall ensure that the Services are delivered in accordance with the Service Level Agreement (SLA) detailed in Section 7, which outlines minimum performance criteria including uptime targets and response times, notwithstanding any force majeure events that may impact Provider’s ability to meet such criteria, subject to the limitations and exclusions provided therein. Background context for this Agreement includes the Customer’s intent to leverage Provider’s CPaaS solutions to enhance its telecommunications capabilities, particularly in the areas of emergency call routing as stipulated under Section 4, with the Provider acknowledging its expertise in such domains and committing to adhere to all relevant compliance requirements, including those related to Customer Proprietary Network Information (CPNI) as defined under U.S. telecom law.
+
+## Section 2: Fees, Payment Terms, and Audit Rights
+
+Confidential – Page 2 of Y
+
+This section outlines the fees applicable for the Services, which shall be calculated based on the fee schedule provided in Exhibit B, subject to any adjustments as per the terms herein and payable by Customer within thirty (30) days of receipt of Provider’s invoice, unless disputed in accordance with the dispute resolution process detailed in Section 10. The fee structure includes fixed monthly charges for access to Provider’s platform, variable charges based on usage metrics, and any applicable taxes, duties, or levies imposed by governmental authorities which shall be borne by Customer, except where expressly stated otherwise. Provider shall submit invoices electronically to Customer’s designated billing contact, with all necessary supporting documentation to substantiate the charges, and Customer shall have the right to audit Provider’s records related to the Services to verify the accuracy of invoices, with such audit rights being exercisable upon reasonable notice and during Provider’s normal business hours, provided that Customer shall comply with any confidentiality obligations imposed by Provider during the course of such audits. In the event of any discrepancies identified during an audit, Provider shall promptly correct the errors and issue a revised invoice to Customer, and in the case of overpayment, Provider shall refund the excess amount to Customer within fifteen (15) business days from the date of identification of such discrepancy, notwithstanding any other remedies available to Customer under the Agreement. Provider shall maintain accurate and complete records of all transactions related to the Services for a minimum period of three (3) years following the termination of this Agreement, subject to any longer retention requirements under applicable law, and shall ensure that such records are readily accessible for audit purposes. Notwithstanding anything to the contrary contained herein, Customer’s rights under this section shall survive the termination or expiration of this Agreement provided that the exercise thereof pertains to periods during which the Agreement was in effect.
+
+## Section 3: Indemnities, Liabilities, and Limitations
+
+Confidential – Page 3 of Y
+
+Provider hereby agrees to indemnify, defend, and hold harmless Customer, its affiliates, and their respective directors, officers, employees, and agents from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys’ fees) arising out of or resulting from Provider’s breach of any representation, warranty, or obligation under this Agreement, or from any negligent act or omission by Provider or its subcontractors in connection with the performance of the Services, except to the extent that such claims arise out of Customer’s negligence or wilful misconduct. Provider’s indemnification obligations shall be contingent upon Customer promptly notifying Provider of any claim, demand, or action giving rise to such obligations, and Customer shall provide Provider with reasonable assistance and cooperation in the defense or settlement thereof, provided that Provider shall have sole control over the defense and settlement of any such claim, subject to Customer’s rights to approve any settlement that imposes obligations on Customer other than payment of money. Notwithstanding any other provision of this Agreement, neither party shall be liable to the other for any indirect, consequential, incidental, or punitive damages, including but not limited to loss of profits, revenue, or data, arising out of or relating to this Agreement, whether in contract, tort (including negligence), or otherwise, even if such party has been advised of the possibility of such damages, provided however that this limitation shall not apply to any indemnity obligations under this section or to any breach of confidentiality obligations under Section 5. The aggregate liability of Provider for any and all claims under this Agreement shall not exceed the total fees paid by Customer to Provider under this Agreement during the twelve (12) months preceding the event giving rise to the claim, except in cases of gross negligence, fraud, or intentional misconduct by Provider. Remedies provided to Customer under this Agreement are cumulative and not exclusive, and Customer shall have the right to pursue any and all remedies available under applicable law in addition to those specified herein. Provider acknowledges that any breach of its confidentiality obligations may result in irreparable harm to Customer for which monetary damages may not be sufficient, and Customer shall be entitled to seek injunctive relief in addition to any other remedies available at law or in equity.
+
+## Section 4: Service Levels, Emergency Call Disclaimers, and Compliance
+
+Confidential – Page 4 of Y
+
+Provider shall ensure that the Services meet or exceed the performance criteria outlined in the Service Level Agreement attached hereto as Exhibit C, which includes specific metrics for system availability, response times, and issue resolution, notwithstanding any force majeure events or other circumstances beyond Provider’s reasonable control. Provider acknowledges the critical nature of emergency call services provided hereunder and agrees to comply with all applicable regulations and technical specifications related thereto, including those set forth by the Federal Communications Commission (FCC) and other relevant authorities, without limiting the generality of the foregoing. Provider shall implement robust security measures to protect the integrity and confidentiality of Customer Data, especially in relation to emergency call routing, and shall provide detailed documentation of such measures upon Customer’s request, subject to any applicable confidentiality restrictions. Emergency call disclaimers shall include explicit warnings regarding potential limitations in service availability during network outages or other disruptions, with Provider undertaking to notify Customer of any known issues that may impact emergency call functionality, notwithstanding Provider’s broader obligations under the SLA. Provider shall conduct regular audits of its systems and processes to ensure compliance with all regulatory requirements applicable to the Services, and shall promptly rectify any deficiencies identified during such audits, provided that Customer shall have the right to review the results of such audits and request further action as deemed necessary to maintain compliance. The parties agree that the terms set forth in this section shall survive termination or expiration of this Agreement to the extent necessary to ensure continued compliance with applicable laws and regulations, including any post-termination obligations related to emergency call services.
+
+## Section 5: Confidentiality, Data Privacy, and Security
+
+Confidential – Page 5 of Y
+
+Both parties agree to maintain the confidentiality of all information disclosed by one party to the other under this Agreement, which is marked or otherwise identified as confidential or proprietary, or which by its nature should reasonably be understood to be confidential, notwithstanding any other provisions herein that may imply otherwise. Provider shall implement and maintain comprehensive data privacy and security measures to protect Customer Data from unauthorized access, use, or disclosure, and shall comply with all applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), as applicable, provided that Provider shall promptly notify Customer of any breach affecting Customer Data, and shall take all necessary steps to mitigate the impact of such breach. Provider’s confidentiality obligations shall extend to any subcontractors engaged in the performance of the Services, and Provider shall ensure that such subcontractors are bound by confidentiality obligations no less stringent than those imposed on Provider under this Agreement. Customer shall have the right to audit Provider’s compliance with its data privacy and security obligations, subject to reasonable notice and during Provider’s normal business hours, and Provider shall cooperate fully with any such audits, notwithstanding any limits on audit rights set forth elsewhere in this Agreement. Provider agrees to indemnify Customer for any fines, penalties, or damages incurred by Customer as a result of Provider’s failure to comply with applicable data protection laws or its confidentiality obligations under this Agreement, provided however that Customer shall take all reasonable measures to mitigate any losses arising from such non-compliance. The confidentiality obligations set forth in this section shall survive termination or expiration of this Agreement for a period of five (5) years, except with respect to trade secrets, which shall remain confidential indefinitely, subject to any contrary provisions under applicable law.
+
+[PAGE BREAK]
+
+## Section 6: Intellectual Property, Licensing, and Ownership
+
+Confidential – Page 6 of Y
+
+The parties acknowledge that all intellectual property rights in and to the Services, including any software, documentation, and materials provided by Provider to Customer under this Agreement, are and shall remain the exclusive property of Provider, subject to any licenses granted herein. Provider hereby grants to Customer a non-exclusive, non-transferable license to use the Services solely for Customer’s internal business purposes, and not for resale, distribution, or any other commercial exploitation, provided that Customer’s use of the Services shall be subject to the terms and conditions of this Agreement and any additional licensing terms set forth in Exhibit D. Provider warrants that it has all necessary rights and authority to grant the licenses contemplated herein, and that the Services do not infringe any third-party intellectual property rights, notwithstanding any contrary claims that may arise. In the event of any third-party claim alleging infringement of intellectual property rights by the Services, Provider shall, at its own expense, defend Customer against such claims and shall indemnify Customer for any damages, costs, or expenses incurred as a result of such claims, provided that Customer promptly notifies Provider of any such claims and cooperates fully in the defense thereof. Customer shall not reverse engineer, decompile, or otherwise attempt to derive the source code of any software provided by Provider under this Agreement, except to the extent expressly permitted by applicable law notwithstanding any contractual limitations. Any improvements, modifications, or derivative works created by Customer using the Services shall be owned by Provider, and Customer shall assign all rights in such works to Provider, subject to any contrary provisions in applicable law. The limitations and restrictions set forth in this section shall survive termination or expiration of this Agreement, provided however that Customer’s license to use the Services shall terminate upon expiration or termination of this Agreement unless otherwise agreed in writing by the parties.
+
+## Section 7: Termination, Renewal, and Transition
+
+Confidential – Page 7 of Y
+
+This Agreement shall commence on the Effective Date and shall continue for an initial term of twelve (12) months, unless terminated earlier in accordance with the provisions herein, with the option to renew for additional twelve-month periods upon mutual written agreement of the parties, provided that either party may terminate this Agreement for convenience upon ninety (90) days’ written notice to the other party, notwithstanding any contrary provisions in the Service Level Agreement. Either party may terminate this Agreement immediately upon written notice to the other party in the event of a material breach of this Agreement by the other party, which remains uncured for a period of thirty (30) days following receipt of written notice specifying the breach, provided however that Customer may terminate this Agreement immediately upon notice to Provider in the event of Provider’s insolvency or bankruptcy. Upon termination or expiration of this Agreement, Provider shall assist Customer in transitioning the Services to an alternative provider or to Customer’s own systems, as applicable, and shall provide all necessary documentation and support to ensure a smooth transition, notwithstanding any limitations on Provider’s obligations set forth elsewhere in this Agreement. Provider shall return or destroy all Customer Data in its possession upon termination of this Agreement, except as required to comply with any applicable laws or regulations, provided that any destruction of data shall be conducted in a manner that ensures the confidentiality and security of such data. The obligations set forth in this section shall survive termination or expiration of this Agreement to the extent necessary to effectuate the transition of Services and compliance with applicable laws and regulations.
+
+## Section 8: Dispute Resolution and Governing Law
+
+Confidential – Page 8 of Y
+
+The parties agree that any disputes arising out of or relating to this Agreement shall be resolved through arbitration conducted in accordance with the rules of the American Arbitration Association, with the arbitration taking place in New York, New York, unless otherwise agreed by the parties, provided however that either party may seek injunctive relief in a court of competent jurisdiction to prevent irreparable harm pending the outcome of arbitration. The arbitrator shall have the authority to award any remedy or relief that a court of law could provide, including but not limited to monetary damages, specific performance, and injunctive relief, notwithstanding any limitations set forth in this Agreement. The decision of the arbitrator shall be final and binding on the parties, and judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction thereof. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of laws principles, provided that any claims for injunctive relief may be brought in the state or federal courts located in New York County, New York, notwithstanding any arbitration proceedings. The parties agree to waive any rights to a jury trial in connection with any disputes arising out of or relating to this Agreement, and shall bear their own costs and expenses associated with any arbitration proceedings, except as otherwise awarded by the arbitrator. The provisions of this section shall survive termination or expiration of this Agreement to the extent necessary to resolve any disputes arising hereunder.
+
+[PAGE BREAK]
+
+## Section 9: Miscellaneous Provisions
+
+Confidential – Page 9 of Y
+
+The parties acknowledge and agree that this Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, relating thereto, except as otherwise expressly provided herein, notwithstanding the existence of any prior agreements that may be referenced in the Exhibits hereto. No amendment, modification, or waiver of any provision of this Agreement shall be effective unless in writing and signed by both parties, provided however that either party may update its contact information by written notice to the other party without the need for formal amendment. The failure of either party to enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision, nor shall it be deemed a waiver of any other right or provision hereunder, provided that any waiver of a specific right or provision shall be effective only if in writing and signed by the waiving party. If any provision of this Agreement is found to be invalid or unenforceable by a court of competent jurisdiction, such provision shall be severed from the Agreement and the remaining provisions shall continue in full force and effect, notwithstanding any contrary terms. Provider shall not assign, transfer, or delegate any of its rights or obligations under this Agreement without the prior written consent of Customer, except as permitted under applicable law, provided that Customer may assign this Agreement to any of its affiliates upon written notice to Provider. The headings used in this Agreement are for convenience only and shall not affect the interpretation of any provision, notwithstanding any contrary implication that may arise from their placement. 
+
+## Signature Blocks
+
+Customer: ______________________
+
+Provider: ______________________
+
+Date: ______________________
+
+[PAGE BREAK]
+
+## Section 10: Exhibits and Addenda
+
+Confidential – Page 10 of Y
+
+This section outlines the various Exhibits and Addenda that form part of this Agreement, including but not limited to the following: Exhibit A - Detailed Description of Services, Exhibit B - Fee Schedule, Exhibit C - Service Level Agreement, Exhibit D - Licensing Terms and Conditions, and any other documents referenced herein. Each Exhibit and Addendum shall be deemed an integral part of this Agreement and shall be interpreted in conjunction with the terms and conditions set forth herein, notwithstanding any discrepancies between the main body of the Agreement and the attachments hereto. The parties acknowledge that the Exhibits and Addenda may be amended from time to time by mutual written agreement, provided that any amendments shall be documented in writing and signed by both parties. The numbering of clauses within the Exhibits may differ from the numbering used in the main body of the Agreement, provided however that any cross-references to sections or clauses shall be interpreted in the context of the specific Exhibit or Addendum unless otherwise stated. The provisions of this section shall survive termination or expiration of this Agreement to the extent necessary to ensure the continued applicability of the Exhibits and Addenda.
+
+Confidential – Page 11 of Y
+
+[PAGE BREAK]
+
+## Section 11: Compliance with U.S. Telecom Law
+
+Confidential – Page 12 of Y
+
+Provider shall comply with all applicable U.S. telecom laws, regulations, and industry standards governing the provision of CPaaS solutions, including but not limited to those related to Customer Proprietary Network Information (CPNI), notwithstanding any other provisions of this Agreement that may imply contrary obligations. Provider shall implement and maintain policies and procedures to ensure compliance with CPNI requirements, including obtaining necessary consents from end-users, maintaining accurate records, and providing timely notifications of any unauthorized access or disclosure of CPNI, provided however that any disclosures made pursuant to lawful requests from governmental authorities shall not constitute a breach of Provider’s obligations under this section. Provider shall provide Customer with regular reports detailing its compliance with applicable telecom laws and regulations, and shall promptly address any deficiencies identified by Customer in such reports, notwithstanding any limitations on Provider’s obligations set forth elsewhere in this Agreement. Customer shall have the right to audit Provider’s compliance with its telecom law obligations, subject to reasonable notice and during Provider’s normal business hours, and Provider shall cooperate fully with any such audits, provided that Customer shall bear its own costs associated with auditing activities. The provisions of this section shall survive termination or expiration of this Agreement to the extent necessary to ensure continued compliance with applicable telecom laws and regulations.
+
+Confidential – Page 13 of Y
+
+[PAGE BREAK]
+
+## Section 12: Force Majeure and Excusable Delays
+
+Confidential – Page 14 of Y
+
+Neither party shall be liable for any delay or failure to perform its obligations under this Agreement to the extent that such delay or failure is caused by a force majeure event, which for purposes of this Agreement shall include but not be limited to acts of God, war, terrorism, civil unrest, labor strikes, natural disasters, governmental actions, and other events beyond the reasonable control of the affected party, notwithstanding any contrary terms set forth in the Service Level Agreement. The affected party shall promptly notify the other party of the occurrence of a force majeure event and shall use commercially reasonable efforts to mitigate the impact of such event on its performance, provided however that the affected party shall not be required to settle any labor disputes or take any actions that are contrary to its business interests. The obligations of the affected party shall be suspended for the duration of the force majeure event, and the parties shall negotiate in good faith any necessary adjustments to the terms of this Agreement to account for the impact of the event, notwithstanding any limitations on the affected party’s obligations set forth elsewhere in this Agreement. The provisions of this section shall not apply to any payment obligations under this Agreement, except where payment delays are directly attributable to the force majeure event. The provisions of this section shall survive termination or expiration of this Agreement to the extent necessary to address any ongoing impacts of force majeure events.
+
+Confidential – Page 15 of Y
+
+[PAGE BREAK]
+
+## Section 13: Notices, Contacts, and Communication
+
+Confidential – Page 16 of Y
+
+All notices required or permitted under this Agreement shall be in writing and shall be deemed duly given when delivered by hand, sent by prepaid certified mail, return receipt requested, or sent by recognized overnight courier service to the addresses specified by the parties in Exhibit E, which may be updated from time to time by written notice to the other party, notwithstanding any contrary terms set forth in the miscellaneous provisions. Notices sent by email shall be deemed duly given only upon receipt of a written acknowledgment from the receiving party, provided that such acknowledgment may be in the form of an automated response indicating successful delivery. The parties agree to maintain accurate contact information for the purposes of communication under this Agreement, and Provider shall designate a primary contact for all inquiries related to the Services, notwithstanding any limitations on Provider’s obligations to respond to inquiries set forth elsewhere in this Agreement. The provisions of this section shall survive termination or expiration of this Agreement to the extent necessary to ensure effective communication between the parties.
+
+Confidential – Page 17 of Y
+
+[PAGE BREAK]
+
+## Section 14: General Provisions and Final Clauses
+
+Confidential – Page 18 of Y
+
+Provider and Customer acknowledge that the provisions of this Agreement are intended to be severable and that the invalidity or unenforceability of any provision shall not affect the validity or enforceability of the remaining provisions, provided that such remaining provisions shall be construed in a manner that best reflects the original intent of the parties, notwithstanding any contrary implications arising from the severance of specific provisions. The parties further agree that this Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same agreement, notwithstanding the presence of multiple signature pages within the body of this Agreement. This Agreement is intended to benefit solely the parties hereto and shall not be construed to confer any rights or benefits upon any third parties, except as otherwise expressly provided herein or required by applicable law. The provisions of this section shall survive termination or expiration of this Agreement to the extent necessary to ensure the continued validity and enforceability of the remaining provisions.
+
+Confidential – Page 19 of Y
+
+[PAGE BREAK]
+
+## Section 15: Additional Exhibits and Signature Blocks
+
+Confidential – Page 20 of Y
+
+Exhibit F - Additional Terms and Conditions, Exhibit G - Provider’s Insurance Requirements, Exhibit H - Transition Assistance Plans, and any other documents referenced herein shall be deemed integral parts of this Agreement and shall be interpreted in conjunction with the terms and conditions set forth herein, notwithstanding any discrepancies between the main body of the Agreement and the attachments hereto. The parties acknowledge that the Exhibits and Addenda may be amended from time to time by mutual written agreement, provided however that any amendments shall be documented in writing and signed by both parties. The numbering of clauses within the Exhibits may differ from the numbering used in the main body of the Agreement, provided however that any cross-references to sections or clauses shall be interpreted in the context of the specific Exhibit or Addendum unless otherwise stated. The provisions of this section shall survive termination or expiration of this Agreement to the extent necessary to ensure the continued applicability of the Exhibits and Addenda.
+
+Customer: ______________________
+
+Provider: ______________________
+
+Date: ______________________
+
+Confidential – Page 21 of Y
+
+[PAGE BREAK]
+
+## Section 16: Final Signature Blocks
+
+Confidential – Page 22 of Y
+
+Customer: ______________________
+
+Provider: ______________________
+
+Date: ______________________
+
+Confidential – Page 23 of Y
+
+[PAGE BREAK]
+
+## Section 17: Last Page Signature Blocks
+
+Confidential – Page 24 of Y
+
+Customer: ______________________
+
+Provider: ______________________
+
+Date: ______________________
+
+Confidential – Page 25 of Y

@@ -1,0 +1,115 @@
+**Master Services Agreement**
+
+**Between:**
+
+**Customer:** [Insert Customer Name], a corporation organized under the laws of the State of [Insert State], having its principal place of business at [Insert Address].
+
+**Provider:** [Insert Provider Name], a corporation organized under the laws of the State of [Insert State], having its principal place of business at [Insert Address].
+
+**Effective Date:** __________
+
+[PAGE BREAK]
+
+**Confidential – Page 1 of X**
+
+**Section 1: Definitions, Scope, and Term**
+
+1.1 Definitions. As used in this Agreement, the following terms shall have the meanings set forth below, provided however that terms not otherwise defined herein shall be construed in accordance with their plain and ordinary meaning and not subject to interpretation inconsistent with U.S. federal or state law, notwithstanding any conflicting provision hereof or any ambiguity that might arise based on industry usage. "Customer Data" means all data and information, whether electronic or otherwise, provided by Customer to Provider in connection with the Services, including, without limitation, Personal Identifiable Information ("PII"), which shall include (i) any data identifying a natural person including but not limited to names, addresses, phone numbers, email addresses; (ii) financial account information, which, for purposes of this Agreement, shall mean any data related to credit cards, bank accounts, or other financial instruments; and (iii) health information, which shall include any data related to medical records, conditions, or treatments. "Effective Date" shall mean the date specified on the cover page of this Agreement, provided that if no date is specified, it shall be the date on which the last party signs this Agreement, not subject to any retroactive application unless expressly agreed in writing. "Services" shall mean the communication platform as a service ("CPaaS") offerings provided by Provider to Customer as set forth in the applicable Statement of Work ("SoW"), which may include, but are not limited to, text messaging services, voice and video communications, and related APIs, subject to changes in technology, market conditions, and regulatory environments as may arise from time to time.
+
+1.2 Scope. Provider shall render the Services to Customer in accordance with the terms and conditions set forth in this Agreement and in any SoW executed between the parties, subject to the limitations and exclusions expressly set forth herein or therein, as applicable. The scope of Services shall be determined based on the specific needs of Customer, which may evolve over time, requiring adjustments to the Service specifications, performance metrics, and delivery timelines, all of which shall be documented in the SoW and revised as necessary to reflect operational realities, market dynamics, and regulatory changes. Provider acknowledges and agrees that Customer retains the right to audit the scope of Services periodically to ensure compliance with quality standards, service level agreements ("SLAs"), and other performance criteria set forth in this Agreement or any SoW, provided that such audits shall not unreasonably interfere with Provider's business operations or impose undue burdens, except to the extent required to remedy any non-compliance identified during such audits.
+
+1.3 Term. The term of this Agreement shall commence on the Effective Date and continue for an initial period of three years, unless terminated earlier in accordance with the provisions of Section 16 herein, or extended by mutual written agreement of the parties, which may include automatic renewals subject to notice requirements and termination rights set forth in Section 16.1 and 16.2 respectively. Notwithstanding the foregoing, either party may terminate this Agreement for cause upon written notice to the other party, specifying the nature of the breach and allowing a thirty-day cure period, except where such breach is incapable of cure or involves a material violation of law, in which case termination shall be immediate and without further notice.
+
+**Confidential – Page 2 of X**
+
+**Section 2: Fees, Payment Terms, and Taxes**
+
+2.1 Fees. Customer shall pay Provider the fees set forth in the applicable SoW, which shall be calculated based on usage metrics, service tiers, and any additional charges for premium features or expedited service levels, provided however that fees may be adjusted periodically to reflect changes in Provider's cost structure, market conditions, or regulatory requirements, subject to the notification provisions set forth in Section 4.2 below. The fee schedule shall include base charges for standard service offerings, supplemented by variable charges for usage exceeding agreed thresholds, premium support services, or customization requests, all of which shall be invoiced monthly in arrears, unless otherwise specified in the SoW.
+
+2.2 Payment Terms. Payment shall be due within thirty days from the date of invoice, provided however that Customer may withhold payment of disputed amounts pending resolution of such disputes in accordance with the provisions of Section 17 herein. Provider shall submit invoices to Customer electronically, detailing the services provided, usage metrics, and applicable charges, along with any supporting documentation reasonably requested by Customer to validate the invoice amounts. Late payments shall accrue interest at a rate of one percent per month or the maximum rate permitted by law, whichever is lower, from the due date until paid in full, notwithstanding any disputes regarding invoice accuracy or service performance.
+
+2.3 Taxes. All fees payable under this Agreement are exclusive of applicable taxes, levies, or duties imposed by governmental authorities, including, without limitation, sales, use, value-added, or withholding taxes, which shall be borne by Customer, provided however that Provider shall be responsible for taxes based on its income or property. Customer shall provide Provider with any tax exemption certificates or other documentation necessary to establish its tax-exempt status, failing which Provider shall invoice applicable taxes on the services provided, subject to adjustment based on subsequent receipt of such documentation.
+
+**Confidential – Page 3 of X**
+
+**Section 3: Service Levels, Performance Metrics, and Remedies**
+
+3.1 Service Levels. Provider shall provide the Services in accordance with the service levels ("SLAs") set forth in the applicable SoW, which shall include metrics for uptime, response times, and resolution times, subject to exclusions for scheduled maintenance, force majeure events, or other circumstances beyond Provider's control, provided however that Provider shall use commercially reasonable efforts to minimize the impact of such exclusions on service performance. SLAs shall be monitored continuously by Provider using automated tools and processes, with performance reports provided to Customer on a monthly basis, detailing compliance with the agreed metrics and any deviations therefrom.
+
+3.2 Performance Metrics. The performance metrics applicable to the Services shall be set forth in the SoW and include but not be limited to uptime percentages, response time benchmarks, and resolution time targets, which shall be calculated based on industry standards, technical specifications, and Customer-specific requirements, notwithstanding any adjustments necessitated by changes in technology, market conditions, or regulatory requirements. Provider shall report performance metrics to Customer on a monthly basis, with detailed analyses of any deviations from agreed targets, along with corrective action plans to remedy such deviations and prevent recurrence.
+
+3.3 Remedies. As Customer's complete and exclusive remedy for Provider's failure to meet the SLAs, Customer shall be entitled to service credits as set forth in the SoW, provided that such credits shall be applied to future invoices and not refunded in cash, unless agreed otherwise in writing. Service credits shall be calculated based on the severity and duration of the SLA breach, subject to caps and limitations specified in the SoW, and shall not apply to exclusions for scheduled maintenance or force majeure events, notwithstanding any claims to the contrary. In addition to service credits, Customer retains the right to terminate the Agreement for cause based on persistent SLA breaches, subject to the notice and cure provisions set forth in Section 16.1 herein.
+
+**Confidential – Page 4 of X**
+
+**Section 4: Data Privacy, CPNI, and Security**
+
+4.1 Data Privacy Obligations. Provider shall comply with all applicable data privacy laws and regulations, including but not limited to the General Data Protection Regulation ("GDPR"), the California Consumer Privacy Act ("CCPA"), and any other federal, state, or international laws governing the processing, storage, or transfer of Customer Data, provided however that compliance obligations shall not extend to data elements excluded from statutory or regulatory definitions or exempted by Customer's explicit instructions. Provider shall implement and maintain appropriate technical and organizational measures to protect Customer Data against unauthorized access, disclosure, alteration, or destruction, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements.
+
+4.2 CPNI Compliance. Provider shall comply with all applicable laws and regulations governing the protection of Customer Proprietary Network Information ("CPNI"), including but not limited to the Telecommunications Act of 1996, the FCC's CPNI rules, and any other federal or state requirements, subject to exclusions for data elements not covered by CPNI definitions or exempted by Customer's explicit instructions. Provider shall log access to systems containing CPNI, provide training to personnel handling CPNI, and implement safeguards to prevent unauthorized access, disclosure, or use of CPNI, notwithstanding any limitations imposed by technology constraints or industry standards.
+
+4.3 Security Measures. Provider shall implement and maintain security measures designed to protect the integrity, availability, and confidentiality of Customer Data, including but not limited to encryption, access controls, intrusion detection systems, and regular security audits, subject to exclusions for data elements not covered by statutory or regulatory definitions or exempted by Customer's explicit instructions. Provider shall notify Customer of any security breaches involving Customer Data within twenty-four hours of detection, provide detailed incident reports, and take corrective actions to mitigate the impact of such breaches and prevent recurrence, notwithstanding any limitations imposed by technology constraints or industry standards.
+
+**Confidential – Page 5 of X**
+
+**Section 5: Intellectual Property, Licensing, and Ownership**
+
+5.1 Intellectual Property Rights. Customer acknowledges that Provider retains all rights, title, and interest in and to the Services, including but not limited to any software, tools, processes, and technologies used to deliver the Services, subject to the licensing rights granted to Customer under this Agreement, notwithstanding any claims to the contrary based on industry usage or customer modifications. Provider grants Customer a non-exclusive, non-transferable, and non-sublicensable license to use the Services for the term of this Agreement, subject to the scope limitations and usage restrictions set forth herein or in the applicable SoW.
+
+5.2 Licensing Terms. The licensing terms applicable to the Services shall be set forth in the applicable SoW and include but not be limited to usage rights, access limitations, and restrictions on modifications, notwithstanding any adjustments necessitated by changes in technology, market conditions, or regulatory requirements. Customer shall use the Services in compliance with the licensing terms and shall not reverse engineer, decompile, or otherwise attempt to derive the source code of any software provided by Provider, except to the extent permitted by law or expressly authorized in writing.
+
+5.3 Ownership of Deliverables. Provider acknowledges that Customer retains all rights, title, and interest in and to any deliverables created specifically for Customer under this Agreement, including but not limited to any reports, analyses, or customized software solutions, subject to the ownership rights granted to Provider under this Agreement, notwithstanding any claims to the contrary based on industry usage or provider modifications. The ownership terms applicable to the deliverables shall be set forth in the applicable SoW and include but not be limited to usage rights, access limitations, and restrictions on modifications, notwithstanding any adjustments necessitated by changes in technology, market conditions, or regulatory requirements.
+
+**Confidential – Page 6 of X**
+
+**Section 6: Indemnities, Liability, and Limitations**
+
+6.1 Indemnification by Provider. Provider shall indemnify, defend, and hold harmless Customer from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with (i) Provider's gross negligence or willful misconduct; (ii) any breach of Provider's representations, warranties, or obligations under this Agreement; or (iii) any infringement of intellectual property rights by the Services, provided that Customer shall promptly notify Provider of any such claims and cooperate with Provider in the defense thereof, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements.
+
+6.2 Indemnification by Customer. Customer shall indemnify, defend, and hold harmless Provider from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with (i) Customer's gross negligence or willful misconduct; (ii) any breach of Customer's representations, warranties, or obligations under this Agreement; or (iii) any infringement of intellectual property rights by Customer's data or usage of the Services, provided that Provider shall promptly notify Customer of any such claims and cooperate with Customer in the defense thereof, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements.
+
+6.3 Limitation of Liability. Except as explicitly set forth herein, neither party shall be liable to the other for any indirect, incidental, consequential, or punitive damages arising out of or in connection with this Agreement, including but not limited to lost profits, loss of use, or loss of data, whether based on breach of contract, tort, negligence, or otherwise, even if advised of the possibility of such damages, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements. The aggregate liability of each party under this Agreement shall be limited to the total fees paid by Customer to Provider under this Agreement during the twelve months preceding the event giving rise to the claim, provided however that such limitation shall not apply to indemnification obligations or claims arising from gross negligence or willful misconduct.
+
+**Confidential – Page 7 of X**
+
+**Section 7: Termination Rights and Dispute Resolution**
+
+7.1 Termination for Convenience. Either party may terminate this Agreement for convenience upon ninety days' written notice to the other party, provided however that such termination shall not relieve either party of its obligations to pay fees accrued prior to the effective date of termination, notwithstanding any claims to the contrary based on industry usage or customer modifications.
+
+7.2 Termination for Cause. Either party may terminate this Agreement for cause upon written notice to the other party, specifying the nature of the breach and allowing a thirty-day cure period, except where such breach is incapable of cure or involves a material violation of law, in which case termination shall be immediate and without further notice, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements.
+
+7.3 Dispute Resolution. Any disputes arising out of or in connection with this Agreement shall be resolved through binding arbitration conducted in accordance with the rules of the American Arbitration Association, provided however that either party may seek injunctive relief in a court of competent jurisdiction to prevent irreparable harm, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements. The arbitration proceedings shall be conducted in [Insert City] and shall be governed by the laws of the State of [Insert State], without regard to its conflict of laws principles.
+
+**Confidential – Page 8 of X**
+
+**Section 8: Appendices, Exhibits, and Miscellaneous Provisions**
+
+8.1 Appendices and Exhibits. The appendices and exhibits attached hereto are hereby incorporated by reference and shall be deemed a part of this Agreement, provided however that in the event of any conflict between the terms of this Agreement and the terms of any appendices or exhibits, the terms of this Agreement shall control, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements.
+
+8.2 Miscellaneous Provisions. This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements, representations, or understandings, whether written or oral, relating to the subject matter hereof, except as expressly set forth herein. Any amendments to this Agreement shall be in writing and signed by both parties, provided however that no waiver of any provision of this Agreement shall be effective unless in writing and signed by the party against whom enforcement is sought, notwithstanding any claims to the contrary based on industry usage or customer modifications.
+
+8.3 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of [Insert State], without regard to its conflict of laws principles, provided however that the parties expressly agree that the United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements.
+
+[Signature Block]
+
+[Insert Customer Name]  
+By: __________________________  
+Title: ________________________  
+Date: _________________________  
+
+[Insert Provider Name]  
+By: __________________________  
+Title: ________________________  
+Date: _________________________  
+
+**Confidential – Page 9 of X**
+
+**Section 9: Audit Rights, Compliance, and Reporting**
+
+Customer shall have the right to audit Provider's compliance with the terms of this Agreement, including but not limited to service performance, data privacy obligations, and financial reporting, subject to the notice and scheduling requirements set forth herein, provided however that such audits shall not unreasonably interfere with Provider's business operations or impose undue burdens, except to the extent required to remedy any non-compliance identified during such audits. Provider shall cooperate fully with Customer in the conduct of such audits and provide access to all relevant records, systems, and personnel, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements. Audit reports shall be prepared by Customer and shared with Provider within thirty days of audit completion, with findings and corrective action plans documented therein and subject to joint review and agreement, notwithstanding any claims to the contrary based on industry usage or provider modifications.
+
+**Confidential – Page 10 of X**
+
+**Section 10: Emergency Call Disclaimers, Technical Specifications**
+
+Provider shall include emergency call disclaimers in all relevant documentation provided to Customer, outlining the limitations and risks associated with using CPaaS services for emergency communications, including but not limited to potential delays, failures, or inaccuracies in call routing, location identification, or response times, notwithstanding any limitations imposed by technology constraints, industry standards, or regulatory requirements. Technical specifications for emergency call handling shall be provided to Customer and include detailed descriptions of system architecture, routing protocols, and redundancy measures, subject to changes in technology, market conditions, or regulatory requirements, provided however that any changes to technical specifications shall be communicated to Customer promptly and documented in the applicable SoW, notwithstanding any claims to the contrary based on industry usage or customer modifications.

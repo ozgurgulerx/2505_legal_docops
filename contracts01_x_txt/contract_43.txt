@@ -1,0 +1,224 @@
+**[COVER PAGE]**
+
+Master Services Agreement  
+Between  
+Customer: MegaCorp Enterprises, Inc.  
+Provider: TechSolutions CPaaS, LLC  
+Effective Date: __________  
+
+[PAGE BREAK]
+
+**Confidential – Page 1 of Y**
+
+**1. Definitions and Interpretation** The following terms as used herein shall have the meanings set forth below unless otherwise expressly provided therein, and it is understood that the terms and conditions of this Agreement shall govern the provision of services by Provider to Customer, including without limitation, the provision of communications platform as a service ("CPaaS") solutions, custom software solutions, and related support and maintenance services, provided however that such definitions may be subject to applicable law or regulatory guidance, including but not limited to, the requirements set forth by the Federal Communications Commission ("FCC") as well as the specific provisions of the Communications Act of 1934, as amended, and notwithstanding any other provision herein, the term "Confidential Information" shall include all proprietary data, trade secrets, and sensitive business information disclosed by one Party to the other, which shall in no case be limited to information orally communicated but shall expressly extend to written, electronic, and visual forms thereof, further provided that the term "Customer Data" shall mean all data, including personally identifiable information ("PII"), financial data, and health information, that is owned, controlled, or processed by Customer, however collected, whether processed by Provider or any third-party subcontractor, subject to the confidentiality obligations imposed under Section 5 herein, which obligations shall be perpetual and irrevocable except as may be required by law or court order, provided further that the term "Force Majeure" shall refer to any event or condition beyond the reasonable control of a Party, including acts of God, terrorism, war, riots, labor strikes, governmental regulations, or natural disasters, which materially affect the ability of either Party to perform its obligations, provided nevertheless that such events shall not include economic hardship or changes in market conditions, and the term "Service Levels" shall mean the performance metrics set forth in Exhibit A, which shall include uptime guarantees, response times, and remediation processes for service failures, further provided that these metrics shall be subject to periodic review and adjustment as necessary to reflect changes in technology or Customer requirements.
+
+**2. Scope of Services** The Provider shall deliver the services described in Exhibit B hereto, which shall include but not be limited to, CPaaS integrations, API development, and telecommunications compliance consulting, and Provider shall ensure that all services are rendered in accordance with the highest industry standards and in compliance with all applicable laws, regulations, and standards, including without limitation the Telephone Consumer Protection Act ("TCPA") and the regulatory framework governing emergency communications services, provided however that Provider shall not be responsible for third-party equipment or services used in conjunction with Provider's offerings unless such third-party components are expressly incorporated into Provider's deliverables, and notwithstanding the foregoing, Customer shall have the right to audit Provider's compliance with the terms of this Agreement, including all relevant service levels and operational standards, as set forth in Section 7 herein, and Provider hereby warrants that all services shall be performed in a professional and workmanlike manner, provided further that Provider shall maintain all necessary certifications and licenses required for the performance of its obligations, and shall promptly notify Customer of any changes thereto.
+
+**Confidential – Page 2 of Y**
+
+**3. Fees and Payment Terms** Customer shall pay Provider the fees set forth in Exhibit C hereto, which shall be calculated based on the service usage metrics detailed in the fee schedule, and fees shall be due and payable within thirty (30) days of receipt of invoice, provided however that Customer shall have the right to dispute any invoiced amount, and in the event of such dispute, Customer shall notify Provider in writing within fifteen (15) days of receipt of the disputed invoice, and the Parties shall use commercially reasonable efforts to resolve such dispute within thirty (30) days of notice, further provided that Provider shall not suspend or terminate services due to non-payment of disputed amounts, and notwithstanding any other provision herein, the fees set forth in Exhibit C shall be subject to adjustment based on changes in service usage or modifications to the scope of services, provided that any such adjustment shall be documented in a written amendment signed by both Parties, and the term "Late Payment Fees" shall refer to any interest or penalties applied to overdue amounts, calculated at the lesser of one percent (1%) per month or the maximum rate permitted by law, and Provider reserves the right to apply such fees to any undisputed amounts not paid when due, provided further that all fees shall be exclusive of applicable taxes, which shall be the sole responsibility of Customer.
+
+**4. Confidentiality and Data Privacy** Each Party acknowledges that in the course of performing its obligations under this Agreement, it may receive or have access to Confidential Information of the other Party, and each Party agrees to protect such Confidential Information using the same degree of care that it uses to protect its own confidential information, but in no event less than reasonable care, provided however that the receiving Party shall not disclose or use any Confidential Information except as necessary to perform its obligations under this Agreement or as expressly authorized in writing by the disclosing Party, notwithstanding any other provision herein, the foregoing obligations shall not apply to information that (i) is or becomes publicly available through no breach of this Agreement by the receiving Party, (ii) was known to the receiving Party prior to its disclosure by the disclosing Party, (iii) is independently developed by the receiving Party without use of or reference to the disclosing Party's Confidential Information, or (iv) is required to be disclosed by law or court order, provided that the receiving Party gives prompt notice thereof to the disclosing Party and takes reasonable steps to limit the scope of such disclosure, and the term "Data Privacy Obligations" shall refer to Provider's commitments to protect Customer Data, including compliance with applicable data protection laws such as the General Data Protection Regulation ("GDPR") and the California Consumer Privacy Act ("CCPA"), and Provider shall implement and maintain appropriate technical and organizational measures to protect Customer Data against unauthorized access, disclosure, or destruction, provided further that Provider shall promptly notify Customer of any data breaches or security incidents affecting Customer Data, and shall cooperate with Customer in investigating and remediating such incidents.
+
+**Confidential – Page 3 of Y**
+
+**5. Indemnities** Provider shall indemnify, defend, and hold harmless Customer, its affiliates, and their respective officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, or expenses, including reasonable attorneys' fees, arising out of or in connection with (i) any breach of Provider's representations, warranties, or covenants under this Agreement, (ii) any act or omission of Provider or its agents, subcontractors, or employees in connection with the performance of this Agreement, (iii) any infringement or misappropriation of any intellectual property rights by Provider's deliverables, provided however that the foregoing indemnity shall not apply to claims arising from Customer's negligence or willful misconduct, notwithstanding any other provision herein, Customer shall provide Provider with prompt written notice of any indemnifiable claim and shall permit Provider to control the defense and settlement of such claim, provided that Provider shall not settle any claim without Customer's prior written consent if such settlement would impose any liability or obligation on Customer, and Customer shall indemnify, defend, and hold harmless Provider from and against any and all claims, liabilities, damages, losses, or expenses arising out of or relating to (i) Customer's use of the services in violation of applicable law or regulation, (ii) any breach of Customer's representations, warranties, or covenants under this Agreement, provided further that each Party's indemnification obligations shall survive the termination or expiration of this Agreement.
+
+**6. Service Level Agreements (SLAs)** Provider shall ensure that the services meet the service levels set forth in Exhibit A hereto, which shall include minimum uptime percentages, response times for support requests, and remediation procedures for service failures, provided however that Provider shall not be liable for any failure to meet the service levels due to Force Majeure events or Customer's failure to perform its obligations under this Agreement, notwithstanding any other provision herein, Provider shall promptly notify Customer of any failure to meet the service levels and shall use commercially reasonable efforts to remedy such failure, further provided that in the event Provider fails to meet the service levels for three (3) consecutive months, Customer shall have the right to terminate this Agreement for cause as set forth in Section 9 herein, and the term "Service Credits" shall refer to any credits issued by Provider to Customer as compensation for service level failures, calculated as a percentage of the fees paid by Customer for the affected services, and Provider shall apply such credits to future invoices, provided further that Customer's receipt of service credits shall be its sole and exclusive remedy for service level failures.
+
+**Confidential – Page 4 of Y**
+
+**7. Audit Rights** Customer shall have the right to audit Provider's compliance with the terms of this Agreement, including but not limited to, Provider's adherence to the service levels, data privacy obligations, and security measures, provided however that such audits shall be conducted during Provider's normal business hours and upon reasonable prior notice to Provider, notwithstanding any other provision herein, Customer shall not conduct more than one (1) audit per calendar year unless required by law or regulatory authority, further provided that Customer shall bear its own costs of conducting any audit, and Provider shall cooperate with Customer and provide reasonable access to personnel, records, and systems necessary to facilitate the audit, provided further that Customer shall treat all information obtained in the course of an audit as Confidential Information and shall use such information solely for the purpose of verifying Provider's compliance with its obligations, and the term "Audit Findings" shall refer to any deficiencies identified by Customer during an audit, and Provider shall promptly address and rectify any such deficiencies to Customer's satisfaction.
+
+**8. Intellectual Property Rights** All intellectual property rights in and to the services, including but not limited to, software, documentation, and methodologies developed by Provider in connection with the performance of this Agreement, shall remain the sole and exclusive property of Provider, provided however that Provider hereby grants Customer a non-exclusive, non-transferable, royalty-free license to use such intellectual property solely for Customer's internal business purposes, notwithstanding any other provision herein, Customer shall not modify, reverse engineer, or distribute Provider's intellectual property without Provider's prior written consent, and the term "Customer Materials" shall refer to any data, content, or materials provided by Customer to Provider for use in connection with the services, and Customer shall retain all rights, title, and interest in and to Customer Materials, provided further that Provider shall use Customer Materials solely for the purpose of performing its obligations under this Agreement and shall not disclose or use Customer Materials for any other purpose without Customer's prior written consent.
+
+**Confidential – Page 5 of Y**
+
+**9. Termination** This Agreement may be terminated by either Party upon thirty (30) days' written notice to the other Party in the event of a material breach of the terms hereof by the other Party, provided however that the breaching Party shall have the opportunity to cure such breach within the notice period, notwithstanding any other provision herein, this Agreement may be terminated by Customer immediately upon written notice to Provider in the event Provider fails to meet the service levels for three (3) consecutive months as set forth in Section 6 herein, further provided that either Party may terminate this Agreement upon written notice to the other Party in the event of insolvency, bankruptcy, or other similar proceedings affecting the other Party, and the term "Termination for Convenience" shall refer to any termination of this Agreement by Customer without cause upon sixty (60) days' prior written notice to Provider, and Customer shall pay Provider for all services rendered up to the effective date of termination, provided further that upon termination of this Agreement, each Party shall return or destroy all Confidential Information of the other Party in its possession, and the provisions of this Agreement concerning confidentiality, indemnification, intellectual property rights, and audit rights shall survive any termination or expiration of this Agreement.
+
+**Confidential – Page 6 of Y**
+
+**10. Dispute Resolution** In the event of any dispute arising out of or relating to this Agreement, the Parties shall first attempt to resolve the dispute through informal negotiations, provided however that if the dispute is not resolved within thirty (30) days of notice thereof, either Party may submit the dispute to binding arbitration in accordance with the rules of the American Arbitration Association ("AAA"), notwithstanding any other provision herein, the arbitration shall be conducted by a single arbitrator selected by mutual agreement of the Parties, and the arbitration proceedings shall take place in the city where Customer's principal place of business is located, further provided that each Party shall bear its own costs of arbitration, and the term "Arbitration Award" shall refer to any decision or award rendered by the arbitrator, which shall be final and binding on the Parties and may be enforced in any court of competent jurisdiction, provided further that this Section shall not preclude either Party from seeking injunctive relief in a court of law to prevent irreparable harm.
+
+**Confidential – Page 7 of Y**
+
+**11. Compliance with Laws** Provider shall comply with all applicable laws, regulations, and standards in connection with the performance of its obligations under this Agreement, including but not limited to, U.S. telecommunications law, data protection laws, and export control regulations, provided however that Provider shall not be responsible for compliance with any laws applicable to Customer's business operations, notwithstanding any other provision herein, Provider shall promptly notify Customer of any changes to applicable laws or regulations that may affect Provider's ability to perform its obligations, further provided that Customer shall comply with all applicable laws and regulations in connection with its use of the services, including but not limited to, obtaining all necessary consents and authorizations for the processing of Customer Data by Provider, and the term "Regulatory Compliance Obligations" shall refer to Provider's commitments to adhere to applicable laws and regulations governing emergency call services, including specific requirements for call routing and location information as set forth by the FCC, provided further that Provider shall maintain all necessary certifications and licenses required for the performance of its obligations and shall promptly notify Customer of any changes thereto.
+
+**Confidential – Page 8 of Y**
+
+**12. Emergency Call Services** Provider shall ensure that all services comply with applicable regulatory requirements for emergency calls, including but not limited to, the provision of accurate location information and call routing capabilities, provided however that Provider shall not be responsible for any failure to provide emergency call services due to Customer's equipment or network configuration, notwithstanding any other provision herein, Provider shall promptly notify Customer of any issues affecting emergency call services and shall use commercially reasonable efforts to remedy such issues, further provided that Customer shall be responsible for ensuring that its equipment and network are configured to support emergency call services, and the term "Emergency Call Disclaimers" shall refer to any disclaimers issued by Provider regarding the limitations of emergency call services, including specific technical specifications and requirements for call routing and location information, provided further that Provider shall cooperate with Customer and regulatory authorities in investigating and remediating any issues affecting emergency call services.
+
+**Confidential – Page 9 of Y**
+
+**13. Data Localization and Export Controls** Provider shall comply with all applicable data localization and export control regulations in connection with the performance of its obligations under this Agreement, provided however that Provider shall not be responsible for compliance with any export control regulations applicable to Customer's business operations, notwithstanding any other provision herein, Provider shall ensure that Customer Data is stored and processed in accordance with applicable data localization requirements, including specific country-specific regulations governing the storage of sensitive data, further provided that Customer shall comply with all applicable export control regulations in connection with its use of the services, including but not limited to, obtaining all necessary licenses and authorizations for the transfer of Customer Data across international borders, and the term "Export Control Obligations" shall refer to Provider's commitments to adhere to applicable export control regulations, including specific requirements for encryption and data transfer as set forth by U.S. regulatory authorities, provided further that Provider shall promptly notify Customer of any changes to applicable export control regulations that may affect Provider's ability to perform its obligations.
+
+**Confidential – Page 10 of Y**
+
+**[Signature Block]**  
+(Customer Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**[Signature Block]**  
+(Provider Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**Confidential – Page 11 of Y**
+
+**14. Miscellaneous Provisions** The provisions of this Agreement shall be interpreted in accordance with the laws of the State of New York, without regard to its conflict of laws principles, provided however that any disputes arising under this Agreement shall be governed by the arbitration provisions set forth in Section 10 herein, notwithstanding any other provision herein, this Agreement constitutes the entire agreement between the Parties and supersedes all prior and contemporaneous agreements, representations, and understandings, whether oral or written, further provided that any amendment or modification to this Agreement shall be in writing and signed by both Parties, and the term "Survival of Provisions" shall refer to any provisions of this Agreement that, by their nature, should continue beyond the termination or expiration of this Agreement, including but not limited to, confidentiality, indemnification, intellectual property rights, and audit rights, provided further that the failure of either Party to enforce any provision of this Agreement shall not constitute a waiver thereof, and if any provision of this Agreement is held to be invalid or unenforceable, such provision shall be severed from the Agreement and the remaining provisions shall remain in full force and effect.
+
+**Confidential – Page 12 of Y**
+
+**15. Notices** Any notice required or permitted to be given under this Agreement shall be in writing and shall be deemed to have been duly given when delivered by hand, sent by registered mail with return receipt requested, or transmitted by electronic mail, provided however that notices shall be sent to the addresses set forth below or to such other address as a Party may designate in writing, notwithstanding any other provision herein, notices shall be effective upon receipt, further provided that each Party shall promptly notify the other Party of any changes to its contact information, and the term "Notice Requirements" shall refer to any specific requirements for the delivery or receipt of notices, including the inclusion of specific reference numbers or subject lines, provided further that the failure to provide timely notice as required under this Agreement shall not affect the validity or enforceability of any provision herein, and Provider shall be entitled to rely on any notice received from Customer without further inquiry.
+
+**Confidential – Page 13 of Y**
+
+**[Signature Block]**  
+(Customer Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**[Signature Block]**  
+(Provider Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**Confidential – Page 14 of Y**
+
+**16. Force Majeure** Neither Party shall be liable for any failure to perform its obligations under this Agreement due to Force Majeure events, including but not limited to, acts of God, terrorism, war, riots, labor strikes, governmental regulations, or natural disasters, provided however that the affected Party shall promptly notify the other Party of the occurrence of a Force Majeure event and shall use commercially reasonable efforts to mitigate the impact of such event, notwithstanding any other provision herein, the term "Force Majeure Obligations" shall refer to the affected Party's commitments to resume performance of its obligations as soon as reasonably practicable after the cessation of the Force Majeure event, further provided that the affected Party shall not be entitled to any extension of time for performance or any additional compensation due to Force Majeure events, and the provisions of this Section shall not apply to any obligations to pay money under this Agreement.
+
+**Confidential – Page 15 of Y**
+
+**17. Waiver and Severability** The failure of either Party to enforce any provision of this Agreement shall not constitute a waiver thereof, and no waiver shall be effective unless it is in writing and signed by the Party granting the waiver, provided however that any waiver of a breach of any provision of this Agreement shall not be deemed a waiver of any subsequent breach, notwithstanding any other provision herein, if any provision of this Agreement is held to be invalid or unenforceable by a court of competent jurisdiction, such provision shall be severed from the Agreement and the remaining provisions shall remain in full force and effect, further provided that the Parties shall negotiate in good faith to replace any invalid or unenforceable provision with a valid and enforceable provision that reflects the original intent of the Parties, and the term "Severability Obligations" shall refer to the Parties' commitments to maintain the integrity of the Agreement notwithstanding the severance of any provision herein.
+
+**Confidential – Page 16 of Y**
+
+**18. Entire Agreement and Amendments** This Agreement constitutes the entire agreement between the Parties and supersedes all prior and contemporaneous agreements, representations, and understandings, whether oral or written, provided however that any amendment or modification to this Agreement shall be in writing and signed by both Parties, notwithstanding any other provision herein, the term "Amendment Requirements" shall refer to any specific requirements for the amendment or modification of this Agreement, including the inclusion of specific reference numbers or subject lines, further provided that any amendment shall be effective upon execution by both Parties, and Provider shall be entitled to rely on any amendment received from Customer without further inquiry.
+
+**Confidential – Page 17 of Y**
+
+**[Signature Block]**  
+(Customer Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**[Signature Block]**  
+(Provider Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**Confidential – Page 18 of Y**
+
+**19. Counterparts** This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument, provided however that electronic signatures shall be deemed valid and enforceable, notwithstanding any other provision herein, the term "Counterpart Requirements" shall refer to any specific requirements for the execution of this Agreement in counterparts, including the inclusion of specific reference numbers or subject lines, further provided that each Party shall promptly deliver any executed counterpart to the other Party, and the failure to deliver any executed counterpart shall not affect the validity or enforceability of this Agreement.
+
+**Confidential – Page 19 of Y**
+
+**20. Governing Law and Jurisdiction** The provisions of this Agreement shall be interpreted in accordance with the laws of the State of New York, without regard to its conflict of laws principles, provided however that any disputes arising under this Agreement shall be governed by the arbitration provisions set forth in Section 10 herein, notwithstanding any other provision herein, the term "Jurisdictional Requirements" shall refer to any specific requirements for the resolution of disputes under this Agreement, including the inclusion of specific reference numbers or subject lines, further provided that each Party shall submit to the jurisdiction of the courts of the State of New York for the resolution of any disputes not subject to arbitration, and the failure to submit to such jurisdiction shall not affect the validity or enforceability of any provision herein.
+
+**Confidential – Page 20 of Y**
+
+**[Signature Block]**  
+(Customer Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**[Signature Block]**  
+(Provider Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**Confidential – Page 21 of Y**
+
+**Exhibit A: Service Levels**  
+| Service | Uptime Guarantee | Response Time | Remediation Process |  
+|---------|-----------------|---------------|---------------------|  
+| CPaaS Integration | 99.9% | 24 hours | Issue resolution within 72 hours |  
+| API Development | 99.5% | 48 hours | Issue resolution within 96 hours |  
+| Compliance Consulting | 98% | 72 hours | Issue resolution within one week |  
+
+**Confidential – Page 22 of Y**
+
+**Exhibit B: Scope of Services**  
+| Service Description | Deliverables | Milestones |  
+|---------------------|-------------|------------|  
+| CPaaS Integration | Custom APIs | Phase 1: Integration Testing |  
+| API Development | Full API Suite | Phase 2: User Acceptance Testing |  
+| Compliance Consulting | Regulatory Reports | Phase 3: Final Delivery |  
+
+**Confidential – Page 23 of Y**
+
+**Exhibit C: Fee Schedule**  
+| Service | Fee Structure | Payment Terms |  
+|---------|--------------|---------------|  
+| CPaaS Integration | Monthly Subscription | Net 30 |  
+| API Development | Project-Based | Upon Delivery |  
+| Compliance Consulting | Hourly Rate | Net 15 |  
+
+**Confidential – Page 24 of Y**
+
+**[Signature Block]**  
+(Customer Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**[Signature Block]**  
+(Provider Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**Confidential – Page 25 of Y**
+
+**21. Miscellaneous** It is understood and agreed that this Agreement shall not confer any rights or remedies upon any third party other than the Parties hereto and their respective successors and permitted assigns, provided however that the Parties shall cooperate in good faith to resolve any issues arising under this Agreement and shall not unreasonably withhold or delay consent to any request for amendment or modification, notwithstanding any other provision herein, the term "Third Party Beneficiaries" shall refer to any third parties expressly granted rights under this Agreement, further provided that any provision herein may be amended or modified only in writing and signed by both Parties, and the failure of either Party to enforce any provision of this Agreement shall not constitute a waiver thereof, and if any provision of this Agreement is held to be invalid or unenforceable, such provision shall be severed from the Agreement and the remaining provisions shall remain in full force and effect.
+
+**Confidential – Page 26 of Y**
+
+**[Signature Block]**  
+(Customer Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**[Signature Block]**  
+(Provider Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**Confidential – Page 27 of Y**
+
+**Exhibit D: Additional Terms and Conditions**  
+| Condition | Obligation | Consequence |  
+|----------|------------|-------------|  
+| Data Privacy Compliance | Provider must adhere to GDPR standards | Breach results in penalties |  
+| Service Level Adjustments | Provider may adjust SLAs upon mutual agreement | Non-compliance results in service credits |  
+
+**Confidential – Page 28 of Y**
+
+**[Signature Block]**  
+(Customer Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**[Signature Block]**  
+(Provider Signature)  
+Name:_________________  
+Title:_________________  
+Date:_________________
+
+**Confidential – Page 29 of Y**
+
+**22. Final Provisions** The Parties agree to execute any documents and take any actions necessary to implement the terms of this Agreement, provided however that neither Party shall be liable for any failure to perform its obligations due to circumstances beyond its reasonable control, notwithstanding any other provision herein, the term "Implementation Obligations" shall refer to the Parties' commitments to cooperate in good faith to ensure the effective implementation of this Agreement, further provided that any provision herein may be amended or modified only in writing and signed by both Parties, and the failure of either Party to enforce any provision of this Agreement shall not constitute a waiver thereof, and if any provision of this Agreement is held to be invalid or unenforceable, such provision shall be severed from the Agreement and the remaining provisions shall remain in full force and effect.
+
+**Confidential – Page 30 of Y**

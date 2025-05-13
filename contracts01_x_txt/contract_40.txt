@@ -1,0 +1,53 @@
+**Master Services Agreement**
+
+**Between**  
+**Customer: [Large U.S.-Based Enterprise]**  
+**Provider: [Fictitious Technology Provider]**  
+**Effective Date: __________**
+
+[PAGE BREAK]
+
+**Confidential – Page 1 of 30**  
+**Definitions and Scope**
+
+1.1 **Definitions** - In the context of this Agreement, certain terms shall have the meanings set forth herein, including without limitation: "Customer Data" shall mean any data, information, or material provided or submitted by Customer in the course of utilizing the Services; "Personal Identifiable Information (PII)" refers to data that could reasonably be used to identify a natural person; "Services" shall mean the communications platform as a service (CPaaS) offerings provided by Provider to Customer as detailed in Exhibit A; "Emergency Services" shall entail the capability to route communications to emergency service providers, subject to technical specifications and limitations as detailed in Section 9.2(a)(iii).
+
+1.2 **Scope of Services** - Provider agrees to furnish the Services to Customer, which shall include, but not be limited to, various telecommunications functionalities, API access, integration support, and maintenance obligations, further subject to terms and conditions herein. The Services shall be provided in accordance with any applicable laws and regulations, including the Communications Act and related Federal Communications Commission (FCC) directives, but Provider's obligations shall not extend beyond those explicitly stipulated herein, provided however that Customer retains the right to audit Provider's compliance with such regulatory requirements under Section 14.3(a)(ii)(C)(2).
+
+1.3 **Service Levels** - Provider shall maintain service levels as specified in Exhibit B, ensuring 99.95% uptime, excluding scheduled maintenance windows and Force Majeure events. Provider's failure to meet such service levels shall result in applicable service credits as Customer's sole and exclusive remedy, notwithstanding any conflicting provisions set forth in Sections 7.4(b)(i)(A) and 12.6(d)(iv).
+
+1.4 **Changes to Services** - Customer may request changes to the scope or nature of the Services, which Provider shall consider and respond to within a reasonable timeframe. Any modifications agreed upon by both parties shall be documented in a written amendment to this Agreement, executed by both parties, provided however that Provider reserves the right to reject any changes that materially affect its ability to comply with existing service levels without incurring additional costs not agreed to by Customer. 
+
+1.5 **Exclusions and Limitations** - Notwithstanding the foregoing, Services shall exclude any activities not expressly covered herein, including but not limited to third-party telecommunication services, non-CPaaS related software solutions, or any data migration services unless otherwise agreed in writing. The limitations set forth in this Section shall apply unless waived by Customer in accordance with Section 18.4(c)(vii).
+
+[PAGE BREAK]
+
+**Confidential – Page 2 of 30**  
+**Fees and Payment Terms**
+
+2.1 **Fee Structure** - Provider shall invoice Customer monthly in arrears for Services rendered according to the fee schedule attached hereto as Exhibit C, which details base fees, usage charges, and applicable taxes. Fees are subject to adjustment based on changes in service volumes or scope, provided that Provider shall notify Customer at least thirty (30) days in advance of any such adjustments, except where immediate adjustments are necessitated by regulatory changes or extraordinary circumstances, not limited to but including any material increase in operational costs directly attributable to compliance with international data protection laws.
+
+2.2 **Payment Terms** - Customer shall remit payment within thirty (30) days from the date of invoice receipt. Failure to pay timely shall result in interest accruing at the rate of 1.5% per month or the maximum rate permitted by law, whichever is lower, commencing from the due date until payment is received. Provider reserves the right to suspend Services upon Customer's failure to pay undisputed invoices exceeding sixty (60) days past due, subject to Section 5.3(a)(i)(B).
+
+2.3 **Taxes and Duties** - All fees are exclusive of applicable sales, use, or other taxes, duties, or levies, which shall be borne by Customer except where Customer provides satisfactory evidence of tax exemption. Provider shall be responsible for taxes based on its net income, personnel, and property, but not those arising from the provision of Services to Customer, provided that Customer shall indemnify Provider for any tax liabilities incurred due to Customer's failure to comply with its obligations under this Agreement.
+
+2.4 **Disputed Charges** - Customer shall notify Provider in writing of any disputed charges within fifteen (15) days of receipt of invoice, providing detailed information regarding the nature of the dispute. Provider shall investigate such disputes and respond within thirty (30) days, during which time Customer shall have the right to withhold payment of the disputed portion. Resolution shall be subject to the provisions of Section 17.5(b)(iii)(G).
+
+2.5 **Fee Adjustments for Regulatory Compliance** - Provider reserves the right to adjust fees as necessary to comply with changes in regulatory requirements that impact Service delivery costs, provided however that such adjustments shall be communicated to Customer with reasonable notice and shall not exceed a five percent (5%) increase per annum except where specified elsewhere in this Agreement.
+
+[PAGE BREAK]
+
+**Confidential – Page 3 of 30**  
+**Intellectual Property Rights**
+
+3.1 **Ownership** - All intellectual property rights in the Services and any related documentation, software, or tools provided by Provider shall remain the sole property of Provider or its licensors. Customer acknowledges that it acquires no rights in such intellectual property except as expressly granted herein, and agrees to refrain from any actions that may infringe upon Provider's rights, notwithstanding the provisions of Section 4.3(a)(v)(C).
+
+3.2 **License Grant** - Provider hereby grants Customer a non-exclusive, non-transferable, revocable license to use the Services for its internal business purposes, subject to the terms and conditions of this Agreement. This license shall not include the right to sublicense or distribute the Services, except where expressly permitted in writing by Provider, provided that any such sublicensing shall be subject to Provider's sole discretion and additional terms as may be stipulated.
+
+3.3 **Third-Party Materials** - The Services may include or interoperate with third-party materials or services, for which Provider grants no warranties or representations. Customer's use of such third-party materials shall be subject to the applicable terms and conditions set forth by the respective third-party providers, and Customer shall indemnify and hold Provider harmless from any claims arising from Customer's use of such materials, unless expressly covered by Provider's indemnity obligations under Section 11.2(b)(iv).
+
+3.4 **Feedback and Improvements** - Any feedback, suggestions, or improvements proposed by Customer shall be deemed non-confidential and Provider shall have the right to incorporate such feedback into the Services without obligation or compensation to Customer. Customer shall execute any documents necessary to effectuate Provider's ownership of such improvements, notwithstanding any conflicting terms elsewhere in this Agreement.
+
+3.5 **Infringement Claims** - Provider shall defend Customer against any claims alleging that the Services infringe upon third-party intellectual property rights, provided that Customer promptly notifies Provider of such claims and cooperates fully in the defense thereof. Provider's liability shall be limited to the remedies specified in Section 13.4(a)(vii)(B)(3)(α), excluding any claims arising from modifications made by Customer without Provider's consent.
+
+[PAGE BREAK]

@@ -1,0 +1,179 @@
+# MASTER SERVICES AGREEMENT
+
+*THIS MASTER SERVICES AGREEMENT ("Agreement") is entered into as of the __________ ("Effective Date") by and between "**CUSTOMER NAME**," a corporation organized under the laws of the United States with principal offices located at **Customer Address**, ("Customer") and "**PROVIDER NAME**," a corporation organized under the laws of __________ with principal offices located at **Provider Address**, ("Provider").*
+
+[PAGE BREAK]
+
+---
+
+## 1. DEFINITIONS AND INTERPRETATION
+
+For the purposes of this Agreement, the following terms shall have the meanings set forth below and apply equally to both singular and plural forms. The term "Affiliate" shall mean any entity that directly or indirectly controls, is controlled by, or is under common control with the subject entity; "Control" for purposes of this definition shall mean the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of an entity, whether through the ownership of voting securities, by contract, or otherwise; The term "Confidential Information" shall mean all information disclosed by a party ("Disclosing Party") to the other party ("Receiving Party"), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure; "Data Protection Legislation" means all applicable laws and regulations relating to the processing of personal data and privacy that may exist in any relevant jurisdiction, including without limitation the United States Privacy Act, General Data Protection Regulation (GDPR), and any other legislation relating to data protection and privacy; The term "Service Level Agreement" or "SLA" shall refer to the schedule attached hereto as Exhibit A, which sets forth the specific performance standards and obligations of Provider regarding the services; "Services" shall mean the communication platform as a service ("CPaaS") and any other related services provided by Provider to Customer as described in Schedule B hereto; "Term" means the period commencing on the Effective Date and continuing until terminated as provided herein; "Territory" means the United States and any other jurisdictions mutually agreed upon in writing by the parties; "CPNI" refers to Customer Proprietary Network Information as defined under applicable U.S. telecommunications law.
+
+## 2. SCOPE OF SERVICES
+
+Provider shall provide Customer with the Services described in this Agreement and any applicable Schedules attached hereto; The Services shall include, but not be limited to, the provision of CPaaS solutions that enable communication capabilities across various platforms as detailed in Schedule C; Provider shall ensure that Services are delivered in accordance with the SLA attached hereto as Exhibit A, which outlines minimum performance metrics, response times, and uptime commitments; Provider acknowledges that failure to meet the SLA requirements shall entitle Customer to remedies specified therein; Customer shall have the right to request modifications or enhancements to the Services, provided however that any such changes shall be subject to negotiation and mutual agreement between the parties; Provider shall comply with all applicable laws and regulations, including those pertaining to telecommunications and data privacy, in the performance of its obligations under this Agreement; Customer reserves the right to audit Provider's compliance with applicable laws and regulations, including the safeguarding of CPNI, at any time during the Term, upon reasonable notice; Provider shall cooperate fully with any such audit and provide access to relevant documentation and systems.
+
+## 3. FEES AND PAYMENT TERMS
+
+Subject to the terms and conditions set forth herein, Customer shall pay Provider the fees specified in Schedule D attached hereto; The fees shall be invoiced monthly in arrears based on actual usage, as measured and reported by Provider; Payment shall be due within thirty (30) days from the date of invoice, provided that Customer shall have the right to dispute any invoice that it reasonably believes to be inaccurate; In the event of a dispute, Customer shall pay the undisputed portion of the invoice and notify Provider of the disputed amount in writing; Provider shall provide documentation to support the accuracy of the disputed invoice amount within ten (10) business days of receiving notification from Customer; The parties shall negotiate in good faith to resolve any disputes regarding fees; Notwithstanding the foregoing but subject to applicable law, Customer shall have the right to withhold payment of disputed amounts pending resolution of the dispute; Provider shall not suspend or terminate the Services for non-payment in respect of any disputed amounts if Customer is reasonably contesting payment; The fees set forth in Schedule D shall be exclusive of any sales, use, value-added, or similar taxes, which shall be the responsibility of Customer; Customer shall provide Provider with any necessary exemption certificates or other documentation to claim relief from such taxes; Provider shall comply with Customer's reasonable procedures for invoicing and payment processing.
+
+## 4. INTELLECTUAL PROPERTY RIGHTS
+
+The parties acknowledge and agree that all intellectual property rights in and to the Services, including but not limited to patents, copyrights, trademarks, trade secrets, and any other proprietary rights, shall remain the exclusive property of Provider; Customer shall have a limited, non-transferable, non-exclusive license to use the Services solely for its own internal business purposes during the Term; Provider warrants that the Services do not infringe upon any third-party intellectual property rights, provided however that such warranty shall not apply to any modifications or enhancements made by Customer without Provider's authorization; In the event of a third-party claim of infringement, Provider shall indemnify and hold harmless Customer against such claims in accordance with the indemnification provisions set forth herein; Customer shall retain all rights, title, and interest in any data or materials provided by Customer to Provider in connection with the Services; Provider shall have no rights to such data or materials other than as expressly provided in this Agreement; Provider shall not use, disclose, or otherwise exploit Customer's data or materials for any purpose other than the performance of its obligations hereunder; Customer shall have the right to terminate this Agreement upon written notice to Provider if Provider breaches any of the intellectual property provisions herein.
+
+## 5. DATA PRIVACY AND PROTECTION
+
+Provider acknowledges that in the course of providing Services, it may process personal data on behalf of Customer and agrees to comply with all applicable Data Protection Legislation; Provider shall implement appropriate technical and organizational measures to protect personal data against unauthorized or unlawful processing and against accidental loss, destruction, damage, alteration, or disclosure; Provider shall promptly notify Customer in the event of any data breach affecting Customer's personal data and provide reasonable assistance to Customer in managing the breach; Customer shall have the right to audit Provider's data protection practices and systems to ensure compliance with applicable laws and regulations; Provider shall provide Customer with access to relevant documentation, systems, and personnel as necessary to conduct such audits; Provider shall not transfer Customer's personal data outside the Territory without Customer's prior written consent, subject to applicable data transfer restrictions and requirements; Provider shall ensure that any sub-processors engaged in the processing of Customer's personal data are bound by data protection obligations no less stringent than those set forth herein; Provider shall indemnify and hold harmless Customer against any claims, losses, damages, or expenses arising from Provider's breach of its data protection obligations.
+
+## 6. SERVICE LEVEL AGREEMENTS AND REMEDIES
+
+Provider shall ensure that the Services meet or exceed the performance standards specified in the SLA attached hereto as Exhibit A; The SLA shall include, at a minimum, uptime commitments, response times, and resolution times for service-related incidents; Provider shall monitor the performance of the Services and provide regular reports to Customer detailing compliance with the SLA; In the event Provider fails to meet the SLA requirements, Customer shall be entitled to the remedies specified therein, which may include service credits, termination rights, and other remedies as applicable; Provider shall cooperate with Customer in the identification and resolution of service-related issues and implement corrective actions as necessary to meet or exceed the SLA requirements; Provider shall provide Customer with access to monitoring tools and systems used to measure compliance with the SLA; Customer shall have the right to audit Provider's performance against the SLA requirements at any time during the Term, upon reasonable notice; Provider shall indemnify and hold harmless Customer against any losses, damages, or expenses incurred as a result of Provider's failure to meet the SLA requirements.
+
+## 7. INDEMNIFICATION
+
+Provider shall indemnify, defend, and hold harmless Customer and its Affiliates, officers, directors, employees, agents, and representatives from and against any and all claims, liabilities, damages, losses, costs, and expenses, including reasonable attorney's fees, arising from or related to: (a) Provider's breach of any representation, warranty, or covenant set forth in this Agreement; (b) Provider's violation of any applicable laws or regulations; (c) any claim that the Services infringe upon any third-party intellectual property rights; (d) any claim related to Provider's processing of personal data in violation of applicable Data Protection Legislation; Provider's indemnification obligations shall be contingent upon Customer promptly notifying Provider of any claims subject to indemnification; Provider shall have the right to control the defense and settlement of any such claims, provided however that Provider shall not settle any claim without Customer's prior written consent if such settlement would impose any liability or obligation upon Customer; Customer shall cooperate with Provider in the defense and settlement of any claims subject to indemnification and provide reasonable assistance as requested by Provider.
+
+## 8. LIMITATION OF LIABILITY
+
+Except for liability arising from Provider's indemnification obligations or a breach of confidentiality, in no event shall either party be liable to the other for any indirect, incidental, special, punitive, or consequential damages, including but not limited to loss of profits, revenue, data, or use, incurred by either party or any third party, whether in an action in contract or tort, arising from this Agreement, even if the party has been advised of the possibility of such damages; Each party's aggregate liability arising out of or related to this Agreement shall not exceed the total amount paid by Customer to Provider under this Agreement during the twelve (12) months preceding the event giving rise to the claim; The limitations of liability set forth herein shall not apply to damages arising from Provider's gross negligence or willful misconduct.
+
+## 9. TERM AND TERMINATION
+
+This Agreement shall commence on the Effective Date and continue for an initial term of three (3) years unless terminated earlier as provided herein; Either party may terminate this Agreement upon thirty (30) days' written notice to the other party in the event of a material breach that is not cured within such notice period; Customer may terminate this Agreement for convenience upon sixty (60) days' written notice to Provider; Upon termination of this Agreement, Provider shall cease all use of Customer's Confidential Information and return or destroy all such information in its possession, subject to applicable legal retention requirements; Customer shall pay Provider all fees accrued and owing as of the effective date of termination; The provisions of this Agreement that by their nature should survive termination shall survive, including but not limited to confidentiality, indemnification, and limitation of liability.
+
+## 10. CONFIDENTIALITY
+
+Each party agrees to maintain the confidentiality of all Confidential Information disclosed by the other party and not to disclose such information to any third party without the prior written consent of the Disclosing Party; The Receiving Party shall use the Confidential Information solely for the purposes of performing its obligations under this Agreement; The Receiving Party shall implement reasonable measures to protect the confidentiality of the Confidential Information, including restricting access to personnel who have a need to know such information for the purposes of this Agreement; The Receiving Party shall promptly notify the Disclosing Party in the event of any unauthorized disclosure or use of Confidential Information and cooperate with the Disclosing Party in mitigating any potential damage; The obligations of confidentiality shall not apply to information that is: (a) publicly available through no fault of the Receiving Party; (b) lawfully obtained from a third party without breach of any confidentiality obligation; (c) independently developed by the Receiving Party without reference to the Confidential Information; or (d) required to be disclosed by law, regulation, or court order, provided that the Receiving Party gives prompt notice to the Disclosing Party and cooperates in seeking a protective order.
+
+---
+
+*Confidential – Page X of Y*
+
+---
+
+## 11. AUDIT RIGHTS
+
+Customer shall have the right, at its own expense and upon reasonable notice, to audit Provider's compliance with its obligations under this Agreement, including but not limited to compliance with applicable laws, data protection practices, and performance against SLA requirements; Provider shall provide Customer with access to relevant documentation, systems, and personnel as necessary to conduct such audits; Customer shall not disrupt Provider's operations or unreasonably interfere with Provider's business activities during the audit process; Provider shall cooperate with Customer and provide reasonable assistance in the conduct of such audits; Customer shall have the right to engage third-party auditors to conduct audits on its behalf, subject to Provider's prior written consent, which shall not be unreasonably withheld; Provider shall implement corrective actions as necessary to address any findings resulting from the audit and report progress to Customer on a regular basis; Customer's audit rights shall not extend to Provider's internal financial records or proprietary information unrelated to the performance of its obligations under this Agreement.
+
+## 12. COMPLIANCE WITH TELECOMMUNICATIONS LAW
+
+Provider shall comply with all applicable U.S. telecommunications laws and regulations, including those related to the safeguarding of CPNI; Provider shall implement reasonable measures to protect CPNI and prevent unauthorized access, use, or disclosure; Provider shall provide Customer with access to monitoring tools and systems used to measure compliance with CPNI protection requirements; Customer shall have the right to audit Provider's compliance with CPNI protection requirements at any time during the Term, upon reasonable notice; Provider shall cooperate with Customer in the identification and resolution of any compliance-related issues and implement corrective actions as necessary; Provider shall indemnify and hold harmless Customer against any losses, damages, or expenses incurred as a result of Provider's failure to comply with CPNI protection requirements; Provider shall promptly notify Customer in the event of any unauthorized access, use, or disclosure of CPNI and provide reasonable assistance in managing the incident.
+
+## 13. DATA LOCALIZATION AND EXPORT CONTROLS
+
+Provider shall comply with all applicable data localization and export control laws and regulations, including those relating to the transfer of personal data across national borders; Provider shall not transfer Customer's personal data outside the Territory without Customer's prior written consent, subject to applicable data transfer restrictions and requirements; Provider shall ensure that any sub-processors engaged in the processing of Customer's personal data are bound by data protection obligations no less stringent than those set forth herein; Provider shall indemnify and hold harmless Customer against any claims, losses, damages, or expenses arising from Provider's breach of its data localization and export control obligations; Provider shall provide Customer with documentation and assurances necessary to demonstrate compliance with applicable data localization and export control laws and regulations; Customer shall have the right to audit Provider's compliance with data localization and export control requirements at any time during the Term, upon reasonable notice; Provider shall cooperate with Customer in the conduct of such audits and provide reasonable assistance as requested.
+
+## 14. DISPUTE RESOLUTION
+
+In the event of any dispute arising out of or related to this Agreement, the parties shall attempt to resolve the dispute through good faith negotiation; If the parties are unable to resolve the dispute through negotiation within thirty (30) days, either party may initiate mediation by providing written notice to the other party; The mediation shall be conducted by a mutually agreed upon mediator in a location convenient to both parties; If mediation does not resolve the dispute within sixty (60) days, either party may initiate binding arbitration in accordance with the rules of the American Arbitration Association; The arbitration shall be conducted by a single arbitrator and held in a location convenient to both parties; The arbitrator's decision shall be final and binding on the parties and may be enforced in any court of competent jurisdiction; The parties shall share the costs of mediation and arbitration equally, except that each party shall bear its own attorney's fees; Notwithstanding the foregoing, either party may seek injunctive relief in a court of competent jurisdiction to prevent or enjoin any breach of this Agreement.
+
+---
+
+*Confidential – Page X of Y*
+
+---
+
+## 15. EMERGENCY CALL DISCLOSURES
+
+Provider acknowledges the importance of ensuring access to emergency services and agrees to comply with all applicable laws and regulations relating to emergency call routing and handling; Provider shall implement measures to ensure that emergency calls are routed to the appropriate public safety answering point (PSAP) in accordance with applicable technical specifications; Provider shall provide Customer with documentation detailing the emergency call routing and handling procedures implemented in connection with the Services; Customer shall have the right to audit Provider's compliance with emergency call routing and handling requirements at any time during the Term, upon reasonable notice; Provider shall cooperate with Customer in the conduct of such audits and provide reasonable assistance as requested; Provider shall indemnify and hold harmless Customer against any losses, damages, or expenses incurred as a result of Provider's failure to comply with emergency call routing and handling requirements; Provider shall promptly notify Customer of any changes to the emergency call routing and handling procedures and provide updated documentation as necessary.
+
+---
+
+*Confidential – Page X of Y*
+
+---
+
+## 16. WARRANTIES
+
+Provider warrants that the Services will be performed in a professional and workmanlike manner in accordance with industry standards; Provider warrants that it has all necessary rights, licenses, and authorizations to provide the Services to Customer; Provider warrants that the Services do not infringe upon any third-party intellectual property rights, provided however that such warranty shall not apply to any modifications or enhancements made by Customer without Provider's authorization; Provider warrants that it will comply with all applicable laws and regulations in the performance of its obligations under this Agreement; Provider warrants that it will implement reasonable measures to protect personal data against unauthorized or unlawful processing and against accidental loss, destruction, damage, alteration, or disclosure; Provider warrants that it will provide Customer with access to monitoring tools and systems used to measure compliance with the Service Level Agreement; Provider warrants that it will cooperate with Customer in the identification and resolution of service-related issues and implement corrective actions as necessary to meet or exceed the Service Level Agreement requirements.
+
+## 17. FORCE MAJEURE
+
+Neither party shall be liable for any failure or delay in the performance of its obligations under this Agreement to the extent such failure or delay is caused by events beyond the reasonable control of the party affected, including but not limited to acts of God, war, terrorism, strikes, labor disputes, fire, flood, earthquake, or other natural disasters; The party affected by a force majeure event shall promptly notify the other party in writing and provide reasonable details regarding the nature and expected duration of the event; The party affected by a force majeure event shall use its best efforts to mitigate the impact of the event and resume performance of its obligations as soon as reasonably possible; If a force majeure event continues for a period of thirty (30) days or more, either party may terminate this Agreement upon written notice to the other party; The provisions of this Agreement that by their nature should survive termination shall survive, including but not limited to confidentiality, indemnification, and limitation of liability.
+
+---
+
+*Confidential – Page X of Y*
+
+---
+
+## 18. NOTICES
+
+All notices, requests, consents, claims, demands, waivers, and other communications under this Agreement shall be in writing and shall be delivered by personal delivery, overnight courier, facsimile, or email, provided that delivery by facsimile or email shall be followed by delivery of a hard copy by overnight courier; Notices shall be deemed given when received by the party to whom such notice is directed; Notices shall be sent to the addresses set forth below or to such other address as a party may designate by notice to the other party:
+
+**CUSTOMER NAME:**  
+**Customer Address**  
+Attn: **Customer Contact**  
+Email: **Customer Email**  
+
+**PROVIDER NAME:**  
+**Provider Address**  
+Attn: **Provider Contact**  
+Email: **Provider Email**  
+
+## 19. MISCELLANEOUS
+
+This Agreement shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of laws principles; This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements, representations, and understandings, whether written or oral, relating thereto; No amendment or modification of this Agreement shall be effective unless in writing and signed by authorized representatives of both parties; No waiver of any provision of this Agreement shall be deemed a waiver of any other provision, nor shall any waiver constitute a continuing waiver; If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect; Provider shall not assign or transfer any of its rights or obligations under this Agreement without the prior written consent of Customer; Customer may assign or transfer this Agreement to an Affiliate or successor in interest without Provider's consent; The parties acknowledge and agree that the headings used in this Agreement are for convenience only and shall not affect the interpretation of this Agreement.
+
+---
+
+*Confidential – Page X of Y*
+
+---
+
+## EXHIBIT A: SERVICE LEVEL AGREEMENT
+
+### Performance Metrics
+
+| Metric              | Specification                   | Measurement Period | Remedies for Non-compliance   |
+|---------------------|---------------------------------|--------------------|-------------------------------|
+| Uptime              | 99.99% monthly                  | 1 calendar month   | Service credits               |
+| Response Time       | < 30 minutes for critical issues| Incident occurrence| Escalation procedures         |
+| Resolution Time     | < 4 hours for critical issues   | Incident occurrence| Service credits, termination rights |
+
+## EXHIBIT B: FEE SCHEDULE
+
+### Fee Structure
+
+| Service Component   | Monthly Fee                     | Usage Cap          | Additional Charges            |
+|---------------------|---------------------------------|--------------------|-------------------------------|
+| Basic CPaaS Package | $_________                      | 10,000 minutes     | $_____/additional minute      |
+| Premium Support     | $_________                      |                    |                               |
+| Data Storage        | $_________                      | 1 TB               | $_____/additional GB          |
+
+---
+
+*Confidential – Page X of Y*
+
+---
+
+## SIGNATURE BLOCK
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date first above written.
+
+**CUSTOMER NAME:**  
+By: ___________________________  
+Name: _________________________  
+Title: _________________________  
+Date: __________________________  
+
+**PROVIDER NAME:**  
+By: ___________________________  
+Name: _________________________  
+Title: _________________________  
+Date: __________________________  
+
+---
+
+*Confidential – Page X of Y*
+
+---
+
+## CONTINUATION OF AGREEMENT
+
+The parties further acknowledge and agree to the provisions set forth herein, notwithstanding any previous agreements or understandings; The parties shall continue to comply with all obligations as specified in the preceding sections of this Agreement; Provider shall ensure that the Services are provided in accordance with the specifications outlined in the SLA and Fee Schedule attached hereto; Customer shall retain the right to audit Provider's compliance with all applicable laws and regulations as set forth in this Agreement; Provider shall indemnify and hold harmless Customer against any claims, liabilities, or expenses arising from Provider's breach of its obligations under this Agreement; Customer shall have the right to terminate this Agreement upon written notice to Provider if Provider fails to meet the performance standards specified in the SLA; Provider shall cooperate with Customer in the identification and resolution of any issues related to the Services and implement corrective actions as necessary.
+
+---
+
+*Confidential – Page X of Y*

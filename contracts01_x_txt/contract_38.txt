@@ -1,0 +1,139 @@
+**Master Services Agreement**
+
+**Between:**
+
+Customer: [Enterprise Corp], a corporation organized under the laws of the State of Delaware with principal offices at [Address]
+
+Provider: [Tech Solutions Inc], a corporation organized under the laws of the State of New York with principal offices at [Address]
+
+Date: [Effective Date: __________]
+
+[PAGE BREAK]
+
+**1. Definitions**
+
+1.1 "Agreement" shall mean this Master Services Agreement including all exhibits, schedules, and amendments hereof, where "Services" denotes all tasks, functions, or responsibilities undertaken by Provider hereunder; "Customer Data" refers to any data or information provided by Customer to Provider pursuant to the Services, including but not limited to personally identifiable information ("PII"), financial information, and proprietary business data. For purposes herein, "Confidential Information" includes all non-public information disclosed by either party to the other, provided however that the term shall not include any information that (a) is or becomes publicly available through no breach of this Agreement, (b) is independently developed without use of the Confidential Information, or (c) is received from a third party without restriction or breach of any duty of confidentiality owed to the disclosing party; notwithstanding the foregoing but subject to the provisions of Section 9, "Intellectual Property Rights" shall mean all patents, copyrights, trademarks, trade secrets, and other proprietary rights arising under the laws of the United States or any foreign jurisdiction.
+
+1.2 The term "Force Majeure Event" shall mean any event beyond the reasonable control of a party, including acts of God, war, terrorism, governmental regulations, natural disasters, and strikes, that materially affect the performance of obligations under this Agreement. The "Effective Date" shall be the date first above written, and the "Term" of this Agreement shall commence on the Effective Date and continue until terminated in accordance with Section 18.
+
+**2. Scope of Services**
+
+2.1 Provider shall deliver the Services in accordance with the specifications set forth in Exhibit A, attached hereto and incorporated by reference, and any additional tasks mutually agreed upon by the parties in writing. The scope of Services includes but is not limited to the implementation, operation, and maintenance of communications platform as a service ("CPaaS") functionalities, as specified in the applicable Statement of Work ("SOW"). Provider shall ensure compliance with all applicable U.S. telecommunications laws including, but not limited to, the Communications Act of 1934, as amended, and Federal Communications Commission ("FCC") regulations concerning customer proprietary network information ("CPNI") obligations.
+
+2.2 Notwithstanding any other provisions herein and subject to the terms of Section 12, Provider shall deliver emergency call services in line with technical specifications detailed in Exhibit B, ensuring compliance with FCC's rules on E911 services. Provider shall (i) maintain accurate location information for all endpoints utilizing emergency services, (ii) ensure immediate relay of call data to appropriate public safety answering points ("PSAPs"), and (iii) conduct regular audits to verify compliance with statutory and regulatory requirements.
+
+**3. Fees and Payment Terms**
+
+3.1 The fees for Services shall be as set forth in Exhibit C, which may be updated from time to time by mutual written consent of the parties. Customer shall pay Provider the fees on a net 30 basis from the date of invoice receipt, provided however that all invoices shall be subject to Customer's right to audit as described in Section 14. Provider shall submit invoices electronically to the address specified by Customer, and Customer shall have the right to dispute any invoice within 60 days of receipt; notwithstanding the foregoing, undisputed amounts shall be paid promptly by Customer.
+
+3.2 Provider acknowledges that Customer may withhold payment of any disputed fees until the resolution of such dispute, without penalty or interest; provided further that Customer shall notify Provider of any disputed fee within 30 days following receipt of the invoice. In the event of a dispute, the parties shall negotiate in good faith to resolve the matter, failing which either party may initiate arbitration under Section 19.
+
+**4. Indemnification**
+
+4.1 Provider shall indemnify, defend, and hold harmless Customer and its affiliates, officers, directors, employees, and agents from and against any and all claims, losses, damages, liabilities, costs, and expenses, including reasonable attorneys' fees, arising out of or related to (a) Provider's breach of this Agreement, (b) Provider's negligence or willful misconduct, or (c) any third-party claims that the Services infringe upon any intellectual property rights, provided however that such indemnity shall not apply to the extent the claim arises from Customer's misuse or unauthorized modification of the Services.
+
+4.2 As Customer's complete and exclusive remedy under the circumstances described in the preceding three sentences but subject to the limitations set forth in Section 7, Customer shall notify Provider promptly of any claim subject to indemnification, and Provider shall assume control of the defense and settlement of such claim at Provider's expense; notwithstanding the foregoing, Customer shall have the right to participate in the defense and settlement of the claim at its own expense.
+
+**5. Service Level Agreements ("SLAs")**
+
+5.1 Provider shall ensure that the Services meet or exceed the performance metrics set forth in Exhibit D, including uptime guarantees, response times, and resolution times. Provider shall provide monthly performance reports to Customer within 10 business days following the end of each calendar month, detailing compliance with SLAs and any incidents of non-compliance. In the event Provider fails to meet the SLAs for two consecutive months, Customer may terminate the applicable SOW without penalty, provided that such termination shall not affect Customer's rights under any other SOW or this Agreement.
+
+5.2 Notwithstanding the foregoing, Provider shall (i) promptly notify Customer of any service outage or degradation, (ii) take all necessary measures to restore Services to the agreed SLA levels, and (iii) provide Customer with a root-cause analysis of the incident within 15 business days following resolution. Provider acknowledges that failure to comply with SLAs may result in credits or penalties as stipulated in Exhibit D.
+
+**[PAGE BREAK]**
+
+**6. Data Privacy and Security**
+
+6.1 Provider shall implement and maintain reasonable security measures to protect the confidentiality, integrity, and availability of Customer Data, including compliance with all applicable data protection laws and regulations. Provider shall conduct regular audits of its data security practices and provide Customer with audit reports upon request. Provider shall notify Customer of any data breach affecting Customer Data within 24 hours of discovery and cooperate with Customer to mitigate the effects of the breach.
+
+6.2 Without limiting the generality of the foregoing, Provider shall comply with the General Data Protection Regulation ("GDPR") to the extent applicable, and shall assist Customer in responding to any data subject requests or inquiries related to the processing of Customer Data. Provider shall not transfer Customer Data outside the United States without Customer's prior written consent, except as required by law.
+
+**7. Intellectual Property Rights**
+
+7.1 Each party shall retain ownership of its respective intellectual property rights, and nothing in this Agreement shall be construed as a transfer or assignment of such rights. Provider grants Customer a non-exclusive, non-transferable, limited license to use the Services during the Term, solely for Customer's internal business purposes; provided however that Customer shall comply with all usage restrictions set forth herein and in any SOW.
+
+7.2 Customer acknowledges that Provider may utilize open-source software components within the Services, and Customer agrees to comply with the applicable open-source licenses. Provider shall indemnify Customer from any claims related to the use of such open-source components, subject to the limitations in Section 4.
+
+**8. Acceptable Use Policies ("AUPs")**
+
+8.1 Customer shall comply with Provider's Acceptable Use Policies, as set forth in Exhibit E, which may be updated from time to time by Provider. Customer shall not use the Services for any illegal, harmful, or malicious activities, and Provider reserves the right to suspend or terminate Services in the event of a breach of AUPs. Provider shall notify Customer promptly of any suspected AUP violation and provide Customer with a reasonable opportunity to cure the breach.
+
+8.2 Notwithstanding the foregoing, Provider shall cooperate with Customer to investigate any alleged AUP violations and shall provide Customer with all relevant information and logs. Provider shall indemnify Customer for any claims arising from Provider's failure to enforce its AUPs.
+
+**9. Limitation of Liability**
+
+9.1 Except as expressly provided herein, neither party shall be liable to the other for any indirect, incidental, consequential, special, or punitive damages arising out of or related to this Agreement, including but not limited to lost profits, even if advised of the possibility of such damages. Provider's total liability under this Agreement shall not exceed the fees paid by Customer to Provider under the applicable SOW for the six-month period preceding the event giving rise to the claim.
+
+9.2 The limitations set forth in this section shall apply notwithstanding any failure of essential purpose of any limited remedy provided herein. Notwithstanding the foregoing, each party shall remain liable for (a) damages resulting from its gross negligence or willful misconduct, and (b) indemnification obligations under Section 4.
+
+**[PAGE BREAK]**
+
+**10. Termination**
+
+10.1 Either party may terminate this Agreement or any SOW for convenience upon 60 days written notice to the other party; provided however that Customer may terminate immediately upon a material breach by Provider, including but not limited to failure to meet SLAs or data security obligations. In the event of termination, Provider shall cease all Services and return or destroy all Customer Data in its possession.
+
+10.2 Notwithstanding the foregoing, any provisions of this Agreement that by their nature should survive termination shall remain in full force and effect, including but not limited to confidentiality, indemnification, and limitation of liability.
+
+**11. Dispute Resolution**
+
+11.1 The parties shall attempt to resolve any disputes arising out of or related to this Agreement through good faith negotiation. If the dispute cannot be resolved within 30 days, either party may initiate arbitration in accordance with the rules of the American Arbitration Association ("AAA"), with proceedings conducted in [City, State]. The arbitrator's decision shall be final and binding, and judgment upon the award may be entered in any court of competent jurisdiction.
+
+11.2 Notwithstanding the foregoing, either party may seek injunctive relief from a court of competent jurisdiction to prevent unauthorized use or disclosure of its Confidential Information or intellectual property rights.
+
+**12. Miscellaneous**
+
+12.1 This Agreement, including all exhibits and schedules, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements, representations, and understandings, whether written or oral. No amendment or modification shall be effective unless in writing and signed by both parties.
+
+12.2 Provider shall not assign or transfer its rights or obligations under this Agreement without Customer's prior written consent, except as part of a merger, acquisition, or sale of substantially all of Provider's assets. Customer may assign this Agreement to any affiliate or successor without Provider's consent.
+
+**13. Audit Rights**
+
+13.1 Customer shall have the right to audit Provider's compliance with the terms of this Agreement, including but not limited to financial records, data security practices, and SLA performance. Provider shall provide Customer with access to all relevant records and personnel upon reasonable notice, and Customer shall bear the cost of any audit unless the audit reveals material non-compliance by Provider, in which case Provider shall bear the cost.
+
+13.2 Provider shall cooperate fully with Customer's audit requests and shall implement any corrective actions identified in the audit report within 30 days. Failure to comply with audit findings shall constitute a material breach of this Agreement.
+
+**[PAGE BREAK]**
+
+**14. Notices**
+
+14.1 All notices required or permitted under this Agreement shall be in writing and delivered by hand, email, or certified mail to the addresses specified above or such other addresses as either party may designate in writing. Notices shall be deemed received upon actual receipt or three days following dispatch, whichever occurs first.
+
+14.2 Provider shall notify Customer of any changes to its contact information within 10 business days of such change.
+
+**15. Governing Law**
+
+15.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law principles.
+
+15.2 Any legal action arising out of or related to this Agreement shall be brought exclusively in the state or federal courts located in [City, New York], and each party consents to the jurisdiction of such courts.
+
+**16. Counterparts**
+
+16.1 This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+16.2 Facsimile or electronic signatures shall be deemed as valid as original signatures.
+
+**[PAGE BREAK]**
+
+**Signature Blocks**
+
+Customer: _______________________
+
+Title: ___________________________
+
+Date: ___________________________
+
+Provider: _______________________
+
+Title: ___________________________
+
+Date: ___________________________
+
+**Exhibit A** – Scope of Services  
+**Exhibit B** – Emergency Call Specifications  
+**Exhibit C** – Fee Schedule  
+**Exhibit D** – Service Level Agreements  
+**Exhibit E** – Acceptable Use Policies
+
+---
+
+Confidential – Page X of Y

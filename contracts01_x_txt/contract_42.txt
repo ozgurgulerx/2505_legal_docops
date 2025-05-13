@@ -1,0 +1,205 @@
+# AGREEMENT TITLE: MASTER SERVICES AGREEMENT
+
+BETWEEN: CUSTOMER: ABC CORPORATION, a Delaware corporation with principal offices located at [Address],
+
+AND: PROVIDER: XYZ TECHNOLOGIES, a technology provider organized under the laws of [State], with principal offices located at [Address],
+
+DATE: [Effective Date: __________]
+
+---
+
+[PAGE BREAK]
+
+# CORE DOCUMENT
+
+## Section 1: DEFINITIONS
+
+1.1 For purposes of this Agreement, the following terms shall have the meanings set forth herein; provided, however, that the context in which a term is used may dictate a different interpretation not inconsistent with the overall intent of the parties as expressed herein, notwithstanding any apparent conflict with other sections, unless the contrary is expressly stated herein or otherwise required by applicable law, where (a) “Customer” means ABC Corporation and shall include its successors and assigns, and (b) “Provider” shall mean XYZ Technologies including any direct or indirect subsidiaries, affiliates, or agents involved in the provision of services, and (c) “Services” shall mean the communications platform as a service (CPaaS) offerings provided by the Provider to the Customer as further described in Exhibit A—provided that such Services shall be subject to change without notice to accommodate regulatory prescriptions or industry standards, inter alia, pursuant to Section 3.4(ii)(A)(1)(α) hereinbefore defined, and (d) “Agreement” shall collectively refer to the terms set forth in this Master Services Agreement, all Exhibits hereto, and any amendments thereto, and for the avoidance of doubt, includes any supplemental terms or conditions, however denominated, that may be mutually agreed upon by the parties and incorporated herein by reference.
+
+## Section 2: SCOPE OF SERVICES
+
+The scope of Services to be provided by Provider encompasses, without limitation, the provision of telecommunications services including voice, SMS, MMS, and data transmission, subject to the terms and conditions herein set forth, which shall include compliance with all applicable laws and regulations relating to telecommunications, including but not limited to the Communications Assistance for Law Enforcement Act (CALEA), the Telephone Consumer Protection Act (TCPA), and rules promulgated by the Federal Communications Commission (FCC), provided however that nothing herein shall be construed as limiting Customer’s rights to audit and inspect Provider’s compliance measures, which shall be conducted at least annually and as otherwise deemed necessary by Customer, where such audits shall not unreasonably disrupt Provider’s business operations and shall be subject to confidentiality obligations as specified in Section 5.1 herein, and subject to the limitations set forth in Section 8.3 concerning data privacy.
+
+## Section 3: FEES AND PAYMENT TERMS
+
+3.1 Customer shall compensate Provider in accordance with the fee schedule set forth in Exhibit B, which shall be subject to annual review and adjustment in accordance with prevailing market rates, provided that any increase in fees shall not exceed five percent (5%) per annum unless otherwise agreed in writing by Customer; provided further that Customer shall remit payment within thirty (30) days of receipt of an undisputed invoice from Provider, where any disputed amounts shall be resolved in accordance with the dispute resolution procedures set forth in Section 12 herein, notwithstanding the foregoing but subject to applicable law, Customer reserves the right to withhold payment of disputed amounts pending resolution, and Provider agrees to continue providing Services during such period without interruption, subject to Provider’s rights under Section 14.5 to terminate this Agreement for cause.
+
+## Section 4: SERVICE LEVEL AGREEMENTS (SLAs)
+
+Provider shall maintain service levels as specified in Exhibit C, which shall include but not be limited to uptime guarantees, response times, and resolution times, subject to force majeure events as defined in Section 17 herein, where uptime shall be calculated as a percentage of total time within a calendar month, excluding scheduled maintenance and agreed outages, provided that Provider shall notify Customer of scheduled maintenance at least fourteen (14) days in advance, and provided further that failure to meet specified service levels shall entitle Customer to service credits as detailed in Exhibit C, notwithstanding any limitations set forth in Section 9.7 with respect to liability caps, and provided further that any performance degradation shall be recorded and reported to Customer within twenty-four (24) hours of detection.
+
+## Section 5: DATA PRIVACY
+
+Provider shall ensure the protection of Customer Data in accordance with applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and any other relevant jurisdictional statutes, where Customer Data shall be defined to include any personally identifiable information (PII) or proprietary information, inter alia, provided however that Provider shall implement technical and organizational measures to safeguard such data against unauthorized access, disclosure, or destruction, which measures shall include but not be limited to encryption, access controls, and audit trails, notwithstanding the foregoing but subject to Section 4 herein, Provider shall notify Customer within seventy-two (72) hours of any data breach affecting Customer Data, provided that such notification shall include a detailed incident report and corrective action plan, and provided further that Customer shall have the right to audit Provider’s data protection measures annually.
+
+## Section 6: INTELLECTUAL PROPERTY
+
+Except as expressly provided herein, all intellectual property rights in and to the Services, including any software, processes, or methodologies developed in connection therewith, shall remain the exclusive property of Provider, provided however that Customer shall be granted a non-exclusive, non-transferable, royalty-free license to use the Services for the duration of this Agreement in accordance with the terms set forth herein, provided further that Customer shall not reverse engineer, decompile, or otherwise attempt to derive the source code of any software provided by Provider, notwithstanding any rights Customer may have under applicable law, and provided further that any modifications or derivative works created by Customer using the Services shall be subject to Provider’s rights herein.
+
+## Section 7: ACCEPTABLE USE POLICY (AUP)
+
+Provider shall at all times adhere to an Acceptable Use Policy, which shall be included as Exhibit D to this Agreement, where said policy shall outline prohibited uses of the Services, including but not limited to the transmission of unlawful, harmful, or abusive content, and the use of the Services to infringe upon the rights of any third party, provided however that Provider shall have the right to suspend or terminate Services in the event of a violation of the AUP, subject to Provider’s obligations under Section 14.3 concerning notice and cure periods, notwithstanding the foregoing but subject to Section 12.4, Customer shall indemnify Provider against any claims arising from Customer’s use of the Services in contravention of the AUP.
+
+## Section 8: LIABILITY
+
+8.1 The liability of Provider for any claims arising under or related to this Agreement shall be limited to direct damages, and shall not exceed the total fees paid by Customer to Provider in the twelve (12) months preceding the event giving rise to such claim, provided however that such limitation shall not apply to claims arising from Provider’s gross negligence, willful misconduct, or breach of confidentiality obligations, notwithstanding the foregoing but subject to Section 9 herein, neither party shall be liable for any indirect, incidental, consequential, or punitive damages, including but not limited to loss of profits, revenue, or business opportunities, and each party acknowledges that the limitations set forth herein are integral to the pricing and structure of this Agreement.
+
+## Section 9: INDEMNIFICATION
+
+Provider shall indemnify, defend, and hold harmless Customer against any third-party claims arising from Provider’s breach of its representations, warranties, or obligations under this Agreement, including but not limited to claims of intellectual property infringement or violation of applicable law, provided however that Customer shall promptly notify Provider of any such claims and shall cooperate with Provider in the defense thereof, notwithstanding the foregoing but subject to Section 10 herein, Provider shall not be liable for any settlement or compromise made without its written consent, and Customer shall indemnify Provider against claims arising from Customer’s use of the Services in violation of law or the AUP.
+
+## Section 10: TERM AND TERMINATION
+
+10.1 This Agreement shall commence on the Effective Date and shall continue in effect for an initial term of three (3) years, unless sooner terminated as provided herein, where either party may terminate for cause upon thirty (30) days written notice, provided however that such notice shall specify the cause for termination and allow the breaching party an opportunity to cure within such period, notwithstanding the foregoing but subject to Section 11 herein, Customer may terminate this Agreement for convenience upon ninety (90) days written notice, and Provider may terminate for non-payment following notice and a thirty (30) day cure period, provided further that upon termination, each party shall return or destroy the other’s confidential information as set forth in Section 5.4.
+
+## Section 11: DISPUTE RESOLUTION
+
+All disputes arising under or related to this Agreement shall be resolved through binding arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules, provided however that either party may seek injunctive relief from a court of competent jurisdiction to prevent irreparable harm, notwithstanding the foregoing but subject to Section 12 herein, the arbitration shall be conducted by a panel of three arbitrators, each party shall bear its own costs, and the decision of the arbitrators shall be final and binding upon the parties, provided that the arbitrators shall have no authority to award punitive damages.
+
+---
+
+[PAGE BREAK]
+
+# TABLES AND SIGNATURE BLOCKS
+
+## Exhibit A: SERVICE DESCRIPTION
+
+| Service Type | Description | Compliance Standards |
+|--------------|-------------|----------------------|
+| Voice | Real-time voice communications | CALEA, TCPA |
+| SMS | Short Message Service | FCC, CTIA |
+| MMS | Multimedia Messaging Service | GDPR, CCPA |
+
+## Exhibit B: FEE SCHEDULE
+
+| Service | Rate | Billing Cycle |
+|---------|------|---------------|
+| Voice | $0.02/minute | Monthly |
+| SMS | $0.01/message | Monthly |
+| MMS | $0.05/message | Monthly |
+
+---
+
+SIGNATURE BLOCK
+
+ABC CORPORATION
+
+By: ___________________________
+
+Name: _________________________
+
+Title: _________________________
+
+Date: __________________________
+
+XYZ TECHNOLOGIES
+
+By: ___________________________
+
+Name: _________________________
+
+Title: _________________________
+
+Date: __________________________
+
+---
+
+# CONTINUATION
+
+The parties agree that any modifications to this Agreement shall be in writing and signed by authorized representatives of both parties, provided however that such modifications shall not be effective until incorporated into this Agreement, notwithstanding the foregoing but subject to Section 13 herein, any waiver of rights under this Agreement shall be in writing and signed by the waiving party, provided further that failure to enforce any provision herein shall not constitute a waiver of future enforcement rights.
+
+---
+
+[PAGE BREAK]
+
+## Section 12: CONFIDENTIALITY
+
+Each party agrees to maintain the confidentiality of the other party's proprietary information, including but not limited to business plans, technical data, and customer lists, provided however that such information shall not include information that is (a) publicly available through no fault of the receiving party, (b) independently developed by the receiving party without reference to the disclosing party's information, or (c) disclosed pursuant to a court order or other governmental authority, notwithstanding the foregoing but subject to Section 14 herein, each party shall use the other's confidential information solely for the purposes of fulfilling its obligations under this Agreement, and shall return or destroy such information upon termination of this Agreement, provided further that each party shall notify the other of any unauthorized disclosure or use of confidential information within twenty-four (24) hours of discovery.
+
+## Section 13: FORCE MAJEURE
+
+Neither party shall be liable for any delay or failure to perform its obligations under this Agreement due to events beyond its reasonable control, including but not limited to acts of God, war, terrorism, civil unrest, strikes, labor disputes, and governmental regulations, provided however that the affected party shall notify the other party of the force majeure event within five (5) business days of its occurrence, notwithstanding the foregoing but subject to Section 15 herein, the affected party shall use reasonable efforts to resume performance as soon as practicable, and shall not be excused from performance for events arising from its own negligence or willful misconduct.
+
+## Section 14: MISCELLANEOUS
+
+14.1 This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof, and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, provided however that any amendments or modifications to this Agreement shall be in writing and signed by authorized representatives of both parties, notwithstanding the foregoing but subject to Section 16 herein, this Agreement shall be governed by and construed in accordance with the laws of the State of [State] without regard to its conflict of laws principles, and any legal action arising under or related to this Agreement shall be brought exclusively in the courts of [County], [State].
+
+---
+
+[PAGE BREAK]
+
+## Section 15: NOTICES
+
+Any notices required or permitted under this Agreement shall be in writing and delivered via overnight courier or certified mail, return receipt requested, to the addresses specified above or to such other addresses as either party may designate in writing, provided however that notices shall be deemed received upon actual delivery to the recipient's address, notwithstanding the foregoing but subject to Section 17 herein, electronic mail transmission shall not constitute formal notice under this Agreement.
+
+---
+
+SIGNATURE BLOCK
+
+ABC CORPORATION
+
+By: ___________________________
+
+Name: _________________________
+
+Title: _________________________
+
+Date: __________________________
+
+XYZ TECHNOLOGIES
+
+By: ___________________________
+
+Name: _________________________
+
+Title: _________________________
+
+Date: __________________________
+
+---
+
+Confidential – Page X of Y
+
+[PAGE BREAK]
+
+# EXHIBITS
+
+## Exhibit C: SERVICE LEVEL AGREEMENTS
+
+| Metric | Target | Measurement Interval |
+|--------|--------|-----------------------|
+| Uptime | 99.9% | Monthly |
+| Response Time | <2 hours | Daily |
+| Resolution Time | <24 hours | Incident |
+
+## Exhibit D: ACCEPTABLE USE POLICY
+
+- Prohibited Content: The following types of content are prohibited: (a) unlawful or illegal content, (b) content that infringes intellectual property rights, (c) content that is defamatory, abusive, or harmful, provided however that Provider reserves the right to suspend access to Services in the event of a violation of this policy, notwithstanding any limitations set forth in Section 9 herein.
+
+---
+
+SIGNATURE BLOCK
+
+ABC CORPORATION
+
+By: ___________________________
+
+Name: _________________________
+
+Title: _________________________
+
+Date: __________________________
+
+XYZ TECHNOLOGIES
+
+By: ___________________________
+
+Name: _________________________
+
+Title: _________________________
+
+Date: __________________________
+
+---
+
+Confidential – Page X of Y

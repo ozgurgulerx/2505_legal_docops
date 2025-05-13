@@ -1,0 +1,114 @@
+[Cover Page]  
+Master Services Agreement  
+Between:  
+Customer: [Customer Name], a large U.S.-based enterprise  
+Provider: [Provider Name], a CPaaS or IT vendor  
+Effective Date: __________  
+[PAGE BREAK]
+
+Confidential – Page 1 of 30  
+DEFINITIONS: The following terms shall, notwithstanding any other provisions herein, have the meanings set forth herein, provided however that definitions may be subject to changes as described in Section 19.3(b). "Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with a party, "Applicable Law" refers to all laws, statutes, regulations, ordinances, rules, and orders of governmental authorities, "Confidential Information" encompasses all non-public information disclosed by one party to the other, including but not limited to business strategies, financial data, and proprietary technology; provided however that such information is not deemed confidential if it is or becomes publicly available through no fault of the receiving party; "Customer Data" means all data, including personal data, provided by Customer or its Affiliates to Provider in connection with the Services, "Services" refers to all tasks and deliverables specified in Exhibit A, which may be amended from time to time in accordance with Section 17.2; "Term" shall be the duration specified in Section 3.1 unless terminated earlier as provided herein. The definitions set forth herein are integral to the interpretation of this Agreement and shall apply throughout unless expressly stated otherwise.
+
+Confidential – Page 2 of 30  
+SCOPE OF SERVICES: The Provider shall deliver Services as detailed in Exhibit B, which shall include but not be limited to hosting, maintenance, support, and implementation services, provided that the scope may be expanded or reduced subject to mutual written agreement; notwithstanding the foregoing, the Provider shall ensure compliance with all applicable telecommunications laws, including the Communications Act of 1934, as amended, and the Telecommunications Consumer Protection Act, as applicable in accordance with Section 15.4(b)(iii). Services shall be performed in accordance with industry standards and best practices, provided that the Provider shall notify the Customer of any material changes to such standards that may affect service delivery or compliance requirements, including but not limited to data protection and localization obligations. The Provider shall, at its own expense, obtain and maintain all necessary licenses, permits, and approvals required to lawfully perform the Services, provided that any failure to do so shall constitute a material breach of this Agreement, subject to the remedies specified in Section 12.7(b). The Provider shall adhere to all Service Levels detailed in Exhibit C, which shall include uptime guarantees, response times, and resolution targets; provided however that the Customer retains the right to audit such compliance as set forth in Section 9.4.
+
+Confidential – Page 3 of 30  
+FEES AND PAYMENT TERMS: Subject to the provisions herein, the Customer shall pay Provider the fees set forth in Exhibit D; such fees shall be invoiced monthly in arrears, in accordance with the payment schedule specified therein, provided that all invoices must be paid within thirty (30) days of receipt, notwithstanding any dispute over amounts due, unless otherwise agreed in writing by the parties; the Provider shall ensure all fees are accurately calculated and reflect the Services provided, including any additional fees for out-of-scope work, which must be pre-approved by Customer in accordance with Section 4.3(a)(v). In the event of any underpayment or overpayment, the parties shall promptly reconcile such discrepancies, provided however that any disputes regarding fees must be raised within sixty (60) days of invoice receipt, failing which the invoice shall be deemed accepted. The Provider acknowledges its obligation to comply with all applicable tax laws and shall be responsible for remitting all required taxes, fees, and surcharges, save for any taxes related to Customer's income, which shall remain Customer's responsibility. The parties agree that any failure by Provider to comply with payment terms constitutes a material breach of this Agreement, subject to the remedies detailed in Section 12.9(c).
+
+Confidential – Page 4 of 30  
+INDEMNIFICATION: The Provider shall indemnify, defend, and hold harmless the Customer and its Affiliates against all third-party claims, liabilities, damages, and expenses, including reasonable attorney fees, arising out of or related to Provider's breach of this Agreement or violation of any applicable law, provided however that such indemnity shall only apply if the Customer promptly notifies Provider of any such claim and allows Provider to assume control of the defense; notwithstanding the foregoing, Customer reserves the right to participate in the defense at its own expense. Provider's indemnification obligations shall survive the termination or expiration of this Agreement, subject to the limitations set forth in Section 13.3. The Customer shall indemnify Provider against claims arising from Customer's own negligence, misconduct, or breach of this Agreement, provided however that such indemnity shall not apply to any claim resulting from Provider's negligence or willful misconduct. The indemnification obligations herein shall not be construed to limit any other rights or remedies available to the parties under law or equity, provided however that any indemnity claims must be initiated within one year of the event giving rise to the claim, failing which they shall be barred.
+
+Confidential – Page 5 of 30  
+SERVICE LEVEL AGREEMENTS (SLAs): The Provider shall adhere to the Service Levels outlined in Exhibit E, which include but are not limited to uptime, performance metrics, and response times, provided however that failure to meet any Service Level shall entitle Customer to the remedies specified in Section 12.4, including service credits; notwithstanding the foregoing but subject to Section 11.2, Provider shall implement corrective actions to prevent recurrence of any failure, including root cause analysis and remedial plans to be submitted to Customer within fifteen (15) days of failure occurrence. Any modification to the SLAs must be mutually agreed upon in writing, provided that Customer retains the right to adjust SLAs based on evolving business needs, subject to notice requirements in Section 6.3. Provider shall maintain detailed records of performance against SLAs and shall provide Customer with such records upon request, provided however that any failure to maintain adequate records shall constitute a breach of this Agreement. Provider's performance under the SLAs shall be subject to regular audits by Customer, with findings to be documented and shared with Provider, provided that any corrective actions required by such audits shall be implemented by Provider within the timeframe specified by Customer.
+
+Confidential – Page 6 of 30  
+DATA PRIVACY AND SECURITY: The Provider shall comply with all applicable data protection laws, including but not limited to the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), provided however that compliance shall be evidenced by regular audits as described in Section 10.2; notwithstanding the foregoing, Provider shall implement and maintain appropriate technical and organizational measures to protect Customer Data against unauthorized access, loss, or destruction, including encryption, access controls, and incident response protocols. Provider shall promptly notify Customer of any data breach affecting Customer Data, including details as specified in Section 7.3(b)(v), provided however that such notice shall not relieve Provider of its obligations to mitigate the effects of the breach. Customer Data shall be stored and processed within the U.S., except as otherwise agreed in writing, provided that any data transfer outside the U.S. shall comply with applicable export control laws. Provider shall ensure that all personnel accessing Customer Data are subject to confidentiality obligations consistent with Section 5.6, provided however that any breach of such obligations by Provider's personnel shall be deemed a breach by Provider.
+
+Confidential – Page 7 of 30  
+INTELLECTUAL PROPERTY RIGHTS: The ownership of all intellectual property rights in any materials, software, or inventions developed or provided by Provider in connection with the Services shall remain vested in Provider, provided however that Customer shall be granted a perpetual, irrevocable, non-exclusive license to use such intellectual property for its internal business purposes, subject to the restrictions set forth in Section 8.2; notwithstanding the foregoing, any intellectual property created specifically for Customer shall be owned by Customer, provided that Provider shall retain a license to use such intellectual property for its own purposes, excluding any commercial exploitation. Provider shall warrant that the Services do not infringe upon any third-party intellectual property rights, provided however that any claims of infringement shall be subject to the indemnification obligations in Section 4.4. Customer acknowledges that Provider's pre-existing intellectual property shall not be deemed works made for hire, provided however that any enhancements or modifications made at Customer's request shall be owned by Customer.
+
+Confidential – Page 8 of 30  
+ACCEPTABLE USE POLICY: Provider shall ensure that all use of the Services complies with the Acceptable Use Policy attached hereto as Exhibit F, which shall prohibit any activities that are unlawful, harmful, or disruptive, provided however that Provider shall monitor compliance and enforce the policy as described in Section 14.5; notwithstanding the foregoing, Customer reserves the right to modify the Acceptable Use Policy to address emerging threats or business needs, subject to the notice requirements set forth herein. Provider shall promptly investigate any alleged violations of the Acceptable Use Policy and take appropriate remedial actions, including suspension or termination of access, provided however that such actions shall be documented and reported to Customer. Provider's failure to enforce the Acceptable Use Policy shall constitute a breach of this Agreement, subject to the remedies specified in Section 12.10. Customer shall indemnify Provider against claims arising from Customer's breach of the Acceptable Use Policy, provided however that such indemnity shall not apply to claims resulting from Provider's failure to enforce the policy.
+
+Confidential – Page 9 of 30  
+LIMITATION OF LIABILITY: The liability of either party for any claim arising under this Agreement shall be limited to direct damages not exceeding the total fees paid by Customer to Provider under this Agreement during the twelve (12) months preceding the claim, provided however that such limitation shall not apply to claims arising from gross negligence, willful misconduct, or breach of confidentiality obligations; notwithstanding the foregoing, neither party shall be liable for any indirect, incidental, consequential, or punitive damages, including loss of profits or business interruption, even if advised of the possibility of such damages. The limitations set forth herein shall not apply to indemnification obligations, provided however that any claims for indemnification must be initiated within one year of the event giving rise to the claim, failing which they shall be barred. Provider acknowledges that any liability cap may be subject to adjustment based on changes in applicable law or regulatory requirements, subject to the notice provisions in Section 19.7.
+
+Confidential – Page 10 of 30  
+TERMINATION: This Agreement may be terminated by either party upon thirty (30) days' written notice to the other party, provided that any termination shall be subject to the provisions set forth herein; notwithstanding the foregoing, Customer may terminate this Agreement immediately upon notice to Provider if Provider breaches any material provision of this Agreement, fails to cure such breach within the time specified in Section 16.2, becomes insolvent, or ceases to conduct business in the ordinary course, provided however that Provider shall be entitled to compensation for Services rendered up to the date of termination. Provider shall cooperate with Customer during termination to ensure an orderly transition, including the return of Customer Data and intellectual property, subject to the restrictions set forth in Section 8.5. Upon termination, each party shall promptly return or destroy the other party's Confidential Information, except as otherwise required by law, provided that any failure to comply with this requirement shall constitute a breach of the confidentiality obligations herein.
+
+Confidential – Page 11 of 30  
+DISPUTE RESOLUTION: Any disputes arising under this Agreement shall be resolved through negotiation, mediation, or arbitration, as detailed in Section 18.3, provided however that the parties agree to maintain confidentiality of all proceedings and outcomes, notwithstanding any public disclosure obligations under applicable law; in the event that negotiation fails, the parties shall submit the dispute to mediation before a neutral third-party mediator, provided that mediation shall be conducted in the state of New York, unless otherwise agreed. If mediation is unsuccessful, the parties shall submit the dispute to binding arbitration under the rules of the American Arbitration Association, provided however that the arbitrator's decision shall be final and enforceable in any court of competent jurisdiction. The costs of mediation and arbitration shall be borne equally by the parties, provided that each party shall bear its own attorney fees. The dispute resolution process herein shall not preclude either party from seeking injunctive relief to protect its intellectual property rights or Confidential Information.
+
+Confidential – Page 12 of 30  
+SIGNATURE BLOCK  
+Provider: _______________________  
+Customer: _______________________  
+Date: _______________________  
+Confidential – Page 13 of 30  
+
+[PAGE BREAK]
+
+Confidential – Page 14 of 30  
+EMERGENCY CALL DISCLAIMERS: Provider acknowledges and agrees that the Services may be used to facilitate emergency calls, which require compliance with technical and regulatory standards as set forth by the Federal Communications Commission (FCC), provided however that Provider shall implement and maintain systems to ensure reliable routing and transmission of such calls, including compliance with Enhanced 911 (E911) requirements; notwithstanding the foregoing, Customer shall not be liable for any failure in emergency call transmission due to Provider's negligence or failure to comply with applicable standards. Provider shall ensure that personnel are trained to handle emergency call protocols, including call prioritization, location accuracy, and fallback procedures, provided that such training shall be documented and records maintained for audit purposes. Customer reserves the right to audit Provider's compliance with emergency call requirements as described in Section 6.7, provided that any deficiencies identified shall be corrected within the timeframe specified by Customer.
+
+Confidential – Page 15 of 30  
+DATA LOCALIZATION AND EXPORT CONTROLS: Provider shall comply with all applicable data localization requirements, which mandate that Customer Data be stored and processed within specific jurisdictions, provided however that any transfer of Customer Data outside such jurisdictions must comply with applicable export control laws, including the Export Administration Regulations (EAR) and the International Traffic in Arms Regulations (ITAR), notwithstanding the foregoing, Provider shall ensure that all data transfers are documented and reported to Customer. Provider shall implement technical measures to restrict access to Customer Data based on geographic location, provided that such measures shall be subject to audit by Customer to ensure compliance with localization requirements. Provider's failure to comply with data localization and export controls shall constitute a material breach of this Agreement, subject to the remedies specified in Section 12.11.
+
+Confidential – Page 16 of 30  
+COMPLIANCE WITH U.S. TELECOM LAW: Provider shall ensure compliance with all applicable U.S. telecommunications laws, including the Communications Act of 1934, as amended, and the Telecommunications Consumer Protection Act (TCPA), provided however that compliance shall be evidenced by regular audits and certifications, notwithstanding the foregoing, Provider shall maintain records of all communications transmitted through the Services, including call logs, access records, and data transmission details, subject to the audit rights set forth in Section 9.6. Provider shall implement measures to ensure compliance with Customer Proprietary Network Information (CPNI) requirements, including training personnel on CPNI handling and reporting protocols, provided that such measures shall be subject to review by Customer to ensure ongoing compliance. Provider's failure to comply with telecommunications law shall constitute a breach of this Agreement, subject to the remedies specified in Section 12.12.
+
+Confidential – Page 17 of 30  
+SIGNATURE BLOCK  
+Provider: _______________________  
+Customer: _______________________  
+Date: _______________________  
+Confidential – Page 18 of 30  
+
+Confidential – Page 19 of 30  
+AUDIT RIGHTS: Customer shall have the right to audit Provider's compliance with this Agreement, including but not limited to Service Levels, data protection measures, and telecommunications law compliance, provided however that audits shall be conducted at reasonable times and upon reasonable notice, notwithstanding the foregoing, Customer may conduct audits remotely or on-site, as deemed necessary, subject to the confidentiality obligations herein. Provider shall cooperate with Customer during audits and provide access to all relevant records, systems, and personnel, provided that any deficiencies identified during audits shall be promptly addressed by Provider, including implementation of corrective actions to prevent recurrence. Customer's audit rights shall not be construed to limit any other rights or remedies available under this Agreement or applicable law.
+
+Confidential – Page 20 of 30  
+SIGNATURE BLOCK  
+Provider: _______________________  
+Customer: _______________________  
+Date: _______________________  
+Confidential – Page 21 of 30  
+
+Confidential – Page 22 of 30  
+TABLE OF FEES:  
+| Service Description | Fee | Frequency |  
+|---------------------|-----|-----------|  
+| Basic Service Package | $100,000 | Monthly |  
+| Premium Service Package | $250,000 | Monthly |  
+| Additional Support | $50,000 | As needed |  
+| Data Processing | $75,000 | Quarterly |  
+Confidential – Page 23 of 30  
+
+Confidential – Page 24 of 30  
+TABLE OF UPTIME TARGETS:  
+| Service Component | Minimum Uptime | Penalty for Non-Compliance |  
+|-------------------|----------------|---------------------------|  
+| Core Network | 99.9% | Service Credits |  
+| Data Centers | 99.95% | Financial Penalty |  
+| Customer Support | 98% | Reduced Fees |  
+Confidential – Page 25 of 30  
+
+Confidential – Page 26 of 30  
+SIGNATURE BLOCK  
+Provider: _______________________  
+Customer: _______________________  
+Date: _______________________  
+Confidential – Page 27 of 30  
+
+Confidential – Page 28 of 30  
+TABLE OF DATA PROTECTION MEASURES:  
+| Measure | Description | Compliance Standard |  
+|---------|-------------|--------------------|  
+| Encryption | AES 256-bit | GDPR/CCPA |  
+| Access Controls | Role-Based | ISO 27001 |  
+| Incident Response | 24/7 Monitoring | NIST SP 800-61 |  
+Confidential – Page 29 of 30  
+
+Confidential – Page 30 of 30  
+
+[PAGE BREAK]
