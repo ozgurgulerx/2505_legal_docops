@@ -1,0 +1,1166 @@
+Softcat
+Master Services Agreement
+For Softcat Managed Services
+Version: 1.3
+Private & Confidential
+
+Softcat
+TABLE OF CONTENTS
+Document Control
+3
+1.
+Definitions and Interpretation
+4
+2.
+Ordering Services
+6
+3.
+Service Provision
+7
+4.
+Disaster Recovery, Customer Data and Data Protection
+7
+5.
+Security
+8
+6.
+Customer Obligations
+8
+7.
+Warranties
+9
+8.
+IT Partners, EULAs and other Third Party Agreements.
+10
+9.
+Invoicing and Payment
+10
+10.
+Change Control Procedure
+11
+11.
+Intellectual Property
+11
+12.
+Confidentiality
+12
+13.
+Term, Renewal and Cancellation Charges
+12
+14.
+Suspension
+12
+15.
+Termination
+13
+16.
+Exit Assistance, Return of Customer Data and Transfer of Employees and Assets
+14
+17.
+Force Majeure.
+14
+18.
+Liability.
+14
+19.
+Non-Solicitation
+15
+20.
+No Waiver
+15
+21.
+Insurance
+16
+22.
+Severance
+16
+23.
+Assignment
+16
+24.
+No Partnership or Agency
+16
+25.
+Third-Party Rights
+16
+26.
+Notices
+16
+27.
+Anti-Bribery
+16
+28.
+Entire Agreement and Amendment
+16
+29.
+Law And Jurisdiction
+17
+Private & Confidential
+2
+
+Softcat
+Document Control
+Prepared By
+Name
+Function
+Sarah Kirby
+Legal & Administrative Executive
+Softcat Contact Details
+Address
+Contact details
+Softcat plc
+Thames Industrial Estate
+Fieldhouse Lane
+Marlow
+SL7 1LW
+legal@softcat.com
+Change History
+Version
+Date
+Revision Notes
+Associated Documents:
+Version
+Document Name
+Notes
+2.1
+SLA
+1.0
+Work Order form
+1.0
+Change Control Policy
+1.0
+Service Catalogue
+Private & Confidential
+3
+
+Softcat
+1.
+Definitions and Interpretation
+1.1
+In this master services agreement for Softcat managed services (this "MSA"), the following definitions shall apply.
+Term
+Definition
+Acceptable Use Policy
+Softcat's acceptable use policy in respect of Managed Services, as notified to the
+Customer and as Softcat may update it from time to time in accordance with its
+terms.
+Activation Date
+The date from which Softcat considers that the Managed Services are ready for
+activation.
+Business Day
+Business Hours
+Cancellation Charge
+Monday to Friday excluding public holidays in England and Wales.
+9.00 a.m. to 6.00 p.m. on Business Days.
+An amount equal to:
+(i) if the cancellation takes effect after the later of the Contract Start Date and
+the Activation Date, the Fees that would otherwise have been payable from
+the date the Managed Service is cancelled to the the date such Managed
+Service was scheduled to expire in accordance with the Contract; and
+(ii) if the cancellation takes effect before the later of the Contract Start Date
+and the Activation Date, any non-recurring charges payable pursuant to
+clause 9.6 plus 50 per cent. of the other Fees payable during the Initial
+Term,
+plus in each case any other amounts specified as payable as part of the
+Cancellation Charge in the Work Order.
+The procedures for changing the Managed Service Specification as set out in clause 10.
+Change Control
+Procedure
+Confidential
+Information
+Confidential Information means any information, technical data or know-how, in
+any medium, which is marked "confidential", which the receiving party knows or
+reasonably ought to know is confidential, or which is by its nature confidential,
+except information, technical data or know-how which:
+(iii) is in the possession of the receiving party at the time of disclosure, is not
+subject to an obligation of confidentiality and can be demonstrated beyond
+doubt as being in the receiving party's files and/or records immediately
+prior to the time of disclosure;
+(iv) prior to or after the time of disclosure becomes public knowledge, other
+than as a result of breach by the receiving party of its obligations under the
+Contract;
+(v) is approved for release by the disclosing party; or
+(vi) is independently developed by the receiving party without the use of any
+Confidential Information of the disclosing party.
+Contract
+The agreement between Softcat and the Customer comprising this MSA and the
+Work Order.
+Contract Start Date
+The date specified as such in the Work Order.
+Customer
+The person identified as such in the Work Order.
+Customer Data
+Any data uploaded to, stored on or processed using the Managed Services by
+the Customer.
+Customer's Operating
+Environment
+The Customer's computing environment (consisting of hardware, software and
+telecommunications networks) that is to be used by the Customer in connection
+with its use of the Managed Services and which interfaces with Softcat's System
+in order for the Customer to receive the Managed Services, but excluding the
+Customer Site Equipment.
+Customer
+Representative
+The contact defined in the Work Order or such other person notified in writing
+by Customer to Softcat who shall be the Customer's main technical contact.
+Private & Confidential
+4
+
+Softcat
+Customer Site
+Any premises occupied by the Customer at which it receives the Managed
+Services, as detailed in the Work Order.
+Customer Site
+Equipment
+Any equipment located or to be located on a Customer Site but controlled or to
+be controlled exclusively by Softcat as part of the Managed Services.
+Data Controller
+Has the meaning given to it in the DPA.
+Data Processor
+Has the meaning given to it in the DPA.
+DPA
+The Data Protection Act 1998.
+Documentation
+The solution documentation made available to the Customer by Softcat from
+time to time which may set out any additional description of the Managed
+Services and/or contain the user instructions for the Managed Services.
+Excused Outage
+Any outage, unavailability, delay or other degradation of Service related to,
+associated with or caused by: Planned Maintenance events; any Service not
+supported by a Softcat traversing Hardware component; any third party plugin
+or ancillary equipment not supplied by Softcat; a Customer application running
+on a server (virtual or physical) which is not supported by Softcat; the Customer
+actions or inactions or those of any third party excluding any sub-contractor or
+IT Partner of Softcat directly involved in the performance, operation or
+maintenance of the Customer's Managed Service.
+Fees
+All of the fees payable to Softcat by the Customer in respect of the Managed
+Services, whether one-off or recurring, as set out in the Work Order in respect of
+the Initial Term, and thereafter as revised by Softcat prior to each Renewal Term
+in accordance with clause 13.3.
+Good Industry Practice
+The degree of skill and care which it is reasonable to expect of a provider of
+managed services similar to the Managed Services.
+Hardware
+All physical telecommunications, networking and computer equipment
+(including switches, routers, cables, servers, racks, cabinets and peripheral
+accessories) provided and used by Softcat to deliver the Managed Services to
+the Customer.
+Initial Term
+The initial term of the Contract specified in the Work Order, measured from the later of
+the Contract Start Date and the Activation Date.
+Initial Work Order
+The first document entitled "Work Order" issued by Softcat in response to the Customer's
+request for Managed Services, setting out at least a high level description of the Managed
+Services to be provided by Softcat, and the corresponding Fees payable by the Customer.
+Any and all intellectual property rights of any nature, whether registered, registerable or
+otherwise, including patents, utility models, trade marks, registered designs and domain
+names, applications for any of the foregoing, trade or business names, goodwill,
+copyright and rights in the nature of copyright, design rights, rights in databases, moral
+rights, know-how and any other intellectual property rights that subsist in computer
+software, computer programs, websites, documents, information, techniques, business
+methods, drawings, logos, instruction manuals, lists and procedures and particulars of
+customers, marketing methods and procedures and advertising literature, including the
+"look and feel" of any websites, and in each case all rights and forms of protection of a
+similar nature or having equivalent or similar effect to any of these that may subsist
+anywhere in the world, in each case for their full term, together with any future rights
+and renewals or extensions.
+IT Partner
+A third party used by either party in the provision of a Managed Service.
+Maintenance
+Contract
+Hardware or Software support contracts held on supported devices and supplied
+by the manufacturer or recognised vendor support partner.
+Managed Services
+The managed services to be provided to the Customer by Softcat, as set out in the Work
+Order.
+Managed Service
+Specification
+The specification of the Managed Services as set out in the Work Order and the
+Documentation.
+Personal Data
+Has the meaning given to it in the DPA.
+Renewal Term
+A period of 12 months from the expiry of the Initial Term or the previous
+Private & Confidential
+5
+Intellectual Property
+Rights
+
+Softcat
+Renewal Term, as the case may be.
+Replacement Supplier
+Has the meaning given to it in clause 16.2.3.
+Service Credit
+Any credits payable to the Customer in accordance with the Service Level
+Arrangements.
+Service Level
+Arrangement or SLA
+Service Levels
+The service level arrangements applicable to the Managed Services, if any, as
+attached to the Work Order.
+The metrics for measuring the performance of the Managed Services as set out
+in the SLA.
+Softcat
+Softcat's System
+Softcat plc (Company number 02174990) and any successor or assignee thereof.
+The information and communications technology system to be used by Softcat in
+performing the Managed Services, including the Hardware, the Software, the Customer
+Site Equipment and communications links between the Hardware and the Customer Site
+Equipment and the Customer's Operating Environment.
+Software
+Any software used by Softcat to provide the Managed Services to the Customer.
+Supplementary Work
+Order
+Any document issued by Softcat and entitled "Work Order" which, notwithstanding that it
+may be a separate document and/or delivered at a later date, supplements an Initial
+Work Order and, once accepted by the Customer in accordance with clause 2.2, forms
+part of the Work Order.
+Term
+The Initial Term and each Renewal Term.
+TUPE
+The Transfer of Undertakings (Protection of Employment) Regulations 2006 as
+amended by the Collective Redundancies and Transfer of Undertakings
+(Protection of Employment) (Amendment) Regulations 2014.
+Transition Assistance
+Period
+Work Order
+Has the meaning given to it in clause 16.2.3.
+Collectively, the Initial Work Order and any Supplementary Work Order, and all
+documents scheduled or attached to them.
+1.2
+Clause, schedule and paragraph headings shall not affect the interpretation of this MSA.
+1.3
+A reference to a statute or statutory provision is a reference to it as amended, extended or re-enacted from
+time to time and shall include all subordinate legislation made from time to time under that statute or
+statutory provision.
+1.4
+Any phrase introduced by the words "including", "includes", "in particular" or "for example", or any similar
+phrase, shall be construed as illustrative and shall not limit the generality of the related general words.
+1.5
+A person includes a natural person, corporate or unincorporated body (whether or not having separate legal
+personality) and that person's personal representatives, successors or permitted assigns.
+1.6
+If there is a conflict between this MSA and the Work Order, the latter shall prevail.
+2.
+Ordering Services
+2.1
+In response to a request by the Customer, Softcat will prepare and send to the Customer an Initial Work Order.
+If the Customer wishes to contract with Softcat to provide the Managed Services set out in that Initial Work
+Order, it will indicate its acceptance of the Initial Work Order by signing it and returning a signed copy to
+Softcat, whereupon the Contract will come into existence.
+2.2
+Depending on the nature of the Managed Services, the Customer recognises that it may be necessary for
+Softcat to perform additional preparatory design or specification work before proceeding to installation,
+provisioning and/or "go live", in which case Softcat will provide to the Customer upon completion of that
+additional preparatory work a Supplementary Work Order setting out further detail on how the Managed
+Services will be provided. The Customer may request reasonable changes to the Supplementary Work Order,
+and Softcat will use reasonable efforts to accommodate such changes within the scope of the Fees set out in
+the Initial Work Order, failing which Softcat and the Customer, each acting reasonably, will agree such changes
+to the Managed Services and the corresponding Fees as may be required to give effect to the Customer's
+request. The Customer can accept a Supplementary Work Order in writing, by email, or by requesting through
+any medium that Softcat proceed with providing the Managed Services, and in the absence of a written
+indication to the contrary will be deemed to have accepted a Supplementary Work Order 7 days after Softcat
+sends it to the Customer. Once accepted, a Supplementary Work Order forms part of the Work Order (and,
+therefore, part of the Contract) in respect of the relevant Managed Services.
+2.3
+Following acceptance of the Work Order (including, where applicable, any Supplementary Work Order), Softcat
+Private & Confidential
+6
+
+Softcat
+will provide the Customer with a provisional Activation Date for each of the ordered Managed Services.
+Softcat will use reasonable efforts to begin delivering the relevant Managed Services by such provisional
+Activation Date, subject to payment by the Customer of any Fees which are payable in advance and the
+Customer's compliance with the terms of the Contract (and in particular its obligations in clause 6), but time
+shall not be of the essence in this regard and the Customer acknowledges that the actual Activation Date may
+differ.
+2.4
+If Softcat has agreed with the Customer that any Fees will be payable in arrears, the delivery of the Managed
+Services is subject to credit approval at the beginning of the Term.
+2.5
+Softcat does not expect that any of the Customer's workers or employees, or those of its other current or
+former suppliers, will transfer to Softcat under TUPE by virtue of the Contract. The Customer must disclose to
+Softcat, before Softcat becomes obliged to provide the Managed Services (and as a condition to such
+provision), sufficient information about any such workers or employees who will so transfer so as to enable
+Softcat to assess the likely costs of making such workers or employees redundant. If any such worker or
+employee who the Customer has not disclosed to Softcat as transferring nevertheless is able to show that his
+or her contract of employment has transferred to Softcat under TUPE as a result of the Contract, the Customer
+will indemnify Softcat for its actual losses resulting from a claim brought by such undisclosed workers or
+employees, including reasonable legal fees, provided that Softcat must not settle or otherwise dispose of such
+a claim without the Customer's prior written consent.
+2.6
+The Customer acknowledges that Softcat provides, and prices, Managed Services only on the basis of this MSA
+and agreed Work Orders. No other terms will apply, regardless of the form or timing of delivery.
+3.
+Service Provision
+3.1
+Any applicable Service Level Arrangements shall apply with effect from the start of the first complete month
+occurring after the Activation Date.
+3.2
+The Customer is responsible for the use to which it puts the Managed Services under its control, including any
+use by third parties (whether fraudulent or invited by the Customer). In particular, the Customer
+acknowledges that the Managed Services are not designed to be used in circumstances in which errors or
+failures in the Managed Services could lead to death, personal injury or severe physical or environmental
+damage. Therefore, unless expressly agreed otherwise in the Work Order, the Customer will not use the
+Managed Services for such purposes.
+3.3
+The Customer Site Equipment is at the Customer's risk from the point of installation.
+3.4
+The Customer shall not provide the Managed Services to third parties or permit any third party to access or
+benefit from the Managed Services, nor to access the Customer Site Equipment, unless otherwise expressly
+agreed to in writing by Softcat.
+3.5
+Softcat reserves the right to:
+3.5.1.
+modify Softcat's System, its network, system configurations or routing configuration; or
+3.5.2.
+modify or replace any Hardware or Software in its network or in equipment used to deliver any
+Managed Service over its network,
+provided that so doing will have no material adverse effect on either party's ability to perform its obligations
+under the Contract. If such changes will have such a material adverse effect, the affected party will notify the
+other and the parties will follow the Change Control Procedure.
+3.6
+If a Managed Service to be delivered by Softcat is no longer readily available or is in short supply at the agreed
+time of delivery, Softcat may substitute another product or service in its place. The substituted product will
+have equivalent or better performance and function and will be provided at no additional cost to the
+Customer.
+3.7
+If the Customer uses a Managed Service, or requires Softcat to implement or configure a Managed Service, in a
+manner contrary to the Documentation or Softcat's reasonable recommendations, Softcat's obligation to
+provide that Managed Service will be limited to reasonable endeavours.
+3.8
+Time shall not be of the essence in respect of the delivery of the Managed Services.
+4.
+Disaster Recovery, Customer Data and Data Protection
+4.1
+The Customer acknowledges that certain risks, such as data loss, are an inherent part of using services such as
+the Managed Services. Softcat can, where agreed with the Customer, provide backup and restore services as
+part of the Managed Services, which can form part of a Customer's wider business continuity and recovery
+strategy. However, Softcat does not provide general business continuity planning and execution services.
+Business continuity planning, and the execution and testing of such plans, is the responsibility of the Customer,
+and the Customer acknowledges that Softcat's backup and restore services are not a complete substitute for
+Private & Confidential
+7
+
+Softcat
+such arrangements. Therefore, if backup and restore services are not included in the Managed Services,
+Softcat will have no liability for any loss of or damage to Customer Data, however caused. If backup and
+restore services are included in the Managed Services, Softcat will perform such backup and restore services as
+are set out in the Work Order to the appropriate Service Level and in accordance with Good Industry Practice.
+However, the Customer acknowledges that:
+4.1.1.
+Softcat is not in a position to develop, evaluate or test the Customer's wider business continuity or
+disaster recovery arrangements, and can only provide such backup and recovery services as form
+part of the contracted Managed Services, and the selection and testing of appropriate backup and
+recovery solutions and strategies is therefore the Customer's responsibility; and
+4.1.2.
+Softcat is not in a position to verify the accuracy, completeness or integrity of the Customer Data,
+and can only back up the Customer Data as of its then-current state. Therefore, Softcat will not be
+liable if any Customer Data backed up or restored by Softcat is inaccurate, incomplete or
+corrupted, provided that the restore and corresponding backup job completed without error.
+4.2
+Notwithstanding clause 4.1, Softcat will not itself delete any Customer Data unless specifically permitted to do
+so by the Contract or instructed to do so by the Customer.
+4.3
+The Customer acknowledges that Softcat is not an insurer. Therefore, where Customer Site Equipment must
+be replaced in the course of a disaster recovery, Softcat can provide assistance in doing so, and will provide
+break/fix services to the extent that such services are within the scope of the Managed Services, but all
+replacement, relocation and/or reinstallation costs in respect of Customer Site Equipment will otherwise be
+borne by the Customer.
+4.4
+Each party warrants that it shall comply with the DPA when performing its respective obligations under the
+Contract.
+4.5
+To the extent that Softcat (as Data Processor) processes Personal Data on behalf of the Customer (as Data
+Controller), Softcat will:
+4.5.1.
+process such Personal Data only in accordance with the Customer's instructions or as required by
+law or regulation;
+4.5.2.
+take appropriate technical and organisational measures to protect such Personal Data against
+unauthorised or unlawful processing and accidental loss, destruction, alteration or disclosure;
+4.5.3.
+ensure that, having regard to the state of technological development and their cost of
+implementation, those measures ensure a level of security appropriate to (1) the harm that might
+result from such processing, loss, destruction or damage; and (2) the nature of such Personal Data;
+and
+4.5.4.
+promptly inform the Customer if it receives a request or notice from a data subject seeking to
+exercising his or her rights under the DPA in respect of such Personal Data, and (at the Customer's
+cost) comply with the Customer's reasonable instructions with respect to that request or notice.
+4.6
+The Customer instructs Softcat to take such steps in the processing of Personal Data on its behalf as Softcat
+reasonably considers necessary to the performance of its obligations under the Contract, irrevocably
+authorises Softcat to give equivalent instructions to any relevant subcontractor on its behalf, and warrants
+that it is and will remain entitled to give the instruction and authorisation in this clause 4.6.
+4.7
+Softcat will ensure that any subcontractor to which it delegates the processing of Personal Data on behalf of
+the Customer is bound by a written agreement imposing on the subcontractor obligations equivalent to those
+set out in clause 4.5.
+5.
+Security
+5.1
+Softcat will operate safety and security measures and procedures consistent with Good Industry Practice for
+the prevention of unauthorised access or damage to any and all Managed Services.
+5.2
+Each of Softcat and the Customer will promptly inform the other if it suspects or uncovers any breach of
+security in respect of the Managed Services, and Softcat will use all commercially reasonable endeavours to
+verify and, if verified, promptly remedy such breach.
+6.
+Customer Obligations
+6.1
+To assist Softcat to fulfil its obligations under the Contract, the Customer will:
+6.1.1.
+provide Softcat promptly with any information and assistance it may reasonably require from time
+to time;
+6.1.2.
+afford Softcat full and safe access to the Customer Site(s) and the Customer Site Equipment during
+normal working hours;
+6.1.3.
+provide at the relevant Customer Site(s) all suitable computer hardware, software and
+Private & Confidential
+8
+
+Softcat
+telecommunications equipment (other than those specified to be provided by Softcat in the Work
+Order);
+6.1.4.
+where applicable, install the correct management agents for the Customer's Operating
+Environment, or if Softcat installs management agents as part of the Managed Services, not
+interfere with such management agents;
+6.1.6.
+6.1.5.
+provide Softcat with copies of all policies that Softcat is expected to observe at the Customer Sites;
+appoint a Customer Representative who will be Softcat's primary contact at the Customer and
+who must have or promptly be able to obtain sufficient authority to make all necessary decisions
+in relation to the Contract. The Customer will use reasonable endeavours to ensure continuity of
+the Customer's Representative.
+6.1.7.
+comply with all applicable laws and regulations with respect to its activities under the Contract;
+6.1.8.
+carry out its responsibilities to Softcat in a timely and efficient manner. In default of such
+obligation, Softcat may adjust any timetable or delivery schedule as reasonably necessary;
+6.1.9.
+use, and procure that its officers, employees, workers and subcontractors use, the Managed
+Services only in accordance with the Acceptable Use Policy;
+6.1.10.
+ensure that the Managed Services are not used to receive, transmit, host or otherwise process any
+material and/or communication (other than entirely unsolicited inbound communications) that is
+menacing, of a junk-mail or spam-like nature, illegal, obscene, threatening, defamatory,
+discriminatory, actionable, or in violation of (or which would place Softcat in violation of) any
+rules, regulations or laws to which the use of the Managed Services are subject, or infringe the
+Intellectual Property Rights of Softcat or any third party;
+6.1.11.
+inform Softcat of any new applications and or services brought onto the Managed Services and
+ensure that such applications or services are licensed and compliant;
+6.1.12.
+where relevant, properly train, supervise and manage its personnel in the use and application of
+the Managed Services; and
+6.1.13.
+implement effective and appropriate backup and other procedures for the protection of its data
+where backup and restore services are not part of the Managed Services.
+6.2
+Additionally, and notwithstanding the above, Softcat will not be responsible for any failure to provide the
+Managed Services unless the Customer has met or observed the following requirements:
+6.2.1.
+all Customer hardware and software configurations to be supported by Softcat have been installed
+by Softcat or have been reviewed by both parties and agreed that the solution presented is both
+suitable for purpose and within the ability of both parties to sustain;
+6.2.2.
+the Customer has assumed responsibility for the purchase of associated hardware and software
+Maintenance Contracts. Where any related Maintenance Contract has been arranged directly
+with an IT Partner by the Customer, the Customer shall be responsible for advising that IT Partner
+that Softcat will be managing the Customer's systems from the applicable start date and, to the
+extent required, procuring for Softcat a right to use the services provided under such Maintenance
+Contract;
+6.2.3.
+the Customer has ensured that the performance or operation of any Customer installed
+applications have no direct impact upon Softcat's ability to deliver the agreed Service Levels; and
+6.2.4.
+the Customer has advised Softcat of its internal procedures of internal escalation and systems
+maintenance.
+6.3
+If the Customer wishes to make any alterations, additions, or maintenance that will or may impact upon
+Softcat's ability to deliver the Managed Services, then the Customer will inform Softcat in writing of such
+works prior to their commencement.
+6.4
+In the event that the Customer, or any third party who is not a sub-contractor of Softcat, omits or commits
+anything that prevents or delays Softcat from undertaking or complying with any of its obligations under the
+Contract, then Softcat shall notify the Customer as soon as possible and Softcat will have no liability in respect
+to any delay in the provision of the Managed Service that results from such act or omission.
+6.5
+Softcat may charge the Customer for any additional reasonable costs and expenses properly incurred by
+Softcat caused by variation in the Customer's instructions, any failure on the part of the Customer to provide
+instructions in a reasonable and timely manner, or other failure to comply with this Clause 6.
+7.
+Warranties
+7.1
+Softcat warrants that:
+7.1.1.
+it will provide the Managed Services in accordance with Good Industry Practice and substantially
+in accordance with the Managed Service Specification and the Contract;
+Private & Confidential
+9
+
+Softcat
+7.1.2.
+it has the full capacity and authority to enter into and perform the Contract and that the Contract
+is executed by a duly authorised representative of Softcat;
+7.1.3.
+it will comply with all applicable laws in performing its obligations under the Contract; and
+7.1.4.
+all personnel and sub-contractors used by Softcat in the performance of the Contract are
+adequately skilled and experienced for the activities they are required to perform.
+7.2
+The warranties in clause 7.1 shall not apply to the extent of any non-conformance caused by use of the
+Managed Services contrary to Softcat's instructions.
+7.3
+If the Managed Services do not conform with any of the warranties in clause 7.1 as a result of a breach by
+Softcat of such warranty, Softcat will use reasonable commercial endeavours to correct such non-conformance
+promptly, or provide the Customer with an alternative means of accomplishing the desired performance. Such
+correction or substitution constitutes the Customer's sole and exclusive remedy for any breach of the
+warranties in clause 7.1.
+7.4
+Softcat does not warrant that the Customer's use of the Managed Services will be uninterrupted or error-free.
+7.5
+The Customer warrants that:
+7.5.1.
+it has the full capacity and authority to enter into and perform the Contract and that the Contract
+is executed by a duly authorised representative of the Customer;
+7.5.2.
+it has the authority to grant any rights granted to Softcat under the Contract;
+7.5.3.
+it will comply with and use the Managed Services in accordance with the Contract and all
+applicable laws;
+7.5.4.
+it has and shall maintain all necessary licences, permits, rights, consents, registrations, approvals
+and titles necessary for Softcat to use or host any software, hardware, documentation or other
+materials provided by the Customer for use in the provision of the Managed Services to the
+Customer; and
+7.5.5.
+Softcat's use of any third-party materials supplied by the Customer in connection with the
+Contract, shall not cause Softcat to infringe the rights, including any Intellectual Property Rights, of
+any third party.
+8.
+IT Partners, EULAs and other Third Party Agreements
+8.1
+The Customer may contract directly with an IT Partner for provision of software or services related to the
+Managed Services. Unless managing such contracts falls within the scope of the Managed Services, the
+Customer will (as against Softcat) be solely responsible for all matters arising out of such contracts.
+8.2
+Where Softcat provides to the Customer access to or use of third party Software in the course of providing the
+Managed Services, the Customer agrees to comply with the terms of the relevant end user licence agreements
+applicable to such Software. Where required by an upstream supplier of such Software, the Customer agrees
+to provide to such upstream supplier sufficient access to relevant systems and records to allow such upstream
+supplier to verify compliance with such end user licence agreements.
+8.3
+The Customer shall licence or procure a licence for the use of any software, programs and/or applications used
+by the Customer and not supplied by Softcat (including the Customer's Operating Environment). These may or
+may not be indirectly related to the Managed Services.
+9.
+Invoicing and Payment
+9.1
+Until the Contract comes into existence, all Fees are subject to change without prior notice. Softcat will notify
+the Customer of any changes to Fees set out in a draft Work Order before such Work Order comes into effect.
+9.2
+The Customer acknowledges that the Fees chargeable in respect of certain Managed Services (for example,
+AWS, Azure, VCHS, cloud backup and SIP per-minute billing) are based on the Customer's actual usage, and
+that the level of usage of such Managed Services is controlled by the Customer. The Customer therefore
+agrees in respect of such Managed Services to pay such Fees as the Customer may incur as a result of its actual
+usage, without the requirement for any additional purchase order. The Customer further acknowledges that
+fees charged by the upstream suppliers of certain Managed Services will vary from time to time during the
+Term. The Customer therefore agrees that Softcat may vary the Fees to reflect such changes in upstream fees.
+Softcat will use reasonable endeavours to provide reasonable notice of such variations.
+9.3
+Softcat will invoice the Customer for its Fees for the Managed Services either monthly or quarterly in advance
+as specified in the Work Order and unless the Work Order specifies otherwise, provided that in respect of the
+Managed Services of the type referred to in clause 9.2 Softcat will invoice monthly in arrears. The Customer
+will pay Softcat in full within thirty (30) calendar days from receipt of invoice unless otherwise specified in the
+Work Order.
+9.4
+If the Work Order provides that the Fees or any part of the Fees are payable in arrears, then Softcat may
+Private & Confidential
+10
+
+Softcat
+withdraw or vary such arrangements at any time if:
+9.4.1.
+Softcat serves a notice of termination of the Contract;
+9.4.2.
+there is (in the sole opinion of Softcat) a material adverse change in the creditworthiness of the
+Customer; or
+9.4.3.
+the Customer fails to pay any amount which is due and payable.
+9.5
+Applicable third-party support and licensing Fees will be payable at initial purchase and any subsequent
+renewal dates.
+9.6
+When the Customer first orders a Managed Service not previously supplied, or it is agreed by the parties as
+being either an addition to, or change to an existing Managed Service being supplied, then a non-recurring
+charge may be specified as part of the Fees. This non-recurring charge is for installation of additional network
+infrastructure, cabling, electronics or other materials or consultancy. Non-recurring charges are payable by
+the Customer after delivery of the relevant Managed Service and will be billed in arrears. If the Customer fails
+to pay such non-recurring charges within thirty (30) calendar days following Softcat's invoice for such non-
+recurring charges then:
+9.6.1.
+such failure to pay shall be an Excused Outage for the purposes of provisioning and/or installation
+of the Managed Services;
+9.6.2.
+Softcat may issue a revised Contract Start Date and/or Activation Date; and
+9.6.3.
+Softcat may suspend installation of the Managed Service until receipt of such non-recurring
+charges.
+9.7
+If the Customer reasonably disputes any portion of an invoice, the Customer must submit a written claim for
+the disputed amount within thirty (30) calendar days after delivery of the relevant invoice and shall at all times
+remain liable for the payment of all items not disputed or not validly disputed as reasonably determined by
+Softcat. Where such dispute turns upon level of usage of the Managed Services, Softcat's records of such
+usage shall be presumed to be accurate unless proved otherwise by an independent expert appointed by
+Softcat or appears to be contrary to Customer's written purchase order for such Services.
+9.8
+The Customer waives the right to dispute any Fees not disputed within thirty (30) days of receipt of the
+relevant invoice.
+9.9
+When a dispute regarding amounts payable under the Contract is resolved to the Customer's reasonable
+satisfaction, the Customer will immediately pay any amounts that were the subject of such dispute.
+9.10
+Softcat reserves the right to charge interest to the Customer on any sums, fees or other charges which are not
+paid on the due date and that interest may be charged from the date such payment falls due at the statutory
+rate of two per cent (2%) per annum above the Bank of England base rate from time to time. Such interest
+shall accrue on a daily basis from the due date until actual payment of the overdue amount, whether before or
+after judgment. The Customer shall pay the interest together with the overdue amount.
+9.11
+On expiry or termination of the Contract for any reason, any Fees incurred but unpaid shall become
+immediately due and payable and shall represent a debt due from the Customer to Softcat.
+9.12
+All charges for Managed Service are net of VAT and other taxes. Except for taxes based upon Softcat's net
+income, the Customer will be responsible for payment of all applicable taxes that arise in any jurisdiction,
+including but not limited to, VAT, sales, use, excise, access, bypass, franchise or other taxes, fees, charges or
+surcharges, however designated, imposed on or based on the provision, sale or use of the Managed Services.
+10.
+Change Control Procedure
+10.1
+The Customer acknowledges that changes to services such as the Managed Services must be carefully
+managed. Therefore, if either party wishes to change the scope of any of the Managed Services (including
+Customer requests for additional services), it shall submit a change request to the other party and the parties
+will then proceed according to Softcat's change control procedure as it may be amended from time to time
+(the "Change Control Procedure").
+11.
+Intellectual Property
+11.1
+Nothing in the Contract will change the ownership of any of the Intellectual Property Rights of either party.
+Each party grants to the other a non-exclusive, limited, revocable licence to use its Intellectual Property Rights
+solely to the extent necessary for that party to perform its obligations under the Contract.
+11.2
+11.3
+The Customer will indemnify Softcat against any claim brought against Softcat by a third party that the
+Customer Data or the Customer's use of the Managed Services infringes such third party's Intellectual Property
+Rights or other rights, provided that Softcat will provide reasonable assistance in the defence and/or
+settlement of such claims, and provided that the Customer will have on request sole authority to defend or
+settle any such claim.
+Private & Confidential
+11
+
+Softcat
+11.4
+Softcat will indemnify the Customer against any claim brought against the Customer by a third party that the
+Managed Services infringe such third party's Intellectual Property Rights or other rights, provided that the
+Customer will provide reasonable assistance in the defence and/or settlement of such claims, and provided
+that Softcat will have on request sole authority to defend or settle any such claim
+12.
+Confidentiality
+12.1
+Each party undertakes to the other that, except as provided by clause 12.4 or as authorised in writing by the
+other, it shall, at all times:
+12.1.1.
+keep confidential all Confidential Information disclosed to it by the other party;
+12.1.2.
+not disclose any such Confidential Information to any other person;
+12.1.3.
+not use any such Confidential Information for any purpose other than as contemplated by the
+Contract; and
+12.1.4.
+ensure that none of its directors, officers, employees, agents or advisers does any act which, if
+done by that party, would be a breach of this clause 12.1.
+12.2
+The Customer acknowledges that Softcat's Confidential Information includes any designs, plans, software or
+other materials created by Softcat in connection with the Managed Services.
+12.3
+Softcat acknowledges that the Customer's Confidential Information includes the Customer Data.
+12.4
+Notwithstanding clause 12.1, either party may disclose the Confidential Information of the other to:
+12.4.1.
+any sub-contractor, supplier or professional adviser of that party;
+12.4.2.
+any governmental or other authority or regulatory body; or
+12.4.3.
+any employee or officer of that party, or of any of the aforementioned persons,
+in each case only to such extent as is necessary for the purposes of performing or enforcing the Contract, or as
+required by law, and in each case (unless prohibited by applicable law) subject to that party first informing the
+person in question that the Confidential Information is confidential and (except where the disclosure is to any
+such body as is mentioned in clause 12.4.2 above or any employee or officer of any such body) obtaining and
+submitting to the other party a written undertaking from the person in question, as nearly as practicable in the
+terms of this clause, to keep the Confidential Information confidential and to use it only for the purposes for
+which the disclosure is made.
+12.5
+The provisions of this clause 12 shall continue notwithstanding the termination of the Contract for any reason.
+13.
+Term, Renewal and Cancellation Charges
+13.1
+The Contract will continue for the Initial Term and will thereafter automatically renew for successive Renewal
+Terms unless:
+13.1.1.
+either party notifies the other party of termination, in writing, at least 30 days before the end of
+the Initial Term or the then-current Renewal Term, in which case the Contract will terminate upon
+the expiry of the Initial Term or then-current Renewal Term, as the case may be; or
+13.1.2.
+otherwise terminated in accordance with its terms.
+13.2
+Certain Managed Services are subject to longer cancellation periods imposed by the upstream supplier. The
+cancellation period for such Managed Services will be as set out in the Work Order, and in respect of such
+Managed Services clause 13.1.1 will be deemed to be amended accordingly.
+13.3
+The Customer acknowledges that the Fees are subject to variations caused by, among other things, increases
+in upstream supplier charges and general inflation, and that Softcat may therefore vary the Fees payable by
+the Customer in respect of Renewal Terms. 45 days before the expiry of the Initial Term and each Renewal
+Term, Softcat will notify the Customer of any adjustment in the Fees payable for the subsequent Renewal
+Term and, unless the Customer terminates the Contract in accordance with clause 13.1.1, such adjusted Fees
+will apply from the start of such Renewal Term.
+13.4
+The Customer may additionally terminate the Contract at any time during the Term if it pays to Softcat the
+Cancellation Charge.
+14.
+Suspension
+14.1
+Softcat may suspend all or any part of any Managed Service without liability to the Customer if:
+14.1.1.
+Softcat reasonably believes that the Managed Services have, are or will be used in breach of the
+Contract;
+14.1.2.
+Softcat discover that the Customer is affiliated in any manner with a person who has used similar
+services abusively in the past;
+14.1.3.
+the Customer does not co-operate with Softcat's investigation of any suspected breach of the
+Contract;
+Private & Confidential
+12
+
+Softcat
+14.1.4.
+Softcat reasonably believes that the Customer has permitted the Managed Services to be accessed
+or manipulated by a third party without its consent;
+14.1.5.
+Softcat reasonably believes that Customer applications, databases or operating systems hosted on
+the Managed Services have been hacked or compromised, except where such hack or
+compromise is reasonably attributable to Softcat's failure to perform its obligations under the
+Contract;
+14.1.6.
+Softcat reasonably believes that suspension of the Managed Services is necessary to protect
+Softcat's System or Softcat's other customers;
+14.1.7.
+any Fee or other amount due under the Contract is overdue or is at risk of non-payment in the
+opinion of Softcat; or
+14.1.8.
+Softcat is required to do so by law or a regulatory or government body.
+14.2
+Softcat will give the Customer advance notice of a suspension under this clause of at least twelve (12) Business
+Hours unless Softcat determines in its reasonable commercial judgment that a suspension on shorter or
+contemporaneous notice is necessary to protect Softcat or its other customers from imminent and significant
+operational, legal, or security risk, or non-payment of its Fees. If Softcat suspends any Managed Services
+pursuant to any of clauses 14.1.1, 14.1.3 or 14.1.7, then Softcat may continue to charge the Customer the Fees
+for the Managed Services during the period of suspension, and may charge the Customer a reasonable
+reinstatement fee upon reinstatement of the Managed Services. If Softcat suspends any Managed Services
+pursuant to clause 14.1.5, then the Customer must address the underlying vulnerability prior to Softcat placing
+the Managed Services back in service. If the Customer requests, Softcat may be able to perform this work for
+the Customer as a supplementary service on a time and materials basis at Softcat's standard hourly rates.
+15.
+Termination
+15.1
+Without affecting any other right or remedy available to it, either party may terminate the Contract with
+immediate effect by giving written notice to the other party if:
+15.1.1.
+the other party fails to pay any amount due under the Contract on the due date for payment and
+remains in default not less than 14 days after being notified in writing to make such payment;
+15.1.2.
+the other party commits a material breach of any terms of the Contract which is irremediable or (if
+such breach is remediable) fails to remedy that breach within a period of 14 days after being
+notified in writing to do so;
+15.1.3.
+the other party repeatedly breaches the Contract in such a manner as to reasonably justify the
+opinion that its conduct is inconsistent with it having the intention or ability to give effect to the
+Contract;
+15.1.4.
+the other party suspends, or threatens to suspend, payment of its debts or is unable to pay its
+debts within the meaning of section 123 of the Insolvency Act 1986;
+15.1.5.
+the other party commences negotiations with all or any class of its creditors with a view to
+rescheduling any of its debts, or makes a proposal for or enters into any compromise or
+arrangement with its creditors other than for the sole purpose of a scheme for a solvent
+amalgamation of that other party with one or more other companies or the solvent reconstruction
+of that other party;
+15.1.6.
+a petition is filed, a notice is given, a resolution is passed, or an order is made, for or in connection
+with the winding up of that other party other than for the sole purpose of a scheme for a solvent
+amalgamation of that other party with one or more other companies or the solvent reconstruction
+of that other party;
+15.1.7.
+an application is made to court, or an order is made, for the appointment of an administrator, or if
+a notice of intention to appoint an administrator is given or if an administrator is appointed, over
+the other party;
+15.1.8.
+the holder of a qualifying floating charge over the assets of that other party has become entitled
+to appoint or has appointed an administrative receiver;
+15.1.9.
+a person appoints or becomes entitled to appoint a receiver over the assets of the other party;
+15.1.10.
+a creditor or encumbrancer of the other party attaches or takes possession of, or a distress,
+execution, sequestration or other such process is levied or enforced on or sued against, the whole
+or any part of the other party's assets and such attachment or process is not discharged within 14
+days; or
+15.1.11.
+the other party suspends, ceases, or threatens to suspend or cease, carrying on all or a substantial
+part of its business.
+If clause 15.1 applies then without prejudice to any other right or remedy available to Softcat it shall be
+Private & Confidential
+13
+15.2
+
+Softcat
+entitled to cancel the supply of Managed Services without any liability to the Customer and any unpaid
+Managed Services shall become immediately due and payable notwithstanding any previous agreement or
+arrangement to the contrary.
+15.3
+On termination or expiry of the Contract:
+15.3.1.
+each party shall return and make no further use of any equipment, property, materials and other
+items (and all copies of them) belonging to the other party; and
+15.3.2.
+any rights, remedies, obligations or liabilities of the parties that have accrued up to the date of
+termination, including the right to claim damages in respect of any breach of the agreement which
+existed at or before the date of termination shall not be affected or prejudiced.
+15.4
+Upon expiration or termination of the Contract, the Customer must discontinue use of the Managed Services
+and relinquish use of the IP addresses and server names assigned to the Customer by Softcat in connection
+with Services, including pointing its domain name(s) away from Managed Services. The Customer agrees that
+Softcat may, as it determines necessary, make modifications to DNS records and zones on Softcat managed or
+operated DNS servers and services.
+16.
+Exit Assistance, Return of Customer Data and Transfer of Employees and Assets
+16.1
+Reasonably promptly following expiry or termination of the Contract for any reason, Softcat will provide the
+Customer with one electronic copy of the Customer Data, in the format it is then in and on an "as-is" basis.
+Thereafter, subject to clause 16.3, Softcat may delete the Customer Data at its discretion.
+16.2
+Reasonably promptly following expiry or termination of the Contract for reasons other than those set out in
+clause 15.1, Softcat will:
+16.2.1.
+provide to the Customer copies of existing technical documentation of the Managed Services;
+16.2.2.
+hand over to the Customer all relevant passwords specific to the Managed Services provided to
+the Customer; and
+16.2.3.
+provide the Customer with such reasonable assistance and information in transitioning the
+Managed Services to a replacement supplier ("Replacement Supplier") as the Customer may
+request, free of charge for a period of up to 30 days following such expiry or termination, and
+thereafter chargeable to the Customer on a time and materials basis at Softcat's then-current
+rates for a further period of no more than 90 days following such expiry or termination (together,
+the "Transition Assistance Period").
+16.3
+If requested to do so by the Customer, upon expiry or termination of the Contract for reasons other than those
+set out in clause 15.1 and subject to continuing payment by the Customer of the applicable Fees, Softcat will
+use reasonable endeavours to continue to provide such of the Managed Services as the Customer may require
+for up to 30 days following such termination or expiry so as to allow the Customer to transition to a
+Replacement Supplier. The Customer acknowledges that certain upstream suppliers may not permit such
+transitional provision, and therefore agrees that this clause 16.3 will not apply in respect of Managed Services
+which are dependent upon such upstream suppliers.
+16.4
+As soon as practicable after the commencement of the Transition Assistance Period, Softcat will disclose to the
+Customer whether any of its workers or employees will transfer to the Customer or the Replacement Supplier
+by operation of TUPE, and if so will provide the Customer with sufficient information about such workers or
+employees to enable the Customer to assess the likely cost of making such workers or employees redundant.
+If any worker or employee of Softcat who Softcat has not disclosed to the Customer as transferring
+nevertheless is able to show that his or her contract of employment has transferred to the Customer or the
+Replacement Supplier under TUPE as a result of transitioning the Managed Services to the Customer or the
+Replacement Supplier, Softcat will indemnify the Customer for its actual losses resulting from a claim brought
+by such undisclosed workers or employees, including reasonable legal fees, provided that the Customer must
+not settle or otherwise dispose of such a claim without Softcat's prior written consent.
+16.5
+If applicable, on expiry or termination of the Contract Softcat shall sell to the Customer, and the Customer
+shall buy, the Customer Site Equipment for net book value, calculated in accordance with Softcat's reasonable
+then-current depreciation policy. Title to such Customer Site Equipment shall pass to the Customer on
+payment.
+17.
+Force Majeure
+17.1
+Neither party shall be liable, nor will Service Credits be applied, for any failure of any equipment, facilities or
+delivery of Managed Services due to causes beyond such party's reasonable control.
+18.
+Liability
+Private & Confidential
+14
+
+Softcat
+18.1
+Except as expressly and specifically provided in the Contract:
+18.1.1.
+the Customer assumes sole responsibility for results obtained from the use of the Managed
+Services, and for conclusions drawn from such use. Softcat shall have no liability for any damage
+caused by errors or omissions in any information, instructions or scripts provided to Softcat by the
+Customer in connection with the Managed Services, or any actions taken by Softcat at the
+Customer's direction; and
+18.1.2.
+all warranties, conditions and other terms implied by statute or common law are, to the fullest
+extent permitted by law, excluded from the Contract.
+18.2
+Nothing in the Contract is intended to or shall be interpreted to exclude or limit the liability of either party for:
+18.2.1.
+the indemnities expressly given in the Contract; or
+18.2.2.
+any liability which cannot lawfully be excluded or limited.
+18.3
+Softcat will have no liability to the Customer arising out of or in connection with the Contract for any loss of
+profits, account of profits, loss of business, loss of revenue, loss or reputation or goodwill, loss of opportunity,
+loss of data or interference with business (unless and solely to the extent that Softcat provides backup and
+restore services as part of the Managed Services), or any indirect or consequential loss of any kind.
+18.4
+In particular and without prejudice to the provisions of clause 18.3, Softcat will not be liable for any loss or
+damage arising to the Customer's systems, data, information, equipment (including the Customer's Operating
+Environment) or any Intellectual Property Rights if such loss is in any way attributable to any of the following:
+18.4.1.
+any failure of the Customer's applications, databases or operating systems, including loss or
+corruption of data or (unless and to the extent that backup and restore services are part of the
+Managed Services) failure to implement back-up procedures;
+18.4.2.
+any failure of any applicable Service Level if in the reasonable opinion of Softcat (based on its
+knowledge of the industry) the solution/systems have been tampered with by the Customer or
+any third party authorised by the Customer with or without Softcat's knowledge;
+18.4.3.
+any failure of any Customer-managed IT Partner to provide its services in accordance with the
+relevant agreements;
+18.4.4.
+any Internet failure outside the control of Softcat; or
+18.4.5.
+any latent defect in any third party equipment or Software, or failure of such equipment or
+Software to perform in accordance with the manufacturer's specification.
+18.5
+Subject to the other provisions of this clause 18, Softcat's maximum aggregate liability to the Customer arising
+out of or in connection with the Contract is, in relation to each event and all events preceding that event
+(taken together), limited to an amount equal to the Fees paid by the Customer to Softcat in the 12 months
+preceding such event.
+19.
+Non-Solicitation
+19.1
+Both parties agree that during the period of the Agreement and for a period of twelve (12) months after its
+termination or expiry, save for where such action is a result of a bona fide public recruitment process, neither
+party shall entice or seek to employ or engage directly or indirectly (without the other party's prior written
+agreement, such consent not to be unreasonably withheld or delayed) or make or seek to make any offer of
+employment or engagement to any of the other party's officers, employees or workers, including those of any
+of its sub-contractors who have been involved in the course of the negotiation, conclusion and performance of
+the Contract;
+19.2
+If any officer, employee or worker of a party leaves the employment of that party as a result of a breach of this
+clause 19 and commences employment with, or provides services to, the other party, it shall pay the non-
+breaching party 50% of the higher of :-
+19.2.1.
+the annual salary (including any benefits-in-kind, bonus payments, commissions and other
+benefits) of the employee at the date that they ceased to be an employee of the non-breaching
+party; or
+19.2.2.
+the annual salary of the employee at the time they commence employment by the breaching
+party.
+19.3
+Each party acknowledges that any such payment is by way of liquidated damages and is a reasonable and
+genuine pre-estimate of the non-beaching party's losses.
+20.
+No Waiver
+20.1
+No failure or delay by a party to exercise any right or remedy provided under the Contract or by law shall
+constitute a waiver of that or any other right or remedy, nor shall it preclude or restrict the further exercise of
+that or any other right or remedy. No single or partial exercise of such right or remedy shall preclude or restrict
+Private & Confidential
+15
+
+Softcat
+the further exercise of that or any other right or remedy.
+21.
+Insurance
+21.1
+Each party shall at all times maintain appropriate policies of insurances with a reputable insurance company to
+cover their separate risks and liabilities under this agreement (such policies to include but not be limited to
+public liability insurance in an amount of not less than GBP 5,000,000 for any event, unless the parties agree
+otherwise in writing).
+22.
+Severance
+22.1
+If any provision or part-provision of the Contract is or becomes invalid, illegal or unenforceable, it shall be
+deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such
+modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any
+modification to or deletion of a provision or part-provision under this clause 22 shall not affect the validity and
+enforceability of the rest of the Contract.
+23.
+Assignment
+23.1
+The Customer shall not, without the prior written consent of Softcat, assign, transfer, charge, sub-contract or
+deal in any other manner with all or any of its rights or obligations under the Contract.
+23.2
+The Customer accepts that Softcat may, in its sole discretion, sub-contract, outsource or resell all or parts of
+the delivery of a Managed Service to any of Softcat's IT Partners, provided that Softcat remains responsible for
+any act or omission of its IT Partners and other sub-contractors.
+24.
+No Partnership or Agency
+24.1
+Nothing in the Contract is intended to, or shall be deemed to, establish any partnership or joint venture
+between any of the parties, constitute any party the agent of another party, nor authorise any party to make
+or enter into any commitments for or on behalf of any other party.
+24.2
+Each party confirms it is acting on its own behalf and not for the benefit of any other person.
+25.
+Third-Party Rights
+25.1
+Nothing in the Contract will confer any rights on any third parties.
+26.
+Notices
+26.1
+Any notice or other communication required to be given to a party under or in connection with the Contract
+shall be in writing and shall be delivered by hand, by email to the Customer Representative at the address
+specified in the Work Order, or sent by pre-paid first class post or other next working day delivery service, at
+its registered office (if a company) or (in any other case) its principal place of business.
+26.2
+Any notice or communication shall be deemed to have been received if delivered by hand, on signature of a
+delivery receipt or at the time the notice is left at the proper address, or if sent by email, at 9.00 am on the
+next Business Day after sending, or otherwise at 9.00 am on the second Business Day after posting.
+26.3
+This clause does not apply to the service of any proceedings or other documents in any legal action or, where
+applicable, any arbitration or other method of dispute resolution.
+27.
+Anti-Bribery
+27.1
+Neither party will commit, or do or omit to do any act or thing which would result in the other party
+committing, an offence under sections 1, 2 or 6 of the Bribery Act 2010.
+28.
+Entire Agreement and Amendment
+28.1
+The Contract constitutes the entire agreement between the parties and supersedes all previous discussions,
+correspondence, negotiations, arrangements, understandings and agreements between them relating to its
+subject matter.
+28.2
+Each party acknowledges that in entering into the Contract it does not rely on, and shall have no remedies in
+respect of, any representation or warranty (whether made innocently or negligently) that is not set out in the
+Contract.
+28.3
+Nothing in this clause shall limit or exclude any liability for fraud.
+28.4
+No alteration to or variation of the Contract shall take effect unless and until the same is in writing and signed
+on behalf of each of the parties by a duly authorised representative.
+Private & Confidential
+16
+
+Softcat
+29.
+Law And Jurisdiction
+29.1
+The Contract and all non-contractual obligations arising out of or connected with it will be governed by English
+law and subject to the exclusive jurisdiction of the English courts.
+Private & Confidential
+17

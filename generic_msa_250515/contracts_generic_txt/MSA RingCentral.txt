@@ -1,0 +1,622 @@
+DRAFT - NOT FOR SIGNATURE
+RingCentral
+MASTER SERVICES AGREEMENT
+This Master Services Agreement is effective as of the date of last signature ("Effective Date") and made between:
+Customer Name ("Customer")
+RingCentral, Inc. ("RingCentral')
+Address:
+Address:
+20 Davis Drive
+Belmont, CA 94002
+By:
+By:
+Name:
+Name:
+Title:
+Title:
+Date:
+Date
+RingCentral and Customer are together referred to as the "Parties" and each individually as a "Party."
+1. The Master Services Agreement ("Agreement") consists of the terms and conditions contained herein, and any
+Service Attachments applicable to Customer's Services, and any other Attachments agreed by the Parties, are
+incorporated into and form a part of this Agreement.
+Exhibit A - Definitions
+Attachment A - RingEX Services
+Attachment B - RingCentral Contact Center Services
+Attachment C - Engage Digital Services
+Attachment D - RingCX Services
+Attachment E - RingCentral Video Pro
+THE PARTIES AGREE AS FOLLOWS:
+2. Ordering and Term
+A. Ordering Services. Customer may order the Services set forth in the relevant Attachments, attached hereto,
+by executing an Order Form in the format provided by RingCentral. Customer must submit the Order Form to
+RingCentral either in writing or electronically via the Administrative Portal. The Order Form will identify the
+Services requested by Customer together with: (i) the price for each Service; (ii) scheduled Start Date; (iii)
+and products rented, licensed, or sold to Customer, if any. An Order Form will become binding when it is
+executed by the Customer and accepted by RingCentral. RingCentral may accept an Order Form by
+commencing performance of the requested Services. The Services and invoicing for those Services will begin
+on the Start Date, as identified in the applicable Order Form or on the day Services are ordered via the
+Administrative Portal. Customer may purchase additional Services, software, and equipment via the
+Administrative Portal or by executing additional Order Forms.
+B. Equipment. Customer may purchase or rent equipment from RingCentral for use with the Services. The terms
+and conditions that govern any such transaction can be found at:
+v.04.01.2024
+Page 1 of 11
+
+DRAFT - NOT FOR SIGNATURE
+i.
+Purchase: http://www.ringcentral.com/legal/ringcentral-hardware-terms-conditions.html, and
+ii. Rental: http://www.ringcentral.com/legal/lease-rental.html.
+C. Term of this Agreement. The Term of this Agreement will commence on the Effective Date and continue
+until the last Order Form is terminated or expires, unless terminated earlier in accordance with its terms.
+D. Services Term. The Services Term will begin on the Start Date of the initial Order Form and continue for the
+initial term set forth in the initial Order Form ("Initial Term"). Upon expiration of the Initial Term, unless
+otherwise set forth in the Order Form, the term recurring Services will automatically renew for successive
+periods as set forth in the initial Order Form (each a "Renewal Term") unless either Party gives notice of non-
+renewal at least thirty (30) days before the expiration of the Initial Term or the then-current Renewal Term.
+The Term of any recurring Services added to your Account after the initial Order Form is executed will start
+on the Start Date in the applicable Order Form, will run coterminously with the then-current Term of any
+preexisting Services unless otherwise extended in the applicable Order Form, and will be invoiced on the
+same billing cycles as the preexisting Services.
+3. Invoicing and Payment
+A. Prices and Charges. All prices are identified in US dollars on the Administrative Portal or in the applicable
+Order Form unless otherwise agreed by the Parties. Additional charges may result if Customer activates
+additional features, exceeds usage thresholds, or purchases additional Services or equipment. Customer will
+be liable for all charges resulting from use of the Services on its Account. Unless otherwise agreed between
+the Parties, recurring charges (such as charges for Digital Lines, product licenses, minute bundles, and
+equipment rental fees) for the Services begin on the Start Date identified in the Administrative Portal or in the
+applicable Order Form and will remain in effect for the Initial Term (as described in an Order Form) or, if
+applicable, the then-current Renewal Term. RingCentral will provide notice of any proposed increase in such
+charges no later than sixty (60) days before the end of the Initial Term or then-current Renewal Term, and any
+such increase will be effective on the first day of the next Renewal Term. Administrative Fees that Ring Central
+is entitled to pass on to its customers as a surcharge pursuant to applicable Law may be increased on thirty
+(30) days' written notice. Outbound calling rates will be applied based on the rate in effect at the time of use.
+Customer may locate the currently effective rates in the Administrative Portal.
+B. Invoicing and Payment. Invoices will be issued in accordance with the payment terms set forth in the Order
+Form. If Customer chooses to pay by credit or debit card, by providing a valid credit or debit card, Customer
+is expressly authorizing all Services and equipment charges and fees to be charged to such payment card,
+including recurring payments billed on a monthly or annual basis. In addition, Customer's provided credit card
+shall be used for any in-month purchases of additional services and products, or where Customer has
+exceeded usage or threshold limits, any overage charges. Unless otherwise stated in the applicable Order
+Form, recurring charges are invoiced in advance in the frequency set forth in the Order Form, and usage-
+based and onetime charges are billed monthly in arrears. Customer shall make payment in full, without
+deduction or set-off, within thirty (30) days of the invoice date. Any payment not made when due may be
+subject to a late payment fee equivalent to the lesser of (i) one and a half percent (1.5%) per month or (ii) if
+applicable, the highest rate allowed by Law. In no event may payment be subject to delays due to Customer
+internal purchase order process.
+C. Taxes. All rates, fees, and charges are exclusive of applicable Taxes, for which Customer is solely
+responsible. Taxes may vary based on jurisdiction and the Services provided. If any withholding tax is levied
+on the payments, then Customer must increase the sums paid to RingCentral so that the amount received by
+RingCentral after the withholding tax is deducted is the full amount RingCentral would have received if no
+withholding or deduction had been made. If Customer is a tax-exempt entity, tax exemption will take effect
+upon provision to and validation by RingCentral of certificate of tax exemption.
+D. Billing Disputes. If a Customer reasonably and in good faith disputes any portion of RingCentral's invoice, it
+must provide written notice to RingCentral within thirty (30) days of the invoice date, identifying the reason for
+the dispute and the amount being disputed. Customer's dispute as to any portion of the invoice will not excuse
+Customer's obligation to timely pay the undisputed portion of the invoice. Upon resolution, Customer must pay
+any validly invoiced unpaid amounts within thirty (30) days. Any amounts that are found to be in error resulting
+in an overpayment by the Customer will be applied as a billing credit against future invoices. Customer will be
+reimbursed any outstanding billing credits at the expiration or termination of this Agreement.
+4. Provision of the Service
+A. General Terms. RingCentral will provide the Services as described in the relevant Service Attachment.
+RingCentral may enhance, replace, and/or change the features of the Services, but it will not materially reduce
+the core features, functions, or security of the Services during the Term without Customer's consent.
+v.04.01.2024
+Page 2 of 11
+
+DRAFT - NOT FOR SIGNATURE
+B. Customer Care
+i.
+Customer must provide Helpdesk Support to Customer's End Users. RingCentral may require Customer's
+Helpdesk Support personnel to complete a designated series of training courses on RingCentral's
+Services. Such training will be provided to Customer online in English at no cost.
+ii. RingCentral will make remote support available to Customer's Helpdesk Support personnel and/or
+Account Administrators via the Customer Care call center, which will be available 24/7, to attempt to
+resolve technical issues with, and answer questions regarding the use of the Services. Unless otherwise
+agreed by the parties, Customer Care support will be provided in English, and onsite and implementation
+services are not included in the Customer Care support.
+iii. Customer may open a case with Customer Care following the process in place at the time. Any individual
+contacting Customer Care on behalf of Customer must be authorized to do so on behalf of the Account
+and will be required to follow applicable authentication protocols.
+C. Professional Services. RingCentral offers a broad portfolio of professional services that includes onsite and
+remote implementation services; extended enterprise services including premium technical support; and
+consulting. Any such services are governed by this Agreement, the Professional Services terms, and any
+applicable Statement of Work (SOW), which may be attached hereto.
+D. Advanced Support. Customer may purchase Advanced Support services from RingCentral for use with the
+Services. The terms and conditions that govern the Advanced Support can be found at:
+https://www.ringcentral.com/legal/enterprise-service-attachment.html.
+E. Managed Services. Customer may purchase Managed Services from RingCentral for use with the Services.
+The
+terms
+and
+conditions
+that
+govern
+the
+Managed
+Services
+can
+be
+found
+at:
+https://www.ringcentral.com/legal/managed-services-attachment.html.
+F.
+Subcontracting. RingCentral may provide any of the Services hereunder through any of its Affiliates or
+subcontractors, provided that RingCentral will bear the same degree of responsibility for acts and omissions
+for those subcontractors acting on RingCentral's behalf in the performance of its obligations under this
+Agreement as it would bear if such acts and omissions were performed by RingCentral directly.
+5. Use of the Service
+A. Service Requirements. The Services are dependent upon Customer's maintenance of sufficient Internet
+access, networks, and power as set forth in RingCentral's Technical Sufficiency Criteria, available at
+https://www.ringcentral.com/legal/policies/technical-sufficiency-criteria.html.
+RingCentral
+will
+not
+be
+responsible for any deficiencies in the provision of the Services if Customer's network does not meet
+RingCentral's Technical Sufficiency Criteria.
+B. Use Policies. Customer and its End Users may use the Services only in compliance with this Agreement,
+applicable Law, and the Use Policies referenced below, which are incorporated into and form part of this
+Agreement. Customer must ensure that its End Users comply with the Use Policies. Any breach of this Section
+(Use Policies) will be deemed a material breach of this Agreement. RingCentral may update the Use Policies
+from time to time and will provide notice of material updates to Customer at the email address on file with the
+Account. All updates will become effective thirty (30) days after such notice to Customer or upon posting for
+non-material changes. Customer may object to a modification that negatively impacts its use of the Service
+by sending written notice ("Objection Notice") to RingCentral within thirty (30) days from the date of the notice
+of modification. If the Parties cannot reach agreement, then either Party may terminate the affected Services
+without penalty with thirty (30) days written notice to the other Party.
+i.
+Acceptable Use Policy. The Services must be used in accordance with RingCentral's Acceptable Use
+Policy, available at https://www.ringcentral.com/legal/acceptable-use-policy.html. Notwithstanding
+anything to the contrary in this Agreement, RingCentral may act immediately and without notice to
+suspend or limit the Services if RingCentral reasonably suspects fraudulent or illegal activity in the
+Customer's Account, material breach of the Acceptable Use Policy, or use of the Services that could
+interfere with the functioning of the RingCentral Network provided such suspension or limitation may only
+be to the extent reasonably necessary to protect against the applicable condition, activity, or use.
+RingCentral will promptly remove the suspension or limitation as soon as the condition, activity or use is
+resolved and mitigated in full. If Customer anticipates legitimate but unusual activity on its Account,
+Customer should contact Customer Care in advance to avoid any Service disruption.
+ii. Emergency Services. RingCentral's policy governing the provision of emergency services accessed via
+the Services is available at https://www.ringcentral.com/legal/emergency-services.html.
+v.04.01.2024
+Page 3 of 11
+
+DRAFT - NOT FOR SIGNATURE
+iii. Numbering Policy. The provision, use, and publication of numbers used in conjunction with the Services
+are
+governed
+by
+RingCentral's
+Numbering
+Policies,
+available
+at
+https://www.ringcentral.com/legal/policies/numbering-policy.html.
+6. Termination
+A. Termination for Cause. Either Party may terminate this Agreement and any Services purchased hereunder
+in whole or part by giving written notice to the other Party: i) if the other Party breaches any material term of
+this Agreement and fails to cure such breach within thirty (30) days after receipt of such notice; ii) at the written
+recommendation of a government or regulatory agency following a change in either applicable Law or the
+Services; or iii) upon the commencement by or against the other Party of insolvency, receivership or
+bankruptcy proceedings or any other proceedings or an assignment for the benefit of creditors.
+B.
+Effect of Termination. If Customer terminates the Services, a portion of the Services, or this Agreement in
+its entirety due to RingCentral's material breach under Section 6(A) (Termination for Cause), Customer will
+not be liable for any fees or charges for terminated Services for any period subsequent to the effective date
+of such termination (except those arising from continued usage before the Services are disconnected), and
+RingCentral will provide Customer a pro-rata refund of any prepaid and unused fees or charges paid by
+Customer for terminated Services. If this Agreement or any Services are terminated for any reason other than
+as a result of a material breach by RingCentral or as otherwise permitted pursuant to Section 6(A) or as set
+forth in Section 14(I) (Regulatory and Legal Changes) the Customer must, to the extent permitted by applicable
+Law and without limiting any other right or remedy of RingCentral, pay within thirty (30) days of such
+termination all amounts that have accrued prior to such termination, as well as all sums remaining unpaid for
+the Services for the remainder of the then-current Term plus related Taxes and fees.
+7.
+Intellectual Property
+A. Limited License
+i.
+Subject to, and conditional upon Customer's compliance with, the terms of this Agreement, RingCentral
+grants to Customer and its End User, a limited, personal, revocable, non-exclusive, non-transferable
+(other than as permitted under this Agreement), non-sublicensable license to use any software provided
+or made available by RingCentral to the Customer as part of the Services ("Software") to the extent
+reasonably required to use the Services as permitted by this Agreement, only for the duration that
+Customer is entitled to use the Services and subject to the Customer being current on its payment
+obligations.
+ii.
+Customer will not, and will not allow its End Users, to: (a) sublicense, resell, distribute or assign its right
+under the license granted under this Agreement to any other person or entity; (b) modify, adapt or create
+derivative works of the Software or any associated documentation; (c) reverse engineer, decompile,
+decrypt, disassemble or otherwise attempt to derive the source code for the Software; (d) use the
+Software for infringement analysis, benchmarking, or for any purpose other than as necessary to use the
+Services Customer is authorized to use; (e) create any competing Software or Services; or (f) remove
+any copyright or other proprietary or confidential notices on any Software or Services.
+B. IP Rights
+i.
+RingCentral's Rights. Except as expressly provided in this Agreement, the limited license granted to
+Customer under Section 7(A) (Limited License) does not convey any ownership or other rights or licenses,
+express or implied, in the Services (including the Software), any related materials, or in any Intellectual
+Property and no IP Rights or other rights or licenses are granted, transferred, or assigned to Customer,
+any End User, or any other party by implication, estoppel, or otherwise. All rights not expressly granted
+herein are reserved and retained by RingCentral and its licensors. The Software and Services may
+comprise or incorporate services, software, technology, or products developed or provided by third
+parties, including open-source software or code. Customer acknowledges that misuse of RingCentral
+Services may violate third-party IP rights.
+ii.
+Customer Rights. As between RingCentral and Customer, Customer retains title to all IP Rights that are
+owned by the Customer or its suppliers. To the extent reasonably required or desirable for the provision
+of the Services, Customer grants to RingCentral a limited, personal, non-exclusive, royalty-free, license
+to use Customer's IP Rights in the same. Customer must provide (and is solely responsible for providing)
+all required notices and obtaining all licenses, consents, authorizations, or other approvals related to the
+use, reproduction, transmission, or receipt of any Customer Content that includes personal or Confidential
+Information or incorporates any third-party IP rights.
+C. Use of Marks. Neither Party may use or display the other Party's trademarks, service mark or logos in any
+v.04.01.2024
+Page 4 of 11
+
+DRAFT - NOT FOR SIGNATURE
+manner without such Party's prior written consent.
+8. Confidentiality
+A. Restrictions on Use or Disclosures by Either Party. During the Term of this Agreement and for at least
+one (1) year thereafter, the Receiving Party shall hold the Disclosing Party's Confidential Information in
+confidence, shall use such Confidential Information only for the purpose of fulfilling its obligations under this
+Agreement, and shall use at least as great a standard of care in protecting the Confidential Information as it
+uses to protect its own Confidential Information.
+Each Party may disclose Confidential Information only to those of its employees, agents or subcontractors
+who have a need to it in order to perform or exercise such Party's rights or obligations under this Agreement
+and who are required to protect it against unauthorized disclosure in a manner no less protective than required
+under this Agreement. Each Party may disclose the other Party's Confidential Information in any legal
+proceeding or to a governmental entity as required by Law.
+These restrictions on the use or disclosure of Confidential Information do not apply to any information which
+is independently developed by the Receiving Party or lawfully received free of restriction from another source
+having the right to so furnish such information; after it has become generally available to the public without
+breach of this Agreement by the Receiving Party; which at the time of disclosure was already known to the
+Receiving Party, without restriction as evidenced by documentation in such Party's possession; or which the
+Disclosing Party confirms in writing is free of such restrictions.
+Upon termination of this Agreement, the Receiving Party will promptly delete, destroy or, at the Disclosing
+Party's request, return to the Disclosing Party, all Disclosing Party's Confidential Information in its possession,
+including deleting or rendering unusable all electronic files and data that contain Confidential Information, and
+upon request will provide the Disclosing Party with certification of compliance with this subsection.
+9.
+Data Protection
+A. Data Privacy. RingCentral respects Customer's privacy and will only use the information provided by
+Customer to RingCentral or collected in the provision of the Services in accordance with RingCentral's Data
+Processing Addendum, available at https://www.ringcentral.com/legal/dpa.html, incorporated by reference.
+RingCentral may update the Data Processing Addendum from time to time and will provide notice of any
+material updates to the Customer as required by applicable Laws at the email address on file with the Account.
+Such updates will be effective thirty (30) days after such notice to Customer.
+B. Data Security. RingCentral will take commercially reasonable precautions, including, without limitation,
+technical (e.g., firewalls and data encryption), organizational, administrative, and physical measures, to help
+safeguard Customer's Account, Account Data, and Customer Content against unauthorized use, disclosure,
+or modification. Customer must protect all End Points using commercially reasonable security measures.
+Customer is solely responsible to keep all user identifications and passwords secure. Customer must monitor
+use of the Services for possible unlawful or fraudulent use. Customer must notify RingCentral immediately if
+Customer becomes aware or has reason to believe that the Services are being used fraudulently or without
+authorization by any End User or third party. Failure to notify RingCentral may result in the suspension or
+termination of the Services and additional charges to Customer resulting from such use. RingCentral will not
+be liable for any charges resulting from unauthorized use of Customer's Account.
+C. Software Changes. RingCentral may from time-to-time push software updates and patches directly to
+Customer's device(s) for installation and Customer will not prevent RingCentral from doing so. Customer must
+implement promptly all fixes, updates, upgrades and replacements of software and third-party software that
+may be provided by RingCentral. RingCentral will not be liable for inoperability of the Services or any other
+Services failures due to failure of Customer to timely implement the required changes.
+10. Limitations of Liability
+A. Excluded Damages
+IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES OR ITS OR THEIR SUPPLIERS BE LIABLE FOR
+(1) INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES; (2) LOSS OF USE OR LOSS
+OF DATA; (3) LOSS OF BUSINESS OPPORTUNITIES, REVENUES OR PROFITS; OR (4) COSTS OF
+PROCURING REPLACEMENT PRODUCTS OR SERVICES, IN ALL CASES WHETHER ARISING UNDER
+CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE OR STRICT LIABILITY), OR ANY OTHER
+THEORY OF LIABILITY, AND EVEN IF SUCH PARTY HAS BEEN INFORMED IN ADVANCE OF SUCH
+DAMAGES OR SUCH DAMAGES COULD HAVE BEEN REASONABLY FORESEEN.
+B. Liability Caps
+v.04.01.2024
+Page 5 of 11
+
+DRAFT - NOT FOR SIGNATURE
+EXCEPT AS SET FORTH HEREIN, THE TOTAL CUMULATIVE LIABILITY OF THE PARTIES UNDER THIS
+AGREEMENT WILL NOT EXCEED THE AMOUNTS PAID OR PAYABLE UNDER THIS AGREEMENT
+DURING THE PREVIOUS SIX (6) MONTHS. LIMITATIONS UNDER THIS SECTION (LIABILITY CAPS) WILL
+NOT APPLY TO:
+i.
+FEES OWED BY CUSTOMER
+il. EITHER PARTY'S LIABILITY FOR INFRINGEMENT OF THE OTHER PARTY'S IP RIGHTS
+ill. EITHER PARTY'S LIABILITY RESULTING FROM GROSS NEGLIGENCE, FRAUD, OR WILLFUL OR
+CRIMINAL MISCONDUCT
+iv. CUSTOMER'S LIABILITY RESULTING FROM USE OF THE SERVICES IN BREACH OF THE
+ACCEPTABLE USE POLICY OR EMERGENCY SERVICES POLICY
+v. EITHER PARTY'S LIABILITY ARISING FROM DEATH OR PERSONAL INJURY CAUSED BY
+NEGLIGENCE, OR FOR ANY OTHER LIABILITY WHICH MAY NOT BE RESTRICTED, LIMITED, OR
+EXCLUDED PURSUANT TO APPLICABLE LAW.
+11. Indemnification
+A. Indemnification by RingCentral
+i.
+RingCentral shall indemnify and hold harmless the Customer and its Affiliates for Indemnifiable Amounts,
+and shall defend any third-party claims or causes of action (a "Third Party Claim") to the extent such
+Third Party Claim arises out of or alleges that:
+a. The Services, as provided by RingCentral, infringe or misappropriate the patent, copyright,
+trademark, or trade secret rights of a third party.
+ii.
+RingCentral will have no obligations under subsection (i) above to the extent the Third Party Claim arises
+from: (a) use of the Services in combination with data, software, hardware, equipment, or technology not
+provided or authorized by RingCentral in writing unless any of the foregoing are necessary for the proper
+operation of the Services; (b) modifications to the Services not made by RingCentral; (c) Customer
+Content; (d) failure to promptly install any updates of any software or firmware or accept or use any
+modified or replacement items provided free of charge by or on behalf of RingCentral; (e) breach of the
+Agreement; or (f) a Third Party Claim brought by Customer's Affiliate, successor, or assignee.
+iii. If such a Third-Party Claim is made or appears possible, Customer agrees to permit RingCentral, at
+RingCentral's sole discretion and expense, to (a) modify or replace the Services, or component or part
+thereof, to make it non-infringing or (b) obtain the right for Customer to continue to use the Services. If
+RingCentral determines that neither alternative is commercially reasonable, RingCentral may terminate
+this Agreement in its entirety or with respect to the affected Service, component or part (a "Discontinued
+Component"), effective immediately on written notice to Customer, in which case Customer will not owe
+any fees or charges relating to the Discontinued Component for any period subsequent to the date of
+such termination, and will be entitled to receive a refund of any prepaid but unused fees relating to the
+Discontinued Component. In the event the removal of the Discontinued Component does not substantially
+affect Customer's use of the Services, the refund or fee abatement pursuant to the foregoing shall be a
+reasonable portion of the total fees owed by Customer for the Services as a whole based on the
+significance of the Discontinued Component to the total value of the Services as a whole. RingCentral's
+obligations under this Sub-Section will be RingCentral's sole and exclusive liability and Customer's sole
+and exclusive remedies with respect to any actual or alleged intellectual property violations.
+B. Indemnification by Customer. Customer shall indemnify, and hold harmless RingCentral and its Affiliates
+for Indemnifiable Amounts, and shall defend any Third Party Claims arising out of or in connection with: (i)
+material violation of applicable Law by the Customer, its Affiliates, or their respective End Users in connection
+with their use of the Services; (ii) use of the Services in breach of the Use Policies; (iii) failure to promptly
+install any updates of any software or firmware or accept or use modified or replacement items provided free
+of charge by or on behalf of RingCentral; or (iv) Customer Content.
+C. Defense and Indemnification Procedures. Any Party seeking indemnification under this Section 11 (the
+"Indemnified Party") shall provide the Party from which it seeks such indemnification (the "Indemnifying
+Party") with the following: (a) prompt written notice of the Third-Party Claim, (b) sole control over the defense
+and settlement of the Third-Party Claim, and (c) reasonable information, cooperation, and assistance (at the
+Indemnifying Party's sole expense except for the value of the time of the Indemnified Party's personnel) in
+connection with the defense and settlement of the Third-Party Claim. The Indemnified Party's failure to comply
+with the foregoing obligations will not relieve the Indemnifying Party of its defense or indemnification
+obligations under this Section 11 (Indemnification) except to the extent that the Indemnifying Party is materially
+v.04.01.2024
+Page 6 of 11
+
+DRAFT - NOT FOR SIGNATURE
+prejudiced by such failure. The Indemnified Party will have the right to participate (but not control), at its own
+expense, in the defense of such Third-Party Claim, including any related settlement negotiations. No such
+claim may be settled by the Indemnifying Party without the Indemnified Party's express written consent (not
+to be unreasonably withheld, conditioned, or delayed) unless such settlement includes a full and complete
+release of all claims and actions against the Indemnified Party by each party bringing such Third-Party Claim,
+requires no admission of fault, liability, or guilt by the Indemnified Party, and requires no act by the Indemnified
+Party other than the payment of a sum of money fully indemnified by the Indemnifying Party.
+12. Warranties
+A. RingCentral Warranty. RingCentral will provide the Services using a commercially reasonable level of skill
+and care, in material compliance with all applicable Laws and otherwise subject to the terms of this Agreement.
+To the extent permitted by Law, RingCentral shall pass through to Customer any and all warranties
+RingCentral receives in connection with equipment provided to Customer by or on behalf of RingCentral.
+B. Customer Warranty. Customer's and its End Users' use of the Services must always comply with all
+applicable Laws and this Agreement.
+C. Disclaimer of Warranties. EXCEPT AS SPECIFICALLY SET FORTH IN THIS AGREEMENT AND TO THE
+FULLEST EXTENT PERMITTED BY LAW, THE SERVICES ARE PROVIDED "AS IS" AND "AS
+AVAILABLE," AND RINGCENTRAL MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-
+INFRINGEMENT, QUIET ENJOYMENT, AND FITNESS FOR A PARTICULAR PURPOSE AND ANY
+WARRANTIES ARISING FROM A COURSE OF DEALING OR USAGE IN TRADE, TOGETHER WITH
+SIMILAR WARRANTIES, WHETHER ARISING UNDER ANY LAW OR OTHERWISE. TO THE EXTENT
+THAT RINGCENTRAL CANNOT DISCLAIM ANY SUCH WARRANTY AS A MATTER OF APPLICABLE
+LAW, THE SCOPE AND DURATION OF SUCH WILL BE LIMITED TO THE FULLEST EXTENT
+PERMITTED BY LAW.
+13. Dispute Resolution
+A. Governing Law. Any dispute arising out of or relating to this Agreement shall be governed and construed in
+accordance with the laws of the State of California, without regard to its choice of law rules and the parties
+agree to submit to the exclusive jurisdiction of, and venue in, the courts in San Francisco, California. The
+United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement
+or Customer's use of the products or Services.
+B. Good Faith Attempt to Settle Disputes. In the event of a dispute, each Party shall appoint a duly authorized
+representative who shall use all reasonable endeavors to resolve in good faith any dispute within reasonable
+timescales.
+C. Equitable Relief. Any breach of either Party's IP Rights may cause that Party irreparable harm for which
+monetary damages will be inadequate and such Party may, in addition to other remedies available at Law or
+in equity, obtain injunctive relief without the necessity of posting a bond or other security, proof of damages,
+or similar requirement, in additional to any other relief to which such Party may be entitled under applicable
+Law.
+14. Miscellaneous
+A. Relationship of the Parties. RingCentral and Customer are independent contractors, and this Agreement
+will not establish any relationship of partnership, joint venture, employment, franchise or agency between
+RingCentral and Customer.
+B. Assignment. Neither Party may assign the Agreement or any portion thereof without the other Party's prior
+written consent (which such consent may not be unreasonably withheld or delayed), however either Party may
+assign the Agreement and all of that Party's rights and obligations thereunder without consent (a) to an
+Affiliate; (b) to the Party's successor or surviving entity in connection with a merger, acquisition, consolidation,
+sale of all or substantially all of its assets used in connection with the provision of Services under this
+Agreement; or (c) as part of the transfer or disposition of more than fifty percent (50%) of a Party's voting
+control or assets. This Agreement will bind and inure to the benefit of the Parties, and their permitted assigns
+and successors.
+c.
+Notices. Except where otherwise expressly stated in the Agreement, all notices or other communications must
+be in English and are deemed to have been fully given when made in writing and delivered in person, upon
+delivered email, confirmed facsimile, or five days after deposit with an reputable overnight courier service, and
+addressed as follows: To RingCentral at RingCentral, Inc., Legal Dept., 20 Davis Drive, Belmont, CA 94002
+v.04.01.2024
+Page 7 of 11
+
+DRAFT - NOT FOR SIGNATURE
+USA, with a copy to legal@ringcentral.com, and to Customer at either the physical address or email address
+associated with the Customer Account.
+Customer acknowledges and agrees that all electronic notices have the full force and effect of paper notices.
+The addresses to which notices may be given by either Party may be changed (a) by RingCentral upon written
+notice given to Customer pursuant to this Section or (b) by Customer in the Administrative Portal.
+D. Force Majeure. Excluding either Party's payment obligations under the Agreement, neither Party will be
+responsible or liable for any failure to perform or delay in performing to the extent resulting from any event or
+circumstance that is beyond that Party's reasonable control, including without limitation any act of God;
+national emergency; third-party telecommunications networks; riot; war; terrorism; governmental act or
+direction; change in Laws; fiber, cable, or wire cut; power outage or reduction; rebellion; revolution;
+insurrection; earthquake; storm; hurricane; flood, fire, or other natural disaster; strike or labor disturbance; or
+other cause, whether similar or dissimilar to the foregoing, not resulting from the actions or inactions of such
+Party.
+E. Third-Party Beneficiaries. RingCentral and Customer agree that there will be no third-party beneficiaries to
+this Agreement.
+F. Headings, Interpretation. The headings, section titles, and captions used in the Agreement are for
+convenience of reference only and will have no legal effect. All defined terms include related grammatical
+forms, and, whenever the context may require, the singular form of nouns and pronouns include the plural,
+and vice versa. The Parties agree that this Agreement will be deemed to have been jointly and equally drafted
+by them, and that the provisions of this Agreement therefore should not be construed against a Party or Parties
+on the grounds that the Party or Parties drafted or was more responsible for drafting the provision(s).
+G. Anti-Bribery. Each Party represents that in the execution of this Agreement and in the performance of its
+obligations under this Agreement it has complied and will comply with all applicable anti-bribery Laws and
+regulations, including, without limitation, the U.S. Foreign Corrupt Practices Act, the UK Bribery Act, and
+similar applicable Laws.
+H. Export Control. Any services, products, software, and technical information (including, but not limited to,
+services and training) provided pursuant to the Agreement may be subject to U.S. export Laws and
+regulations. Customer will not use distribute, transfer, or transmit the services, products, software, or technical
+information (even if incorporated into other products) except in compliance with U.S. and other applicable
+export regulations.
+I.
+Regulatory and Legal Changes. In the event of any change in Law, regulation or industry change that would
+prohibit or otherwise materially interfere with RingCentral's ability to provide Services under this Agreement,
+RingCentral may terminate the affected Services or this Agreement or otherwise modify the terms thereof.
+J. Entire Agreement. The Agreement, together with any exhibits, Order Forms, Use Policies, and Attachments,
+each of which is expressly incorporated into this Agreement with this reference, constitutes the entire
+agreement between the Parties and supersedes and replaces any and all prior or contemporaneous
+understandings, proposals, representations, marketing materials, statements, or agreements, whether oral,
+written, or otherwise, regarding such subject.
+K. Order of Precedence. In the event of any conflict between the documents comprising this Agreement,
+precedence will be given to the documents in the following descending order: (i) the applicable Order Form
+(and any hyperlinks therein); (ii) the applicable Attachment; (iii) the main body of this Agreement; (iv) Use
+Policies and Data Processing Addendum incorporated by reference in this Agreement; and (v) and any other
+document expressly referred to in this Agreement which governs the Services. With respect to data
+processing, the Data Processing Addendum shall take precedence over any inconsistent terms in any of the
+documents listed in the previous sentence.
+L. Amendments. Except as otherwise provided, this Agreement may only be modified by a written amendment
+executed by authorized representatives of both Parties. In no event will handwritten changes to any terms or
+conditions, including in the applicable Order Form, be effective.
+M. Severability and Waiver. In the event any provision of this Agreement is held by a court of competent
+jurisdiction to be invalid, void or unenforceable, such provision(s) will be stricken and the remainder of this
+Agreement will remain legal, valid, and binding. The failure by either Party to exercise or enforce any right
+conferred by this Agreement will not be deemed to be a waiver of any such right or to operate so as to bar the
+exercise or enforcement of any such or other right on any later occasion. Except as otherwise expressly stated
+in this Agreement, all rights and remedies stated in the Agreement are cumulative and in addition to any other
+rights and remedies available under the Agreement, at Law, or in equity.
+v.04.01.2024
+Page 8 of 11
+
+DRAFT - NOT FOR SIGNATURE
+N. Publicity. Subject to Customer's prior written approval, which may not be unreasonably withheld or denied,
+in each instance, and notwithstanding anything to the contrary in this Agreement, RingCentral may identify
+Customer as a customer (including use of any Customer logo or trademark) and may refer to this Agreement
+during its earnings calls and in connection with its business deals, press releases, and marketing and/or
+promotional materials.
+O. Execution. Each Party represents and warrants that: (a) it possesses the legal right and capacity to enter into
+the Agreement and to perform all of its obligations thereunder; (b) the individual signing the Agreement and
+(each executable part thereof) on that Party's behalf has full power and authority to execute and deliver the
+same; and (c) the Agreement will be a binding obligation of that Party. Each Party agrees that an Electronic
+Signature, whether digital or encrypted, is intended to authenticate this Agreement and to have the same force
+and effect as manual signatures.
+P. Counterparts. This Agreement may be executed electronically and in separate counterparts each of which
+when taken together will constitute one in the same original.
+Q. Survival. The rights and obligations of either Party that by their nature would continue beyond the expiration
+or termination of this Agreement or an Order Form will survive expiration or termination of this Agreement or
+the Order Form, including without limitation payment obligations, warranty disclaimers, indemnities, limitations
+of liability, definitions and miscellaneous.
+v.04.01.2024
+Page 9 of 11
+
+DRAFT - NOT FOR SIGNATURE
+EXHIBIT A
+DEFINITIONS
+Definitions. Capitalized terms used in this Agreement but otherwise not defined have the following meaning:
+1.
+"Account" means the numbered account established with RingCentral and associated with Customer and the
+Services provided to Customer under this Agreement. For billing and convenience purposes, multiple services,
+Digital Lines, or End Users may be included in a single billing account, and/or a single Customer may have multiple
+billing accounts encompassing different geographic locations, business units, or other designations as requested
+by Customer and accepted by RingCentral.
+2.
+"Account Administrator" means the person(s) who have been granted authority by Customer to set up, amend,
+or otherwise control settings and/or make additional purchases for the Account via the Administrative Portal.
+Account Administrators may have varying levels of Account rights, skills, or permissions.
+3.
+"Account Data" means: any business contact information provided with the Account; RingCentral-generated logs
+of calling or other metadata developed or collected in the provision of the Services; configuration data; and records
+of Digital Lines and any Services purchased under this Agreement.
+4.
+"Administrative Fees" means any administrative recovery fees, 911 cost recovery fees and the like separately
+charged by RingCentral to Customer.
+5.
+"Administrative Portal" means the online administrative portal through which Account Administrators control
+settings and/or make additional purchases for the Account.
+6.
+"Affiliate(s)" means a person or entity that is controlled by a Party hereto, controls a Party hereto, or is under
+common control with a Party hereto, and "control" means beneficial ownership of greater than fifty percent (50%)
+of an entity's then-outstanding voting securities or ownership interests.
+7.
+"Attachment(s)" means documents appended to the contract containing additional terms for products and
+Services. Attachments and the terms and conditions contained therein are part of this Agreement.
+8.
+"Confidential Information" means any information disclosed by or on behalf of the Disclosing Party) to the
+Receiving Party that should reasonably be considered as confidential given the nature of the information and the
+circumstances surrounding its disclosure.
+9.
+"Customer Care" means Customer support operations delivered by RingCentral and/or its subcontractors.
+10. "Customer Content" means the content of calls, facsimiles, SMS messages, voicemails, voice recordings, shared
+files, conferences, or other communications transmitted or stored through the Services.
+11. "Digital Line" means a phone number assigned to an End User or a specifically designated location (e.g.,
+conference room) and the associated voice service for inbound and outbound calling that permits an End User
+generally to make and receive calls to and from the public switched telephone network as well as to and from other
+extensions within the same Account.
+12. "Disclosing Party" means the Party disclosing Confidential Information or on whose behalf Confidential
+Information is disclosed by such Party's agents, including but not limited to, its Affiliates, officers, directors,
+employees, and attorneys.
+13. "Electronic Signatures" means an electronic sound, symbol, or process, including clicking a digital button to
+accept, attached to or logically associated with a contract or other record and executed or adopted by a person
+with the intent to sign the record.
+14. "End Point" means an application or device through which any End-User might access and/or use any of the
+Services, including without limitation IP Desk Phones, Desktop Clients, Web Clients, Mobile Applications, and
+Software Integrations.
+15. "End User" means an individual user to whom Customer makes the Services available, and may be a natural
+person, and may include but is not limited to Customer's employees, consultants, clients, external users, invitees,
+contractors, and agents.
+16. "Helpdesk Support" shall mean the performance of the following tasks:
+•
+Standard feature/functionality ("how to") support for End Users (i.e. call forwarding, voice mail set-up, etc.).
+•
+Standard management of the Admin Interface within the product.
+v.04.01.2024
+Page 10 of 11
+
+DRAFT - NOT FOR SIGNATURE
+•
+Support all moves, adds, changes, and deletes of employees.
+17. "Indemnifiable Amounts" means all (X) damages and other amounts awarded against the Indemnified Party by
+a court of competent jurisdiction pursuant to a final judgment or a final award of an arbitral body in connection with
+such Third-Party Claim; (Y) any amounts payable by the Indemnified Party or its Affiliates pursuant to a binding,
+written agreement settling the Third Party Claim, provided such agreement is approved in advance in writing by
+the Indemnifying Party; and (Z) all reasonable costs and expenses paid to third parties by the Indemnified Party or
+its Affiliates in connection with the Indemnified Party's or its Affiliates' attorneys' fees and related expenses.
+18. "Indemnifying Party" and "Indemnified Party" have the meanings set forth in Section 11(C) (Defense and
+Indemnification Procedures).
+19. "Initial Term" has the meaning set forth in Section 2(D) (Services Term).
+20. "Intellectual Property Rights" or "IP Rights" means all common law and statutory rights (whether registered or
+unregistered, or recorded or unrecorded, regardless of method) arising out of or associated with: (a) patents and
+patent applications, inventions, industrial designs, discoveries, business methods, and processes; (b) copyrights
+and copyright registrations, and "moral" rights; (c) the protection of trade and industrial secrets and Confidential
+Information; (d) other proprietary rights relating to intangible property; (e) trademarks, trade names and service
+marks; (f) a person's name, likeness, voice, photograph or signature, including without limitation rights of
+personality, privacy, and publicity; (g) analogous rights to those set forth above; and (h) divisions, continuations,
+continuations-in-part, renewals, reissuances and extensions of the foregoing (as applicable).
+21. "Law" means any law, statute, regulation, rule, ordinance, administrative guidance, treaty or convention, or court
+or administrative order or ruling of any governing Federal, State, local or non-U.S. governmental body with
+jurisdiction over the Services.
+22. "Order Form(s)" means a request for Service describing the type and quantity of Services required by Customer
+and submitted and accepted by the Parties in accordance with Section 2(A) (Ordering Services). The Order Form
+may be presented and executed via the Administrative Portal.
+23. "Receiving Party" means the Party or its agents, including, but not limited to its Affiliates, officers, directors,
+employees, and attorneys receiving Confidential Information.
+24. "Renewal Term" has the meaning set forth in Section 2(D) (Services Term).
+25. "RingCentral Network" means the network and supporting facilities between and among the RingCentral points
+of presence ("PoP(s)"), up to and including the interconnection point between the RingCentral's network and
+facilities, and the public Internet, and the Public Switched Telephone Network (PSTN). The RingCentral Network
+does not include the public Internet, a Customer's own private network, or the PSTN.
+26. "Service(s)" means all services provided under this Agreement and set forth in one or more Order Form(s).
+27. "Start Date" means the date so identified in the relevant Order Form or the date on which Customer orders
+Services via the Administrative Portal.
+28. "Taxes" means any and all federal, state, local, municipal, foreign, and other taxes and fees charged or collected
+from Customers, including but not limited to any Universal Service Fund, TRS and 911 taxes and fees.
+29. "Term" means the Initial Term plus any Renewal Terms.
+30. "Third Party Claim" has the meaning set forth in Section 11(A) (Indemnification by RingCentral).
+31. "Use Policy" refers to any of the policies identified in Section 5(B) (Use Policies).
+v.04.01.2024
+Page 11 of 11
