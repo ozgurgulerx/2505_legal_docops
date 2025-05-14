@@ -1,0 +1,162 @@
+[CLAUSE_START: Definitions and Interpretation]
+1.1 In this master services agreement for Softcat managed services (this "MSA"), the following definitions shall apply.
+
+Term  
+Definition  
+Acceptable Use Policy  
+Softcat's acceptable use policy in respect of Managed Services, as notified to the Customer and as Softcat may update it from time to time in accordance with its terms.
+
+Activation Date  
+The date from which Softcat considers that the Managed Services are ready for activation.
+
+Business Day  
+Monday to Friday excluding public holidays in England and Wales.
+
+Business Hours  
+9.00 a.m. to 6.00 p.m. on Business Days.
+
+Cancellation Charge  
+An amount equal to:  
+(i) if the cancellation takes effect after the later of the Contract Start Date and the Activation Date, the Fees that would otherwise have been payable from the date the Managed Service is cancelled to the date such Managed Service was scheduled to expire in accordance with the Contract; and  
+(ii) if the cancellation takes effect before the later of the Contract Start Date and the Activation Date, any non-recurring charges payable pursuant to clause 9.6 plus 50 per cent. of the other Fees payable during the Initial Term,  
+plus in each case any other amounts specified as payable as part of the Cancellation Charge in the Work Order.
+
+Change Control Procedure  
+The procedures for changing the Managed Service Specification as set out in clause 10.
+
+Confidential Information  
+Confidential Information means any information, technical data or know-how, in any medium, which is marked "confidential", which the receiving party knows or reasonably ought to know is confidential, or which is by its nature confidential, except information, technical data or know-how which:  
+(iii) is in the possession of the receiving party at the time of disclosure, is not subject to an obligation of confidentiality and can be demonstrated beyond doubt as being in the receiving party's files and/or records immediately prior to the time of disclosure;  
+(iv) prior to or after the time of disclosure becomes public knowledge, other than as a result of breach by the receiving party of its obligations under the Contract;  
+(v) is approved for release by the disclosing party; or  
+(vi) is independently developed by the receiving party without the use of any Confidential Information of the disclosing party.
+
+Contract  
+The agreement between Softcat and the Customer comprising this MSA and the Work Order.
+
+Contract Start Date  
+The date specified as such in the Work Order.
+
+Customer  
+The person identified as such in the Work Order.
+
+Customer Data  
+Any data uploaded to, stored on or processed using the Managed Services by the Customer.
+
+Customer's Operating Environment  
+The Customer's computing environment (consisting of hardware, software and telecommunications networks) that is to be used by the Customer in connection with its use of the Managed Services and which interfaces with Softcat's System in order for the Customer to receive the Managed Services, but excluding the Customer Site Equipment.
+
+Customer Representative  
+The contact defined in the Work Order or such other person notified in writing by Customer to Softcat who shall be the Customer's main technical contact.
+
+Customer Site  
+Any premises occupied by the Customer at which it receives the Managed Services, as detailed in the Work Order.
+
+Customer Site Equipment  
+Any equipment located or to be located on a Customer Site but controlled or to be controlled exclusively by Softcat as part of the Managed Services.
+
+Data Controller  
+Has the meaning given to it in the DPA.
+
+Data Processor  
+Has the meaning given to it in the DPA.
+
+DPA  
+The Data Protection Act 1998.
+
+Documentation  
+The solution documentation made available to the Customer by Softcat from time to time which may set out any additional description of the Managed Services and/or contain the user instructions for the Managed Services.
+
+Excused Outage  
+Any outage, unavailability, delay or other degradation of Service related to, associated with or caused by: Planned Maintenance events; any Service not supported by a Softcat traversing Hardware component; any third party plugin or ancillary equipment not supplied by Softcat; a Customer application running on a server (virtual or physical) which is not supported by Softcat; the Customer actions or inactions or those of any third party excluding any sub-contractor or IT Partner of Softcat directly involved in the performance, operation or maintenance of the Customer's Managed Service.
+
+Fees  
+All of the fees payable to Softcat by the Customer in respect of the Managed Services, whether one-off or recurring, as set out in the Work Order in respect of the Initial Term, and thereafter as revised by Softcat prior to each Renewal Term in accordance with clause 13.3.
+
+Good Industry Practice  
+The degree of skill and care which it is reasonable to expect of a provider of managed services similar to the Managed Services.
+
+Hardware  
+All physical telecommunications, networking and computer equipment (including switches, routers, cables, servers, racks, cabinets and peripheral accessories) provided and used by Softcat to deliver the Managed Services to the Customer.
+
+Initial Term  
+The initial term of the Contract specified in the Work Order, measured from the later of the Contract Start Date and the Activation Date.
+
+Initial Work Order  
+The first document entitled "Work Order" issued by Softcat in response to the Customer's request for Managed Services, setting out at least a high level description of the Managed Services to be provided by Softcat, and the corresponding Fees payable by the Customer.
+
+Intellectual Property Rights  
+Any and all intellectual property rights of any nature, whether registered, registerable or otherwise, including patents, utility models, trade marks, registered designs and domain names, applications for any of the foregoing, trade or business names, goodwill, copyright and rights in the nature of copyright, design rights, rights in databases, moral rights, know-how and any other intellectual property rights that subsist in computer software, computer programs, websites, documents, information, techniques, business methods, drawings, logos, instruction manuals, lists and procedures and particulars of customers, marketing methods and procedures and advertising literature, including the "look and feel" of any websites, and in each case all rights and forms of protection of a similar nature or having equivalent or similar effect to any of these that may subsist anywhere in the world, in each case for their full term, together with any future rights and renewals or extensions.
+
+IT Partner  
+A third party used by either party in the provision of a Managed Service.
+
+Maintenance Contract  
+Hardware or Software support contracts held on supported devices and supplied by the manufacturer or recognised vendor support partner.
+
+Managed Services  
+The managed services to be provided to the Customer by Softcat, as set out in the Work Order.
+
+Managed Service Specification  
+The specification of the Managed Services as set out in the Work Order and the Documentation.
+
+Personal Data  
+Has the meaning given to it in the DPA.
+
+Renewal Term  
+A period of 12 months from the expiry of the Initial Term or the previous Renewal Term, as the case may be.
+
+Replacement Supplier  
+Has the meaning given to it in clause 16.2.3.
+
+Service Credit  
+Any credits payable to the Customer in accordance with the Service Level Arrangements.
+
+Service Level Arrangement or SLA  
+The service level arrangements applicable to the Managed Services, if any, as attached to the Work Order.
+
+Service Levels  
+The metrics for measuring the performance of the Managed Services as set out in the SLA.
+
+Softcat  
+Softcat plc (Company number 02174990) and any successor or assignee thereof.
+
+Softcat's System  
+The information and communications technology system to be used by Softcat in performing the Managed Services, including the Hardware, the Software, the Customer Site Equipment and communications links between the Hardware and the Customer Site Equipment and the Customer's Operating Environment.
+
+Software  
+Any software used by Softcat to provide the Managed Services to the Customer.
+
+Supplementary Work Order  
+Any document issued by Softcat and entitled "Work Order" which, notwithstanding that it may be a separate document and/or delivered at a later date, supplements an Initial Work Order and, once accepted by the Customer in accordance with clause 2.2, forms part of the Work Order.
+
+Term  
+The Initial Term and each Renewal Term.
+
+TUPE  
+The Transfer of Undertakings (Protection of Employment) Regulations 2006 as amended by the Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014.
+
+Transition Assistance Period  
+Has the meaning given to it in clause 16.2.3.
+
+Work Order  
+Collectively, the Initial Work Order and any Supplementary Work Order, and all documents scheduled or attached to them.
+
+1.2 Clause, schedule and paragraph headings shall not affect the interpretation of this MSA.
+
+1.3 A reference to a statute or statutory provision is a reference to it as amended, extended or re-enacted from time to time and shall include all subordinate legislation made from time to time under that statute or statutory provision.
+
+1.4 Any phrase introduced by the words "including", "includes", "in particular" or "for example", or any similar phrase, shall be construed as illustrative and shall not limit the generality of the related general words.
+
+1.5 A person includes a natural person, corporate or unincorporated body (whether or not having separate legal personality) and that person's personal representatives, successors or permitted assigns.
+
+1.6 If there is a conflict between this MSA and the Work Order, the latter shall prevail.
+[CLAUSE_END]
+
+[CLAUSE_START: Ordering Services]
+2.1 In response to a request by the Customer, Softcat will prepare and send to the Customer an Initial Work Order. If the Customer wishes to contract with Softcat to provide the Managed Services set out in that Initial Work Order, it will indicate its acceptance of the Initial Work Order by signing it and returning a signed copy to Softcat, whereupon the Contract will come into existence.
+
+2.2 Depending on the nature of the Managed Services, the Customer recognises that it may be necessary for Softcat to perform additional preparatory design or specification work before proceeding to installation, provisioning and/or "go live", in which case Softcat will provide to the Customer upon completion of that
+[CLAUSE_END]
+
+(Note: The provided contract text ends mid-sentence at the end of clause 2.2. The split above is based on the provided content. If you provide more of the contract, I can continue splitting further clauses.)
