@@ -1,0 +1,434 @@
+[CLAUSE_START: GOODTIME MASTER SERVICE AGREEMENT (EFFECTIVE AS OF JANUARY 18, 2023)]
+This GoodTime Master Service Agreement ("GoodTime MSA") is between Etch Mobile, Inc. dba GoodTime ("GoodTime") and the customer entity set forth on the signature page of this GoodTime MSA ("Customer" or "you"). The "Effective Date" of this GoodTime MSA is the date which is the earlier of (a) Customer's initial access to the GoodTime Service through any online provisioning, registration or order process or (b) the start date of the first Ordering Document with respect to this GoodTime MSA.
+The parties may enter into order forms, work orders or statements of work referencing this GoodTime MSA which set forth the Goodtime Services to be provided, the fees payable by Customer and other related terms and conditions (each an "Ordering Document"). Each Ordering Document is incorporated by reference into this GoodTime MSA. The "Agreement" means, collectively, this GoodTime MSA, all Ordering Documents, and all documents incorporated by reference herein. This Agreement governs your access to and use of the GoodTime Services.
+[CLAUSE_END]
+
+[CLAUSE_START: 1. GOODTIME SERVICES]
+[CLAUSE_END]
+
+[CLAUSE_START: 1.1. Access to GoodTime Service.]
+GoodTime provides a cloud-based recruitment scheduling platform service, including the applicable features in the Ordering Document (the "GoodTime Service"). Subject to the terms and conditions of the Agreement (including Customer's payment of all fees owed), GoodTime grants to Customer a non-exclusive, non- transferable, non-sublicensable, revocable, limited, worldwide right during the applicable Subscription Term to access and use the GoodTime Service and Documentation through the Permitted Users solely for Customer's internal business purposes. During the applicable Subscription Term, Provider will provide the applicable support and service levels set forth in Appendix A. Customer acknowledges that in order to use the Goodtime Service: (a) Customer must independently have or must independently obtain Internet access, either directly or through devices that access Web-based content, as well as browser software that supports protocols used by GoodTime; and (b) Customer must follow logon procedures for the services that support such protocols. "Documentation" means GoodTime's supporting technical documentation for access to and use of the GoodTime Service. GoodTime may make changes to the GoodTime Service that will not result in a material reduction in the level of functionality, performance, availability or security of the GoodTime Service provided to Customer. Customer agrees that Customer's purchases are not contingent on the delivery of any future functionality or features, or dependent on any oral or written public comments made by GoodTime regarding future functionality or features of the GoodTime Services.
+[CLAUSE_END]
+
+[CLAUSE_START: 1.2. Employee Directory and Customer Data Access.]
+Customer acknowledges that, in order for GoodTime to provide the GoodTime Services, GoodTime requires access to Customer's employee directory (e.g., Google Directory or 0365) to view the calendar events created by Customer's employees and to select intelligently the scheduling options that consider the interviewers' schedules. In addition, in order for interview events to be created in the GoodTime Services and pushed to Customer's interviewers' calendars, GoodTime must edit, share and delete access for these events. Employee directory access is established during the implementation process. Customer hereby grants to GoodTime and its sub-processors a non-exclusive, worldwide, royalty-free right and license, during the Subscription Term, to use, copy, store, transmit, distribute, modify, delete, share, perform and display, the Customer Data and Customer's employee directory solely to the extent necessary to provide the GoodTime Service to Customer and to comply with applicable laws and regulations.
+[CLAUSE_END]
+
+[CLAUSE_START: 1.3. Permitted Users.]
+Use of and access to the GoodTime Service is permitted only by the number of interviewers or other administrative users (including recruiting coordinators) specified in the applicable Ordering Document ("Permitted Users"). Customer is responsible for and liable to GoodTime for any and all actions and omissions of its Permitted Users or by anyone using Customer's accounts and passwords, including any breach of this Agreement caused by any Permitted User or such user of Customer's accounts. Each Permitted User will be assigned to an account in connection with their use of the GoodTime Service. Customer will not allow Permitted Users to transfer or share their account information.
+[CLAUSE_END]
+
+[CLAUSE_START: 1.4. Customer Responsibilities.]
+Customer shall (a) ensure that the transfer and processing of Customer Data information, including user names and passwords, and (c) notify GoodTime promptly of any unauthorized use of any password or account or any other known or suspected breach of security.
+[CLAUSE_END]
+
+[CLAUSE_START: 1.5. Restrictions.]
+Customer shall not and shall cause its Permitted Users not to: (a) rent, lease, copy, sell, transfer, assign, distribute, provide access to, sublicense or otherwise exploit commercially the GoodTime Service or any feature or function of the GoodTime Service, (b) reverse engineer, decompile, disassemble, or otherwise seek to obtain the source code or APIs to the GoodTime Service, (c) modify the GoodTime Service or any Documentation, or create any derivative work from or based on any of the foregoing, (d) remove or obscure any product identification, proprietary, copyright or other notices contained in the GoodTime Service (including any reports or data printed via the use of the GoodTime Service), (e) except as expressly approved by GoodTime in an Ordering Document, incorporate the GoodTime Service into any other offering (whether software as a service or otherwise), (f) access or use the GoodTime Service for any benchmarking or competitive purpose or to develop a competing product, (g) interfere with or disrupt the integrity or performance of the Goodtime Service or the data contained therein; (h) attempt to gain unauthorized access to the Goodtime Service or its related systems or networks; or (i) in connection with its use the Goodtime Services: (A) send unsolicited or unlawful messages or engage in phishing activities; (B) send or store infringing, obscene, threatening, discriminatory, violent, hate-related, harmful, libelous, or otherwise unlawful material, including material that is harmful to children, violative of privacy or intellectual property rights or applicable laws, or material that advocates racial or ethnic intolerance; (C) send or store material containing malicious code such as viruses, worms, time/logic bombs, Trojan horses or other harmful computer code, files, scripts, or agents or other material that advocates or advances computer hacking or cracking; or (D) engage in activity that violates or encourages conduct that would violate any applicable laws, or any third-party rights. GoodTime may suspend GoodTime Services in the event that Customer is in material breach of any of the foregoing.
+[CLAUSE_END]
+
+[CLAUSE_START: 1.6. Non-GoodTime Applications.]
+"Non-Goodtime Application" means a web-based, mobile or offline software application, product or service that is provided by Customer or a third party and interoperates with the GoodTime Service, including, for example, an application that is developed by or for Customer, or a third party service that Customer may have access to, subscribe to, or obtain a license to. If Customer installs or enables a Non-GoodTime Application for use with the GoodTime Service, Customer grants GoodTime permission to allow the provider of that Non-GoodTime Application to link to and access Customer Data as required for the interoperation of that Non-GoodTime Application with the GoodTime Service. GoodTime is not responsible for any disclosure, modification, transmission or deletion of Customer Data resulting from access by a Non-GoodTime Application. GoodTime does not warrant or support Non-GoodTime Applications or other products or services used by Customer in connection with the GoodTime Services, whether or not they are designated by GoodTime as "certified", nor can GoodTime guarantee that the GoodTime Services will function or integrate with Non-GoodTime Applications or other products or services used by Customer.
+[CLAUSE_END]
+
+[CLAUSE_START: 1.7. Removal of Material and Non-GoodTime Application.]
+GoodTime is not required to monitor the material used by Customer via the GoodTime Services or the use of any Non-GoodTime Application. Notwithstanding, in the event that GoodTime discovers that any material used by Customer via the GoodTime Services or the use of any Non-GoodTime Application violates this Agreement, Goodtime may disable and/or remove such material or Non-GoodTime Application and will notify Customer of the same.
+[CLAUSE_END]
+
+[CLAUSE_START: 2.1. Customer Data.]
+"Customer Data" means electronic data, information and communications (including email, text and otherwise) submitted directly or indirectly by or for Customer and its Permitted Users via the Goodtime Service, and any employee directory and calendar event information made accessible by Customer via the GoodTime Service, in each case excluding GoodTime Property. Customer retains all right, title and interest (including any and all intellectual property rights) in and to the Customer Data.
+[CLAUSE_END]
+
+[CLAUSE_START: 2.2. GoodTime Property.]
+GoodTime or its suppliers retain all right, title and interest (including all patent, copyright, trade secret and other intellectual property rights) in and to GoodTime Service, the Documentation, any other GoodTime deliverables and material and any and all related and underlying software, databases, Aggregated Anonymous Data, technology, reports, templates (including communication and reporting templates) and documentation and all copies, modifications and derivative works thereof (including any changes which incorporate any Feedback) (collectively, "GoodTime Property").
+[CLAUSE_END]
+
+[CLAUSE_START: 2.3. Aggregated Anonymous Data.]
+GoodTime may aggregate Customer usage data and metadata in connection with Customer's access to and use of GoodTime Services so that the results are anonymous and de-identified such that Customer and Permitted Users and Customer's candidates are not identifiable ("Aggregated Anonymous Data"). Customer acknowledges and agrees that the Aggregated Anonymous Data is deemed GoodTime Property.
+[CLAUSE_END]
+
+[CLAUSE_START: 2.4. Feedback.]
+Customer may submit comments, suggestions, requests, recommendations, questions, corrections, ideas, descriptions of processes, or other feedback to GoodTime relating to the GoodTime Service ("Feedback"). Customer hereby grants to GoodTime a worldwide, perpetual, irrevocable, royalty-free, fully-paid up, non-exclusive, transferable, sublicensable right and license to use, copy, disclose, license, distribute and exploit any Feedback in any manner without any obligation, royalty or restriction based on intellectual property rights or otherwise, provided Customer shall not be identified in connection with any such Feedback.
+[CLAUSE_END]
+
+[CLAUSE_START: 3.1. Fees and Payment.]
+All fees are as set forth in the Ordering Document and shall be paid by Customer in US dollars and within 30 days of receipt, unless a different payment term is set forth in the Ordering Document. Payments are non-refundable unless explicitly set forth in this GoodTime MSA. If an Ordering Document specifies any fees for exceeding usage limits or any tiered fees or other additional fees for the applicable GoodTime Service, GoodTime will charge for, and Customer agrees to pay the same. Unless timely provided with a valid certificate of exemption or other evidence that items are not taxable, GoodTime will invoice Customer for all applicable taxes including, but not limited to, VAT, GST, sales tax, consumption tax and service tax. Customer will make all payments free and clear of, and without deduction or reduction for, any withholding or other taxes; any such taxes imposed on payments by Customer hereunder will be Customer's sole responsibility. Any late payments shall be subject to a service charge equal to 1.5% per month of the amount due or the maximum amount allowed by law, whichever is less. If Customer believes that GoodTime has billed Customer incorrectly, Customer must contact GoodTime no later than 15 days after receipt of the invoice and failure to do so will result in Customer being deemed to have accepted the invoice. Starting on the 1-year anniversary of the effective date of the applicable Ordering Document and each 6-month anniversary thereafter, Customer shall provide GoodTime with its then-current employee count (as defined in the Ordering Document) and GoodTime will place Customer in the applicable pricing tier for the remainder of the contract.
+[CLAUSE_END]
+
+[CLAUSE_START: 3.2. Suspension of Services.]
+If Customer's account is 15 days or more overdue, in addition to any of its other rights or remedies (including but not limited to any termination rights set forth herein), GoodTime reserves the right to suspend Customer's access to GoodTime Service without liability to Customer until such amounts are paid in full.
+[CLAUSE_END]
+
+[CLAUSE_START: 4.1. Subscription Term.]
+This GoodTime MSA continues as long as an Ordering Document is in effect. The initial subscription term for the GoodTime Service begins on the effective date of the applicable Ordering Document and continues for an initial set term stated in such Ordering Document ("Initial Subscription Term"). At the end of the Initial Subscription Term, the subscription term for the GoodTime Service will automatically renew for successive 12 months terms, unless a longer renewal term is set forth in the Ordering Document (each, a "Renewal Subscription Term"), except if Goodtime or Customer provides written notice of its intent not to renew no later than ninety (90) days prior to the renewal date of the then-current term. The Initial Subscription Term and all Renewal Subscription Terms are collectively referred to as the "Subscription Term." Any renewals will be at GoodTime's then-current rates. For the avoidance of doubt, if Customer is currently using any Pilot package and upgrades to any standard package, this GoodTime MSA shall terminate and GoodTime and Customer will in good faith negotiate a new MSA.
+[CLAUSE_END]
+
+[CLAUSE_START: 4.2. Termination for Cause.]
+Either party may terminate this Agreement if the other party (a) fails to cure any material breach of this Agreement (including a failure to pay fees) within 60 days after written notice; (b) ceases operation without a successor; or (c) seeks protection under any bankruptcy, receivership, trust deed, creditors' arrangement, composition, or comparable proceeding, or if any such proceeding is instituted against that party (and not dismissed within 60 days thereafter). In the event Customer terminates for cause under this sub-Section, Customer shall be entitled to a refund of prepaid fees pro-rated for the remaining Subscription Term after the termination date for GoodTime Services not performed.
+[CLAUSE_END]
+
+[CLAUSE_START: 4.3. Effect of Termination.]
+Upon any termination or expiration of this Agreement, (a) each party will become immediately due and payable, and (c) Customer shall immediately cease any and all use of and access to the GoodTime Service and delete (or, at GoodTime's request, return) any and all copies of the GoodTime Property, and all GoodTime passwords or access codes.
+[CLAUSE_END]
+
+[CLAUSE_START: 4.4. Return of Customer Data.]
+Upon request by Customer made within 30 days after the effective date of termination or expiration of an Ordering Document, GoodTime will make the Customer Data available to Customer for export or download as provided in the Documentation. After such 30-day period, GoodTime will have no obligation to maintain or provide Customer Data and Customer will delete such Customer Data, unless prohibited or required to be retained by applicable law.
+[CLAUSE_END]
+
+[CLAUSE_START: 4.5. Survival.]
+The following Sections shall survive any expiration or termination of this Agreement: 2 (Ownership), 3 (Fees and Payment), 4.3 (Effect of Termination), 4.4 (Return of Customer Data), 4.5 (Survival), 5-11 (General Terms).
+[CLAUSE_END]
+
+[CLAUSE_START: 5.1. Mutual Representations and Warranties.]
+Each party represents and warrants to the other party that: (a) it is duly organized, validly existing and in good standing as an entity under the laws of the jurisdiction of its organization; and (b) it has the right, power and authority to enter into this Agreement and to perform its obligations and grant the rights and licenses under this Agreement.
+[CLAUSE_END]
+
+[CLAUSE_START: 5.2. Customer Representations and Warranties.]
+Customer represents and warrants to GoodTime that (a) Customer has all lawful rights and consents from individuals and has provided all disclosures and notices to individuals, as required by applicable laws and regulations, necessary for GoodTime and its subprocessors to use and access the Customer Data (including Customer's employee directory) in accordance with this Agreement, including with respect to sending communications (e.g., email and text) to individuals through the GoodTime Service, (b) GoodTime' use of and access to the Customer Data (including Customer's employee directory) in accordance with this Agreement will not violate applicable law or regulation or infringe, misappropriate or otherwise violate any intellectual property rights, or any privacy or other rights of any third party, including any user of the GoodTime Service and any interviewer and interviewee, and (c) Customer will add text to communications and translate such communications in each case to ensure that all communications via the GoodTime Service (including emails and text messages) are submitted in accordance with all applicable laws and regulations. Customer acknowledges and agrees that any text included in the communication templates provided in the GoodTime Service are provided as a courtesy and do not represent any guarantees or warranties that such text meet the requirements of applicable law or regulation, and accordingly Customer is responsible for adding such text and providing such translations that are required by applicable law and regulation.
+[CLAUSE_END]
+
+[CLAUSE_START: 5.3. Goodtime Representations and Warranties.]
+GoodTime represents and warrants to Customer that the GoodTime Service will operate in substantial conformity with the applicable Documentation. The representation and warranty in this sub-section shall not apply to the extent the breach arises from: (i) any access to the GoodTime Service at no charge or on an evaluation basis; (ii) Customer's or any Permitted User's use of the GoodTime Service other than as permitted under this Agreement; (iii) the combination of the GoodTime Service with any Customer Data or Customer's, any Permitted User's or any third party's products, services, hardware, data, content, or business process(s) other than as permitted under this Agreement; or (iv) the modification of any of the Goodtime Services by any party other than GoodTime or GoodTime's agents. CUSTOMER'S EXCLUSIVE REMEDY AND GOODTIME'S SOLE AND EXCLUSIVE OBLIGATION AND LIABILITY FOR A BREACH OF THE REPRESENTATION AND WARRANTY IN THIS SECTION IS TO FIX THE NON-CONFORMITY.
+[CLAUSE_END]
+
+[CLAUSE_START: 5.4. Warranty Disclaimer.]
+EXCEPT FOR THE LIMITED WARRANTIES IN THIS SECTION, THE GOODTIME SERVICES AND ALL OTHER SERVICES ARE PROVIDED "AS IS". NEITHER GOODTIME NOR ANY OF ITS SUPPLIERS MAKES ANY OTHER WARRANTIES, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NONINFRINGEMENT. GOODTIME SHALL NOT BE LIABLE FOR THE LEGALITY OF ANY TEXT INCLUDED IN GOODTIME'S COMMUNICATION TEMPLATES OR FOR ANY DELAYS, INTERRUPTIONS, SERVICE FAILURES AND OTHER PROBLEMS INHERENT IN USE OF THE INTERNET AND ELECTRONIC COMMUNICATIONS OR OTHER SYSTEMS OUTSIDE THE REASONABLE CONTROL OF GOODTIME. NOTHING IN THIS SECTION EXCLUDES OR LIMITS MATTERS FOR WHICH LIABILITY CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+[CLAUSE_END]
+
+[CLAUSE_START: 6. LIMITATION OF LIABILITY.]
+EXCEPT WITH RESPECT TO THE EXCLUSIONS: (A) NEITHER PARTY WILL HAVE ANY LIABILITY TO THE OTHER PARTY (WHETHER UNDER CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT WITH RESPECT TO INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES (IN EACH CASE, WHETHER OR NOT FORESEEABLE, CONTEMPLATED OR ADVISED OF THE POSSIBILITY OF SUCH DAMAGES); AND (B) EACH PARTY'S MAXIMUM AGGREGATE LIABILITY TO THE OTHER PARTY (WHETHER UNDER CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT WILL NOT EXCEED THE AMOUNT OF FEES ACTUALLY PAID BY CUSTOMER TO GOODTIME FOR THE APPLICABLE SERVICES UNDER THIS AGREEMENT IN THE FIRST 12 MONTHS AFTER THE EFFECTIVE DATE. NOTHING IN THIS AGREEMENT EXCLUDES OR LIMITS EITHER PARTY'S LIABILITY FOR THE FOLLOWING (THE "EXCLUSIONS"): (A) DEATH OR PERSONAL INJURY RESULTING FROM ITS GROSS NEGLIGENCE OR THE GROSS NEGLIGENCE OF ITS PERSONNEL; (B) FRAUD OR FRAUDULENT MISREPRESENTATION; OR (C) MATTERS FOR WHICH LIABILITY CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAWS. THIS SECTION WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+[CLAUSE_END]
+
+[CLAUSE_START: 7.1. GoodTime Indemnification.]
+GoodTime shall indemnify, defend, and hold harmless Customer, its Affiliates and its and their respective officers, directors, employees, contractors, agents, successors and assigns ("Customer Indemnitees") from and against all damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) ("Losses") suffered by any Customer Indemnitee arising out of any third party claims (including from regulators or governmental authorities) ("Claims") to the extent alleging that the GoodTime Service infringes or misappropriates any intellectual property rights of a third party. GoodTime will have no obligation to indemnify, defend or hold harmless Customer for infringement or misappropriation claims to the extent arising from: (i) Customer's or any Permitted User's use of the Goodtime Service other than as permitted under this Agreement; (ii) the combination of the GoodTime Service with any Customer Data or Customer's, any Permitted User's or any third party's products, services, hardware, data, content, or business process(s) other than as permitted under this Agreement; or (iii) the modification of any of the GoodTime Services by any party other than GoodTime or GoodTime's agents. If GoodTime learns of any threat alleging that any component or feature of the GoodTime Services violates a third party's intellectual property rights, GoodTime may, in its discretion and at no cost to Customer, subject to the exclusions in clauses (i) through (iii) above, (i) modify the GoodTime Service so that it no longer infringes or misappropriates the third party's rights, (ii) obtain a license for Customer's continued use of that GoodTime Service in accordance with this Agreement, or (iii) terminate Customer's access to that GoodTime Service upon thirty (30) days' written notice and refund to Customer any prepaid fees covering the remainder of the Subscription Term. THE FOREGOING IS GOODTIME'S SOLE AND EXCLUSIVE OBLIGATION AND LIABILITY FOR THE THIRD PARTY CLAIMS DESCRIBED IN THIS SECTION. "Affiliate" means any person or entity directly or indirectly controlling, controlled by, or under common control with a party, and for this purpose, "control," "controlling" and "controlled by" shall mean: (i) the ownership and control of more than fifty percent (50%) of the outstanding voting or economic interest in capital or profits of any person or entity, or (ii) the right to direct or control the management or affairs of any person or entity by contract or similar arrangement.
+[CLAUSE_END]
+
+[CLAUSE_START: 7.2. Customer Indemnification.]
+Customer shall indemnify, defend, and hold harmless GoodTime, its Affiliates and its and their respective officers, directors, employees, contractors, agents, successors and assigns ("GoodTime Indemnitees") from and against all Losses suffered by any GoodTime Indemnitee arising out of any Claims to the extent alleging that (i) the submission, provision, access or use of any Customer Data (including Customer's employee directory) to or through the GoodTime Service by GoodTime and its subprocessors in accordance with this Agreement or any Ordering Document violates applicable laws or regulations or infringes, misappropriates or otherwise violates such third party's or any third party's intellectual property or privacy rights, including any rights of any user of the GoodTime Service or any interviewer or interviewee; or (ii) lawful rights and consents were not obtained from individuals or disclosures and notices were not provided to individuals, as required by applicable laws and regulations for GoodTime and its subprocessors to use and access the Customer Data (including Customer's employee directory) in accordance with this Agreement, including with respect to sending communications (e.g., emails and text messages) to individuals through the GoodTime Service.
+[CLAUSE_END]
+
+[CLAUSE_START: 7.3. Procedures.]
+The obligations of each indemnifying party are conditioned upon receiving from the indemnified party: (i) prompt written notice of the claim (but in any event notice in sufficient time for the indemnifying party to respond without prejudice); (ii) the exclusive right to control and direct the investigation, defense and settlement (if applicable) of such claim (subject to the indemnified party's approval, not to be unreasonably withheld); and (iii) all reasonable necessary cooperation of the indemnified party, at indemnifying party's expense.
+[CLAUSE_END]
+
+[CLAUSE_START: 8.]
+Information due to the nature of the information disclosed or the circumstances surrounding the disclosure, including the Disclosing Party's technology, software, specifications, documentation, trade secrets, know-how, business operations, plans, strategies, suppliers and customers. The GoodTime Property and Documentation and marking or further designation. Except to exercise its rights or perform its obligations under this Agreement, the attorneys, accountants and representatives on a need to know basis who are bound by comparable obligations of Information from the Disclosing Party; (ii) is or has become public knowledge through no fault of the Receiving obligation; or (iv) is independently developed by the Receiving Party without use of or reference to the to a regulation, law or court order, but only to the minimum extent required to comply with such regulation, law or order and with advance notice to the Disclosing Party. The Receiving Party acknowledges that a breach of this Section could cause irreparable harm for which damages alone would not be a sufficient remedy, and therefore upon such event the Disclosing Party shall be entitled to seek appropriate equitable relief in addition to such other remedies it might have at law.
+[CLAUSE_END]
+
+[CLAUSE_START: 9. PERSONAL DATA SECURITY AND PROCESSING.]
+GoodTime will maintain reasonable administrative, Personal Data. "Customer Personal Data" means the Customer Data that is deemed personal information or personal data under applicable data protection laws. Those safeguards will include, but will not be limited to, reasonable measures for preventing access to, use, modification or disclosure of Customer Personal Data by GoodTime personnel except (a) to provide the GoodTime Service and prevent or address service or technical problems, (b) as compelled by law, or (c) as Customer expressly permits in writing. With respect to Customer's users protected under the CCPA, GoodTime shall not (i) sell the personal information of such consumers, or (ii) retain, use or disclose such personal information (X) for any purpose other than for the specific purpose of performing the GoodTime Services specified in this Agreement or for a commercial purpose other than providing the GoodTime Services specified in this Agreement, or (Y) outside of the direct business relationship between GoodTime and Customer. GoodTime certifies that it understands and will comply with the restrictions in the previous sentence. "CCPA" means the California Consumer Privacy Act of 2018, as amended, and any regulations promulgated thereunder, in each case, as amended from time to time. To the extent applicable, each of Customer and GoodTime agree to comply with GoodTime's data processing addendum attached as Appendix B.
+[CLAUSE_END]
+
+[CLAUSE_START: 10. PROFESSIONAL SERVICES.]
+Customer shall elect in the Ordering Document to (a) have GoodTime, through its subcontractors, provide the implementation services or (b) engage a third party directly to provide the implementation services. In the event that Customer elects to have GoodTime provide the implementation services through its subcontractors (the "Professional Services"), GoodTime will pass through its subcontractors' fees to Customer and Customer shall reimburse GoodTime within 30 days after receipt of an invoice for such subcontractors' fees. The parties acknowledge that the scope of the Professional Services provided hereunder consists solely of either or both of: (a) assistance with setup, configuration, deployment, and/or optimization of the GoodTime Service including installation services, and (b) customizations to the GoodTime Service. Customer shall have a license to use any deliverables (including any documentation or other work product) delivered as part of the Professional Services ("Deliverables") solely in connection with Customer's permitted use of the GoodTime Service during the Subscription Term, and subject to any additional terms and conditions provided with the Deliverables. Customer will reimburse GoodTime for reasonable travel and lodging expenses as incurred.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.1. Assignment.]
+This Agreement will bind and inure to the benefit of each party's permitted successors and assigns. Neither party may assign this Agreement without the written consent of the other party, except that (a) either party may assign this Agreement in connection with a merger, reorganization, acquisition or other transfer of all or substantially all of such party's assets or voting securities and (b) GoodTime may assign this Agreement to any direct or indirect parent, subsidiary or Affiliate. For any assignment by Customer as permitted in the previous sentence: (i) the assignee must not be a direct competitor of GoodTime; (ii) Customer must provide prompt written notice of the assignment to GoodTime; and (iii) the assignee must be capable of fully performing Customer's obligations under this Agreement and must agree to be bound by the terms and conditions of this Agreement. Any attempt to transfer or assign this Agreement except as expressly authorized under this Section will be null and void.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.2. Severability.]
+If any provision of this Agreement shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited to the minimum extent necessary so that this Agreement shall otherwise remain in effect.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.3. Governing Law; Jurisdiction and Venue.]
+This Agreement is governed by California law, without regard to conflicts of law provisions. Neither the U.N. Convention of Contracts for the International Sale of Goods nor UCITA will apply. Any dispute arising out of or relating to this Agreement shall be brought in state or federal court in San Francisco County, California. Each party hereby consents to the exclusive jurisdiction of such courts.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.4. Anti-Corruption.]
+Neither party has received or been offered any illegal or improper bribe, kickback, payment, gift, or thing of value from an employee or agent of the other party in connection with this Agreement. Reasonable gifts and entertainment provided in the ordinary course of business do not violate the above restriction.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.5. Attorneys' Fees and Costs.]
+The prevailing party in any action under this Agreement will be entitled to recover its reasonable attorneys' fees and costs in connection with such action.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.6. GoodTime's Customer List.]
+Unless logo and publicity rights are set forth in the Ordering Document, GoodTime will not make any publicity statements or use Customer's logo for any marketing purposes without Customer's prior written approval.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.7. Notice.]
+All notices to GoodTime shall be sent via email (with confirmation of receipt) to finance@goodtime.io. All legal process notices to GoodTime shall be sent to GoodTime c/o The Company Corporation, 251 Little Falls Drive, Wilmington, DE 19808. Except as set forth herein, all notices to Customer shall be sent via pre-paid first class certified mail, overnight courier or email (with confirmation of receipt) to the address set forth in the Ordering Document or email address on record in the GoodTime account information. Each party may update its contact information upon written notice. GoodTime may give notices applicable to GoodTime Services updates by means of a general notice on the GoodTime portal.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.8. Amendments; Waivers.]
+No amendment of this Agreement shall be binding, unless executed in writing by a duly authorized representative of each party to this Agreement. No waiver will be implied from conduct or failure to enforce or exercise rights under this Agreement, nor will any waiver be effective unless in a writing signed by a duly authorized representative on behalf of the party claimed to have waived. No provision of any purchase order or other business form used by Customer, including any electronic invoicing portals and vendor registration processes, will supersede the terms and conditions of this Agreement, and any such document relating to this Agreement shall be for administrative purposes only and shall have no legal effect.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.9. Force Majeure.]
+Neither party shall be liable to the other for any delay or failure to perform any obligation under this Agreement (except for a failure to pay fees) if the delay or failure is due to events beyond the reasonable control of such party, including, acts of God, fire, flood, hurricane or other natural catastrophe, terrorist actions, war, global pandemic, labor strike, action of governmental authorities, or failure or diminishment of power, telecommunications, Internet or data networks or services (each a "Force Majeure Event").
+[CLAUSE_END]
+
+[CLAUSE_START: 11.10. Third Party Beneficiaries.]
+No third party is intended to be a beneficiary of this Agreement entitled to enforce its terms directly.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.11. Independent Contractors.]
+The parties to this Agreement are independent contractors. There is no relationship of partnership, joint venture, employment, franchise or agency created hereby between the parties. Neither party will have the power to bind the other or incur obligations on the other party's behalf without the other party's prior written consent.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.12. Export Compliance.]
+The Goodtime Services may be subject to U.S. and foreign export and import restrictions. Customer will not and will not allow any export or re-export of any part of the GoodTime Services, or any direct product thereof: (a) into (or to a national or resident of) any embargoed or terrorist-supporting country; (b) to anyone on the U.S. Commerce Department's Table of Denial Orders or U.S. Treasury Department's list of Specially Designated Nationals; (c) to any country to which such export or re-export is restricted or prohibited, or as to which the United States government or any agency thereof requires an export license or other governmental approval at the time of export or re-export without first obtaining such license or approval; or (d) otherwise in violation of any export or import restrictions, laws or regulations. Customer agrees to the foregoing and warrants that it is not located in, under the control of, or a national or resident of any such prohibited country or on any such prohibited party list.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.13. Entire Agreement.]
+This Agreement is the final and exclusive agreement between the parties regarding the subject matter of this Agreement and supersedes all previous written and oral agreements and communications relating to the subject matter of this Agreement. Any conflict between this GoodTime MSA, any appendix hereto, and any Ordering Document, will be resolved in the following order: (a) the Ordering Document, (b) the appendix; and (c) this GoodTime MSA.
+[CLAUSE_END]
+
+[CLAUSE_START: 11.14. Counterparts.]
+This Agreement may be executed in one or more counterparts each of which is deemed an original and all of which, taken together, constitute one and the same instrument.
+[CLAUSE_END]
+
+[CLAUSE_START: APPENDIX A SUPPORT AND SERVICE LEVEL AGREEMENT]
+GoodTime will maintain and support the GoodTime Service in accordance with the terms provided herein and the applicable support plan in the Ordering Document.
+[CLAUSE_END]
+
+[CLAUSE_START: 1. Availability and Contacts.]
+Technical Support. GoodTime will make technical support available to Customer by e-mail during the following business hours: 9:00am - 6:00pm PT. GoodTime's technical support personnel will provide Customer with remote assistance for help in using and operating the GoodTime Service. For issues or errors in Customer's information systems or third party products or services, GoodTime's support is limited to assisting in diagnosing the issue or error.
+Contact information for technical support is as follows:
+E-mail:
+support@goodtime.io
+Extended Support Hours. GoodTime will make extended technical support available to Customer via in-messaging (chat) accessible from the GoodTime website during the following business hours: 7:00am - 6:00 PM PT.
+[CLAUSE_END]
+
+[CLAUSE_START: 2. Performance Standards.]
+[CLAUSE_END]
+
+[CLAUSE_START: 2.1 Definitions.]
+The following definitions will apply with respect to this Section 2:
+(A) "Actual Availability" means Total Scheduled Availability minus Downtime.
+(B) "Downtime" means the time that Customer's Permitted Users are not able to (a) access the GoodTime Service, (b) perform ordinary functions to use or receive GoodTime Service in accordance with Documentation, or (c) utilize the GoodTime Service for normal business operations, excluding Excused Downtime.
+(C) "Excused Downtime" means Downtime as a result of any of the following: (a) System Maintenance, (b) a Force Majeure Event, (c) any failure or malfunction of the technology, network, equipment, product or service of Customer, its Permitted Users or Customer's suppliers, or (d) a suspension of the GoodTime Service due to Customer's breach of the Agreement.
+(D) "System Availability" with respect to the GoodTime Service will be calculated on a calendar monthly basis using the following formula: (Actual Availability divided by Total Scheduled Availability) multiplied by 100%.
+(E) "System Maintenance" means time that the GoodTime Services are not accessible to Customer due to maintenance. System Maintenance includes scheduled maintenance and unscheduled, emergency maintenance.
+(F) "Total Scheduled Availability" means the total number of minutes in a calendar month, excluding Excused Downtime.
+[CLAUSE_END]
+
+[CLAUSE_START: 2.2 Service Level Standards.]
+GoodTime will maintain the following service levels for the GoodTime Service (collectively, the "Service Levels"):
+(A) System Availability Service Level. GoodTime will provide 99.9% System Availability on a calendar month basis.
+(B) System Maintenance Notice. GoodTime will provide Customer with at least 24 hour prior written notice of any System Maintenance and will use reasonable efforts to provide advance written notice for unscheduled, emergency maintenance. GoodTime will provide such notices to Customer by email to an address provided by Customer or via GoodTime's customer portal. System Maintenance in any given calendar month will not exceed 6 hours per calendar month, and will typically be performed between the hours of 6:00 pm and 3:00 am PT on Fridays and weekends.
+(C) SLA Credits. To receive a service credit, Customer must submit a claim by emailing GoodTime at support@goodtime.com ("SLA Credit"). To be eligible, the credit request must be received by GoodTime by the end of the second contract calendar month after which the incident occurred and must include:
+● the words "SLA Credit Request" in the subject line;
+● the dates and times during which the GoodTime Service fell below the minimum 99.9% System Availability; and
+● Customer's request logs that document the Downtime and corroborate Customer's claimed outage (any
+(D) SLA Credits for System Availability Failure. GoodTime will provide Customer with one (1) SLA Credit for each two (2) full hours of Downtime that occurred during the period of System Availability failure. An SLA Credit is a credit approved and given to Customer in the form of partially extending Customer's Subscription Term. One (1) SLA Credit means one (1) day extension of Customer's Subscription Term and will not result in a refund of any Customer fees due or previously paid. SLA Credits are Customer's exclusive remedy for Downtime.
+[CLAUSE_END]
+
+[CLAUSE_START: Appendix B DATA PROCESSING ADDENDUM (PROCESSING OF CUSTOMER PERSONAL DATA)]
+This Data Processing Addendum (the "Addendum") between Etch Mobile, Inc. dba GoodTime ("GoodTime") and the customer on the Ordering Document (the "Customer"), is incorporated into the commercial agreement (the "Agreement") between GoodTime and the Customer whereby GoodTime provides the Customer with access to a cloud-based recruitment scheduling platform service, including the applicable features in the Ordering Document (the "Services"). This Addendum applies in respect of the provision of the Services to Customer, if the Processing of Customer Personal Data (as defined below) is subject to the European Data Protection Legislation (as defined below). References to the Agreement will be construed as including this Addendum. Capitalized terms used and not defined in this Addendum have the respective meanings assigned to them in the Agreement. GoodTime may revise and update this Addendum from time to time when required by applicable law. All changes are effective within 30 days after we post them, and will apply to all access to and use of the Services thereafter.
+[CLAUSE_END]
+
+[CLAUSE_START: 1. Definitions]
+1.1. For the purposes of the Addendum:
+1.1.1. "Customer Personal Data" means the Personal Data described under Section 2 of this Addendum that is protected under European Data Protection Legislation, in respect of which the Customer is the Controller;
+1.1.2. "European Data Protection Legislation" means, as applicable: (i) GDPR; (ii) the EU e-Privacy Directive (Directive Data Protection, as revised, and its corresponding ordinances; (v) in respect of the United Kingdom, the GDPR as it forms part of the law of England and Wales, Scotland and Northern Ireland by virtue of section 3 of the European Union (Withdrawal) Act 2018, and the Data Protection Act 2018 (the "UK GDPR") and any applicable national legislation that replaces or converts the GDPR and e-Privacy Directive in domestic law or that relates to data and privacy and is enacted as a consequence of the United Kingdom leaving the European Union; in each case, as may be amended, superseded or replaced from time to time; and (vi) any other laws, rules, and regulations applicable to the EEA, the United Kingdom or Switzerland relating to the processing, privacy, and use of personal data;
+1.1.3. "EEA" means, collectively, the European Economic Area, Switzerland and the United Kingdom.
+1.1.4. "GDPR" means the General Data Protection Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data; and
+1.1.5. "Personal Data", "Data Subject", "Data Protection Authority", "Data Protection Impact Assessment", "Personal Data Breach", "Process", "Processor" and "Controller" will each have the meaning given to them in the GDPR and each equivalent term will have the meaning given to it in the other European Data Protection Legislation.
+1.1.6. "SCCs" means: (i) where GDPR or the Swiss Federal Act on Data Protection applies, the standard contractual clauses for data controller to data processor transfers attached hereto as Exhibit A ("EU SCCs"); and (ii) where the UK GDPR applies, the EU SCCs and the International Data Transfer Addendum to the EU SCCs ("UK SCCs").
+1.2. Capitalized terms not otherwise defined herein shall have the meaning given to them in the Agreement.
+[CLAUSE_END]
+
+[CLAUSE_START: 2. Details of the Processing]
+2.1. Categories of Data Subjects. This Addendum applies to the Processing of Customer Personal Data of Data Subjects as set forth under the heading Data Subjects on Annex I of Exhibit A attached hereto.
+2.2. Categories of Personal Data. Customer Personal Data includes Personal Data, the extent of which is determined and controlled by the Customer in its sole discretion, that passes to or from Customer, such as listed under the heading Categories of Personal Data on Annex I of Exhibit A attached hereto.
+2.3. Subject-Matter, Nature and Purpose of the Processing. Customer Personal Data will be Processed by GoodTime solely for purposes provided under Annex I of Exhibit A attached hereto.
+2.4. Duration of The Processing. Customer Personal Data will be Processed for the duration provided under the heading Duration of Processing on Annex I of Exhibit A attached hereto.
+[CLAUSE_END]
+
+[CLAUSE_START: 3. Processing of Customer Personal Data]
+3.1. The parties acknowledge and agree that, in connection with the Agreement, Customer is the Controller of Customer Personal Data and GoodTime is the Processor of that data. In accordance with applicable European Data Protection Legislation, GoodTime will only Process Customer Personal Data as a Processor on behalf of and in accordance with the Customer's prior written instructions (including as set out in this Addendum and the Agreement and when initiated by Customer's users who access the Services on Customer's behalf) and for no other purpose. GoodTime is hereby instructed to Process Customer Personal Data to the extent necessary to enable GoodTime to provide the Services in accordance with the Agreement.
+3.2. If GoodTime cannot Process Customer Personal Data in accordance with Customer's instructions due to a legal requirement under any applicable European Data Protection Legislation, GoodTime will (i) promptly notify the Customer of such inability, providing a reasonable level of detail as to the instructions with which it cannot comply and the reasons why it cannot comply, to the greatest extent permitted by applicable law; and (ii) cease all Processing of the affected Customer Personal Data (other than merely storing and maintaining the security of the affected Customer Personal Data) until such time as the Customer issues new instructions with which GoodTime is able to comply. If this provision is invoked, GoodTime will not be liable to the Customer under the Agreement for failure to perform the Services until such time as the Customer issues new instructions. GoodTime will immediately inform Customer if, in its opinion, an instruction from Customer infringes the European Data Protection Legislation.
+3.3. Each of the Customer and GoodTime will comply with their respective obligations under the European Data Protection Legislation. Customer shall ensure that Customer has obtained (or will obtain prior to any Processing by GoodTime) all consents and lawful rights and provided all disclosures and notices, in each case required by European Data Protection Legislation, to share Customer Personal Data with GoodTime and its sub-Processors and for GoodTime and its sub-Processors to Process Customer Personal Data in accordance with this Addendum, including with respect to sending communications (e.g., emails and text messages) to individuals through the Services.
+3.4. GoodTime will not be liable under the Agreement for any claim brought by a Data Subject with respect to Customer Personal Data arising from any action or omission by GoodTime, to the extent that such action or omission resulted directly from Customer's failure to comply with its obligations under the applicable data protection law.
+3.5. In connection with the performance of the Agreement, Customer authorizes GoodTime to transfer Customer Personal Data from the EEA, the United Kingdom and Switzerland to the United States of America in accordance with this Addendum and as follows:
+3.5.1. With respect to Customer Personal Data that is protected by GDPR or the Swiss Federal Act on Data Protection, the EU SCCs attached hereto as Exhibit A and incorporated herein will apply; provided, that with respect to the Swiss Federal Act on Data Protection, the competent supervisory authority will be the Swiss Federal Data Protection and Information Commission, the governing law will be Switzerland, and references to member states will refer to Switzerland, and data subjects in Switzerland will be entitled to exercise and enforce their rights under the EU SCCs in Switzerland and references to GDPR refer to the Swiss Federal Act on Data Protection; and
+3.5.2. With respect to Customer Personal Data that is protected by the UK GDPR, the UK SCCs are incorporated herein and will apply; provided, that the competent supervisory authority will be the Information Commissioner's Office, the governing law will be the laws of the England and Wales, references to members states will refer to the United Kingdom, data subjects in the United Kingdom will be entitled to exercise and enforce their rights under the UK SCCs in the United Kingdom. For purposes of Part I of the International Data Transfer Addendum, the terms of this Addendum, including the roles of the parties set out in Annex I to the EU SCCs and the technical measures set out in Annex II to the EU SCCs, shall apply. Both parties shall be allowed to end subscription to the International Data Transfer Addendum as set out in its Section 19 subject to implementation of appropriate replacement safeguards. For purposes of Part 2 of the International Data Transfer Addendum, the EU SCCs shall apply.
+GoodTime commits to comply with its obligations under the applicable SCCs with respect to the transfer of Customer Personal Data.
+For the purposes of the standard contractual clauses: (i) Customer will act as the "data exporter," (ii) GoodTime will act as the "data importer," and (iii) any sub-Processors, will act as "sub-processors" pursuant to the standard contractual clauses.
+[CLAUSE_END]
+
+[CLAUSE_START: 4.]
+4.1. GoodTime will ensure that any person whom GoodTime authorizes to Process Customer Personal Data on its behalf is
+[CLAUSE_END]
+
+[CLAUSE_START: 5. Security Measures]
+5.1. GoodTime will implement appropriate technical and organizational measures to protect against accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Customer Personal Data.
+5.2. GoodTime will, at the Customer's request and subject to the Customer paying all of GoodTime's fees at prevailing rates, and all expenses, provide the Customer with reasonable assistance as necessary for the fulfillment of the Customer's obligation to keep Customer Personal Data secure.
+[CLAUSE_END]
+
+[CLAUSE_START: 6. General Authorization for the Appointment of Sub-Processors]
+6.1. Customer authorizes GoodTime to appoint sub-Processors (including GoodTime's affiliates) to perform specific services on GoodTime's behalf which may require such sub-Processors to Process Customer Personal Data. Information about sub-processors is available at https://www.goodtime.io/subprocessors. Customer may subscribe with an RSS feed to receive updates via GoodTime's sub-processors web page.
+6.2. If GoodTime engages a new third party sub-Processor to Process any Customer Personal Data, it will, at least 5 days before the new third party sub-Processor Processes any Customer Personal Data, inform Customer of the engagement by adding such sub-Processor to its sub-Processor web page (https://www.goodtime.io/subprocessors). Customer may reasonably object to such new third party sub-Processor (excluding GoodTime's affiliates) that would cause Customer to be non-compliant with its obligations under applicable European Data Protection Legislation, provided Customer notifies GoodTime in writing explaining the non-compliance no later than 5 days after GoodTime added such sub-Processor to the Sub-Processor web page. GoodTime may address the objection (such as by finding a suitable work around) or allow Customer to terminate the Agreement for the affected GoodTime Service. If GoodTime allows Customer to terminate the Agreement, Customer has 5 days following GoodTime's determination to notify GoodTime of Customer's election to terminate the Agreement effective upon written notice to GoodTime. This termination right is Customer's sole and exclusive remedy if Customer objects to any new third party sub-Processor.
+6.3. GoodTime will enter into a binding written agreement with each sub-Processor that imposes on the sub-Processor the same obligations that apply to GoodTime under this Addendum.
+6.4. GoodTime shall remain fully liable to the Customer for the performance of its sub-Processor's obligations.
+[CLAUSE_END]
+
+[CLAUSE_START: 7. Data Subject Rights]
+7.1. GoodTime will, at the Customer's request and subject to the Customer paying all of GoodTime's fees at prevailing rates, and all expenses, provide the Customer with assistance necessary for the fulfillment of the Customer's obligation to respond to requests for the exercise of Data Subjects' rights with respect to Customer Personal Data. Customer shall be solely responsible for responding to such requests.
+[CLAUSE_END]
+
+[CLAUSE_START: 8. Personal Data Breaches]
+8.1. GoodTime will:
+● notify the Customer as soon as practicable after it becomes aware of any Personal Data Breach affecting any Customer Personal Data; and
+● at the Customer's request, promptly provide the Customer with all reasonable assistance necessary to enable the Customer to notify relevant security breaches to the relevant Data Protection Authorities and/or affected Data Subjects, if Customer is required to do so under the European Data Protection Legislation.
+[CLAUSE_END]
+
+[CLAUSE_START: 9. Data Protection Impact Assessment: Prior Consultation]
+9.1. GoodTime will, at the Customer's request and subject to the Customer paying all of GoodTime's fees at prevailing rates, and all expenses, provide the Customer with reasonable assistance to facilitate:
+● the carrying out of Data Protection Impact Assessments if the Customer is required to do so under the European Data Protection Legislation; and
+● consultation with Data Protection Authorities, if the Customer is required to engage in consultation under the European Data Protection Legislation, in each case solely to the extent that such assistance is necessary and relates to the Processing by GoodTime of the Customer Personal Data, taking into account the nature of the Processing and the information available to GoodTime.
+[CLAUSE_END]
+
+[CLAUSE_START: 10. Deletion of Customer Personal Data]
+10.1. GoodTime will delete all Customer Personal Data as soon as reasonably practical upon Customer's request.
+[CLAUSE_END]
+
+[CLAUSE_START: 11. Information]
+11.1. GoodTime will, at Customer's request and subject to the Customer paying all of GoodTime's fees at prevailing rates, and all expenses, provide the Customer with all information necessary to enable the Customer to demonstrate compliance with its obligations under the European Data Protection Legislation, and allow for and contribute to audits, including inspections, conducted by the Customer or an auditor mandated by the Customer to the extent required by European Data Protection Legislation, to the extent that such information is within GoodTime's control and GoodTime party.
+[CLAUSE_END]
+
+[CLAUSE_START: 12. Limitation of Liability]
+12.1. Each party's liability towards the other party under, in connection with or arising from this Addendum will be limited in accordance with the provisions of the applicable Agreement.
+[CLAUSE_END]
+
+[CLAUSE_START: 13. General Provisions]
+13.1. Notwithstanding anything else in this Addendum, the parties agree that Customer is not responsible for expenses related to GoodTime implementing security measures required by applicable law and GoodTime's compliance with laws.
+13.2. With regard to the subject matter of this Addendum, in the event of inconsistencies between the provisions of this Addendum and the Agreement, the provisions of this Addendum shall prevail.
+[CLAUSE_END]
+
+[CLAUSE_START: EXHIBIT A STANDARD CONTRACTUAL CLAUSES]
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 1 Purpose and scope]
+(a) The purpose of these standard contractual clauses is to ensure compliance with the requirements of Regulation (EU) regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) (*) for the transfer of personal data to a third country.
+(b) The Parties:
+(i) the natural or legal person(s), public authority/ies, agency/ies or other body/ies (hereinafter 'entity/ies') transferring the personal data, as listed in Annex I.A (hereinafter each 'data exporter'), and
+(ii) the entity/ies in a third country receiving the personal data from the data exporter, directly or indirectly via another entity also Party to these Clauses, as listed in Annex I.A (hereinafter each 'data importer')
+have agreed to these standard contractual clauses (hereinafter: 'Clauses').
+(c) These Clauses apply with respect to the transfer of personal data as specified in Annex I.B.
+(d) The Appendix to these Clauses containing the Annexes referred to therein forms an integral part of these Clauses.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 2 Effect and invariability of the Clauses]
+(a) These Clauses set out appropriate safeguards, including enforceable data subject rights and effective legal remedies, pursuant to Article 46(1) and Article 46(2)(c) of Regulation (EU) 2016/679 and, with respect to data transfers from controllers to processors and/or processors to processors, standard contractual clauses pursuant to Article 28(7) of Regulation (EU) 2016/679, provided they are not modified, except to select the appropriate Module(s) or to add or update information in the Appendix. This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a wider contract and/or to add other clauses or additional safeguards, provided that they do not contradict, directly or indirectly, these Clauses or prejudice the fundamental rights or freedoms of data subjects.
+(b) These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 3 Third-party beneficiaries]
+(a) Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer, with the following exceptions:
+(i) Clause 1, Clause 2, Clause 3, Clause 6, Clause 7;
+(ii) Clause 8 -Module Two: Clause 8.1(b), 8.9(a), (c), (d) and (e);
+(iii) Clause 9 - Module Two: Clause 9(a), (c), (d) and (e);
+(iv) Clause 12 -Module Two: Clause 12(a), (d) and (f);
+(v) Clause 13;
+(vi) Clause 15.1(c), (d) and (e);
+(vii) Clause 16(e);
+(viii) Clause 18 -Module Two Clause 18(a) and (b).
+(b) Paragraph (a) is without prejudice to rights of data subjects under Regulation (EU) 2016/679.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 4 Interpretation]
+(a) Where these Clauses use terms that are defined in Regulation (EU) 2016/679, those terms shall have the same meaning as in that Regulation.
+(b) These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679.
+(c) These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 5 Hierarchy]
+In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties, existing at the time these Clauses are agreed or entered into thereafter, these Clauses shall prevail.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 6 Description of the transfer(s)]
+The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 7 Docking clause]
+(a) An entity that is not a Party to these Clauses may, with the agreement of the Parties, accede to these Clauses at any time, either as a data exporter or as a data importer, by completing the Appendix and signing Annex I.A.
+(b) Once it has completed the Appendix and signed Annex I.A, the acceding entity shall become a Party to these Clauses and have the rights and obligations of a data exporter or data importer in accordance with its designation in Annex I.A.
+(c) The acceding entity shall have no rights or obligations arising under these Clauses from the period prior to becoming a Party.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 8 Data protection safeguards]
+The data exporter warrants that it has used reasonable efforts to determine that the data importer is able, through the implementation of appropriate technical and organisational measures, to satisfy its obligations under these Clauses.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 9 Use of sub-processors]
+MODULE TWO: Transfer controller to processor
+(a) GENERAL WRITTEN AUTHORISATION The data importer has the data exporter's general authorisation for the engagement of sub-processor(s) from an agreed list located at https://www.goodtime.io/subprocessors. The data importer shall specifically inform the data exporter in writing of any intended changes to that list through the addition or replacement of sub-processors at least 5 days in advance, thereby giving the data exporter sufficient time to be able to object to such changes prior to the engagement of the sub-processor(s). The data importer shall provide the data exporter with the information necessary to enable the data exporter to exercise its right to object.
+(b) Where the data importer engages a sub-processor to carry out specific processing activities (on behalf of the data exporter), it shall do so by way of a written contract that provides for, in substance, the same data protection obligations as those binding the data importer under these Clauses, including in terms of third-party beneficiary rights for data subjects. (") The Parties agree that, by complying with this Clause, the data importer fulfils its obligations under Clause 8.8. The data importer shall ensure that the sub-processor complies with the obligations to which the data importer is subject pursuant to these Clauses.
+(c) The data importer shall provide, at the data exporter's request, a copy of such a sub-processor agreement and any information, including personal data, the data importer may redact the text of the agreement prior to sharing a copy.
+(d) The data importer shall remain fully responsible to the data exporter for the performance of the sub-processor's obligations under its contract with the data importer. The data importer shall notify the data exporter of any failure by the sub-processor to fulfil its obligations under that contract.
+(e) The data importer shall agree a third-party beneficiary clause with the sub-processor whereby - in the event the data importer has factually disappeared, ceased to exist in law or has become insolvent - the data exporter shall have the right to terminate the sub-processor contract and to instruct the sub-processor to erase or return the personal data.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 10 Data subject rights]
+MODULE TWO: Transfer controller to processor
+(a) The data importer shall promptly notify the data exporter of any request it has received from a data subject. It shall not respond to that request itself unless it has been authorised to do so by the data exporter.
+(b) The data importer shall assist the data exporter in fulfilling its obligations to respond to data subjects' requests for the exercise of their rights under Regulation (EU) 2016/679. In this regard, the Parties shall set out in Annex II the appropriate technical and organisational measures, taking into account the nature of the processing, by which the assistance shall be provided, as well as the scope and the extent of the assistance required.
+(c) In fulfilling its obligations under paragraphs (a) and (b), the data importer shall comply with the instructions from the data exporter.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 11 Redress]
+(a) The data importer shall inform data subjects in a transparent and easily accessible format, through individual notice or on its website, of a contact point authorised to handle complaints. It shall deal promptly with any complaints it receives from a data subject.
+(b) In case of a dispute between a data subject and one of the Parties as regards compliance with these Clauses, that Party shall use its best efforts to resolve the issue amicably in a timely fashion. The Parties shall keep each other informed about such disputes and, where appropriate, cooperate in resolving them.
+(c) Where the data subject invokes a third-party beneficiary right pursuant to Clause 3, the data importer shall accept the decision of the data subject to:
+(i) lodge a complaint with the supervisory authority in the Member State of his/her habitual residence or place of work, or the competent supervisory authority pursuant to Clause 13;
+(ii) refer the dispute to the competent courts within the meaning of Clause 18.
+(d) The Parties accept that the data subject may be represented by a not-for-profit body, organisation or association under the conditions set out in Article 80(1) of Regulation (EU) 2016/679.
+(e) The data importer shall abide by a decision that is binding under the applicable EU or Member State law.
+(f) The data importer agrees that the choice made by the data subject will not prejudice his/her substantive and procedural rights to seek remedies in accordance with applicable laws.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 12 Liability]
+(a) Each Party shall be liable to the other Party/ies for any damages it causes the other Party/ies by any breach of these Clauses.
+(b) The data importer shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages the data importer or its sub-processor causes the data subject by breaching the third-party beneficiary rights under these Clauses.
+(c) Notwithstanding paragraph (b), the data exporter shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages the data exporter or the data importer (or its sub-processor) causes the data subject by breaching the third-party beneficiary rights under these Clauses. This is without prejudice to the liability of the data exporter and, where the data exporter is a processor acting on behalf of a controller, to the liability of the controller under Regulation (EU) 2016/679 or Regulation (EU) 2018/1725, as applicable.
+(d) The Parties agree that if the data exporter is held liable under paragraph (c) for damages caused by the data importer (or its sub-processor), it shall be entitled to claim back from the data importer that part of the compensation corresponding to the data importer's responsibility for the damage.
+(e) Where more than one Party is responsible for any damage caused to the data subject as a result of a breach of these Clauses, all responsible Parties shall be jointly and severally liable and the data subject is entitled to bring an action in court against any of these Parties.
+(f) The Parties agree that if one Party is held liable under paragraph (e), it shall be entitled to claim back from the other Party/ies that part of the compensation corresponding to its/their responsibility for the damage.
+(g) The data importer may not invoke the conduct of a sub-processor to avoid its own liability.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 13 Supervision]
+(a) Where the data exporter is established in an EU Member State: The supervisory authority with responsibility for ensuring compliance by the data exporter with Regulation (EU) 2016/679 as regards the data transfer, as indicated in Annex I.C, shall act as competent supervisory authority.
+Where the data exporter is not established in an EU Member State, but falls within the territorial scope of application of Regulation (EU) 2016/679 in accordance with its Article 3(2) and has appointed a representative pursuant to Article 27(1) of Regulation (EU) 2016/679: The supervisory authority of the Member State in which the representative within the meaning of Article 27(1) of Regulation (EU) 2016/679 is established, as indicated in Annex I.C, shall act as competent supervisory authority.
+Where the data exporter is not established in an EU Member State, but falls within the territorial scope of application of Regulation (EU) 2016/679 in accordance with its Article 3(2) without however having to appoint a representative pursuant to Article 27(2) of Regulation (EU) 2016/679: The supervisory authority of one of the Member States in which the data subjects whose personal data is transferred under these Clauses in relation to the offering of goods or services to them, or whose behaviour is monitored, are located, as indicated in Annex I.C, shall act as competent supervisory authority.
+(b) The data importer agrees to submit itself to the jurisdiction of and cooperate with the competent supervisory authority in any procedures aimed at ensuring compliance with these Clauses. In particular, the data importer agrees to respond to enquiries, submit to audits and comply with the measures adopted by the supervisory authority, including remedial and compensatory measures. It shall provide the supervisory authority with written confirmation that the necessary actions have been taken.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 14 Local laws and practices affecting compliance with the Clauses]
+(a) Local laws and practices affecting compliance with the Clauses The Parties warrant that they have no reason to believe that the laws and practices in the third country of destination applicable to the processing of the personal data by the data importer, including any requirements to disclose personal data or measures authorising access by public authorities, prevent the data importer from fulfilling its obligations under these Clauses. This is based on the understanding that laws and practices that respect the essence of the fundamental rights and freedoms and do not exceed what is necessary and proportionate in a democratic society to safeguard one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679.
+(b) The Parties declare that in providing the warranty in paragraph (a), they have taken due account in particular of the following elements:
+(i) the specific circumstances of the transfer, including the length of the processing chain, the number of actors involved and the transmission channels used; intended onward transfers; the type of recipient; the purpose of processing; the categories and format of the transferred personal data; the economic sector in which the transfer occurs; the storage location of the data transferred;
+(ii) the laws and practices of the third country of destination- including those requiring the disclosure of data to public authorities or authorising access by such authorities - relevant in light of the specific circumstances of the transfer, and the applicable limitations and safeguards;
+(iii) any relevant contractual, technical or organisational safeguards put in place to supplement the safeguards under these Clauses, including measures applied during transmission and to the processing of the personal data in the country of destination.
+(c) The data importer warrants that, in carrying out the assessment under paragraph (b), it has made its best efforts to provide the data exporter with relevant information and agrees that it will continue to cooperate with the data exporter in ensuring compliance with these Clauses.
+(d) The Parties agree to document the assessment under paragraph (b) and make it available to the competent supervisory authority on request.
+(e) The data importer agrees to notify the data exporter promptly if, after having agreed to these Clauses and for the duration of the contract, it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under paragraph (a), including following a change in the laws of the third country or a measure (such as a disclosure request) indicating an application of such laws in practice that is not in line with the requirements in paragraph (a).
+(f) Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfil its obligations under these Clauses, the data exporter shall promptly identify appropriate exporter and/or data importer to address the situation. The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the competent supervisory authority to do so. In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses. If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise. Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 15 Obligations of the data importer in case of access by public authorities]
+15.1 Notification
+(a) The data importer agrees to notify the data exporter and, where possible, the data subject promptly (if necessary with the help of the data exporter) if it:
+(i) receives a legally binding request from a public authority, including judicial authorities, under the laws of the country of destination for the disclosure of personal data transferred pursuant to these Clauses; such notification shall include information about the personal data requested, the requesting authority, the legal basis for the request and the response provided; or
+(ii) becomes aware of any direct access by public authorities to personal data transferred pursuant to these Clauses in accordance with the laws of the country of destination; such notification shall include all information available to the importer.
+(b) If the data importer is prohibited from notifying the data exporter and/or the data subject under the laws of the country of destination, the data importer agrees to use its best efforts to obtain a waiver of the prohibition, with a view to communicating as much information as possible, as soon as possible. The data importer agrees to document its best efforts in order to be able to demonstrate them on request of the data exporter.
+(c) Where permissible under the laws of the country of destination, the data importer agrees to provide the data exporter, at regular intervals for the duration of the contract, with as much relevant information as possible on the requests received (in particular, number of requests, type of data requested, requesting authority/ies, whether requests have been challenged and the outcome of such challenges, etc.).
+(d) The data importer agrees to preserve the information pursuant to paragraphs (a) to (c) for the duration of the contract and make it available to the competent supervisory authority on request.
+(e) Paragraphs (a) to (c) are without prejudice to the obligation of the data importer pursuant to Clause 14(e) and Clause 16 to inform the data exporter promptly where it is unable to comply with these Clauses.
+15.2 Review of legality and data minimisation
+(a) The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity. The data importer shall, under the same conditions, pursue possibilities of appeal. When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits. It shall not disclose the personal data requested until required to do so under the applicable procedural rules. These requirements are without prejudice to the obligations of the data importer under Clause 14(e).
+(b) The data importer agrees to document its legal assessment and any challenge to the request for disclosure and, to the extent permissible under the laws of the country of destination, make the documentation available to the data exporter. It shall also make it available to the competent supervisory authority on request.
+(c) The data importer agrees to provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request.
+[CLAUSE_END]
+
+[CLAUSE_START: Clause 16 Non-compliance with the Clauses and termination]
+(a) The data importer shall promptly inform the data exporter if it is unable to comply with these Clauses, for whatever reason.
+(b) In the event that the data importer is in breach of these Clauses or unable to comply with these Clauses, the data exporter shall suspend the transfer of personal data to the data importer until compliance is again ensured or the contract is terminated. This is without prejudice to Clause 14(f).
+(c) The data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses, where:
+(i) the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a reasonable time and in any event within one month of suspension;
+(ii) the data importer is in substantial or persistent breach of these Clauses; or
+(iii) the data importer fails to comply with a binding decision of a competent court or supervisory authority regarding its obligations under these Clauses.
+In these cases, it shall inform the competent supervisory authority of such non- compliance. Where the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise.
+(d) Personal data that has been transferred prior to the termination of the contract pursuant to paragraph (c) shall at the choice of the data exporter immediately be returned to the data exporter or deleted in its entirety. The same shall apply to any copies of the data. The data importer shall certify the deletion of the data to the data exporter. Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses. In case of local laws applicable to the data importer that prohibit the return or deletion of the transferred personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process the data to the extent and for as long as required under that local law

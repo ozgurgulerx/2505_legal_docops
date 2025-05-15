@@ -1,0 +1,165 @@
+[CLAUSE_START: 1. Master Agreement; Specific Services.]
+From time to time, Mercy Corps may request services from Contractor. For each occasion on which Contractor is willing to provide requested services, the parties will enter into a task order ("Task Order" or "TO") which will describe the services to be performed and the period for performance and which will be substantially in the form attached hereto as Exhibit A. Contractor must notify Mercy Corps within the Task Order Offer Period time specified in Schedule I if it accepts a Task Order, rejects a Task Order or requires changes to a Task Order. Mercy Corps may reject any acceptance or request for changes that Mercy Corps receives after the Task Order Offer Period has expired.
+[CLAUSE_END]
+
+[CLAUSE_START: 2. Additional Terms and Defined Terms.]
+Additional Terms are specified in Schedule I hereto (the "Additional Terms"). The terms in Schedule I are incorporated in this Agreement by this reference. The following additional defined terms are included in Schedule I: Task Order Offer Period, Authorized Representative, Key Personnel, Payment Terms, Services, TO and Scope of Work (SOW). "Agreement" means this Master Services Agreement and Schedule I, in each case as amended, modified or supplemented from time to time. Other terms may be defined throughout this Agreement as specified.
+[CLAUSE_END]
+
+[CLAUSE_START: 3. Delivery of Services.]
+a.
+Contractor will perform the Services, and Mercy Corps will pay for the Services, in accordance with the terms and conditions set forth in this Agreement and each TO.
+b. Contractor will perform all Services through the services of Contractor's employees. Contractor will not delegate or subcontract any Services to be provided to Mercy Corps without Mercy Corps' prior written consent. Contractor agrees that including the specific individuals named (if any) as Key Personnel in the Additional Terms is a material part of the bargain. Contractor will not change the Key Personnel without prior notice and an amendment to the Additional Terms specifying the change. Mercy Corps may withhold its consent to substitute personnel using its sole discretion.
+[CLAUSE_END]
+
+[CLAUSE_START: 4. Compliance with TOs and Changes to TOs.]
+Services will be provided strictly in accordance with each TO. No deviation, substitution or change is permitted without Mercy Corps' prior written consent; provided that Mercy Corps may terminate, suspend, increase or decrease the scope of Contractor's performance under a TO by written notice to Contractor specifying the changes. Unless mutually agreed, a change to a TO by Mercy Corps does not apply to Services timely and fully delivered and performed before the date of the change. If any change causes an increase or decrease in the cost of, or the time required for, Contractor's performance, an equitable adjustment may be made in the TO or Payment Terms or both, if such adjustment is set forth in an amendment signed by Mercy Corps' and Contractor's Authorized Representative.
+[CLAUSE_END]
+
+[CLAUSE_START: 5. Non-Exclusivity.]
+This Agreement is not intended to create an exclusive relationship between the parties. Unless the Additional Terms specify a minimum purchase of services, Mercy Corps is not obligated to issue any Task Order to Contractor. If the Additional Terms specify a minimum purchase of services, Mercy Corps shall be obligated only to issue a TO(s) for the minimum purchase amount.
+[CLAUSE_END]
+
+[CLAUSE_START: 6. Invoicing and Payment.]
+a.
+Contractor will submit invoices to Mercy Corps in accordance with the invoicing schedule and invoicing delivery terms set forth in the Additional Terms. Each invoice will include (i) the Contract Number and TO number; (ii) Contractor's name and address; (iii) a description of the Services performed, (iv) the dates such Services were performed, (v), if applicable per the Additional Terms, an itemization of the specified increments of time worked, (vi), if applicable per the Additional Terms, properly reimbursable expenses (if any) incurred along with receipts for such expenses; and (vii) such other information as Mercy Corps may reasonably request. Invoices will only be deemed received on the date they are delivered to Mercy Corps' Authorized Representative pursuant to the Payment Terms. If Mercy Corps determines that Services that are the subject of an invoice have not been performed in accordance with the Additional Terms, Mercy Corps may dispute the invoice by sending Contractor notice of such dispute after Mercy Corps receipt of the invoice. Such notice shall clearly state the specific Services disputed, and Mercy Corps' reason for disputing the performance of the Services. If both parties accept the dispute of the invoice, they shall agree in writing as to the steps required of Contractor to ensure that the performance of the disputed Services is subsequently completed in accordance with the Additional Terms, and the time required of Contractor to complete the Services
+b. Except as otherwise provided in the Additional Terms, Mercy Corps will pay each invoice (or adjusted invoice if the subject of dispute) in accordance with the Payment Terms within 30 days after the later of (i) receipt of the invoice or (ii) resolution of the items set forth in the notice of disputed charges.
+c. Mercy Corps may off-set any amount it owes Contractor against any amount Contractor owes Mercy Corps.
+[CLAUSE_END]
+
+[CLAUSE_START: 7. Taxes, Duties and Expenses.]
+a. Except as otherwise provided in the Additional Terms, Contractor is responsible for all expenses incurred by it in performing under this Agreement and all taxes, duties and other governmental charges with respect to the provision of Services. If the law requires Mercy Corps to withhold taxes from payments to Contractor, Mercy Corps may withhold those taxes and pay them to the appropriate taxing authority. Mercy Corps will deliver to Contractor an official receipt for such taxes. Mercy Corps will use reasonable efforts to minimize any taxes withheld to the extent allowed by law.
+b. In the event the Additional Terms do allow for reimbursement of Contractor expenses, such expenses must be listed as acceptable expenses in the Additional Terms or the Task Order and fully documented with receipts and any other documentation reasonably necessary for Mercy Corps to determine the costs were reasonable and properly incurred.
+[CLAUSE_END]
+
+[CLAUSE_START: 8. Representations, Warranties and Additional Covenants.]
+Contractor represents and warrants to Mercy Corps and covenants with Mercy Corps as follows.
+a. Contractor has full rights and authority to enter into and perform its obligations under this Agreement. Contractor's performance will not violate any agreement or obligation between Contractor and any third party.
+b. Contractor has the requisite skills to perform the Services in accordance with this Agreement.
+c. Contractor possesses all governmental and other certifications and licenses necessary to perform the Services in accordance with this Agreement. Performance by Contractor of its obligations under this Agreement will not infringe on any patent, copyright, trademark, trade secret or other proprietary right of any third party.
+d. Contractor will comply with all applicable law, regulations and rules in the performance of its obligations under this Agreement.
+e. Contractor has not, and will not, engage in transactions with, or provide resources or support to, individuals and organizations associated with terrorism, including those individuals or entities that appear on the Specially Designated Nationals and Blocked Persons List maintained by the U.S. Treasury (http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or the United Nations Security designation list (http://www.un.org/sc/committees/1267/aq sanctions_list.shtml
+f. Contractor will comply with and train its employees in all applicable laws against bribery, corruption, inaccurate books and records, inadequate internal controls and money-laundering, including the U.S. Foreign Corrupt Practices Act and the UK Bribery Act. Contractor has not and will not offer or give any employee, agent, or representative of Mercy Corps anything of value to secure any business from Mercy Corps or influence such person to alter the terms, conditions, or performance of any contract with or purchase order from Mercy Corps, including but not limited to this Agreement.
+g. Contractor, including its owners or employees, does not own, directly or indirectly, any other company that was competing for award of this Agreement or any TO. Contractor did not seek or Corps employee, agent or representative. Contractor did not collude or conspire with any other individual or entity to limit competition for the award of this Agreement or any TO, to set prices being offered or in any other way to interfere with free and open competition.
+h. Contractor is not owned in whole or in part, directly or indirectly, by any immediate or extended family member of any Mercy Corps employee, agent or representative, or, if so owned, Contractor fully disclosed such relationship and any potential conflict of interest has been waived, in writing, by Mercy Corps.
+i. Contractor has not engaged in, and will not engage in, any of the following conduct: (A) trafficking in persons (as defined in the Protocol to Prevent, Suppress, and Punish Trafficking in Persons, especially Women and Children, supplementing the UN Convention against Transnational Organized Crime); (B) procuring a commercial sex act; or (C) using forced labor.
+j. Contractor is not the subject or any governmental or donor investigation and has not been debarred or suspended by any government, governmental agency or donor.
+[CLAUSE_END]
+
+[CLAUSE_START: 9. Independent Contractor.]
+The parties intend to be independent contractors. Contractor will be solely responsible for and have control over the means, methods, techniques, personnel and procedures for performing the Services. Neither party will be deemed an agent or partner of the other party.
+[CLAUSE_END]
+
+[CLAUSE_START: 10. Work Product and Intellectual Property Rights.]
+a. "Work Product" means any and all (1) intellectual property, intellectual property rights, materials, tangible personal property and other work product that Contractor creates (or has created), alone or jointly with one or more other persons, (a) that relates to any TO, (b) that results from or arises out of any services performed by Contractor for Mercy Corps, (c) for which Contractor used equipment, supplies, facilities or trade secret information of Mercy Corps in creating such work product, or (d) that is derived or otherwise created from any intellectual property, intellectual property rights, materials, tangible personal property, or other assets of Mercy Corps; and (2) materials that contain, embody, disclose, reflect, or refer to any of the foregoing.
+b. Mercy Corps will be the sole owner of all Work Product. To the extent allowed by applicable law, all Work Product that consists of subject matter of U.S. or any other country's copyright laws will constitute "works made for hire" under applicable copyright laws. Contractor will not provide Work Product to any person other than employees or agents of Mercy Corps. Contractor will hold Information of Mercy Corps and subject to the provisions of Section 10.
+c. Contractor will promptly disclose in writing to Mercy Corps all Work Product that Contractor creates, alone or jointly with others, in the performance of its obligations under this Agreement.
+d. Contractor hereby irrevocably assigns and transfers to Mercy Corps (i) all rights, title and interest in all Work Product, (ii) all related rights and remedies, and (iii) all claims (for damages or otherwise) and causes of action with respect to any Work Product.
+e. Contractor hereby irrevocably waives and agrees never to assert any Moral Rights that may exist anywhere in the world in or with respect to any Work Product, including claims for damages and other remedies. "Moral Rights" means any and all right to claim authorship to or to object to any distortion, mutilation or other modification or other derogatory action in relation to a work, whether or not such action would be prejudicial to the author's reputation, and any similar right, existing under common or statutory law of any country in the world or under any treaty, regardless of whether or not such right is denominated or generally referred to as a "moral right".
+conditions of this Agreement (including all Statements of Services); and (iii) nonpublic information regarding Mercy Corps' policies and practices. Upon Mercy Corps' request, Contractor will return to
+[CLAUSE_END]
+
+[CLAUSE_START: 12. Indemnification.]
+Contractor will indemnify Mercy Corps and each of its officers, directors, employees, representatives and agents (each, an "Indemnitee"), and hold them harmless from, any and all losses, claims, damages, liabilities, any government or donor investigations, fines or penalties and related expenses (including incidental and consequential damages and reasonable attorneys' fees, whether incurred at the investigative, trial or appellate level or otherwise) incurred by any Indemnitee or asserted against any Indemnitee by any third party or by Contractor arising out of, in connection with, or as a result of this Agreement, any failure by Contractor to fully perform its obligations under this Agreement or any breach by Contractor of any of its representations and warranties under this Agreement, provided that such indemnity will not, as to any Indemnitee, be available to the extent that such losses, claims, damages, liabilities or related expenses resulted from the gross negligence or willful misconduct of such Indemnitee.
+[CLAUSE_END]
+
+[CLAUSE_START: 13. Termination and Remedies.]
+a. Provided no TO is outstanding and remains to be performed by either party, this Agreement may be terminated by either party upon 30 days prior written notice to the other party.
+b. Any TO may be terminated under the following circumstances:
+i. by both Parties on mutual written agreement of the Parties;
+ii. by either Party for its convenience with written notice and after the Termination Notice Period specified in the Additional Terms has expired;
+iii. by Mercy Corps immediately upon written notice in the event Mercy Corps' donor(s) terminates or withdraws funding that Mercy Corps would use to pay Contractor under the Additional Terms;
+iv. by either Party due to the non-terminating Party's breach of this Agreement and failure to correct such breach within 15 days prior notice of such breach;
+v. be either Party upon written notice if a force majeure event, including any not reasonably foreseeable war, insurrection, change in law or government action or inaction, strike, natural disaster or similar event, prevents the terminating Party from being able to fulfill its obligations under this Agreement; or
+vi. by Mercy Corps immediately upon written notice if Mercy Corps using its sole discretion determines that Contractor has or will breach any of its warranties, covenants or representations in this Agreement, in which case Mercy Corps may withhold any and all amounts owed to Contractor until such breach is remedied.
+In the event of termination due to Contractor's breach or by Contractor for Contractor's convenience, Mercy Corps will not be obligated to pay Contractor for any partially completed work. In the event termination is due to Mercy Corps' breach, by Mercy Corps for Mercy Corps convenience, due to force majeure event, or due to loss of funding, Mercy Corps will be obligated to pay Contractor for its reasonable, pro-rated costs of work completed and expenses properly incurred prior to termination. However, Mercy Corps will not be responsible for any expenses incurred in anticipation of termination or suspension.
+If Mercy Corps determines that Contractor has or will breach any of its warranties, covenants or representations in this Agreement, Mercy Corps may, in addition to any other remedies for such breach available at law or in equity, terminate this Agreement.
+Dispute Resolution. Any unresolved dispute or claims will be settled by arbitration administered by the International Centre for Dispute Resolution in accordance with its International Arbitration Rules. The number of arbitrators will be one. The place of arbitration will be Portland, Oregon. The language of the arbitration will be English.
+[CLAUSE_END]
+
+[CLAUSE_START: 14. Access to Books and Records.]
+Mercy Corps, its donors (including, if applicable, USAID, and the Comptroller General of the United States) and any of their respective representatives will have access to any books, documents, papers and records of Contractor that are directly pertinent to this Agreement for the purpose of making audits, examinations, excerpts and transcriptions for a period of seven years following the completion of the final TO issued by Mercy Corps under this MSA.
+[CLAUSE_END]
+
+[CLAUSE_START: 15. Additional Donor Terms and Conditions.]
+The Donor Terms (if any) are incorporated in this Agreement by reference and are fully binding on Contractor and Mercy Corps. In the event of a conflict between the Donor Terms and any other provision of this Agreement (including any Additional Terms of TO) or any other document between Contractor and Mercy Corps, the Donor Terms will prevail.
+[CLAUSE_END]
+
+[CLAUSE_START: 16. Miscellaneous.]
+a. This Agreement and the rights and obligations of the parties hereto will be governed by and construed in accordance with the laws of the State of Oregon (exclusive of the United Nations Convention on Contracts for the International Sale of Goods), without regard to the conflict of laws provisions thereof.
+b. No right or obligation under this Agreement (including the right to receive monies due) will be assigned without the prior written consent of Mercy Corps. Any assignment without such consent will be void. Mercy Corps may assign its rights under this Agreement.
+c. All notices provided for herein will be in writing and will be delivered by hand or overnight courier service, email or fax in accordance with each party's contact information set forth on the Additional Terms. Notices will be deemed to have been given when received, provided that notices sent by email or fax will be deemed received when sent (except that, if not sent during normal business hours for the recipient, will be deemed received at the opening of business on the next business day for the recipient).
+d. Time is of the essence of each and every obligation of Contractor under this Agreement.
+e. If any provision of this Agreement is prohibited by or invalid under applicable law, such provision will be ineffective only to the extent of such prohibition or invalidity without invalidating the remainder of such provision or any remaining provisions of this Agreement.
+f. Except as otherwise provided above, this Agreement may be amended or modified only by a written document signed by both parties. This Agreement constitutes the entire contract between the parties relating to the subject matter hereof and supersedes any and all previous agreements and understandings, oral or written, relating to the subject matter hereof.
+g. No failure on the part of Mercy Corps to exercise, and no delay in exercising, any right, power, privilege or remedy under this Agreement will operate as a waiver thereof; nor will any single or partial exercise of any such right, power, privilege or remedy preclude any other or further exercise thereof or the exercise of any other right, power, privilege or remedy. The rights and remedies under this Agreement are cumulative and not exclusive of any rights, powers, privileges and remedies that may otherwise be available to Mercy Corps.
+this Agreement will survive the termination, cancellation of expiration of this Agreement.
+i. In the event that there is a conflict in term between this Master Services Agreement and any TO, the terms in the Master Services Agreement shall prevail unless the changed terms in the TO specifically state the section of the Master Services Agreement or Additional Terms that the TO is changing, in which case the new terms in the TO shall prevail only as to that TO.
+[CLAUSE_END]
+
+[CLAUSE_START: SCHEDULE I ADDITIONAL TERMS]
+1. Term: This Agreement shall have an effective date of XXX and, unless earlier terminated in accordance with Section 13, an expiration date of XXX [1 year].
+2. Offer Period: [xxx] business days ("Task Order Offer Period").
+3. Services: In accordance with the terms of the Agreement, Contractor agrees to perform the following services in the following manner.
+a. Background:
+b. Scope of Work:
+The term "Services" means all services, including delivery of all deliverables, described in all Task Orders.
+4. Pricing:
+5. Invoicing & Payment Terms: Contractor will submit an Invoice in accordance with pricing as specified in the Agreement. Mercy Corps will make payment to Contractor for all sums not in dispute within 30 days of receipt of Contractor's invoice(s) (the "Payment Terms").
+6. Key Personnel:
+7. Reimbursable Expenses:
+8. Authorized Representatives and Contact Information:
+a. Mercy Corps: Only the following Mercy Corps employees are authorized to agree to any amendment of the Agreement, a new Task Order or an amendment to a Task Order:
+Attn:
+Fax:
+Email:
+Only the following Mercy Corps employees are authorized to receive invoices, accept or reject Services or sign SCRs.
+b. Contractor: Contractor's authorized representative for all purposes is:
+Attn:
+Fax:
+Email:
+9. Termination for Convenience Notice Period:
+(the "Termination Notice Period").
+10. Donor Terms: The Donor Terms set forth in Schedule II to the Agreement are hereby incorporated in the Agreement by reference].
+[CLAUSE_END]
+
+[CLAUSE_START: SCHEDULE II DONOR TERMS]
+[CLAUSE_END]
+
+[CLAUSE_START: EXHIBIT A FORM TASK ORDER - FIXED PRICE]
+Task Order No.
+1. Contractor:
+.
+2. Master Service Agreement No .:
+.
+3. Statement of Work (the "SOW"): In accordance with the terms of the above-referenced Master Services Agreement, Contractor agrees to perform the following services in the following manner:
+a. Task Order Scope of Work:
+b. Deliverables: The Contractor shall deliver the following deliverables in accordance with the schedule set in Section 4 below:
+i. Deliverable 1.
+ii. Deliverable 2:
+4. Performance Period: This Task Order shall have an effective date of XXX and, unless earlier terminated in accordance with Section 13 of the Agreement, an expiration date of XXX. The individual due dates of each deliverable are as follows:
+Deliverable
+#
+Deliverable Description
+Deliverable Due Date
+5. Price: This is a fixed price Task Order. Mercy Corps agrees to pay Contractor no more than for services rendered under this Task Order. Payment for deliverables will be made according to the schedule below:
+Deliverable
+#
+Deliverable Description
+Deliverable Price
+Total Price
+IN WITNESS WHEREOF, this Task Order has been duly executed by the parties' Authorized Representatives as of the date written below.
+DATED:
+MERCY CORPS
+Name:
+Title:
+CONTRACTOR
+Name:
+Title
+For Mercy Corps internal purpose only
+PR Number
+Fund Code
+GL Account
+LIN Code
+Office Code
+[CLAUSE_END]
