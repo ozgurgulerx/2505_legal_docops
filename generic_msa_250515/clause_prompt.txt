@@ -13,7 +13,12 @@ Recognise the following as clause starts
 • Multi-level numbers        2.3.1 License Grant
 • Roman numerals / Letters    IV) Indemnification  B. Payment Terms
 • Un-numbered, Title-Case    Survival; Governing Law
-• Definitions list items     11. “Data Protection Laws” …
+• Definitions list items
+• Exception – enumerated definitions inside a Definitions clause**
+Treat numbered or bulleted definitions that sit **under** a clause entitled
+“Definitions”, “Definitions and Interpretation”, “Defined Terms”, or similar
+(e.g., 2.2.1 “Business Day”, 11.3 “Data Protection Laws”) as **sub-clauses**.
+Do **not** start a new [CLAUSE_START] tag for each such item; keep them inside the current Definitions clause body.
 • Annex titles         Annex C – Data Processing Agreement
 • Annex sub-sections      3 Change Process (inside Annex C)
 • Section / Article forms    Section 12 – Limitation of Liability  Article IV Indemnification
@@ -39,9 +44,38 @@ Inside annexes, schedules, or exhibits, apply the same single-segment rule relat
 • Heading line breaks:
 – If a line contains only a section number (e.g. 13.) and the first non-boiler-plate line that follows—skipping blank lines, headers/footers, underline rows, or page numbers—begins with ALL-CAPS or Title Case words and no digits/punctuation, join those lines before evaluating the heading.
 – If multiple consecutive lines are ALL-CAPS words, join them until a non-caps line or body text appears.
-★ – Skip up to 5 boiler-plate lines between such a lone number line and its title. A line counts as boiler-plate if it contains “page”, “pages”, “draft”, “confidential”, “version”, matches \d+\s*of\s*\d+, is only digits/punctuation, or is ≤ 4 ALL-CAPS characters (e.g. V1).
-★ – After a lone number line, keep scanning past boiler-plate until the first line that starts with ALL-CAPS or Title-Case words and does not begin with another leading number; join that line to the number and treat the result as the heading.
+– Skip up to 5 boiler-plate lines between such a lone number line and its title. A line counts as boiler-plate if it contains “page”, “pages”, “draft”, “confidential”, “version”, matches \d+\s*of\s*\d+, is only digits/punctuation, or is ≤ 4 ALL-CAPS characters (e.g. V1).
+– After a lone number line, keep scanning past boiler-plate until the first line that starts with ALL-CAPS or Title-Case words and does not begin with another leading number; join that line to the number and treat the result as the heading.
 – A heading is valid even if it appears on the same line as preceding text or is split across OCR lines; join the pieces before issuing the tag.
+- **Two-line annex headings**
+   If a line starts with “Annex”, “Schedule”, “Exhibit”, or “Appendix” followed only by a
+   letter/number (e.g. `Annex B`, `Schedule 3`) **and** the very next non-boiler-plate line is
+   Title-Case or ALL-CAPS words with no leading number, JOIN those two lines before
+   evaluating the heading. Always emit a clause tag for the combined line even though the
+   first line had no body text.
+- **Reset depth after any annex heading, joined or single-line**
+   Whether the annex title appears on one line or was joined per the rule above, treat the
+   resulting heading as `[CLAUSE_START: Annex …]` and immediately apply the “Hierarchy
+   reset inside annexes” rule that follows.
+- **Do-not-skip override for page-wrapped headings**
+   If a lone number line (e.g. “3.”) is later JOINED—after skipping up to 5 boiler-plate
+   lines—with a valid ALL-CAPS or Title-Case title line (e.g. “CONFIDENTIAL INFORMATION”),
+   treat the combined text (“3. CONFIDENTIAL INFORMATION”) as the heading and
+   ALWAYS emit a [CLAUSE_START] tag for it, ignoring the “skip-empty-heading” rule.
+-  Hyphen- & punctuation-tolerant titles
+   After the number, a heading may include hyphens, apostrophes, slashes,
+   or a trailing period/colon and is still considered substantive text.
+   Examples: 12. End-of-Life.   4. Confidentiality / Non-Disclosure:
+             II. Proprietary Rights
+   Treat such lines as complete headings and do NOT apply the
+   “skip-empty-heading” rule.
+
+-  Two-part headings that end with punctuation
+   If you first join a lone number line (e.g., “12.”) to the next line and the
+   combined title ends in “.” or “:”, consider the whole joined string the
+   heading and ALWAYS emit a   [CLAUSE_START: …]   tag for it.
+
+
 
 Hierarchy reset inside annexes:
  Immediately after you emit [CLAUSE_START: Annex …], reset the depth.
