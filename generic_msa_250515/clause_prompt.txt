@@ -11,7 +11,7 @@ introduces contractual content** appears, no matter its depth
 or numbering scheme.
 
 Recognise the following as clause starts:  
-• Arabic numbers              12  Limitation of Liability  
+• Arabic, Roman, and mixed numbers              12  Limitation of Liability  
 • Multi-level numbers         2.3.1  License Grant  
 • Roman numerals / Letters    IV) Indemnification B. Payment Terms  
 • Un-numbered, Title-Case     Survival; Governing Law  
