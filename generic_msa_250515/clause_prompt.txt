@@ -69,11 +69,21 @@ Inside annexes, schedules, or exhibits, apply the same single-segment rule relat
              II. Proprietary Rights
    Treat such lines as complete headings and do NOT apply the
    “skip-empty-heading” rule.
-
 -  Two-part headings that end with punctuation
    If you first join a lone number line (e.g., “12.”) to the next line and the
    combined title ends in “.” or “:”, consider the whole joined string the
    heading and ALWAYS emit a   [CLAUSE_START: …]   tag for it.
+- **Two-line annex headings**
+  If a line starts with “Annex”, “Schedule”, “Exhibit”, or “Appendix” followed only by a
+  letter/number (e.g. `Annex B`, `Schedule 3`) AND the very next non-boiler-plate line is
+  Title-Case or ALL-CAPS words with no leading number, JOIN those two lines before
+  evaluating the heading. Always emit a clause tag for the combined line even though the
+  first line had no body text.
+- **Reset depth after any annex heading, joined or single-line**
+  Whether the annex title appears on one line or was joined per the rule above, treat the
+  resulting heading as `[CLAUSE_START: Annex …]` and immediately apply the “Hierarchy
+  reset inside annexes” rule that follows.
+
 
 
 

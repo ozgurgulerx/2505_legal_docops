@@ -1,0 +1,151 @@
+[CLAUSE_START: 1. PARTIES]  
+1.1. The Parties to this MSA are :-  
+1.1.1. LanDynamix (Pty) Ltd, a private company duly registered and incorporated in terms of the company laws of the Republic of South Africa, under registration number 2018/071381/07, hereinafter referred to as the 'Service Provider'; and  
+1.1.2. Client, shall mean the Client as recorded in the Proposal.  
+[CLAUSE_END]
+
+[CLAUSE_START: 2. DEFINITIONS AND INTERPRETATION]  
+2.1. The headings to the clauses and schedules of this MSA are for the purposes of convenience and reference only and shall not be used in the interpretation, modification or amplification of the terms of this MSA or any of its clauses.  
+2.2. In this MSA, unless the context indicates otherwise, the words and expressions set forth shall bear the following meanings :-  
+ 2.2.1. "Business Day" means any day other than a Saturday, Sunday or an official public holiday in terms of the Public Holidays Act, 1994, or as gazetted by the government of the Republic of South Africa;  
+ 2.2.2. "Client" means the Client as recorded in the Proposal;  
+ 2.2.3. "Effective Date" means the date of acceptance of this MSA by the Client, which shall be effected by the Client clicking that it accepts the conditions, and has read through and agreed to the MSA, which checkbox may be found at the "Terms and Conditions" link as appears on the Service Provider's website, alternatively and in the event that the Client requires that the MSA be customised in certain respects, then upon the date of the Party last signing the MSA;  
+ 2.2.4. "Go-Live Certificate" means the certificate that the Service Provider issues to the Client once the system goes live and upon such time that the Service Provider will begin to render invoices for payment to the Client for Services rendered in terms of this MSA;  
+ 2.2.5. "Go-Live Date" means the date upon which the Service Provider issues a Go-Live Certificate and upon that date the period will commence for the Services being rendered for the Term in terms of this MSA coupled with the Services Schedule(s);  
+ 2.2.6. "MSA" means this Master Services Agreement together with the Proposal and any number of Services Schedules, signed by, or otherwise agreed to by, the Parties;  
+ 2.2.7. "Party" shall mean either the Client or Service Provider as the context implies, and Parties shall mean both of them;  
+ 2.2.8. "Proposal" means the proposal to which the Services Schedules are attached or which the Services Schedules otherwise refer, agreed to simultaneously herewith, and which sets out, among other things, the exact nature of the Services required to be rendered, coupled with the cost in respect thereof;  
+ 2.2.9. "Service Provider" means LanDynamix (Pty) Ltd;  
+ 2.2.10. "Services" means those Services listed in the Services Schedule(s) read together with the Proposal to be rendered by the Service Provider to the Client;  
+ 2.2.11. "Services Schedule" means the schedules, one or more of which may apply, setting out the specifics of the Services to be rendered; and  
+ 2.2.12. "Term" means the duration of the MSA, being 24 (twenty four) months unless a Services Schedule(s) or the Proposal sets out otherwise, or same has been extended as set out in clause 6 below.  
+2.3. Words and expressions defined in any clause shall, unless the application of any such word or expression is specifically limited to that clause, bear the meaning assigned to such word or expression throughout the MSA.  
+2.4. The expiration or termination of this MSA shall not affect such of the provisions of this MSA as expressly provide that they will operate after any such expiration or termination or which of necessity must continue to have effect after such expiration or termination, notwithstanding that the clauses themselves do not expressly provide for this.  
+2.5. The words "include" and "including" mean "include without limitation" and "including without limitation". The use of the words "include" and "including" followed by a specific example or examples shall not be construed as limiting the meaning of the general wording preceding it.  
+2.6. The clause headings in this MSA have been inserted for reference purposes only and shall not affect the interpretation of any provision of this MSA.  
+2.7. Unless this MSA indicates to the contrary, any references to any gender includes the other gender, a natural person includes an artificial person and vice versa, the singular includes the plural and vice versa.  
+2.8. The contra proferentem rule, or rule of construction that this MSA shall be interpreted against the Party responsible for the drafting or preparation of this MSA, shall not apply.  
+2.9. When any number of days is prescribed in this MSA, same shall be reckoned exclusively of the first and inclusively of the last day, unless the last day falls on a day which is not a Business Day, in which case the last day shall be the next succeeding Business Day.  
+2.10. Where figures are referred to in numerals and in words, if there is any conflict between the two, the words shall prevail.  
+2.11. The expiration or termination of this MSA shall not affect such of the provisions of this MSA as expressly provide that they shall operate after such expiration or termination or which of necessity must continue to have effect after such expiration or termination, notwithstanding that the clauses themselves do not expressly provide for this.  
+2.12. To the extent that the same term has been defined with a different meaning in another applicable Services Schedule, the defined term shall carry the meaning in that Services Schedule only.  
+[CLAUSE_END]
+
+[CLAUSE_START: 3. HIERARCHY OF DOCUMENTS]  
+3.1. Should any conflicts arise in between this MSA, the Services Schedule(s) and the Proposal pertaining to their interpretation, the following hierarchy of interpretation shall apply:  
+3.1.1. Firstly, the Services Schedule(s), insofar as the conflict pertains to the subject matter of a specific Service;  
+3.1.2. Secondly, this MSA; and  
+3.1.3. Thirdly, the Proposal.  
+[CLAUSE_END]
+
+[CLAUSE_START: 4. RECORDAL]  
+4.1. It is recorded that :-  
+4.1.1. The Service Provider has the requisite skills, expertise and experience in the provision of the information technology requirements of the Client.  
+4.1.2. The Client hereby appoints the Service Provider with effect from the Effective Date to provide the Services to the Client upon the terms and conditions of this MSA.  
+4.1.3. The Service Provider hereby accepts such appointment upon the terms and conditions of this MSA.  
+[CLAUSE_END]
+
+[CLAUSE_START: 5. DURATION]  
+5.1. This MSA and the Services Schedule(s) shall be binding on the Parties from the Effective Date and for the Term unless otherwise terminated early in accordance with the terms of this MSA.  
+5.2. Notwithstanding its termination, or the termination of any number of Services Schedules, this MSA shall endure and be binding on the Parties until the termination of the Services comprising the last of the Services Schedule(s).  
+5.3. Notwithstanding the Effective Date, the Services listed in the Services Schedule(s) shall commence once the Service Provider has issued a Go-Live Certificate in respect of such Services.  
+[CLAUSE_END]
+
+[CLAUSE_START: 6. RENEWAL]  
+6.1. The Term pertaining to any one or more of the Service(s) Schedules, and by effect, this MSA, may be extended at any time prior to the termination of the respective Services Schedule(s) for a further period of 12 (twelve) months per each extension, by agreement in writing between the Parties.  
+6.2. Should the Client elect not to terminate the Agreement at the end of the initial 24 (twenty four) month Term, nor elect to renew in terms of clause 6.1 above, the MSA together with the appropriate Services Schedule(s) shall be deemed to continue in force and effect on a month to month basis, with either Party being able to terminate on 30 (thirty) days' written notice to the other Party unless a specific Service Schedule provides an alternative termination notice period.  
+[CLAUSE_END]
+
+[CLAUSE_START: 7. SERVICES]  
+7.1. The Services to be provided by the Service Provider to the Client are set out in the Services Schedule(s).  
+7.2. The Service Provider shall not be required to render Services until the Effective Date.  
+7.3. The Parties expressly record that each of the Services constitutes a separate and distinct Service, and nothing set out in this MSA shall be construed as obliging the Company to render all such Services as a single, indivisible Service.  
+[CLAUSE_END]
+
+[CLAUSE_START: 8. ADDITIONAL SERVICES]  
+8.1. The Client may, at any time prior to the termination of this MSA, request the Service Provider to render additional Services, at an additional cost, to be determined by the Service Provider, and subject to an additional Services Schedule(s) to be entered into.  
+8.2. The new Services shall as far as is practically possible, and unless otherwise indicated by the Service Provider in writing, be rendered only for the remainder of the Term.  
+8.3. In the event that the additional Services are to be rendered beyond the Term of this MSA, this MSA shall be deemed to have been extended for the period required for the additional Services. The extension will only apply in respect of the additional Services.  
+[CLAUSE_END]
+
+[CLAUSE_START: 9. FEES]  
+9.1. The fees and payments that the Client will pay to the Service Provider in consideration for the Services rendered hereunder are set out in the Proposal. All fees are exclusive of VAT. The fees, unless indicated in the appropriate Services Schedule, do not include call-out, delivery and installation charges, but includes travel expenses for local support Services in the Johannesburg area.  
+9.2. The Client shall be responsible for out of town costs such as air travel, accommodation and car hire, and these will be charged to the Client separately.  
+9.3. All fees shall be payable in advance upon receipt of a valid invoice, unless otherwise indicated in the Proposal or a Services Schedule(s). The Service Provider shall render an invoice on the 1st Business Day of each month, with the Client being required to make payment of the fees comprising the invoice within 30 (thirty) calendar days thereof.  
+9.4. The Client shall not be entitled to withhold payment where Services have been rendered.  
+9.5. All fees shall be paid by means of EFT into the nominated bank account of the Service Provider. Payment shall not be deemed to have been effected until the funds have been cleared and received into the Service Provider's bank account.  
+9.6. Any amount not paid by the Client to the Service Provider on due date shall bear interest at the prime lending rate charged by Nedbank Limited of South Africa to its most favoured private individual clients on unsecured overdraft basis from time to time, as certified by any branch manager of that bank whose authority it shall not be necessary to prove, calculated from due date to date of actual payment.  
+9.7. Any failure by the Client to pay the Service Provider timeously shall entitle the Service Provider, inter alia, to suspend the provision of all Services until such time as all arrears have been paid in full, including, without limitation, any interest due, provided that the withholding of such payment is not as a result of breach on the part of the Service Provider.  
+9.8. It is recorded that the fees will be increased annually on the anniversary of the signed and/or accepted month of this MSA each year. Written notice of such increase will be served on the Client one (1) month prior to the implementation of the increase. The Parties agree that only fee increases above 10% (ten percent) will be subject to negotiation.  
+9.9. Call-out, delivery and installation charges will be levied separately as and when the Services are required by the Client.  
+[CLAUSE_END]
+
+[CLAUSE_START: 10. ACQUISITION OF NEW EQUIPMENT AND SOFTWARE]  
+10.1. The Client may order new equipment and software from vendors through the Service Provider. The Service Provider will advise the Client about the different vendors of the equipment and software, but it will be the prerogative of the Client to choose a particular vendor.  
+10.2. Should the Client circumvent the Service Provider and/or purchase equipment and software directly from a supplier and not through the Service Provider, the Service Provider makes no guarantees as to the suitability or fitness for purposes of the equipment and/or software. Furthermore, the onus shall then be on the Client to ensure compliance with any warranties, and shall be responsible for any repairs thereof.  
+10.3. The Client shall inspect the equipment and software upon delivery, and ensure that same is in working order, at which point any payments will be made. The Service Provider shall be entitled to test such equipment and software, and to customise it to the specific requirements of the Client where requested by the Client to do so.  
+10.4. Orders will only be placed with the suppliers by the Service Provider once the Client approves the quotation from the Service Provider through the provided online portal as provided by the Service Provider.  
+10.5. The equipment and software shall be installed by the Service Provider at the Client's premises or such other premises as required by the Service Provider.  
+[CLAUSE_END]
+
+[CLAUSE_START: 11. INTELLECTUAL PROPERTY]  
+11.1. Neither Party shall be entitled nor have the right to use any intellectual property belonging to the other Party in any manner whatsoever unless specifically authorised in this MSA or in writing by the owner of such intellectual property and then only to the extent so authorised.  
+11.2. All intellectual property owned by a Party and all modifications made by that Party to the intellectual property owned by it shall at all times remain the sole property of that Party and neither Party shall acquire any rights, title or interest of any kind in any intellectual property owned by the other Party.  
+[CLAUSE_END]
+
+[CLAUSE_START: 12. NON-SOLICITATION OF THE SERVICE PROVIDER'S STAFF]  
+12.1. Neither Party shall solicit staff members, consultants or agents of the other Party, whether directly or indirectly at any time during such person's employment or engagement with the Service Provider or Client, as the case may be.  
+12.2. The Parties furthermore acknowledge that the undertaking referred to in 12.1 above, shall :-  
+ 12.2.1. be deemed to be a material term of this MSA, the breach of which term shall entitle the non-breaching Party to forthwith cancel this MSA and claim any damages it may have suffered as a result of the aforesaid breach;  
+ 12.2.2. be separate and divisible from all the other undertakings contained in this MSA;  
+ 12.2.3. not affect any of the other undertakings contained in the rest of this MSA, to the extent that the undertaking in 12.1 above is or becomes unenforceable; and  
+ 12.2.4. be deemed to be reasonable and necessary to protect the lawful interest of the Parties.  
+[CLAUSE_END]
+
+[CLAUSE_START: 13. TERMINATION]  
+13.1. The Service Provider shall be entitled to terminate this MSA by giving the Client one (1) month's written notice for any reason or no reason.  
+13.2. Should the Client elect to terminate this MSA, any Proposal or any of the Services Schedules during the Term, the Client shall be obliged to make payment to the Services Provider of all fees comprising the remainder of the Term immediately.  
+[CLAUSE_END]
+
+[CLAUSE_START: 14. BREACH]  
+14.1. In the event that one Party breaches any provision or term of this MSA, the other Party shall send a written notice requiring the Party in breach to rectify such breach within five (5) days of the date of the notice. If the Party in breach fails to rectify the breach within the aforesaid period, the other Party shall be entitled to cancel this MSA or claim specific performance and/or damages, in addition to any other remedy available to it in law or in terms of this MSA.  
+[CLAUSE_END]
+
+[CLAUSE_START: 15. FORCE MAJEURE]  
+15.1. Interrupting circumstances for the purposes of this MSA shall include, but not limited to vis major or force majeure or casus fortuitous, and circumstances that are not reasonably foreseeable.  
+15.2. If interrupting circumstances cause delays in or failure or partial failure of performance by a Party of all or any of its obligations, this MSA, or as the case may be, any portion thereof, shall be suspended for the period during which the interrupting circumstances prevail, but if they affect any material part of the MSA, it shall be suspended only for a maximum period of ninety (90) days after which any affected Party shall be entitled on thirty (30) days' written notice to cancel this MSA.  
+15.3. Written notice of the interrupting circumstances specifying their nature and date of commencement shall be dispatched by the Party seeking to rely on them as soon as reasonably possible after their commencement.  
+15.4. Written notice of the cessation of interrupting circumstances shall be given by the Party who relied on them, within five (5) days after such cessation.  
+[CLAUSE_END]
+
+[CLAUSE_START: 16. LIMITATION OF LIABILITY]  
+16.1. This clause applies to claims between the Parties.  
+16.2. Notwithstanding any other provisions contained in this MSA, neither Party nor its employees, directors, officers, agents, subcontractors, and suppliers shall be liable to the other party or its employees, directors, officers, agents, subcontractors and suppliers for any direct, indirect, incidental, consequential damages or loss, or for any lost profits, revenue, goodwill or savings arising out of this MSA.  
+16.3. The Service Provider's cumulative liability to the Client arising from this MSA shall be limited to the total fees payable by the Client to the Service Provider in the 12 (twelve) months preceding the breach under this MSA.  
+16.4. The provisions of this clause shall survive the termination or expiry of this MSA.  
+16.5. Nothing in this clause shall be construed as indemnifying either Party from any claims by third parties, nor shall it limit either Party's liability to third parties. There will be no limitation of liability arising from grossly negligent or intentional acts or omissions by either Party which are of a delictual nature.  
+[CLAUSE_END]
+
+[CLAUSE_START: 17. DISPUTE RESOLUTION]  
+17.1. Prior to the initiation of formal dispute resolution procedures, the Parties shall first attempt to resolve any dispute arising from this MSA informally and in good faith.  
+17.2. Upon written request of a Party, any dispute that arises between the Parties shall first be referred to the designated representatives. The designated representatives shall meet as often as the Parties may reasonably determine is necessary to gather and furnish information to the other with respect to the matter in issue which the Parties believe to be appropriate in connection with its resolution. The designated representatives shall discuss the problem and attempt to resolve dispute without the necessity of any formal proceeding. During the course of the discussion, all reasonable requests made by one Party to the other for information related to this MSA shall be honoured in order that each of the Parties may be fully advised of the other Party's position.  
+17.3. Formal proceedings for the resolution of the dispute shall not commence until the designated representatives have concluded that informal resolution of the dispute would not be achieved or ten (10) days has elapsed since the dispute was referred to designated representatives, whichever occurs first.  
+17.4. If the informal proceedings for the resolution of the dispute fail, the dispute shall be submitted to and decided by arbitration in terms of the arbitration legislation in force in the Republic of South Africa, by an arbitrator appointed by the Arbitration Foundation of South Africa.  
+17.5. The arbitration shall be held in Johannesburg.  
+17.6. The arbitrator's decision shall be binding upon the Parties.  
+[CLAUSE_END]
+
+[CLAUSE_START: 18. GENERAL]  
+18.1. No alteration, cancellation, variation or addition to this MSA shall be of force and effect unless reduced to writing and signed by the Parties to this MSA or their duly authorised representatives.  
+18.2. No latitude, extension of time or other indulgence which may be given, granted or allowed by any Party to any other Party in respect of the performance of any obligation in terms of this MSA, or the enforcement of any right arising from this MSA, shall be construed as an implied or tacit consent by such Party or operate as a waiver or novation of or otherwise affect any of the Parties' rights in terms of or arising from this MSA or stop such Party from enforcing, at any time  
+[CLAUSE_END]
+
+[CLAUSE_START: 19. DOMICILIUM CITANDI ET EXECUTANDI]  
+19.1. The Parties choose as their domicilia citandi et executandi for all purposes in terms of this MSA, whether in respect of court process, notices or other documents or communications of whatsoever nature, the following addresses :-  
+Service Provider  
+Unit B1, the Braids Office Park  
+113 Bowling Avenue  
+Gallo Manor, Sandton  
+Client  
+The addresses as recorded in the Proposal.  
+[CLAUSE_END]

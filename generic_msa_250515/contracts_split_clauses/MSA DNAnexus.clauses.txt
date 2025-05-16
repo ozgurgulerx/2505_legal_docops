@@ -1,0 +1,221 @@
+[CLAUSE_START: MASTER SUBSCRIPTION AGREEMENT]  
+DNAnexus  
+®  
+DNAnexus, Inc.  
+MASTER SUBSCRIPTION AGREEMENT  
+Customer Name  
+Effective Date  
+This Master Subscription Agreement ("Agreement") is entered into by and between DNAnexus, Inc. ("DNAnexus") and the customer  
+specified above ("Customer") and is effective as of the date specified above (the "Effective Date"). The Agreement consists of the terms  
+and conditions set forth below, any attachments or exhibits identified below and any Order Forms (as defined below) that reference this  
+Agreement.  
+This Agreement permits Customer to purchase online platform-as-a-service products and other services from DNAnexus pursuant to  
+mutually executed DNAnexus order forms referencing this Agreement ("Order Form(s)") and sets forth the basic terms and conditions  
+under which those products and services will be delivered. This Agreement shall govern Customer's initial purchase on the Effective Date as  
+well as any future purchases made by Customer that reference this Agreement.  
+[CLAUSE_END]
+
+[CLAUSE_START: OVERVIEW]  
+The DNAnexus Service is an online platform designed to enable Customer to manage, analyze and collaborate on its Customer Data.  
+Customer organizes its use of the Service through individual Projects to which it invites Users to participate in defined roles. The Service  
+includes features for Customer to Submit Customer Data and use Tools to analyze Customer Data. The Service also includes integrations  
+with External Platforms.  
+Accepted and agreed to as of the Effective Date by the authorized representative of each party:  
+CUSTOMER  
+Address  
+DNAnexus, Inc.  
+1975 West El Camino Real, Suite 204  
+Mountain View, CA 94040  
+Signature  
+Signature  
+Print Name  
+Print Name  
+Title  
+Title  
+Fax No .:  
+Email:  
+Primary Contact:  
+Fax No .:  
+Email:  
+Primary Contact:  
+[CLAUSE_END]
+
+[CLAUSE_START: 1. DEFINITIONS]  
+"Account" means Customer's account on the Service.  
+"Affiliate" means any entity under the control of Customer where "control" means ownership of or the right to control greater than 50% of  
+the voting securities of such entity.  
+"AUP" means DNAnexus' Acceptable Use Policy for MSA, available at https://www.dnanexus.com/terms/msa-acceptable-use-policy.  
+...  
+"Web UI" means DNAnexus' web-based user interface for accessing and administering the Service.  
+[CLAUSE_END]
+
+[CLAUSE_START: 2. DNANEXUS SERVICE]  
+2.1. Provision of Service. The Service is provided on a subscription basis for a set term designated on the Order Form (each, a  
+"Subscription Term"). DNAnexus may also offer Professional Services (as defined in Section 14) related to the Service. Customer shall  
+purchase and DNAnexus shall provide the specific Service and related Professional Services (if any) as specified in the applicable Order  
+Form.  
+2.2. Access to Service. Customer may access and use the Service solely for its own benefit and in accordance with the terms and  
+conditions of this Agreement, the Documentation and any scope of use restrictions designated in the applicable Order Form ("Scope of  
+Use").  
+...  
+2.7. Trial Subscriptions. If Customer receives a trial, proof of concept, evaluation, or other free subscription to the Service (a "Trial  
+Subscription"), then Customer may use the Service in accordance with the terms and conditions of this Agreement until Customer has used  
+all trial credits provided by DNAnexus or such other period granted by DNAnexus (the "Trial Period"). ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 3. PROJECTS]  
+3.1. Creation of Projects. Customer may create projects associated with Customer's Account (each, a "Project") and invite Users to  
+collaborate therein. A typical Project will contain (i) Customer Data and (ii) Tools.  
+3.2. Submitting Customer Materials. Customer may Submit Customer Materials to a Project using the upload features of the Service  
+or available integrations with External Platforms (as further set forth in Section 5 (External Platforms) below).  
+...  
+3.5. Third-Party Projects. Customer's Users may be invited by another customer of the Service to participate in Projects controlled by  
+such other customer (a "Third-Party Project"). ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 4. TOOLS]  
+4.1. Choice of Tools. Customer is solely responsible for determining which Tools to use with a Project and assessing the suitability of  
+Tools and their configuration for Customer's purposes. ...  
+4.2. Customer Tools. If Customer Submits Customer Tools for use with a Project, Customer must have the right to do so as described  
+in Section 6.1(b) (Responsibility for Customer Materials) below.  
+4.3. Library Tools. Customer may, in its sole discretion, elect to install and use Library Tools within a Project. ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 5. EXTERNAL PLATFORMS]  
+5.1. External Platform Accounts. The Service may support integrations with certain External Platforms. ...  
+5.2. No Responsibility for External Platforms. Customer acknowledges and agrees that DNAnexus is only responsible for providing  
+and operating the Service and not any External Platform. ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 6. CUSTOMER MATERIALS]  
+6.1. Customer Obligations.  
+a) In General. Customer shall ensure that Customer's use of the Service is at all times compliant with Customer's privacy policies  
+and all Laws.  
+b) Responsibility for Customer Materials. Customer is solely responsible for the accuracy, content and legality of all Customer  
+Materials ...  
+c) Private Health Information. Customer agrees not to Submit to the Service any Private Health Information unless (i) the Order  
+Form specifies the applicable Module and (ii) Customer has entered into a Business Associate Agreement ("BAA") with DNAnexus. ...  
+6.2. Backups of Customer Materials. Except for disaster recovery measures described in the Documentation, the Service does not  
+archive or backup Customer Materials. ...  
+6.3. Indemnification by Customer. Customer shall indemnify, defend and hold harmless DNAnexus from and against any and all  
+claims ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 7. SECURITY]  
+DNAnexus agrees to use commercially reasonable technical and organizational measures designed to prevent unauthorized access, use,  
+alteration or disclosure of the Service or Customer Data, as further described in Exhibit C (Security Policy and Procedures). However,  
+DNAnexus shall have no responsibility for errors in transmission, unauthorized third-party access or other causes beyond DNAnexus' control.  
+[CLAUSE_END]
+
+[CLAUSE_START: 8. OWNERSHIP]  
+8.1. Rights in Customer Materials. As between the parties, Customer shall retain all right, title and interest ...  
+8.2. DNAnexus Technology. This is a subscription agreement for access to use of the Service. ...  
+8.3. Feedback. Customer, from time to time, may submit comments, questions, suggestions or other feedback ...  
+8.4. Service Data. Notwithstanding anything to the contrary herein, Customer agrees that DNAnexus may obtain technical and other  
+data about Customer's use of the Service ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 9. SUBSCRIPTION TERM, FEES & PAYMENT]  
+9.1. Subscription Term and Renewals. Unless otherwise specified on the applicable Order Form, each Subscription Term shall  
+automatically renew ...  
+9.2. Fees and Payment. All fees are as set forth in the applicable Order Form and shall be paid by Customer within thirty (30) days of  
+invoice ...  
+9.3. Suspension of Service. Without limiting DNAnexus' termination or other rights hereunder, DNAnexus reserves the right with  
+notice ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 10. TERM AND TERMINATION]  
+10.1. Term. This Agreement is effective as of the Effective Date and expires on the date of expiration or termination of all Subscription  
+Terms.  
+10.2. Termination for Cause. Either party may terminate this Agreement ...  
+10.3. Effect of Termination. Upon any expiration or termination of this Agreement ...  
+10.4. Survival. The following Sections shall survive any expiration or termination of this Agreement: ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 11. LIMITED WARRANTY]  
+11.1. Limited Warranty. DNAnexus warrants, for Customer's benefit only, that the Service will operate in substantial conformity with  
+the applicable Documentation. ...  
+11.2. Warranty Disclaimer. (A) EXCEPT FOR THE LIMITED WARRANTY IN SECTION 11.1, THE SERVICE IS PROVIDED "AS IS". ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 12. AVAILABILITY AND SERVICE CREDITS]  
+The Service is subject to Exhibit B (Service Levels).  
+[CLAUSE_END]
+
+[CLAUSE_START: 13. SUPPORT]  
+During the Subscription Term of the Service, DNAnexus shall provide end user support in accordance with the terms set forth on Exhibit A  
+(Customer Support).  
+[CLAUSE_END]
+
+[CLAUSE_START: 14. PROFESSIONAL SERVICES]  
+DNAnexus shall provide the professional consulting services ("Professional Services") purchased in the applicable Order Form. ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 15. LIMITATION OF REMEDIES AND DAMAGES]  
+15.1. Consequential Damages Waiver. EXCEPT FOR EXCLUDED CLAIMS ...  
+15.2. Liability Cap. EXCEPT FOR EXCLUDED CLAIMS ...  
+15.3. Excluded Claims. "Excluded Claims" means any claim arising ...  
+15.4. Nature of Claims and Failure of Essential Purpose. The parties agree ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 16. INDEMNIFICATION]  
+DNAnexus shall defend Customer from and against any claim by a third party alleging the Service when used as authorized under this  
+Agreement infringes a U.S. patent, U.S. copyright, or U.S. trademark and shall indemnify and hold harmless Customer ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 18. CO-MARKETING]  
+At the request of DNAnexus, Customer agrees to the issuance of a joint press release ("Press Release") on a mutually agreed upon date or  
+the 90th day from the Effective Date, whichever is earlier. ...  
+[CLAUSE_END]
+
+[CLAUSE_START: 19. GENERAL TERMS]  
+19.1. Assignment. This Agreement will bind and inure to the benefit of each party's permitted successors and assigns. ...  
+19.2. Severability. If any provision of this Agreement shall be adjudged ...  
+19.3. Governing Law; Jurisdiction and Venue. This Agreement shall be governed by the laws of the State of California ...  
+19.4. Attorneys' Fees and Costs. The prevailing party in any action to enforce this Agreement ...  
+19.5. Notice. Any notice or communication required or permitted under this Agreement ...  
+19.6. Amendments; Waivers. No supplement, modification, or amendment of this Agreement ...  
+19.7. Order of Precedence. In case of conflict between any provisions of this Agreement ...  
+19.8. Entire Agreement. This Agreement is the complete and exclusive statement ...  
+19.9. Force Majeure. Neither party shall be liable to the other for any delay ...  
+19.10. Subcontractors. DNAnexus may use the services of subcontractors ...  
+19.11. Subpoenas. Nothing in this Agreement prevents DNAnexus from disclosing ...  
+19.12. Independent Contractors. The parties to this Agreement are independent contractors ...  
+19.14. Export Control. In its use of the Service, Customer agrees to comply with all export ...  
+19.15. Government End-Users. Elements of the Service are commercial computer software ...  
+19.16. Counterparts. This Agreement may be executed in counterparts ...  
+[CLAUSE_END]
+
+[CLAUSE_START: Exhibit A]  
+CUSTOMER SUPPORT  
+DNAnexus offers support services for the Service ("Support") in accordance with the following terms:  
+1. Support Hours. Support is provided 24/7/365.  
+2. Definitions.  
+2.1. "Incident" means an error or abnormal behavior of the Service.  
+2.2. "Platform Support Incident" means an Incident where the Service is responding ...  
+...  
+7. Additional Resources. DNAnexus shall provide Customer access to DNAnexus' Frequently Asked Questions and online documentation.  
+[CLAUSE_END]
+
+[CLAUSE_START: Exhibit B]  
+SERVICE LEVELS  
+1. Target Availability. DNAnexus will use commercially reasonable efforts to make the Service available with an uptime of at least 99.6% ...  
+2. Scheduled Availability Time. "Scheduled Availability Time" means twenty-four (24) hours a day ...  
+...  
+4. Service Credits. In the event that DNAnexus confirms ...  
+5. Exclusive Remedies. Service Credits constitute liquidated damages ...  
+[CLAUSE_END]
+
+[CLAUSE_START: Exhibit C]  
+DATA AND SECURITY POLICY  
+Introduction  
+At DNAnexus we take the protection of Customer Data extremely seriously. This Data and Security Policy ("Policy") describes ...  
+1. General Security Features of the DNAnexus Service  
+1.1. Industry standard virtual firewall and other security technologies.  
+...  
+9. Customer Responsibilities  
+9.1. Reports. Upon Customer's request ...  
+9.2. Compliance. Customer is responsible for complying ...  
+...  
+9.7. Security/Privacy Threats. Customer is responsible for promptly notifying ...  
+[CLAUSE_END]
